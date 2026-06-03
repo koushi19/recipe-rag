@@ -1,0 +1,70 @@
+import importlib.util
+import threading
+from pathlib import Path
+
+from flask import Flask, jsonify, render_template, request
+
+BASE_DIR = Path(__file__).resolve().parent
+BUILD_RAG_PATH = BASE_DIR.parent / "scripts" / "build-rag.py"
+
+
+def load_recipe_rag_class():
+    """Load RecipeRAG from build-rag.py."""
+    spec = importlib.util.spec_from_file_location("build_rag_module", BUILD_RAG_PATH)
+
+    module = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(module)
+
+    return module.RecipeRAG
+
+
+RecipeRAG = load_recipe_rag_class()
+
+app = Flask(__name__, template_folder="templates", static_folder="static")
+
+_rag = None
+_rag_lock = threading.Lock()
+
+
+def get_rag():
+    """Lazy-load the RecipeRAG instance to avoid slow startup and duplication."""
+    global _rag
+    if _rag is None:
+        with _rag_lock:
+            if _rag is None:
+                _rag = RecipeRAG(
+                    json_dir=str(BASE_DIR.parent / "data" / "swiggy_recipe_json"),
+                    db_dir=str(BASE_DIR.parent / "data" / "recipe_db_local"),
+                    llm_model="gemini-2.5-flash",
+                    retrieval_k=5,
+                )
+    return _rag
+
+@app.get("/")
+def index():
+    return render_template("index.html")
+
+
+@app.post("/api/chat")
+def chat():
+    payload = request.get_json(silent=True) or {}
+    question = str(payload.get("message", "")).strip()
+    image_b64 = payload.get("image")
+    history = payload.get("history", [])
+
+    if not question and not image_b64:
+        return jsonify({"error": "Message or image is required."}), 400
+
+    try:
+        print(f"\n--- INCOMING CHAT QUESTION ---\n{question}\n", flush=True)
+        response = get_rag().query(question=question, image_b64=image_b64, history=history)
+        answer = response.get("result", "No response returned.")
+        print(f"\n--- OUTGOING CHAT ANSWER ---\n{answer}\n----------------------------\n", flush=True)
+        return jsonify({"answer": answer})
+    except Exception as exc:
+        print(f"ERROR processing chat: {exc}", flush=True)
+        return jsonify({"error": f"Failed to process query: {exc}"}), 500
+
+
+if __name__ == "__main__":
+    app.run(host="0.0.0.0", port=8000)

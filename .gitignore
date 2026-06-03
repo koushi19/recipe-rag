@@ -1,0 +1,7 @@
+.venv/
+venv/
+data/
+__pycache__/
+slide.pdf
+.DS_Store
+gcp_credentials.json
