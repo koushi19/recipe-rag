@@ -1,0 +1,34 @@
+{
+    "name": "Chow Chow Bath",
+    "url": "https://indianfoodmap.example.com/chow-chow-bath",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Fine semolina (rava)",
+        "Fresh pineapple or banana",
+        "Ghee",
+        "Sugar",
+        "Saffron strands",
+        "Cashew nuts and raisins",
+        "Cardamom powder",
+        "Semolina (rava)",
+        "Mustard seeds",
+        "Urad dal",
+        "Chana dal",
+        "Green chilies",
+        "Ginger",
+        "Curry leaves",
+        "Mixed vegetables (carrots, beans, peas)",
+        "Turmeric powder",
+        "Asafoetida (hing)"
+    ],
+    "instructions": [
+        "1. For Kesari Bath: Roast semolina in ghee, add boiling water and sugar, simmer until thick, then stir in saffron, cardamom, nuts, and fruit.",
+        "2. For Khara Bath: Sauté mustard seeds, dals, curry leaves, ginger, chilies, and vegetables in ghee. Add water, turmeric, and asafoetida, bring to a boil, and mix in semolina, stirring until cooked and fluffy.",
+        "3. Serve both portions side-by-side on a plate, often garnished with a dollop of fresh ghee."
+    ],
+    "description": "Chow Chow Bath is a quintessential breakfast dish from Karnataka, representing a delightful contrast between spicy and sweet flavors. It is a staple at traditional weddings and 'Darshini' style restaurants, symbolizing the balance of flavors in South Indian cuisine.",
+    "state": "Karnataka",
+    "veg_or_non_veg": "Veg"
+}

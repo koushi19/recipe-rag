@@ -1,0 +1,27 @@
+{
+    "name": "Dharwad Peda",
+    "url": "https://indianfoodmap.example.com/dharwad-peda",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Full-fat buffalo milk",
+        "Sugar",
+        "Milk solids (Khoya/Mawa)",
+        "Bura sugar (coarse powdered sugar for coating)",
+        "Ghee",
+        "A pinch of cardamom powder"
+    ],
+    "instructions": [
+        "1. Boil the buffalo milk and reduce it to create fresh khoya.",
+        "2. In a heavy-bottomed pan, cook the khoya with ghee over low heat, stirring continuously.",
+        "3. Continue cooking until the mixture turns a dark, rich caramel-brown color.",
+        "4. Add sugar and cardamom powder to the mixture, stirring until fully incorporated and the mixture starts leaving the sides of the pan.",
+        "5. Allow the mixture to cool slightly, then knead it into a smooth dough.",
+        "6. Shape into small, round, flat discs (pedas).",
+        "7. Coat the finished pedas in bura sugar to give them their characteristic grainy exterior."
+    ],
+    "description": "Dharwad Peda is a legendary milk-based sweet originating from the city of Dharwad in Karnataka. Famous for its unique dark brown color and soft, caramelized texture, it has been produced for over 175 years and holds a Geographical Indication (GI) tag, signifying its deep cultural heritage and traditional method of preparation.",
+    "state": "Karnataka",
+    "veg_or_non_veg": "Veg"
+}

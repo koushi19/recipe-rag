@@ -1,0 +1,33 @@
+{
+    "name": "Thenthuk",
+    "url": "https://indianfoodmap.example.com/thenthuk",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Wheat flour",
+        "Water",
+        "Choice of meat (usually beef or mutton, or mixed vegetables)",
+        "Radish",
+        "Spinach or local leafy greens",
+        "Ginger",
+        "Garlic",
+        "Onions",
+        "Tomato",
+        "Green chilies",
+        "Sichuan pepper (Timur)",
+        "Salt",
+        "Vegetable oil"
+    ],
+    "instructions": [
+        "1. Knead flour with water to make a firm dough and let it rest.",
+        "2. Sauté chopped onions, ginger, garlic, and green chilies in oil.",
+        "3. Add meat (or vegetables) and cook until browned, then add tomatoes and spices.",
+        "4. Pour in water or stock and bring to a boil; add radish and cook until tender.",
+        "5. Take small pieces of dough, flatten them with your fingers, and drop them into the simmering soup.",
+        "6. Add leafy greens, season with salt and Sichuan pepper, and cook until the noodles are soft."
+    ],
+    "description": "Thenthuk is a traditional comfort food primarily associated with the Monpa and Tibetan communities of Arunachal Pradesh. It is a nutritious, warming noodle soup typically enjoyed during the cold winters in high-altitude regions.",
+    "state": "Arunachal Pradesh",
+    "veg_or_non_veg": "Non-Veg"
+}

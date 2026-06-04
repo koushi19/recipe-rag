@@ -1,0 +1,31 @@
+{
+    "name": "Ghal Phaley",
+    "url": "https://indianfoodmap.example.com/ghal-phaley",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Refined flour (maida)",
+        "Minced buffalo meat or pork",
+        "Finely chopped onions",
+        "Ginger-garlic paste",
+        "Green chilies",
+        "Coriander leaves",
+        "Soy sauce",
+        "Black pepper powder",
+        "Salt",
+        "Oil for deep frying",
+        "Warm water"
+    ],
+    "instructions": [
+        "1. Prepare the dough by kneading refined flour with water and a pinch of salt; let it rest for 30 minutes.",
+        "2. In a bowl, mix the minced meat with finely chopped onions, ginger-garlic paste, green chilies, coriander, soy sauce, and pepper.",
+        "3. Roll small portions of dough into flat circles.",
+        "4. Place a spoonful of the meat mixture in the center, fold the dough into a half-moon shape, and seal the edges tightly by twisting or pressing with a fork.",
+        "5. Heat oil in a deep pan and fry the Ghal Phaley on medium heat until golden brown and the meat is thoroughly cooked inside.",
+        "6. Serve hot with spicy tomato chutney or a bowl of clear soup."
+    ],
+    "description": "Ghal Phaley is a beloved snack in Sikkim with deep cultural roots in Tibetan cuisine. Often referred to as a Sikkimese meat pie, it is a staple comfort food frequently enjoyed at local eateries and street stalls, known for its crispy exterior and juicy, flavorful filling.",
+    "state": "Sikkim",
+    "veg_or_non_veg": "Non-Veg"
+}

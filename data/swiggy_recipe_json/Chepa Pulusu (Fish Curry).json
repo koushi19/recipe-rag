@@ -1,0 +1,35 @@
+{
+    "name": "Chepa Pulusu (Fish Curry)",
+    "url": "https://indianfoodmap.example.com/chepa-pulusu-(fish-curry)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g freshwater fish (cleaned and cut)",
+        "1 large lemon-sized ball of tamarind (soaked in warm water)",
+        "2 large onions (finely chopped)",
+        "2 green chilies (slit)",
+        "1 tablespoon ginger-garlic paste",
+        "1 teaspoon mustard seeds",
+        "1/2 teaspoon fenugreek seeds (methi)",
+        "1 sprig curry leaves",
+        "2 tablespoons red chili powder",
+        "1/2 teaspoon turmeric powder",
+        "1 teaspoon coriander powder",
+        "4 tablespoons sesame oil",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. Heat sesame oil in a clay pot or heavy-bottomed pan, add mustard seeds, fenugreek seeds, and curry leaves.",
+        "2. Add chopped onions and green chilies; sauté until the onions turn golden brown.",
+        "3. Stir in the ginger-garlic paste and sauté until the raw smell dissipates.",
+        "4. Add turmeric, red chili powder, and coriander powder; mix well with a splash of water to prevent burning.",
+        "5. Pour in the extracted tamarind pulp and bring the mixture to a boil until the oil separates.",
+        "6. Gently slide in the fish pieces, cover, and simmer for 10-12 minutes until the fish is cooked through.",
+        "7. Adjust salt, garnish with fresh coriander, and let it rest for 30 minutes before serving for the flavors to meld."
+    ],
+    "description": "Chepa Pulusu is a hallmark of Andhra coastal cuisine, known for its bold, spicy, and tangy flavor profile. It is traditionally cooked in earthen pots (manchi kunda) which enhances the earthy taste of the fish, and it is a staple served with steamed rice during family gatherings.",
+    "state": "Andhra Pradesh",
+    "veg_or_non_veg": "Non-Veg"
+}

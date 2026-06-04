@@ -1,0 +1,27 @@
+{
+    "name": "Phan-Tungtap",
+    "url": "https://indianfoodmap.example.com/phan-tungtap",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Potatoes (boiled and mashed)",
+        "Tungtap (fermented dried fish)",
+        "Onions (finely chopped)",
+        "Green chilies (finely chopped)",
+        "Ginger (finely grated)",
+        "Salt to taste",
+        "Fresh coriander leaves (garnish)"
+    ],
+    "instructions": [
+        "1. Roast the dried fermented fish (Tungtap) over an open flame or in a pan until crispy and fragrant.",
+        "2. In a mixing bowl, mash the boiled potatoes thoroughly.",
+        "3. Crush the roasted fish into small pieces or a coarse paste.",
+        "4. Add the chopped onions, green chilies, grated ginger, and salt to the mashed potatoes.",
+        "5. Combine the roasted fish with the potato mixture and mix well to ensure the flavors are distributed evenly.",
+        "6. Garnish with fresh coriander leaves and serve as a side dish with steamed rice."
+    ],
+    "description": "Phan-Tungtap is a signature dish of the Khasi community in Meghalaya. It highlights the local preference for fermented ingredients, specifically 'Tungtap', which is a pungent dried fish paste that provides a deep umami flavor to the otherwise simple mashed potato preparation.",
+    "state": "Meghalaya",
+    "veg_or_non_veg": "Non-Veg"
+}

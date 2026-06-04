@@ -1,0 +1,27 @@
+{
+    "name": "Zunka Bhakri",
+    "url": "https://indianfoodmap.example.com/zunka-bhakri",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup Besan (gram flour)",
+        "2 large onions, finely chopped",
+        "2 green chilies, slit",
+        "1/2 tsp mustard seeds",
+        "1/2 tsp cumin seeds",
+        "1/4 tsp turmeric powder",
+        "1/2 tsp red chili powder",
+        "1/4 tsp asafoetida (hing)",
+        "2 tbsp vegetable oil",
+        "Fresh coriander leaves, chopped",
+        "Salt to taste",
+        "Jowar (sorghum) flour for bhakri"
+    ],
+    "instructions": [
+        "1. Heat oil in a pan, add mustard seeds, cumin seeds, and asafoetida. 2. Sauté chopped onions and green chilies until the onions turn translucent and slightly golden. 3. Add turmeric, red chili powder, and salt. 4. Mix gram flour with a little water to form a smooth, lump-free batter. 5. Pour the batter into the onion mixture and cook on low heat, stirring continuously to prevent burning, until the flour is fully cooked. 6. Cover and steam for 5 minutes, then garnish with fresh coriander. 7. Serve hot with freshly made Jowar Bhakri."
+    ],
+    "description": "Zunka Bhakri is a quintessential Maharashtrian comfort food, deeply rooted in the rural farming culture of the state. Traditionally considered 'food for the common man', it is a nutritious and hearty combination of protein-rich gram flour and fiber-rich sorghum, reflecting the region's agricultural heritage.",
+    "state": "Maharashtra",
+    "veg_or_non_veg": "Veg"
+}

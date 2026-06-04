@@ -1,0 +1,20 @@
+{
+    "name": "Patra",
+    "url": "https://indianfoodmap.example.com/patra",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Colocasia leaves",
+        "Besan",
+        "Tamarind",
+        "Jaggery",
+        "Mustard seeds"
+    ],
+    "instructions": [
+        "1. Spread besan paste on leaves and roll. 2. Steam the rolls and slice. 3. Temper with mustard and sesame seeds."
+    ],
+    "description": "Taro leaves layered with spiced gram flour, rolled and steamed into savory spirals.",
+    "state": "Dadra & Nagar Haveli and Daman & Diu",
+    "veg_or_non_veg": "Veg"
+}

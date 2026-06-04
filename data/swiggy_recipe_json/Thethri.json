@@ -1,0 +1,28 @@
+{
+    "name": "Thethri",
+    "url": "https://indianfoodmap.example.com/thethri",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Besan (gram flour)",
+        "Rice flour",
+        "Ajwain (carom seeds)",
+        "Red chili powder",
+        "Turmeric powder",
+        "Salt",
+        "Oil (for deep frying)",
+        "Water"
+    ],
+    "instructions": [
+        "1. In a large mixing bowl, combine besan, rice flour, ajwain, red chili powder, turmeric, and salt.",
+        "2. Add a small amount of warm oil to the dry mix and gradually add water to knead into a firm, non-sticky dough.",
+        "3. Pinch off small portions of the dough and roll them into thin, cylindrical ropes.",
+        "4. Shape these ropes into small, intricate coils or twists.",
+        "5. Heat oil in a deep kadhai and fry the shaped dough pieces on medium-low heat until they turn golden brown and crispy.",
+        "6. Remove, drain excess oil on a paper towel, and store in an airtight container once completely cooled."
+    ],
+    "description": "Thethri is a popular traditional snack from Chhattisgarh, often prepared during festivals like Hareli. It is known for its distinct twisted shape and long shelf life, making it a staple tea-time accompaniment in many households.",
+    "state": "Chhattisgarh",
+    "veg_or_non_veg": "Veg"
+}

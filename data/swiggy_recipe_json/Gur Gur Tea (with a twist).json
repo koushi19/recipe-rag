@@ -1,0 +1,26 @@
+{
+    "name": "Gur Gur Tea (with a twist)",
+    "url": "https://indianfoodmap.example.com/gur-gur-tea-(with-a-twist)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups water",
+        "2 teaspoons high-quality brick tea leaves",
+        "1/2 teaspoon salt",
+        "1/4 cup yak butter (or unsalted butter)",
+        "1/2 cup fresh milk",
+        "1/4 teaspoon ground black pepper",
+        "1/4 teaspoon cardamom powder"
+    ],
+    "instructions": [
+        "1. Boil water in a pot and add the brick tea leaves, simmering until a strong dark decoction is formed.",
+        "2. Strain the tea liquid into a traditional churner or a blender.",
+        "3. Add the butter, salt, milk, black pepper, and cardamom powder to the tea.",
+        "4. Churn or blend vigorously for a few minutes until the mixture emulsifies and becomes frothy.",
+        "5. Heat gently on the stove (do not boil) and serve hot in traditional cups."
+    ],
+    "description": "Gur Gur Tea is a staple of high-altitude life in Ladakh, prized for keeping the body hydrated and warm in freezing temperatures. The 'twist' of adding black pepper and cardamom elevates the flavor profile, adding a modern aromatic dimension to this ancient, nourishing beverage.",
+    "state": "Ladakh",
+    "veg_or_non_veg": "Veg"
+}

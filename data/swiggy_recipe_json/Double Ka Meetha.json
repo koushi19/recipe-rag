@@ -1,0 +1,31 @@
+{
+    "name": "Double Ka Meetha",
+    "url": "https://indianfoodmap.example.com/double-ka-meetha",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Bread slices (day-old, edges trimmed)",
+        "Ghee",
+        "Full-fat milk",
+        "Sugar",
+        "Cardamom powder",
+        "Saffron strands (soaked in warm milk)",
+        "Cashew nuts",
+        "Raisins",
+        "Khoya (optional)",
+        "Rose water (optional)"
+    ],
+    "instructions": [
+        "1. Cut the bread slices into triangles or squares and deep-fry them in ghee until golden brown and crispy.",
+        "2. In a pan, boil milk with sugar and saffron until it reduces slightly and thickens.",
+        "3. Add cardamom powder to the milk mixture.",
+        "4. Arrange the fried bread pieces in a wide serving dish.",
+        "5. Pour the hot, sweetened saffron milk over the bread, allowing the slices to soak up the liquid.",
+        "6. Heat a small amount of ghee and fry the cashews and raisins until golden, then garnish the dish with them.",
+        "7. Let it rest for 15-20 minutes to allow the bread to soften and absorb the syrup before serving."
+    ],
+    "description": "Double Ka Meetha is an iconic Hyderabadi dessert, often referred to as 'Shahi Tukda' in other parts of India. The name 'Double' refers to the local term for bread (double roti). It is a staple at weddings, festivals like Eid, and celebratory feasts, representing the rich Nizami culinary heritage of Hyderabad, Telangana.",
+    "state": "Telangana",
+    "veg_or_non_veg": "Veg"
+}

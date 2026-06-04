@@ -1,0 +1,32 @@
+{
+    "name": "Pulihora (Tamarind Rice)",
+    "url": "https://indianfoodmap.example.com/pulihora-(tamarind-rice)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups cooked rice (preferably aged)",
+        "50g tamarind (soaked in warm water)",
+        "2 tbsp peanut oil or sesame oil",
+        "1 tsp mustard seeds",
+        "1 tsp chana dal",
+        "1 tsp urad dal",
+        "1/4 cup raw peanuts",
+        "4-5 dried red chilies",
+        "3-4 green chilies (slit)",
+        "1 sprig fresh curry leaves",
+        "1/2 tsp turmeric powder",
+        "1/4 tsp asafoetida (hing)",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Extract thick tamarind juice and boil it with turmeric, salt, and a little oil until it reduces to a thick paste.",
+        "2. In a pan, heat oil and temper mustard seeds, chana dal, urad dal, peanuts, dried red chilies, green chilies, curry leaves, and asafoetida.",
+        "3. Add the tamarind paste to the tempering and cook for a minute.",
+        "4. Spread the cooked rice on a wide plate and pour the tamarind mixture over it.",
+        "5. Mix thoroughly until the rice is evenly coated and let it rest for at least 30 minutes to allow flavors to absorb."
+    ],
+    "description": "Pulihora is a quintessential Andhra dish known for its vibrant yellow color and tangy flavor. It is a staple offering in temples (prasadam) and a classic comfort food, often packed for travel and special occasions due to its long shelf life.",
+    "state": "Andhra Pradesh",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Uttapam",
+    "url": "https://indianfoodmap.example.com/uttapam",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "3 cups parboiled rice",
+        "1 cup urad dal (split black gram)",
+        "1 tsp fenugreek seeds",
+        "Salt to taste",
+        "1 large onion, finely chopped",
+        "2 green chilies, finely chopped",
+        "1/2 cup finely chopped tomatoes",
+        "1/4 cup finely chopped cilantro",
+        "1/2 inch ginger, grated",
+        "Vegetable oil or ghee for cooking"
+    ],
+    "instructions": [
+        "1. Soak rice, dal, and fenugreek seeds for 5-6 hours, then grind to a smooth, thick batter.",
+        "2. Allow the batter to ferment in a warm place for 8-10 hours until it rises.",
+        "3. Stir in salt to the fermented batter.",
+        "4. Heat a non-stick or cast-iron griddle (tava) and pour a ladleful of batter without spreading it too thin.",
+        "5. Sprinkle chopped onions, tomatoes, green chilies, ginger, and cilantro over the surface and press them gently into the batter.",
+        "6. Drizzle oil or ghee around the edges and cook on medium heat until the base is golden brown.",
+        "7. Flip carefully and cook for another minute until the vegetables are tender, then serve hot with coconut chutney and sambar."
+    ],
+    "description": "Uttapam is a traditional South Indian breakfast staple often described as a thick, vegetable-topped savory pancake. Unlike the crispy paper-thin Dosa, the Uttapam highlights a softer, pillowy texture that makes it a beloved comfort food, frequently served in Tamil households as a wholesome start to the day.",
+    "state": "Tamil Nadu",
+    "veg_or_non_veg": "Veg"
+}

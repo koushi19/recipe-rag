@@ -1,0 +1,36 @@
+{
+    "name": "Prawn Patia",
+    "url": "https://indianfoodmap.example.com/prawn-patia",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g fresh prawns",
+        "2 onions finely chopped",
+        "3 tomatoes pureed",
+        "1 tbsp ginger-garlic paste",
+        "1 tbsp jaggery",
+        "1 tbsp tamarind pulp",
+        "1 tsp turmeric powder",
+        "1 tsp red chili powder",
+        "1 tsp cumin powder",
+        "1 tsp coriander powder",
+        "1/2 tsp garam masala",
+        "3 tbsp vegetable oil",
+        "Fresh coriander leaves for garnish",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Clean and devein the prawns, then marinate with a pinch of turmeric and salt for 10 minutes.",
+        "2. Heat oil in a pan and sauté the onions until golden brown.",
+        "3. Add ginger-garlic paste and cook until the raw smell disappears.",
+        "4. Stir in the tomato puree, red chili powder, cumin, and coriander powder, cooking until the oil separates.",
+        "5. Add the marinated prawns and cook for 3-4 minutes until they turn pink.",
+        "6. Incorporate the tamarind pulp and jaggery to balance the tartness and sweetness.",
+        "7. Simmer for another 2-3 minutes until the gravy thickens to a rich consistency.",
+        "8. Sprinkle with garam masala and garnish with fresh coriander before serving."
+    ],
+    "description": "Prawn Patia is a hallmark dish of the coastal regions of Daman. Influenced by the Parsi community that settled along the western coast, this dish is a culinary representation of the fusion between local seafood and traditional flavor balancing techniques, often served during celebratory occasions.",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "veg_or_non_veg": "Non-Veg"
+}

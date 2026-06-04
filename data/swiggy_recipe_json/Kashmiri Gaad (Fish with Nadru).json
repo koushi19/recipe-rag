@@ -1,0 +1,35 @@
+{
+    "name": "Kashmiri Gaad (Fish with Nadru)",
+    "url": "https://indianfoodmap.example.com/kashmiri-gaad-(fish-with-nadru)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g freshwater fish (typically Rohu or Carp)",
+        "250g Nadru (lotus stems), cleaned and sliced into rounds",
+        "2 tablespoons mustard oil",
+        "1 teaspoon fennel powder (saunf)",
+        "1 teaspoon dry ginger powder (sonth)",
+        "1/2 teaspoon turmeric powder",
+        "1 tablespoon Kashmiri red chili powder",
+        "2 black cardamoms",
+        "1 stick cinnamon",
+        "3-4 cloves",
+        "1/2 teaspoon asafoetida (hing)",
+        "Salt to taste",
+        "Water as required"
+    ],
+    "instructions": [
+        "1. Clean the fish, rub with a little salt and turmeric, and shallow fry in mustard oil until golden; set aside.",
+        "2. In the same oil, add the whole spices (cardamom, cinnamon, cloves) and hing.",
+        "3. Add the sliced lotus stems (nadru) and sauté for 5 minutes.",
+        "4. Whisk the fennel powder, ginger powder, and Kashmiri chili powder with a little water to create a paste and add to the pot.",
+        "5. Pour in 2 cups of water and bring to a boil; let the nadru cook until tender.",
+        "6. Gently add the fried fish pieces to the gravy.",
+        "7. Simmer on low heat for 10-15 minutes until the gravy thickens and the flavors are well infused.",
+        "8. Serve hot with steamed Kashmiri rice."
+    ],
+    "description": "Kashmiri Gaad is a signature festive dish from the Kashmir Valley, showcasing the harmonious combination of freshwater fish and the indigenous lotus stem (nadru). It is frequently prepared during traditional Kashmiri celebrations and highlights the region's unique use of dry ginger and fennel in creating deep, warming flavor profiles.",
+    "state": "Jammu and Kashmir",
+    "veg_or_non_veg": "Non-Veg"
+}

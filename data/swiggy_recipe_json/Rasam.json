@@ -1,0 +1,34 @@
+{
+    "name": "Rasam",
+    "url": "https://indianfoodmap.example.com/rasam",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Tamarind paste",
+        "Ripe tomatoes",
+        "Toor dal (cooked and mashed)",
+        "Black peppercorns",
+        "Cumin seeds",
+        "Garlic cloves",
+        "Dried red chilies",
+        "Curry leaves",
+        "Mustard seeds",
+        "Asafoetida (hing)",
+        "Turmeric powder",
+        "Fresh coriander leaves",
+        "Ghee"
+    ],
+    "instructions": [
+        "1. Soak tamarind in water and extract the juice; set aside.",
+        "2. Crush peppercorns, cumin seeds, and garlic into a coarse paste.",
+        "3. In a pot, combine tamarind water, chopped tomatoes, turmeric, salt, and curry leaves; boil until the raw smell of tamarind vanishes.",
+        "4. Add the mashed cooked dal and the crushed spice paste to the pot.",
+        "5. Bring to a light boil until frothy; do not overboil.",
+        "6. In a separate small pan, heat ghee, add mustard seeds, dried red chilies, and asafoetida to temper.",
+        "7. Pour the tempering over the rasam and garnish with fresh coriander leaves."
+    ],
+    "description": "Rasam is a quintessential staple in Tamil households, traditionally served as a digestive aid after a meal or consumed with steamed rice. It is celebrated for its therapeutic properties, often used as a home remedy for colds and coughs due to the heat of the black pepper and the medicinal qualities of spices.",
+    "state": "Tamil Nadu",
+    "veg_or_non_veg": "Veg"
+}

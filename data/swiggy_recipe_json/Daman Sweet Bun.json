@@ -1,0 +1,29 @@
+{
+    "name": "Daman Sweet Bun",
+    "url": "https://indianfoodmap.example.com/daman-sweet-bun",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups all-purpose flour",
+        "1/2 cup granulated sugar",
+        "1/4 cup ghee or butter",
+        "1/2 cup warm milk",
+        "1 teaspoon dry yeast",
+        "1/4 teaspoon cardamom powder",
+        "A pinch of salt",
+        "Oil for deep frying"
+    ],
+    "instructions": [
+        "1. Dissolve sugar and yeast in warm milk and let it sit for 10 minutes until frothy.",
+        "2. In a large bowl, mix flour, salt, and cardamom powder.",
+        "3. Add the yeast mixture and ghee to the flour and knead into a soft, smooth dough.",
+        "4. Cover the dough and let it proof in a warm place for 1-2 hours until doubled in size.",
+        "5. Punch down the dough and divide into small equal-sized balls.",
+        "6. Heat oil in a deep pan and fry the balls on medium heat until they turn golden brown and puffy on both sides.",
+        "7. Drain on paper towels and serve warm."
+    ],
+    "description": "The Daman Sweet Bun is a popular breakfast or tea-time delicacy in the coastal region of Daman. Influenced by local tastes and perhaps historical colonial culinary exchanges, these buns are prized for their simple, comforting sweetness and fluffy texture, often enjoyed with hot tea.",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "veg_or_non_veg": "Veg"
+}

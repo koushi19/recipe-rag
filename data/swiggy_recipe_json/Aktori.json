@@ -1,0 +1,26 @@
+{
+    "name": "Aktori",
+    "url": "https://indianfoodmap.example.com/aktori",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Buckwheat flour (Kuttu ka atta)",
+        "Wheat flour",
+        "Milk",
+        "Sugar or Jaggery",
+        "Ghee or clarified butter",
+        "Water"
+    ],
+    "instructions": [
+        "1. In a mixing bowl, combine buckwheat flour and wheat flour in the required ratio.",
+        "2. Add milk and sugar/jaggery gradually to the flour mix to form a smooth, thick batter without lumps.",
+        "3. Heat a flat griddle (tawa) over medium heat and grease it with a little ghee.",
+        "4. Pour a ladleful of the batter onto the griddle and spread it slightly into a round shape.",
+        "5. Cook on both sides, adding a small amount of ghee around the edges until the pancake is firm and golden brown.",
+        "6. Serve hot, traditionally paired with honey or extra ghee."
+    ],
+    "description": "Aktori is a festive dish originating from the Spiti Valley in Himachal Pradesh. It is a celebratory cake or pancake made primarily from buckwheat, which is a staple crop in the high-altitude regions of the state. It is traditionally prepared during local festivals and special occasions.",
+    "state": "Himachal Pradesh",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Pigeon Meat Curry (Paror Mangxo)",
+    "url": "https://indianfoodmap.example.com/pigeon-meat-curry-(paror-mangxo)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g pigeon meat, cleaned and cut into pieces",
+        "1 cup black chickpeas (kala chana), soaked overnight",
+        "2 large onions, finely chopped",
+        "2 tablespoons ginger-garlic paste",
+        "2 green chilies, slit",
+        "1 teaspoon turmeric powder",
+        "1 teaspoon cumin powder",
+        "1 teaspoon coriander powder",
+        "1 teaspoon garam masala",
+        "2 dry bay leaves",
+        "3 tablespoons mustard oil",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. Heat mustard oil in a heavy-bottomed pan or pressure cooker until smoking, then add bay leaves.",
+        "2. Sauté the onions until golden brown, then add the ginger-garlic paste and green chilies.",
+        "3. Add the pigeon meat and sear until it changes color, then stir in the turmeric, cumin, and coriander powders.",
+        "4. Add the soaked black chickpeas and salt, sautéing for 5-7 minutes.",
+        "5. Pour in enough water to cover the ingredients, cover, and pressure cook until the meat and chickpeas are tender.",
+        "6. Finish by sprinkling garam masala and garnishing with fresh coriander leaves before serving hot with steamed rice."
+    ],
+    "description": "Paror Mangxo is a traditional Assamese delicacy often prepared during special occasions and winter months. The dish is valued for its unique gamey flavor and is considered a 'warm' food in traditional medicine, often served to boost stamina and health.",
+    "state": "Assam",
+    "veg_or_non_veg": "Non-Veg"
+}

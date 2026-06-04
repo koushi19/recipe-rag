@@ -1,0 +1,30 @@
+{
+    "name": "Puma-Loi",
+    "url": "https://indianfoodmap.example.com/puma-loi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Fresh fish (typically small river fish)",
+        "Bamboo shoots (fermented or fresh)",
+        "Green chilies",
+        "Ginger paste",
+        "Garlic",
+        "Onion",
+        "Mustard oil",
+        "Salt to taste",
+        "Banana leaves (for wrapping)"
+    ],
+    "instructions": [
+        "1. Clean the small fish thoroughly and pat dry.",
+        "2. In a bowl, mix the fish with sliced onions, ginger-garlic paste, slit green chilies, bamboo shoots, and a dash of mustard oil.",
+        "3. Take a cleaned banana leaf and place a portion of the marinated fish mixture in the center.",
+        "4. Fold the leaf carefully to form a tight parcel and secure it with a toothpick or string.",
+        "5. Heat a tawa or pan over medium flame and place the parcels on it.",
+        "6. Grill on each side for about 8-10 minutes until the fish is cooked through and the banana leaf is charred.",
+        "7. Serve hot, traditionally paired with red rice."
+    ],
+    "description": "Puma-Loi is a staple of Khasi cuisine, reflecting the indigenous cooking style of Meghalaya that utilizes banana leaves to steam-roast ingredients. It is cherished for its rustic, smoky flavor and the deep umami notes provided by fermented bamboo shoots.",
+    "state": "Meghalaya",
+    "veg_or_non_veg": "Non-Veg"
+}

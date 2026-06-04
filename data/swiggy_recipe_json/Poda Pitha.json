@@ -1,0 +1,28 @@
+{
+    "name": "Poda Pitha",
+    "url": "https://indianfoodmap.example.com/poda-pitha",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Parboiled rice",
+        "Urad dal (black gram)",
+        "Jaggery",
+        "Grated coconut",
+        "Cardamom powder",
+        "Black pepper powder",
+        "Ghee",
+        "Salt"
+    ],
+    "instructions": [
+        "1. Soak rice and urad dal for 4-6 hours, then grind into a coarse batter and allow it to ferment overnight.",
+        "2. Mix in grated coconut, jaggery, cardamom powder, a pinch of salt, and black pepper.",
+        "3. Grease an earthen pot or deep heavy-bottomed pan with ghee and line it with sal leaves.",
+        "4. Pour the batter into the vessel and cover it tightly.",
+        "5. Bake on a very low flame or over hot coals for 45-60 minutes until the edges are crispy and brown and a toothpick comes out clean.",
+        "6. Let it cool before unmolding and slicing."
+    ],
+    "description": "While Poda Pitha is synonymous with Odia culture, it is also prepared by indigenous communities in Tripura with local variations. It is a celebratory dish typically prepared during festivals like Raja Parba or community gatherings, symbolizing traditional slow-cooking techniques and communal harvest celebrations.",
+    "state": "Tripura",
+    "veg_or_non_veg": "Veg"
+}

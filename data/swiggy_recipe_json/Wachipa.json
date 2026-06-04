@@ -1,0 +1,24 @@
+{
+    "name": "Wachipa",
+    "url": "https://indianfoodmap.example.com/wachipa",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Sticky rice (local Himalayan rice)",
+        "Chicken or pork meat",
+        "Burnt chicken/pork feathers (for charred flavor)",
+        "Phak-si (local edible fern or greens)",
+        "Jimbu (dried Himalayan herb)",
+        "Ginger",
+        "Garlic",
+        "Green chilies",
+        "Salt"
+    ],
+    "instructions": [
+        "1. Singe the feathers of the chicken or pork over an open flame until charred and aromatic, then wash thoroughly. 2. Boil the meat with the charred feathers to infuse the broth with a smoky, bitter flavor. 3. Add ginger, garlic, green chilies, and salt to the boiling broth. 4. Incorporate the sticky rice into the pot and simmer until the water is absorbed and the rice is perfectly cooked. 5. Garnish with local herbs like Jimbu or wild greens before serving hot."
+    ],
+    "description": "Wachipa is a signature dish of the Kirat Rai community in Sikkim. It is culturally significant as it is often prepared during festivals like Sakela, symbolizing the community's deep connection to nature and traditional foraging practices.",
+    "state": "Sikkim",
+    "veg_or_non_veg": "Non-Veg"
+}

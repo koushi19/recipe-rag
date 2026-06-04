@@ -1,0 +1,28 @@
+{
+    "name": "Kalakand (Alwar Style)",
+    "url": "https://indianfoodmap.example.com/kalakand-(alwar-style)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 liters full-fat buffalo milk",
+        "200g paneer (freshly crumbled)",
+        "150g sugar",
+        "1/2 tsp green cardamom powder",
+        "1 tbsp lemon juice (for curdling)",
+        "Silver vark (edible silver foil) for garnish",
+        "Chopped pistachios and almonds for garnish"
+    ],
+    "instructions": [
+        "1. Bring the milk to a boil in a heavy-bottomed kadhai (wok) and reduce it by half over medium heat, stirring continuously to prevent burning.",
+        "2. Add lemon juice to a small portion of the milk to create soft grains, then add this back into the main pot.",
+        "3. Add the crumbled paneer to the boiling milk and continue to cook until the mixture thickens significantly.",
+        "4. Incorporate the sugar and continue stirring as the mixture releases fat and turns a light golden-brown color.",
+        "5. Once the mixture starts to leave the sides of the kadhai, stir in the cardamom powder.",
+        "6. Spread the mixture onto a greased tray, leveling it to about an inch thick.",
+        "7. Allow it to set for 4-5 hours, then garnish with silver vark and nuts before cutting into squares."
+    ],
+    "description": "Alwar-style Kalakand is an iconic Rajasthani dessert originating from the town of Alwar. Unlike standard milk cakes, it is celebrated for its signature grainy texture and rich, nutty flavor profile, often prepared in large iron cauldrons through hours of patient reduction.",
+    "state": "Rajasthan",
+    "veg_or_non_veg": "Veg"
+}

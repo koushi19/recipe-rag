@@ -1,0 +1,31 @@
+{
+    "name": "Singju",
+    "url": "https://indianfoodmap.example.com/singju",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Lotus stem (Thangjing)",
+        "Banana stem",
+        "Young pea shoots",
+        "Perilla seeds (Til/Mang-gairel)",
+        "Fermented fish (Ngari)",
+        "Fresh green chilies",
+        "Ginger",
+        "Chives (Maroi)",
+        "Coriander leaves",
+        "Salt",
+        "Roasted chickpea flour (Besan)"
+    ],
+    "instructions": [
+        "1. Finely slice the lotus stem, banana stem, and other seasonal vegetables.",
+        "2. Dry roast the perilla seeds until aromatic and grind them into a coarse powder.",
+        "3. Mash the fermented fish (ngari) with fresh green chilies, ginger, and salt to create a spicy paste.",
+        "4. Combine the sliced vegetables, perilla powder, and the ngari paste in a large mixing bowl.",
+        "5. Add a dash of roasted chickpea flour for texture and garnish with fresh chives and coriander.",
+        "6. Toss well by hand to ensure all ingredients are coated evenly before serving immediately."
+    ],
+    "description": "Singju is a quintessential Manipuri street food salad. It is deeply embedded in the social fabric of the state, often enjoyed as a refreshing snack during afternoon gatherings. While vegetarian versions exist, the authentic traditional preparation incorporates fermented fish (ngari), which gives the dish its signature bold and pungent umami flavor profile.",
+    "state": "Manipur",
+    "veg_or_non_veg": "Non-Veg"
+}

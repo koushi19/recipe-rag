@@ -1,0 +1,32 @@
+{
+    "name": "Pathar Ka Gosht",
+    "url": "https://indianfoodmap.example.com/pathar-ka-gosht",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g lamb (thinly sliced)",
+        "2 tbsp raw papaya paste",
+        "1 tbsp ginger-garlic paste",
+        "1 tsp red chili powder",
+        "1/2 tsp turmeric powder",
+        "1 tsp roasted cumin powder",
+        "1 tsp garam masala",
+        "2 tbsp curd",
+        "1 tbsp lemon juice",
+        "2 tbsp oil or ghee",
+        "Salt to taste",
+        "Coal for smoking"
+    ],
+    "instructions": [
+        "1. Marinate the thinly sliced lamb with raw papaya paste, ginger-garlic paste, spices, curd, and lemon juice for at least 4-6 hours.",
+        "2. Heat a clean, flat stone slab (pathar) over a charcoal fire until it is extremely hot.",
+        "3. Brush the stone with oil or ghee.",
+        "4. Arrange the marinated meat slices on the hot stone in a single layer.",
+        "5. Cook the meat, flipping occasionally, until it turns tender, dark brown, and develops a smoky char.",
+        "6. Remove from the stone, garnish with onions and cilantro, and serve hot with chutney."
+    ],
+    "description": "Originating from the royal kitchens of the Nizams in Hyderabad, Pathar Ka Gosht is a unique culinary heritage where meat is cooked on a heated granite stone. This method infuses the lamb with an earthy, smoky aroma that cannot be replicated by modern stovetop methods, representing the intersection of ancient cooking techniques and refined Hyderabadi gastronomy.",
+    "state": "Telangana",
+    "veg_or_non_veg": "Non-Veg"
+}

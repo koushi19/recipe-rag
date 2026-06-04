@@ -1,0 +1,34 @@
+{
+    "name": "Tamatar ki Chutney",
+    "url": "https://indianfoodmap.example.com/tamatar-ki-chutney",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g ripe red tomatoes (finely chopped)",
+        "2 tablespoons mustard oil",
+        "1 teaspoon cumin seeds",
+        "1/2 teaspoon mustard seeds",
+        "1/4 teaspoon asafoetida (hing)",
+        "2-3 dry red chilies",
+        "1 tablespoon ginger-garlic paste",
+        "1/2 teaspoon turmeric powder",
+        "1 teaspoon coriander powder",
+        "1/2 teaspoon red chili powder",
+        "1 tablespoon jaggery (gud) or sugar",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. Heat mustard oil in a heavy-bottomed pan until it smokes slightly, then lower the heat.",
+        "2. Add cumin seeds, mustard seeds, and dry red chilies. Once they splutter, add asafoetida.",
+        "3. Add ginger-garlic paste and sauté until the raw smell disappears.",
+        "4. Add chopped tomatoes, salt, turmeric, coriander powder, and red chili powder.",
+        "5. Cook on medium heat until the tomatoes turn soft and pulpy, mashing them with the back of a spoon.",
+        "6. Add jaggery or sugar to balance the acidity and continue cooking until the oil starts to separate.",
+        "7. Garnish with fresh coriander leaves and serve warm or at room temperature."
+    ],
+    "description": "Tamatar ki Chutney is a quintessential Haryanvi accompaniment served with everyday meals like roti, paratha, or bajra khichdi. It reflects the region's love for simple, robust flavors and is often prepared during the winter harvest when tomatoes are abundant and flavorful.",
+    "state": "Haryana",
+    "veg_or_non_veg": "Veg"
+}

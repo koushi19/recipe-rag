@@ -1,0 +1,35 @@
+{
+    "name": "Bread Pakora",
+    "url": "https://indianfoodmap.example.com/bread-pakora",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "White bread slices",
+        "Boiled potatoes",
+        "Gram flour (besan)",
+        "Ginger-garlic paste",
+        "Green chilies",
+        "Red chili powder",
+        "Turmeric powder",
+        "Cumin seeds",
+        "Carom seeds (ajwain)",
+        "Amchur (dry mango powder)",
+        "Fresh coriander leaves",
+        "Salt",
+        "Vegetable oil for frying",
+        "Water"
+    ],
+    "instructions": [
+        "1. Mash the boiled potatoes and mix with ginger-garlic paste, green chilies, amchur, chili powder, and coriander to create the filling.",
+        "2. Spread the potato mixture between two bread slices and cut them into triangles or rectangles.",
+        "3. Prepare a thick batter using gram flour, turmeric, carom seeds, salt, and water.",
+        "4. Heat oil in a deep pan or kadhai.",
+        "5. Dip the stuffed bread pieces into the batter until fully coated.",
+        "6. Carefully slide the bread into the hot oil and deep-fry on medium heat until crispy and golden brown on both sides.",
+        "7. Drain excess oil on paper towels and serve hot with mint chutney or tamarind sauce."
+    ],
+    "description": "Bread Pakora is an iconic snack found at almost every street corner in Delhi, especially during the monsoon season. It is a quintessential comfort food served by 'thelawalas' and roadside stalls, reflecting the vibrant and indulgent street food culture of the capital.",
+    "state": "Delhi",
+    "veg_or_non_veg": "Veg"
+}

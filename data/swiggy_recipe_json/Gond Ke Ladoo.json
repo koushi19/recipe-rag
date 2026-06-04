@@ -1,0 +1,31 @@
+{
+    "name": "Gond Ke Ladoo",
+    "url": "https://indianfoodmap.example.com/gond-ke-ladoo",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Edible gum (Gond crystals)",
+        "Whole wheat flour (Atta)",
+        "Ghee (Clarified butter)",
+        "Jaggery (Gur) or powdered sugar",
+        "Dry coconut (grated)",
+        "Almonds (chopped)",
+        "Cashews (chopped)",
+        "Dry ginger powder (Saunth)",
+        "Edible melon seeds (Magajtari)",
+        "Green cardamom powder",
+        "Nutmeg powder"
+    ],
+    "instructions": [
+        "1. Heat ghee in a heavy-bottomed pan and fry the edible gum (gond) until it puffs up; remove and crush coarsely.",
+        "2. In the same ghee, roast the wheat flour on low heat until it turns golden brown and aromatic.",
+        "3. Add dry ginger powder, melon seeds, and chopped nuts to the flour and roast for a few more minutes.",
+        "4. Add the crushed fried gond to the mixture and mix well.",
+        "5. Melt jaggery with a tablespoon of ghee in a separate pan until it reaches a syrup-like consistency and pour over the dry mixture.",
+        "6. While the mixture is still warm, take small portions and shape them into round laddus using your palms."
+    ],
+    "description": "Gond Ke Ladoo is a traditional Rajasthani delicacy primarily prepared during winters. It is renowned for its health benefits, particularly in keeping the body warm and providing strength to joints. It is a staple food for new mothers and is deeply rooted in the cultural traditions of Rajasthan as a nourishing energy booster.",
+    "state": "Rajasthan",
+    "veg_or_non_veg": "Veg"
+}

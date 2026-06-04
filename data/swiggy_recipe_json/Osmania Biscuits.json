@@ -1,0 +1,29 @@
+{
+    "name": "Osmania Biscuits",
+    "url": "https://indianfoodmap.example.com/osmania-biscuits",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "All-purpose flour (Maida)",
+        "Unsalted butter (room temperature)",
+        "Powdered sugar",
+        "Milk powder",
+        "Custard powder",
+        "A pinch of salt",
+        "Milk (as required for binding)",
+        "Cardamom powder"
+    ],
+    "instructions": [
+        "1. Cream the butter and powdered sugar together until light and fluffy.",
+        "2. Sift the flour, milk powder, custard powder, and salt together.",
+        "3. Gently fold the dry ingredients into the creamed butter mixture.",
+        "4. Add a small amount of milk to form a soft, smooth dough; do not over-knead.",
+        "5. Shape the dough into small, thick discs.",
+        "6. Place the biscuits on a baking tray and bake in a preheated oven at 170°C for 15–20 minutes until golden brown.",
+        "7. Cool completely on a wire rack to achieve the desired crisp texture."
+    ],
+    "description": "Named after the last Nizam of Hyderabad, Mir Osman Ali Khan, these biscuits are an iconic staple of Hyderabad's legendary Irani café culture. They are known for their signature melt-in-the-mouth texture and a unique subtle saltiness that complements the strong, sweet taste of Irani chai.",
+    "state": "Telangana",
+    "veg_or_non_veg": "Veg"
+}

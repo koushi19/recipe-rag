@@ -1,0 +1,24 @@
+{
+    "name": "Baadi",
+    "url": "https://indianfoodmap.example.com/baadi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Buckwheat flour (Kuttu ka atta)",
+        "Water",
+        "Ghee",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Boil about 2-3 cups of water in a deep heavy-bottomed pan.",
+        "2. Once the water starts boiling, add salt.",
+        "3. Gradually sprinkle the buckwheat flour into the boiling water while whisking continuously with a wooden spatula or a madhani (churner) to avoid lumps.",
+        "4. Keep stirring vigorously over medium-low heat until the mixture thickens into a glossy, smooth, jelly-like consistency.",
+        "5. Once cooked, drizzle a generous amount of pure ghee over the top.",
+        "6. Serve hot, traditionally enjoyed with Jhangora ki Kheer or spicy Gahat ki Dal."
+    ],
+    "description": "Baadi is a traditional staple food from the Garhwal region of Uttarakhand. It is highly nutritious, rich in fiber and minerals, and is valued for its ability to provide warmth during the cold winters in the Himalayas. It is a humble, wholesome dish often consumed by local villagers for sustained energy.",
+    "state": "Uttarakhand",
+    "veg_or_non_veg": "Veg"
+}

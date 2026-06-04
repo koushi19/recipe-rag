@@ -1,0 +1,32 @@
+{
+    "name": "Bombil Fry",
+    "url": "https://indianfoodmap.example.com/bombil-fry",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "6-8 fresh Bombay Duck (Bombil) fish",
+        "2 tablespoons ginger-garlic paste",
+        "1 teaspoon turmeric powder",
+        "1 tablespoon red chili powder",
+        "1/2 teaspoon garam masala",
+        "1 tablespoon lemon juice",
+        "1/2 cup rice flour (taandalachi pith)",
+        "1/4 cup semolina (rava)",
+        "Salt to taste",
+        "Oil for shallow frying",
+        "Fresh coriander for garnish"
+    ],
+    "instructions": [
+        "1. Clean the Bombil by removing the head and tail, then slit them open to flatten; wash and pat dry thoroughly with a kitchen towel to remove excess moisture.",
+        "2. Marinate the fish with lemon juice, ginger-garlic paste, turmeric, red chili powder, garam masala, and salt; let it rest for 15-20 minutes.",
+        "3. On a flat plate, mix the rice flour and semolina.",
+        "4. Press each marinated fish firmly into the flour mixture until well-coated on both sides.",
+        "5. Heat oil in a non-stick pan over medium-high heat.",
+        "6. Carefully place the fish in the pan and shallow fry until the crust is crispy and golden brown, turning gently once.",
+        "7. Drain on paper towels and serve hot with sliced onions and green chutney."
+    ],
+    "description": "Bombil Fry is a beloved staple of coastal Maharashtrian and Malvani cuisine. The Bombay Duck, known for its delicate, soft texture and unique flavor, is transformed by the contrast of the crispy rava-rice coating. It is a popular 'starter' or side dish served in traditional Pathare Prabhu and coastal households, often enjoyed during the monsoon season.",
+    "state": "Maharashtra",
+    "veg_or_non_veg": "Non-Veg"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Sana Thongba",
+    "url": "https://indianfoodmap.example.com/sana-thongba",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "200g Paneer (crumbled or cubed)",
+        "2 cups Milk",
+        "1 tablespoon Besan (gram flour)",
+        "1 tablespoon Ginger paste",
+        "2 Green chilies",
+        "1 tablespoon Mustard oil",
+        "1/2 teaspoon Turmeric powder",
+        "Fresh coriander leaves for garnish",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Heat mustard oil in a pan until it reaches smoking point and then let it cool slightly.",
+        "2. Add ginger paste and slit green chilies, sautéing until fragrant.",
+        "3. Add the paneer pieces and lightly fry them for a minute.",
+        "4. Dissolve the gram flour in half a cup of milk to avoid lumps, then add it to the pan along with the remaining milk.",
+        "5. Add turmeric and salt, then simmer the mixture on low heat, stirring continuously until the gravy thickens to a creamy consistency.",
+        "6. Remove from heat once the desired thickness is reached and garnish with fresh coriander before serving."
+    ],
+    "description": "Sana Thongba is a classic Manipuri vegetarian dish, often featured in traditional Meitei feasts. It is essentially a paneer curry that is distinct from North Indian versions due to its subtle, light flavor profile, using milk as the primary base rather than heavy tomato or onion purees, reflecting the unique culinary heritage of the Manipuri people.",
+    "state": "Manipur",
+    "veg_or_non_veg": "Veg"
+}

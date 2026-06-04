@@ -1,0 +1,28 @@
+{
+    "name": "Wahan Mosdeng",
+    "url": "https://indianfoodmap.example.com/wahan-mosdeng",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Boiled pork",
+        "Green chilies",
+        "Onions",
+        "Fresh coriander leaves",
+        "Ginger",
+        "Garlic",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Boil the pork until it is tender and cooked through, then drain and let it cool.",
+        "2. Finely chop or shred the boiled pork into small, manageable pieces.",
+        "3. Roast or char the green chilies slightly to enhance the smoky flavor.",
+        "4. In a mortar and pestle, crush the charred chilies, garlic, and ginger into a coarse paste.",
+        "5. In a mixing bowl, combine the shredded pork with the chili-ginger-garlic paste.",
+        "6. Add finely chopped onions and fresh coriander leaves.",
+        "7. Season with salt, mix everything thoroughly by hand, and serve at room temperature."
+    ],
+    "description": "Wahan Mosdeng is a quintessential dish of the Tripuri community. 'Wahan' refers to pork and 'Mosdeng' means a spicy mash or salad. It is highly valued for its simplicity and the bold, rustic flavors provided by the combination of fresh aromatics and the heat of local chilies.",
+    "state": "Tripura",
+    "veg_or_non_veg": "Non-Veg"
+}

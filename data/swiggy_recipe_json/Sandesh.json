@@ -1,0 +1,26 @@
+{
+    "name": "Sandesh",
+    "url": "https://indianfoodmap.example.com/sandesh",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 liter full-fat cow milk",
+        "2 tablespoons lemon juice or vinegar",
+        "1/2 cup powdered sugar",
+        "1/4 teaspoon green cardamom powder",
+        "A few strands of saffron (optional)",
+        "Pistachios or almonds for garnish"
+    ],
+    "instructions": [
+        "1. Boil milk in a heavy-bottomed pan and add lemon juice to curdle it until the whey separates.",
+        "2. Strain the curdled milk through a muslin cloth, rinse with cold water, and hang for 30 minutes to drain excess moisture.",
+        "3. Knead the chhena on a plate with your palm until it becomes smooth and creamy.",
+        "4. Transfer the chhena to a pan, add sugar, and cook on low heat for 5-7 minutes while stirring continuously.",
+        "5. Mix in the cardamom powder, remove from heat, and allow it to cool slightly.",
+        "6. Once warm enough to handle, shape the mixture into small balls or press into molds, then garnish with nuts."
+    ],
+    "description": "Sandesh is an iconic Bengali confection synonymous with the culture and hospitality of West Bengal. It is frequently prepared during festivals like Durga Puja and is considered a symbol of refined sweetness and culinary craftsmanship.",
+    "state": "West Bengal",
+    "veg_or_non_veg": "Veg"
+}

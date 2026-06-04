@@ -1,0 +1,34 @@
+{
+    "name": "Thalassery Biryani",
+    "url": "https://indianfoodmap.example.com/thalassery-biryani",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Khaima rice (Jeerakasala rice)",
+        "Chicken pieces",
+        "Ghee",
+        "Onions (thinly sliced)",
+        "Ginger-garlic paste",
+        "Green chilies",
+        "Tomato",
+        "Curd",
+        "Garam masala (cardamom, cloves, cinnamon)",
+        "Fennel seeds powder",
+        "Fresh mint leaves",
+        "Fresh coriander leaves",
+        "Cashews",
+        "Raisins",
+        "Lemon juice"
+    ],
+    "instructions": [
+        "1. Marinate chicken with yogurt, spices, and lemon juice; cook until tender in a masala base made of sautéed onions, ginger-garlic, tomatoes, and herbs.",
+        "2. Wash and soak Khaima rice; sauté in ghee with spices before cooking in water until 80% done.",
+        "3. Layer the cooked chicken masala and the rice in a heavy-bottomed vessel.",
+        "4. Garnish with fried onions, cashews, raisins, and chopped herbs.",
+        "5. Seal the vessel tightly and cook on 'dum' (low heat) for 15-20 minutes to allow the flavors to meld."
+    ],
+    "description": "Thalassery Biryani is an iconic delicacy from the Malabar region of Kerala. It reflects the rich cultural synthesis of Arab, Persian, and local Kerala influences. Distinguished by its use of the short-grained, fragrant Khaima rice rather than Basmati, it is a hallmark of Thalassery’s heritage and is famously served during weddings and festivals.",
+    "state": "Kerala",
+    "veg_or_non_veg": "Non-Veg"
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Kalo Dal",
+    "url": "https://indianfoodmap.example.com/kalo-dal",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup black urad dal (split or whole)",
+        "2-3 tablespoons ghee or vegetable oil",
+        "1 teaspoon cumin seeds",
+        "1 medium onion, finely chopped",
+        "2 cloves garlic, minced",
+        "1 inch ginger, grated",
+        "2 green chilies, slit",
+        "1/2 teaspoon turmeric powder",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish",
+        "Water as needed"
+    ],
+    "instructions": [
+        "1. Wash and soak the black urad dal for at least 30 minutes. 2. Pressure cook the dal with turmeric, salt, and enough water until soft and slightly mashed. 3. Heat ghee in a pan and add cumin seeds; once they splutter, add the chopped onion, ginger, garlic, and green chilies. 4. Sauté until the onions turn golden brown. 5. Pour the tempering over the cooked dal and simmer for another 5 minutes to meld the flavors. 6. Garnish with fresh coriander and serve hot with steamed rice."
+    ],
+    "description": "Kalo Dal is a staple comfort food in Sikkim. Deeply rooted in Himalayan cuisine, it is valued for its nutritional density and rich, comforting flavor, commonly served as a primary accompaniment to meals in Sikkimese households.",
+    "state": "Sikkim",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Cutlet Pao",
+    "url": "https://indianfoodmap.example.com/cutlet-pao",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Beef or Pork slices (tenderized)",
+        "Ginger-garlic paste",
+        "Goan red chili powder",
+        "Turmeric powder",
+        "Cumin powder",
+        "Vinegar",
+        "Semolina (Rava) for coating",
+        "Egg (beaten, for binding)",
+        "Oil for shallow frying",
+        "Goan Pao (local bread)",
+        "Onion (finely chopped for garnish)",
+        "Fresh coriander (chopped)",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Pound the meat slices until thin and tenderize well.",
+        "2. Marinate the meat with ginger-garlic paste, red chili powder, turmeric, cumin, vinegar, and salt for at least one hour.",
+        "3. Dip each marinated slice into the beaten egg and coat thoroughly with semolina.",
+        "4. Heat oil in a pan and shallow fry the cutlets on medium-high heat until they are golden brown and crispy on both sides.",
+        "5. Slit the Goan Pao horizontally and lightly toast it if desired.",
+        "6. Place the hot, crispy cutlet inside the pao, top with fresh chopped onions and coriander, and serve immediately."
+    ],
+    "description": "Cutlet Pao is an iconic Goan street food staple, representing the fusion of Portuguese culinary influence and local Indian flavors. It is a quintessential quick meal found in roadside stalls and taverns across Goa, celebrated for its perfect contrast between the crispy, spicy meat cutlet and the pillowy, soft local bread.",
+    "state": "Goa",
+    "veg_or_non_veg": "Non-Veg"
+}

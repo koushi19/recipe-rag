@@ -1,0 +1,30 @@
+{
+    "name": "Phuchka (Golgappa)",
+    "url": "https://indianfoodmap.example.com/phuchka-(golgappa)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Semolina (suji)",
+        "Whole wheat flour (atta)",
+        "Boiled potatoes",
+        "Boiled black chickpeas (kala chana)",
+        "Tamarind pulp",
+        "Green chilies",
+        "Roasted cumin powder",
+        "Black salt (kala namak)",
+        "Fresh coriander leaves",
+        "Dried red chili flakes",
+        "Ginger julienne",
+        "Mustard oil"
+    ],
+    "instructions": [
+        "1. Mix semolina and whole wheat flour with water to form a firm dough, roll into tiny discs, and deep-fry until golden and puffed.",
+        "2. Prepare the filling by mashing boiled potatoes and mixing them with boiled black chickpeas, roasted cumin, black salt, and chopped coriander.",
+        "3. Create the 'teekha pani' by mixing tamarind pulp, water, green chili paste, crushed mint, cumin powder, and black salt to taste.",
+        "4. Crack open the center of each shell, stuff with a spoonful of the potato mixture, and dip into the spicy tamarind water before serving immediately."
+    ],
+    "description": "Phuchka is a quintessential street food icon in Jharkhand, known for being bolder and spicier than its counterparts in other regions. It is a social ritual, where friends and family gather around a 'phuchka-wala' cart to enjoy the explosion of tangy, spicy, and crunchy flavors.",
+    "state": "Jharkhand",
+    "veg_or_non_veg": "Veg"
+}

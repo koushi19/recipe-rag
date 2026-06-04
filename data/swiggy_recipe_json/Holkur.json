@@ -1,0 +1,19 @@
+{
+    "name": "Holkur",
+    "url": "https://indianfoodmap.example.com/holkur",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Whole wheat flour",
+        "Sugar",
+        "Milk",
+        "Baking powder"
+    ],
+    "instructions": [
+        "1. Mix ingredients to form a stiff dough. 2. Shape into small discs. 3. Bake until golden and crisp."
+    ],
+    "description": "Crumbly, homemade Ladakhi biscuits, perfect with a hot cup of Gur Gur Chai.",
+    "state": "Ladakh",
+    "veg_or_non_veg": "Veg"
+}

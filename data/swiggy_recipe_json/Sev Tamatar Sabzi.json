@@ -1,0 +1,20 @@
+{
+    "name": "Sev Tamatar Sabzi",
+    "url": "https://indianfoodmap.example.com/sev-tamatar-sabzi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Tomatoes",
+        "Thick Sev",
+        "Ginger",
+        "Cumin",
+        "Turmeric"
+    ],
+    "instructions": [
+        "1. Prepare a spicy tomato gravy. 2. Just before serving, add a generous amount of crunchy sev."
+    ],
+    "description": "Tangy tomato curry topped with a crunchy explosion of fried gram flour noodles.",
+    "state": "Dadra & Nagar Haveli and Daman & Diu",
+    "veg_or_non_veg": "Veg"
+}

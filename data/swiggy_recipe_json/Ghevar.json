@@ -1,0 +1,26 @@
+{
+    "name": "Ghevar",
+    "url": "https://indianfoodmap.example.com/ghevar",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "All-purpose flour (maida)",
+        "Ghee (clarified butter)",
+        "Chilled water",
+        "Milk",
+        "Ice cubes",
+        "Sugar",
+        "Water for syrup",
+        "Green cardamom powder",
+        "Saffron strands",
+        "Blanched almonds and pistachios",
+        "Edible silver leaf (vark)"
+    ],
+    "instructions": [
+        "1. Whisk ghee and ice cubes until it forms a creamy, white butter-like texture. 2. Gradually add flour, milk, and chilled water to create a thin, smooth, lump-free batter. 3. Heat ghee in a deep, narrow cylindrical vessel (or a Ghevar mold). 4. Pour a small ladle of batter into the center of the hot ghee, letting it sizzle and spread to the edges, repeating until the desired thickness is achieved. 5. Fry until golden brown, remove, and drain excess ghee. 6. Dip the fried disc into a warm, one-string consistency sugar syrup flavored with cardamom and saffron. 7. Garnish with chopped nuts and edible silver leaf before serving."
+    ],
+    "description": "Ghevar is a quintessential Rajasthani festive dessert, traditionally associated with the monsoon festival of Teej and Raksha Bandhan. Its honeycomb-like texture is iconic, representing the rich culinary heritage of the Marwar region.",
+    "state": "Rajasthan",
+    "veg_or_non_veg": "Veg"
+}

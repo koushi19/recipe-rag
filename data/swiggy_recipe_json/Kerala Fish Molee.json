@@ -1,0 +1,36 @@
+{
+    "name": "Kerala Fish Molee",
+    "url": "https://indianfoodmap.example.com/kerala-fish-molee",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g King fish or Pomfret steaks",
+        "2 cups thin coconut milk",
+        "1 cup thick coconut milk",
+        "1 large onion, thinly sliced",
+        "2 green chilies, slit",
+        "1 inch ginger, julienned",
+        "1 sprig curry leaves",
+        "1/2 tsp turmeric powder",
+        "1/2 tsp black pepper powder",
+        "1/2 tsp mustard seeds",
+        "1/2 tsp fenugreek seeds",
+        "2 tbsp coconut oil",
+        "Salt to taste",
+        "1 tomato, sliced",
+        "1/2 tsp vinegar or lime juice"
+    ],
+    "instructions": [
+        "1. Marinate the fish with turmeric, salt, and pepper for 15 minutes, then shallow fry until golden and set aside.",
+        "2. In a clay pot (manchatti) or pan, heat coconut oil and temper mustard seeds, fenugreek seeds, and curry leaves.",
+        "3. Sauté onions, ginger, and green chilies until soft but not browned.",
+        "4. Pour in the thin coconut milk and bring to a gentle simmer.",
+        "5. Add the fried fish pieces and tomato slices, cooking on low heat for 5-7 minutes.",
+        "6. Pour the thick coconut milk, adjust salt, and simmer for another 2 minutes without letting it boil rapidly.",
+        "7. Finish with a dash of vinegar or lime juice and serve hot with appam or steamed rice."
+    ],
+    "description": "Kerala Fish Molee is a classic Syrian Christian delicacy from Kerala. Characterized by its pale, creamy coconut milk base and mild spice profile, it reflects the region's colonial history and its abundant coastal resources. It is considered a celebratory dish often served during family gatherings.",
+    "state": "Kerala",
+    "veg_or_non_veg": "Non-Veg"
+}

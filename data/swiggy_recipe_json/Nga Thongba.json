@@ -1,0 +1,33 @@
+{
+    "name": "Nga Thongba",
+    "url": "https://indianfoodmap.example.com/nga-thongba",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Freshwater fish (cut into pieces)",
+        "Potato (boiled and mashed)",
+        "Onion (finely chopped)",
+        "Ginger-garlic paste",
+        "Turmeric powder",
+        "Red chili powder",
+        "Mustard oil",
+        "Bay leaf",
+        "Fresh coriander leaves",
+        "Salt to taste",
+        "Water"
+    ],
+    "instructions": [
+        "1. Marinate the fish pieces with salt and turmeric, then shallow fry in mustard oil until golden; set aside.",
+        "2. In the same pan, heat more mustard oil and temper with bay leaves.",
+        "3. Sauté chopped onions until translucent, then add ginger-garlic paste and fry until aromatic.",
+        "4. Add turmeric and chili powder mixed with a little water to form a paste.",
+        "5. Stir in the mashed potatoes and cook for a few minutes to incorporate the spices.",
+        "6. Add water as needed to reach the desired consistency and bring to a boil.",
+        "7. Carefully slide the fried fish into the gravy and simmer for 5-7 minutes.",
+        "8. Garnish with fresh coriander leaves and serve hot with steamed rice."
+    ],
+    "description": "Nga Thongba is a classic Manipuri fish curry that holds a special place in the local cuisine. The use of mashed boiled potatoes as a thickening agent gives the curry a unique, silky texture that distinguishes it from other regional fish curries, reflecting the simple yet flavorful culinary heritage of Manipur.",
+    "state": "Manipur",
+    "veg_or_non_veg": "Non-Veg"
+}

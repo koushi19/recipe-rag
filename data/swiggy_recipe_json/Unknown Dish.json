@@ -1,0 +1,23 @@
+{
+    "name": "Unknown Dish",
+    "url": "https://indianfoodmap.example.com/unknown-dish",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Three big scoops of Vanilla Ice Cream",
+        "1/2 cup Buttermilk",
+        "1 cup Berries",
+        "1 tsp Creme de Cassis"
+    ],
+    "instructions": [
+        "* Let the vanilla ice cream soften slightly.",
+        "* In a blender, combine the softened ice cream and buttermilk. Process briefly on slow to maintain thickness.",
+        "* For the berry puree, blend the berries with a tsp of creme de cassis to create a chunky paste.",
+        "* To serve, layer the milkshake and berry puree in a glass. Top with reserved frozen berries.",
+        "* Repeat the layering technique until the glass is full. Swirl with a spoon and serve immediately."
+    ],
+    "description": "",
+    "state": "Andhra Pradesh",
+    "veg_or_non_veg": "Veg"
+}

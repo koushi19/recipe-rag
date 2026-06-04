@@ -1,0 +1,33 @@
+{
+    "name": "Chamthong (Kangshoi)",
+    "url": "https://indianfoodmap.example.com/chamthong-(kangshoi)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Seasonal vegetables (such as beans, pumpkin, potatoes, carrots, and peas)",
+        "Ngari (fermented fish)",
+        "Onion",
+        "Ginger",
+        "Garlic",
+        "Dry red chilies",
+        "Spring onions",
+        "Coriander leaves",
+        "Water",
+        "Salt to taste",
+        "Oil"
+    ],
+    "instructions": [
+        "1. Chop all seasonal vegetables into bite-sized pieces.",
+        "2. In a pot, add water and bring it to a boil.",
+        "3. Add the chopped vegetables, ginger, garlic, salt, and Ngari (fermented fish) to the boiling water.",
+        "4. Cook until the vegetables are tender but not mushy.",
+        "5. In a separate small pan, heat a little oil and sauté dry red chilies and chopped onions until golden.",
+        "6. Add this tempering (tadka) to the boiling vegetable stew.",
+        "7. Garnish generously with chopped spring onions and coriander leaves.",
+        "8. Serve hot as a soup or with steamed rice."
+    ],
+    "description": "Kangshoi, also known as Chamthong, is a signature Manipuri stew that reflects the region's preference for simple, oil-free, and nutrient-rich cooking. It is a staple household dish, prized for its ability to highlight the freshness of seasonal produce, with Ngari providing a distinct, umami-rich depth characteristic of Meitei cuisine.",
+    "state": "Manipur",
+    "veg_or_non_veg": "Non-Veg"
+}

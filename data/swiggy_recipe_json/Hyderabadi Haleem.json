@@ -1,0 +1,33 @@
+{
+    "name": "Hyderabadi Haleem",
+    "url": "https://indianfoodmap.example.com/hyderabadi-haleem",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Mutton with bone",
+        "Broken wheat (dalia)",
+        "Chana dal",
+        "Moong dal",
+        "Urad dal",
+        "Rice",
+        "Ginger-garlic paste",
+        "Green chilies",
+        "Shahi jeera",
+        "Cinnamon stick",
+        "Cloves",
+        "Cardamom",
+        "Dried rose petals",
+        "Fried onions (birista)",
+        "Cashews and almonds",
+        "Pure Ghee",
+        "Fresh coriander and mint leaves",
+        "Lemon wedges"
+    ],
+    "instructions": [
+        "1. Soak the wheat and lentils for several hours. 2. Prepare a mutton stew with spices, ginger-garlic paste, and herbs. 3. Cook the soaked grains separately until soft. 4. Combine the cooked grains with the mutton stew. 5. Use a wooden masher (ghotni) to pound the mixture continuously over low heat until the meat strands integrate completely with the grains. 6. Stir in ghee frequently during the pounding process to achieve a silky texture. 7. Garnish generously with fried onions, nuts, coriander, mint, and a squeeze of lemon before serving."
+    ],
+    "description": "Hyderabadi Haleem is a globally renowned delicacy with a GI tag, traditionally associated with the holy month of Ramadan. It is a slow-cooked nutritious stew rooted in Persian origins but perfected in the royal kitchens of the Nizams of Hyderabad, known for its rich, smoky, and creamy profile.",
+    "state": "Telangana",
+    "veg_or_non_veg": "Non-Veg"
+}

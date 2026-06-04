@@ -1,0 +1,32 @@
+{
+    "name": "Bagel Sandwiches",
+    "url": "https://indianfoodmap.example.com/bagel-sandwiches",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Fresh artisan bagels",
+        "Cream cheese",
+        "Puducherry-style spicy masala potatoes",
+        "Fresh curry leaves",
+        "Mustard seeds",
+        "Green chilies",
+        "Sliced cucumber",
+        "Tomato slices",
+        "Red onion rings",
+        "Turmeric powder",
+        "Roasted cumin powder",
+        "Butter"
+    ],
+    "instructions": [
+        "1. Prepare the masala by tempering mustard seeds and curry leaves in oil, then sautéing mashed potatoes with turmeric, cumin, and chopped green chilies.",
+        "2. Slice the bagels in half and lightly butter the cut sides.",
+        "3. Toast the bagel halves on a griddle until golden brown.",
+        "4. Spread a generous layer of cream cheese on the bottom half of the bagel.",
+        "5. Layer the spiced potato masala, followed by fresh cucumber, tomato slices, and onion rings.",
+        "6. Close the sandwich with the top bagel half and serve immediately with a side of spicy coconut chutney."
+    ],
+    "description": "Puducherry's unique culinary landscape is a blend of French heritage and Tamil tradition. The 'Bagel Sandwich' represents this modern fusion, marrying the iconic French-style bakery items prevalent in the White Town area with the bold, earthy flavors of local Indian spiced potato fillings.",
+    "state": "Puducherry",
+    "veg_or_non_veg": "Veg"
+}

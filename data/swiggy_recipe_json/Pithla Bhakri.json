@@ -1,0 +1,35 @@
+{
+    "name": "Pithla Bhakri",
+    "url": "https://indianfoodmap.example.com/pithla-bhakri",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Besan (gram flour)",
+        "Water",
+        "Mustard seeds",
+        "Cumin seeds",
+        "Turmeric powder",
+        "Asafoetida (hing)",
+        "Finely chopped onions",
+        "Green chilies",
+        "Ginger-garlic paste",
+        "Curry leaves",
+        "Fresh coriander",
+        "Oil",
+        "Salt",
+        "Jowar or Bajra flour (for Bhakri)"
+    ],
+    "instructions": [
+        "1. Heat oil in a pan, add mustard seeds, cumin seeds, hing, curry leaves, and green chilies.",
+        "2. Add chopped onions and sauté until translucent.",
+        "3. Stir in ginger-garlic paste and turmeric powder.",
+        "4. Whisk besan with water to form a lump-free batter.",
+        "5. Pour the batter into the tempering and stir continuously on low heat until thickened and cooked through.",
+        "6. Garnish with fresh coriander.",
+        "7. Prepare Bhakri by kneading millet flour with warm water into a stiff dough, patting it into a round disc, and roasting on a hot griddle until charred spots appear."
+    ],
+    "description": "Often called the 'farmer's meal' of Maharashtra, Pithla Bhakri is a quintessential rustic dish that is nutritious, humble, and deeply rooted in the rural culinary traditions of the state.",
+    "state": "Maharashtra",
+    "veg_or_non_veg": "Veg"
+}

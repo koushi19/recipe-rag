@@ -1,0 +1,35 @@
+{
+    "name": "Kopta Curry",
+    "url": "https://indianfoodmap.example.com/kopta-curry",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Lauki (bottle gourd), grated",
+        "Gram flour (besan)",
+        "Ginger-garlic paste",
+        "Green chilies",
+        "Turmeric powder",
+        "Red chili powder",
+        "Coriander powder",
+        "Garam masala",
+        "Onion, finely chopped",
+        "Tomato puree",
+        "Mustard oil",
+        "Fresh coriander leaves",
+        "Cumin seeds",
+        "Kasuri methi"
+    ],
+    "instructions": [
+        "1. Squeeze excess water from grated lauki and mix with besan, ginger-garlic paste, and spices to form dumplings.",
+        "2. Deep-fry the dumplings until golden brown and set aside.",
+        "3. Heat mustard oil in a pan, add cumin seeds, and sauté chopped onions until translucent.",
+        "4. Add tomato puree along with turmeric, chili powder, and coriander powder, cooking until oil separates.",
+        "5. Pour in water to adjust gravy consistency and let it simmer.",
+        "6. Gently add the fried dumplings and garam masala; simmer for 5 minutes.",
+        "7. Garnish with kasuri methi and fresh coriander before serving."
+    ],
+    "description": "Kopta Curry, locally known as Lauki Ke Kofte, is a comforting vegetarian staple in Madhya Pradesh. It showcases the region's ability to transform simple, humble vegetables into a sophisticated, flavorful dish often served at festivals and family gatherings.",
+    "state": "Madhya Pradesh",
+    "veg_or_non_veg": "Veg"
+}

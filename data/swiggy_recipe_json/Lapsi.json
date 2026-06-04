@@ -1,0 +1,28 @@
+{
+    "name": "Lapsi",
+    "url": "https://indianfoodmap.example.com/lapsi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup broken wheat (dalia)",
+        "3/4 cup ghee",
+        "1 cup jaggery or sugar",
+        "3 cups hot water",
+        "1/2 teaspoon green cardamom powder",
+        "1 tablespoon sliced almonds",
+        "1 tablespoon chopped cashews",
+        "1 tablespoon raisins"
+    ],
+    "instructions": [
+        "1. Heat ghee in a heavy-bottomed pan and roast the broken wheat on low heat until it turns a deep golden brown and emits a nutty aroma.",
+        "2. Carefully pour in the hot water, stirring continuously to prevent lumps from forming.",
+        "3. Cover and cook on low heat until the water is absorbed and the wheat is tender.",
+        "4. Add the jaggery (or sugar), cardamom powder, and half of the dry fruits.",
+        "5. Mix well and cook for another 2-3 minutes until the mixture thickens and leaves the sides of the pan.",
+        "6. Garnish with the remaining nuts and serve warm."
+    ],
+    "description": "Lapsi is a quintessential Rajasthani sweet dish often prepared during festivals, auspicious occasions, and religious ceremonies like housewarmings or naming ceremonies. It is considered a symbol of prosperity and is frequently served as a 'prasad' or a wholesome breakfast.",
+    "state": "Rajasthan",
+    "veg_or_non_veg": "Veg"
+}

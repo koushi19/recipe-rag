@@ -1,0 +1,19 @@
+{
+    "name": "Chikoo Halwa",
+    "url": "https://indianfoodmap.example.com/chikoo-halwa",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Chikoo pulp",
+        "Milk solids (Khoya)",
+        "Sugar",
+        "Nuts"
+    ],
+    "instructions": [
+        "1. Cook chikoo pulp with sugar. 2. Add khoya and stir until thickened. 3. Garnish with fried nuts."
+    ],
+    "description": "A rich pudding made from locally grown sapodilla fruit.",
+    "state": "Dadra & Nagar Haveli and Daman & Diu",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Sishnu Soup (Nettle Soup)",
+    "url": "https://indianfoodmap.example.com/sishnu-soup-(nettle-soup)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Fresh Himalayan stinging nettle leaves (Sishnu)",
+        "Water",
+        "Garlic cloves, minced",
+        "Green chilies, slit",
+        "Rice flour or corn flour (for thickening)",
+        "Salt to taste",
+        "Ghee or mustard oil",
+        "Optional: Tomato or local herbs for flavoring"
+    ],
+    "instructions": [
+        "1. Carefully wash the stinging nettle leaves using tongs or gloves to avoid skin irritation.",
+        "2. Boil a pot of water and add the nettle leaves; cook until they are tender and lose their stinging property.",
+        "3. Mash the leaves slightly or blend them to achieve a coarse or smooth consistency as preferred.",
+        "4. Stir in a mixture of rice flour and water to thicken the broth.",
+        "5. In a separate small pan, heat ghee or oil and fry the minced garlic and green chilies until fragrant.",
+        "6. Pour the tempering over the boiling soup and stir well.",
+        "7. Add salt to taste, simmer for a few more minutes, and serve hot, usually accompanied by steamed rice."
+    ],
+    "description": "Sishnu is a highly nutritious traditional food of the Nepali and indigenous communities in Sikkim. Often referred to as a 'superfood' in the Himalayas, the stinging nettle is revered for its medicinal properties and is commonly consumed to boost immunity and overall health.",
+    "state": "Sikkim",
+    "veg_or_non_veg": "Veg"
+}

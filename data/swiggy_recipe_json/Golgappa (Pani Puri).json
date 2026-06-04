@@ -1,0 +1,33 @@
+{
+    "name": "Golgappa (Pani Puri)",
+    "url": "https://indianfoodmap.example.com/golgappa-(pani-puri)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Semolina (sooji)",
+        "Whole wheat flour (atta)",
+        "Boiled potatoes",
+        "Boiled black chickpeas (kala chana)",
+        "Fresh coriander leaves",
+        "Fresh mint leaves",
+        "Green chilies",
+        "Tamarind (imli) pulp",
+        "Jaggery",
+        "Black salt (kala namak)",
+        "Roasted cumin powder",
+        "Chaat masala",
+        "Ginger",
+        "Asafoetida (hing)"
+    ],
+    "instructions": [
+        "1. Knead a firm dough using sooji, atta, and water; roll into small thin discs and deep-fry until golden and crispy.",
+        "2. Blend mint, coriander, green chilies, ginger, and black salt with water to create the 'tikha pani'.",
+        "3. Boil tamarind with jaggery and spices to create the sweet and tangy 'meetha pani'.",
+        "4. Mash boiled potatoes with chickpeas, salt, and roasted cumin to prepare the stuffing.",
+        "5. Crack the top of the puri, stuff with the mixture, dip in both waters, and serve immediately."
+    ],
+    "description": "Golgappa is a quintessentially popular street food in Chandigarh. It serves as a social equalizer, with people of all ages gathering around roadside stalls to enjoy the burst of spicy, tangy, and crunchy flavors, representing the vibrant and bustling food culture of the city.",
+    "state": "Chandigarh",
+    "veg_or_non_veg": "Veg"
+}

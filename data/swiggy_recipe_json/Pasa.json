@@ -1,0 +1,26 @@
+{
+    "name": "Pasa",
+    "url": "https://indianfoodmap.example.com/pasa",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Raw freshwater fish (boneless)",
+        "Maknam (a traditional local herb)",
+        "Ginger",
+        "Garlic",
+        "Green chilies",
+        "Authentic local herbs (specifically ginger leaves and wild coriander)",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Finely mince the fresh, raw fish until it reaches a paste-like consistency.",
+        "2. Prepare the herbal extract by crushing ginger, garlic, green chilies, and the essential Maknam leaves with a small amount of water, then strain the mixture to collect the aromatic juice.",
+        "3. Combine the fish mince with the extracted herbal juice in a bowl.",
+        "4. Add salt to taste and mix thoroughly until the flavors are well incorporated.",
+        "5. Serve immediately as a fresh, raw delicacy."
+    ],
+    "description": "Pasa is a highly celebrated traditional dish of the Tani tribes, particularly the Galo community. It is famously known as the 'Arunachali Sashimi' and is often served as a delicacy during festivals and special community gatherings, symbolizing the deep connection between the indigenous people and their natural forest resources.",
+    "state": "Arunachal Pradesh",
+    "veg_or_non_veg": "Non-Veg"
+}

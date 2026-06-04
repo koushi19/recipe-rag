@@ -1,0 +1,33 @@
+{
+    "name": "Fish Tikka",
+    "url": "https://indianfoodmap.example.com/fish-tikka",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g fresh local reef fish fillets (cubed)",
+        "1/2 cup thick curd (yogurt)",
+        "1 tablespoon ginger-garlic paste",
+        "1 teaspoon red chili powder",
+        "1/2 teaspoon turmeric powder",
+        "1 teaspoon roasted cumin powder",
+        "1 teaspoon garam masala",
+        "1 tablespoon mustard oil",
+        "1 tablespoon lemon juice",
+        "Salt to taste",
+        "1 medium onion (cut into squares)",
+        "1 medium bell pepper (cut into squares)",
+        "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. In a mixing bowl, whisk together curd, ginger-garlic paste, chili powder, turmeric, cumin, garam masala, salt, mustard oil, and lemon juice.",
+        "2. Add the fish cubes to the marinade, coat thoroughly, and let it rest for 30-45 minutes.",
+        "3. Skewer the marinated fish cubes alternating with onion and bell pepper pieces.",
+        "4. Heat a grill pan or tandoor to medium-high heat and brush with a little oil.",
+        "5. Grill the skewers for 8-10 minutes, turning occasionally, until the fish is opaque and slightly charred on the edges.",
+        "6. Serve hot, garnished with fresh coriander and extra lemon wedges."
+    ],
+    "description": "Fish Tikka in the Andaman and Nicobar Islands leverages the abundance of fresh, high-quality reef fish. This dish reflects the island's unique culinary fusion, combining traditional Indian spice profiles with the freshest catch from the Bay of Bengal, often served as a popular coastal appetizer in beachside shacks.",
+    "state": "Andaman and Nicobar Islands",
+    "veg_or_non_veg": "Non-Veg"
+}

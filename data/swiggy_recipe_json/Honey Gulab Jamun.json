@@ -1,0 +1,20 @@
+{
+    "name": "Honey Gulab Jamun",
+    "url": "https://indianfoodmap.example.com/honey-gulab-jamun",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Khoya (Mawa)",
+        "Paneer",
+        "Honey",
+        "Sugar syrup",
+        "Rose water"
+    ],
+    "instructions": [
+        "1. Prepare balls from khoya and paneer. 2. Deep fry slowly until dark golden. 3. Soak in honey-flavored syrup."
+    ],
+    "description": "Soft, golden spheres of mawa, soaked in a honey-infused syrup.",
+    "state": "Chandigarh",
+    "veg_or_non_veg": "Veg"
+}

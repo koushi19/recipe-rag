@@ -1,0 +1,35 @@
+{
+    "name": "Anardana Chicken",
+    "url": "https://indianfoodmap.example.com/anardana-chicken",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g chicken, cut into pieces",
+        "3 tablespoons dried pomegranate seeds (anardana), ground into a coarse powder",
+        "2 large onions, finely chopped",
+        "1 tablespoon ginger-garlic paste",
+        "1/2 cup thick yogurt (curd)",
+        "1 teaspoon turmeric powder",
+        "1 teaspoon Kashmiri red chili powder",
+        "1 teaspoon coriander powder",
+        "1/2 teaspoon cumin seeds",
+        "2-3 cloves, 1 black cardamom, and 1 cinnamon stick",
+        "Mustard oil for cooking",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. Heat mustard oil in a heavy-bottomed pan until smoking, then reduce heat and add whole spices (cloves, cardamom, cinnamon) and cumin.",
+        "2. Add the chopped onions and sauté until golden brown.",
+        "3. Stir in the ginger-garlic paste and cook until the raw aroma disappears.",
+        "4. Add turmeric, chili powder, and coriander powder, followed by the chicken pieces.",
+        "5. Sauté the chicken on high heat for 5-7 minutes to sear.",
+        "6. Whisk the yogurt with the ground anardana powder and add this mixture to the pan.",
+        "7. Add salt, cover, and simmer on low heat until the chicken is tender and the oil separates from the masala.",
+        "8. Garnish with fresh coriander and serve hot with steamed rice or siddu."
+    ],
+    "description": "Anardana Chicken is a quintessential Himachali dish that highlights the region's reliance on dried fruits and seeds to provide tanginess in the absence of tomatoes. The use of dried pomegranate seeds gives the curry a unique tart profile, deeply rooted in the culinary traditions of the mountain communities.",
+    "state": "Himachal Pradesh",
+    "veg_or_non_veg": "Non-Veg"
+}

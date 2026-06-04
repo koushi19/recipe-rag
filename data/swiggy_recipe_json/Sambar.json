@@ -1,0 +1,33 @@
+{
+    "name": "Sambar",
+    "url": "https://indianfoodmap.example.com/sambar",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Toor dal",
+        "Tamarind extract",
+        "Drumstick",
+        "Carrot",
+        "Potato",
+        "Okra",
+        "Sambar powder (coriander, chili, fenugreek, asafoetida)",
+        "Turmeric powder",
+        "Mustard seeds",
+        "Dried red chilies",
+        "Curry leaves",
+        "Coconut oil",
+        "Salt",
+        "Shallots"
+    ],
+    "instructions": [
+        "1. Pressure cook the toor dal with turmeric until soft and mashable.",
+        "2. Boil the chopped vegetables in water with salt, turmeric, and tamarind extract until tender.",
+        "3. Add the sambar powder and the cooked dal to the vegetable mixture, simmer until combined.",
+        "4. Heat coconut oil in a pan, add mustard seeds, dried red chilies, shallots, and curry leaves to create the tempering.",
+        "5. Pour the tempering over the sambar and cover immediately to trap the aroma before serving with rice."
+    ],
+    "description": "Sambar is the quintessential soul food of Kerala, served as a core component of the traditional Sadya feast. It represents the harmony of lentils, seasonal vegetables, and aromatic spices, reflecting the state's reliance on fresh local produce and coconut oil.",
+    "state": "Kerala",
+    "veg_or_non_veg": "Veg"
+}

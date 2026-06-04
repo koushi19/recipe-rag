@@ -1,0 +1,24 @@
+{
+    "name": "Butter Tea (Gur Gur Chai)",
+    "url": "https://indianfoodmap.example.com/butter-tea-(gur-gur-chai)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Brick tea leaves (or strong black tea)",
+        "Yak butter (or unsalted butter)",
+        "Salt",
+        "Water",
+        "Milk (optional)"
+    ],
+    "instructions": [
+        "1. Boil a piece of brick tea in water for a long duration to create a very strong, dark concentrate.",
+        "2. Strain the tea concentrate into a 'chagrum' (traditional tea churn).",
+        "3. Add a generous knob of yak butter and a pinch of salt to the churn.",
+        "4. Pump the churn vigorously to emulsify the fat with the tea until it becomes frothy and thick.",
+        "5. Pour into bowls and serve hot, often enjoyed with tsampa (roasted barley flour)."
+    ],
+    "description": "Gur Gur Chai is the lifeblood of the high-altitude Himalayan regions. It is essential for survival in the harsh, cold climate of Ladakh, as the high fat content provides necessary warmth and energy, while the salt helps combat dehydration at high altitudes. It is a symbol of hospitality, served to every guest in Ladakhi homes.",
+    "state": "Ladakh",
+    "veg_or_non_veg": "Veg"
+}

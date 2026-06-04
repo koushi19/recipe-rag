@@ -1,0 +1,25 @@
+{
+    "name": "Jolpan",
+    "url": "https://indianfoodmap.example.com/jolpan",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Jolpan rice variants (Bora Saul, Komal Saul, or Chira)",
+        "Doi (thick curd/yogurt)",
+        "Jaggery (Gur/Gud)",
+        "Cream (optional)",
+        "Pitha (rice cakes - optional side)",
+        "Seasonal fruits like bananas"
+    ],
+    "instructions": [
+        "1. Soak Komal Saul or Chira (flattened rice) in water for a few minutes until soft and hydrated. ",
+        "2. Drain the excess water thoroughly from the rice. ",
+        "3. Place the prepared rice in a bowl and pour fresh, thick curd over it. ",
+        "4. Add grated or liquid jaggery according to your preference for sweetness. ",
+        "5. Mix gently and serve alongside slices of ripe banana or traditional Pitha."
+    ],
+    "description": "Jolpan is a quintessential Assamese snack or breakfast, deeply rooted in the agrarian culture of the state. It is commonly served during Bihu festivals and as a welcoming meal for guests, reflecting the simplicity and richness of local, seasonal ingredients.",
+    "state": "Assam",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Galho",
+    "url": "https://indianfoodmap.example.com/galho",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Sticky rice (or short-grain rice)",
+        "Smoked pork or dried fish",
+        "Axone (fermented soybean paste)",
+        "Seasonal green leafy vegetables (like mustard greens)",
+        "Ginger",
+        "Garlic",
+        "Green chilies",
+        "Salt",
+        "Water"
+    ],
+    "instructions": [
+        "1. Wash the sticky rice thoroughly and soak for 30 minutes.",
+        "2. In a large pot, boil the smoked pork or dried fish in water until tender.",
+        "3. Add the soaked rice to the boiling pot and continue cooking.",
+        "4. Add crushed ginger, garlic, green chilies, and a spoonful of Axone (fermented soybean) to the mixture.",
+        "5. Once the rice softens into a thick porridge consistency, add the chopped leafy vegetables.",
+        "6. Season with salt to taste and simmer until the vegetables are cooked through. Serve hot."
+    ],
+    "description": "Galho is a hearty, comforting, and rustic porridge-style dish widely popular in the hilly regions of Northeast India, including Meghalaya. It is deeply rooted in tribal culinary traditions, favored for its simplicity and the deep umami flavor derived from fermented ingredients like Axone, often served as a wholesome one-pot meal.",
+    "state": "Meghalaya",
+    "veg_or_non_veg": "Non-Veg"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Sakhin Gata",
+    "url": "https://indianfoodmap.example.com/sakhin-gata",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Sticky rice (Bora saul)",
+        "Water",
+        "Banana leaves",
+        "String or bamboo twine for tying"
+    ],
+    "instructions": [
+        "1. Soak the sticky rice in water for a few hours until softened.",
+        "2. Drain the water and stuff the soaked rice into hollow bamboo tubes.",
+        "3. Add a small amount of water to the tube to facilitate steaming.",
+        "4. Seal the open end of the bamboo tube securely with banana leaves.",
+        "5. Place the bamboo tubes over an open fire or hot coals, rotating occasionally until the rice is thoroughly cooked and fragrant."
+    ],
+    "description": "Sakhin Gata is a cultural delicacy of the Garo tribe in Meghalaya. It is traditionally prepared during festivals and community gatherings, showcasing the ancient cooking technique of using bamboo to infuse a unique, earthy aroma into the sticky rice.",
+    "state": "Meghalaya",
+    "veg_or_non_veg": "Veg"
+}

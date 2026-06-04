@@ -1,0 +1,28 @@
+{
+    "name": "Bajre Ki Khichdi",
+    "url": "https://indianfoodmap.example.com/bajre-ki-khichdi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup Bajra (Pearl Millet) grains",
+        "1/2 cup Moong Dal (split green gram)",
+        "2 tbsp Ghee",
+        "1/2 tsp Cumin seeds",
+        "1 pinch Asafoetida (Hing)",
+        "Salt to taste",
+        "4 cups Water",
+        "Optional: 1/2 tsp Turmeric powder"
+    ],
+    "instructions": [
+        "1. Thoroughly wash the bajra grains and soak them in water for at least 4-6 hours or overnight. Once soaked, drain and pulse them briefly in a mixer to break the outer husk, then remove the husks by floating them in water.",
+        "2. Wash the moong dal and soak it for 30 minutes.",
+        "3. In a pressure cooker, combine the cleaned bajra, soaked moong dal, salt, turmeric, and 4 cups of water.",
+        "4. Pressure cook for 5-6 whistles until the mixture is soft and mushy.",
+        "5. Heat ghee in a small pan, add cumin seeds and asafoetida. Once they sizzle, pour the tempering over the cooked khichdi.",
+        "6. Mix well, mash slightly with a ladle, and serve hot with a dollop of fresh butter or curd."
+    ],
+    "description": "Bajre Ki Khichdi is a staple winter comfort food in Rajasthan. Highly nutritious and warming, it is traditionally enjoyed during the cold months, often served with 'Kadhi' or a side of spicy garlic chutney, reflecting the rustic and resourceful culinary heritage of the desert state.",
+    "state": "Rajasthan",
+    "veg_or_non_veg": "Veg"
+}

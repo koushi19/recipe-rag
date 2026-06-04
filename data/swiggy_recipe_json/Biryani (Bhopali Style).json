@@ -1,0 +1,38 @@
+{
+    "name": "Biryani (Bhopali Style)",
+    "url": "https://indianfoodmap.example.com/biryani-(bhopali-style)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1kg Mutton (cut into medium pieces)",
+        "750g Basmati rice (soaked)",
+        "250g Potatoes (peeled and halved)",
+        "200g Curd",
+        "2 large Onions (thinly sliced)",
+        "2 tsp Ginger-Garlic paste",
+        "1 tsp Red chili powder",
+        "1/2 tsp Turmeric powder",
+        "1 tsp Garam masala powder",
+        "4-5 Green cardamoms",
+        "2-3 Cloves",
+        "1-inch Cinnamon stick",
+        "1 Bay leaf",
+        "1/2 cup Mustard oil",
+        "Fresh coriander and mint leaves",
+        "Saffron-infused milk",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Marinate mutton with curd, ginger-garlic paste, red chili, turmeric, salt, and half the fried onions for 2 hours.",
+        "2. Boil rice with whole spices until 70% cooked and drain.",
+        "3. Heat mustard oil in a heavy-bottomed pot (handi), fry potatoes until golden, and set aside.",
+        "4. In the same pot, cook the marinated mutton until half-done.",
+        "5. Layer the par-boiled rice over the mutton and potatoes.",
+        "6. Sprinkle saffron milk, fresh coriander, mint, and remaining fried onions on top.",
+        "7. Cover tightly (dum) and cook on low heat for 20-30 minutes until the meat is tender and rice is fluffy."
+    ],
+    "description": "Bhopali Biryani is a quintessential part of Madhya Pradesh's culinary heritage, reflecting the city's rich Nawabi history. Unlike Hyderabadi variations, it often features potatoes and a unique balance of aromatic spices, symbolizing the fusion of North Indian and Deccan cooking traditions prevalent in Bhopal.",
+    "state": "Madhya Pradesh",
+    "veg_or_non_veg": "Non-Veg"
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Kulfi",
+    "url": "https://indianfoodmap.example.com/kulfi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Full-fat buffalo milk",
+        "Sugar",
+        "Green cardamom powder",
+        "Saffron strands",
+        "Chopped pistachios",
+        "Chopped almonds",
+        "Edible rose water"
+    ],
+    "instructions": [
+        "1. Pour full-fat milk into a heavy-bottomed pan and bring to a boil.",
+        "2. Reduce heat to low and simmer, stirring constantly, until the milk reduces to about one-third of its original volume and turns a light golden hue.",
+        "3. Add sugar and continue to stir until dissolved.",
+        "4. Stir in the cardamom powder, saffron strands soaked in a little milk, and rose water.",
+        "5. Turn off the heat and mix in the chopped nuts.",
+        "6. Allow the mixture to cool to room temperature.",
+        "7. Pour the mixture into traditional conical kulfi molds or small canisters.",
+        "8. Cover tightly and freeze for at least 8 hours until completely set.",
+        "9. Unmold by rubbing the container between your palms and serve chilled."
+    ],
+    "description": "Kulfi is an iconic frozen dairy dessert of Delhi, often referred to as traditional Indian ice cream. Unlike Western ice cream, Kulfi is not whipped, resulting in a dense, creamy texture. It is a staple of Delhi's street food culture, particularly in Old Delhi, where it is often served during hot summer evenings.",
+    "state": "Delhi",
+    "veg_or_non_veg": "Veg"
+}

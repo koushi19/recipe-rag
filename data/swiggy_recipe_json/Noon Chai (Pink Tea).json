@@ -1,0 +1,29 @@
+{
+    "name": "Noon Chai (Pink Tea)",
+    "url": "https://indianfoodmap.example.com/noon-chai-(pink-tea)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Kashmiri green tea leaves",
+        "Water",
+        "Baking soda",
+        "Ice-cold water",
+        "Full-fat milk",
+        "Salt",
+        "Crushed cardamom",
+        "Optional: Crushed almonds and pistachios for garnish"
+    ],
+    "instructions": [
+        "1. Boil water in a large pot (samovar or heavy pan) and add the green tea leaves and baking soda.",
+        "2. Boil until the water reduces significantly and turns dark red.",
+        "3. Add a splash of ice-cold water and whisk vigorously; repeat this aeration process until the color deepens.",
+        "4. Add fresh water and continue boiling until a thick, dark concentrate remains.",
+        "5. Strain the decoction and keep it aside.",
+        "6. To serve, heat the desired amount of concentrate, add full-fat milk, and simmer until it turns a light pink color.",
+        "7. Stir in salt to taste and garnish with crushed nuts if desired."
+    ],
+    "description": "Noon Chai is a signature Kashmiri beverage, integral to the social fabric of the region. Served traditionally in a samovar, this salty, pink-hued tea is a symbol of warmth and hospitality, typically enjoyed during breakfast or afternoon tea sessions with breads like Kulcha or Girda.",
+    "state": "Jammu and Kashmir",
+    "veg_or_non_veg": "Veg"
+}

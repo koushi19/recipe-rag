@@ -1,0 +1,33 @@
+{
+    "name": "Chicken Cafreal",
+    "url": "https://indianfoodmap.example.com/chicken-cafreal",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 kg chicken pieces",
+        "2 cups fresh coriander leaves",
+        "1 inch cinnamon stick",
+        "4-6 green chilies",
+        "1 tablespoon ginger-garlic paste",
+        "1 teaspoon cumin seeds",
+        "4-5 cloves",
+        "8-10 black peppercorns",
+        "1/2 teaspoon turmeric powder",
+        "2 tablespoons lime juice",
+        "1 teaspoon poppy seeds",
+        "2 tablespoons oil or ghee",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Blend coriander leaves, green chilies, ginger-garlic paste, cinnamon, cloves, cumin, peppercorns, poppy seeds, and turmeric with lime juice into a smooth green paste.",
+        "2. Marinate the chicken pieces in this green paste along with salt for at least 2 to 4 hours, preferably overnight.",
+        "3. Heat oil or ghee in a heavy-bottomed pan or skillet.",
+        "4. Place the chicken pieces in the pan and sear them on medium-high heat until browned.",
+        "5. Reduce the heat, cover, and cook until the chicken is tender and the marinade has formed a thick, aromatic coating.",
+        "6. Serve hot, garnished with lime wedges and onion rings."
+    ],
+    "description": "Chicken Cafreal is a spicy, herbaceous dish with roots in the African colonies of the Portuguese Empire, brought to Goa by African soldiers serving in the Portuguese army. It is a hallmark of Goan-Catholic cuisine, celebrated for its brilliant green color and bold, complex flavor profile.",
+    "state": "Goa",
+    "veg_or_non_veg": "Non-Veg"
+}

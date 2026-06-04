@@ -1,0 +1,36 @@
+{
+    "name": "Dahi Bara Aloo Dum",
+    "url": "https://indianfoodmap.example.com/dahi-bara-aloo-dum",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Urad dal (split black gram)",
+        "Rice flour",
+        "Curd (yogurt)",
+        "Boiled potatoes",
+        "Mustard seeds",
+        "Cumin seeds",
+        "Dry red chillies",
+        "Curry leaves",
+        "Ginger-garlic paste",
+        "Turmeric powder",
+        "Kashmiri red chilli powder",
+        "Garam masala",
+        "Tamarind pulp",
+        "Chopped onions",
+        "Coriander leaves",
+        "Sev (crispy chickpea noodles)",
+        "Black salt (bit noon)"
+    ],
+    "instructions": [
+        "1. Soak urad dal for 4-6 hours, grind to a smooth fluffy batter, and deep fry small portions into golden brown fritters.",
+        "2. Soak the fried fritters in warm water for 10 minutes, squeeze gently, then submerge them in spiced buttermilk seasoned with mustard seeds, curry leaves, and ginger.",
+        "3. Prepare the Aloo Dum by sautéing ginger-garlic paste, onions, and spices (turmeric, chilli powder, garam masala) before adding boiled potatoes and simmering with tamarind water.",
+        "4. To serve, place 3-4 dahi baras on a plate, pour a generous ladle of aloo dum over them.",
+        "5. Top with chopped onions, fresh coriander, sev, and a dash of black salt."
+    ],
+    "description": "Dahi Bara Aloo Dum is the hallmark of Odia street food, particularly famous in the city of Cuttack. It is a unique combination of cool, soothing dahi baras and spicy, tangy potato curry, reflecting the distinct flavor profiles of Eastern Indian cuisine.",
+    "state": "Odisha",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Balushahi",
+    "url": "https://indianfoodmap.example.com/balushahi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Maida (All-purpose flour)",
+        "Ghee (Clarified butter)",
+        "Curd (Yogurt)",
+        "Baking powder",
+        "Sugar",
+        "Water",
+        "Green cardamom powder",
+        "Oil for deep frying",
+        "Saffron strands (optional)"
+    ],
+    "instructions": [
+        "1. Prepare the dough by mixing maida, baking powder, ghee, and curd into a firm, non-kneaded mass. Let it rest for 30 minutes.",
+        "2. Divide the dough into small, thick discs and make a depression in the center using your thumb.",
+        "3. Prepare a thick sugar syrup (one-string consistency) with sugar, water, and cardamom powder.",
+        "4. Deep fry the discs in ghee or oil on very low heat until they turn golden brown and cook through to the center.",
+        "5. Immerse the warm fried Balushahi in the warm sugar syrup for 10-15 minutes, ensuring they absorb the sweetness.",
+        "6. Remove from the syrup and let them cool until the outer layer crystallizes."
+    ],
+    "description": "Balushahi is a hallmark of Bihari confectionery, often found in local sweet shops. It is cherished for its flaky, layered texture and dense, syrupy sweetness, making it a staple dessert during festivals, weddings, and traditional family gatherings.",
+    "state": "Bihar",
+    "veg_or_non_veg": "Veg"
+}

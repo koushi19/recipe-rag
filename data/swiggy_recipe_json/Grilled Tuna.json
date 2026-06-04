@@ -1,0 +1,30 @@
+{
+    "name": "Grilled Tuna",
+    "url": "https://indianfoodmap.example.com/grilled-tuna",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Fresh tuna fillets",
+        "Ginger-garlic paste",
+        "Tamarind pulp",
+        "Turmeric powder",
+        "Red chili powder",
+        "Green chilies",
+        "Coconut oil",
+        "Curry leaves",
+        "Sea salt",
+        "Black pepper"
+    ],
+    "instructions": [
+        "1. Clean the fresh tuna fillets and pat them dry.",
+        "2. Prepare a marinade by mixing ginger-garlic paste, turmeric, red chili powder, tamarind pulp, salt, and pepper.",
+        "3. Apply the marinade generously to the fish and let it rest for at least 30 minutes.",
+        "4. Heat coconut oil in a grill pan or prepare a charcoal grill.",
+        "5. Place the fish on the grill and cook for 4-5 minutes on each side until charred and cooked through.",
+        "6. Garnish with fresh curry leaves and serve hot with steamed rice."
+    ],
+    "description": "Grilled Tuna is a staple in the Andaman and Nicobar Islands, reflecting the region's abundant marine resources. The use of coconut oil and tamarind showcases the island's unique culinary fusion of coastal Indian flavors and local tropical ingredients, representing the simple yet soul-satisfying diet of the island's fishing communities.",
+    "state": "Andaman and Nicobar Islands",
+    "veg_or_non_veg": "Non-Veg"
+}

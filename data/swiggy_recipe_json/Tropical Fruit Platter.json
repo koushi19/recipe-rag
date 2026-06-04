@@ -1,0 +1,30 @@
+{
+    "name": "Tropical Fruit Platter",
+    "url": "https://indianfoodmap.example.com/tropical-fruit-platter",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Ripe Andaman Pineapple",
+        "Papaya",
+        "Banana (local Musa species)",
+        "Mango",
+        "Jackfruit",
+        "Black salt (Kala Namak)",
+        "Roasted cumin powder",
+        "Fresh lime juice",
+        "A pinch of chili powder"
+    ],
+    "instructions": [
+        "1. Thoroughly wash all fresh fruits under cold running water.",
+        "2. Peel the pineapple, papaya, and mango, removing any seeds or hard cores.",
+        "3. Cut all fruits into uniform, bite-sized cubes or wedges.",
+        "4. Arrange the fruits decoratively on a platter to showcase the vibrant colors.",
+        "5. In a small bowl, mix the black salt, roasted cumin powder, and a pinch of chili powder.",
+        "6. Drizzle fresh lime juice over the fruit platter just before serving.",
+        "7. Sprinkle the prepared spice mix evenly over the fruit to elevate the flavor profile."
+    ],
+    "description": "The Andaman and Nicobar Islands are rich in tropical biodiversity. This platter celebrates the bounty of the islands' fertile soil, offering a refreshing and healthy treat that highlights the unique, sweet flavor profiles of local fruits, traditionally spiced to provide a perfect balance of savory and sweet flavors typical of island hospitality.",
+    "state": "Andaman and Nicobar Islands",
+    "veg_or_non_veg": "Veg"
+}

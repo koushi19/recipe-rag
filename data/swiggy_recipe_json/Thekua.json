@@ -1,0 +1,30 @@
+{
+    "name": "Thekua",
+    "url": "https://indianfoodmap.example.com/thekua",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups whole wheat flour",
+        "1 cup jaggery (grated)",
+        "1/2 cup water",
+        "2 tablespoons grated coconut (dry)",
+        "1 tablespoon fennel seeds (saunf)",
+        "1/4 cup ghee",
+        "Oil or ghee for deep frying",
+        "1/2 teaspoon green cardamom powder"
+    ],
+    "instructions": [
+        "1. Dissolve the grated jaggery in water to create a syrup and strain it to remove impurities.",
+        "2. In a large bowl, mix wheat flour, grated coconut, fennel seeds, and cardamom powder.",
+        "3. Add melted ghee to the dry mixture and rub it with your fingers until the texture resembles breadcrumbs.",
+        "4. Gradually add the jaggery syrup to the flour mixture to form a very stiff, tight dough.",
+        "5. Divide the dough into small lemon-sized balls and press them onto a patterned wooden mold or a greased grater to create designs.",
+        "6. Heat oil or ghee in a deep pan over medium-low heat.",
+        "7. Deep fry the shaped dough pieces in batches until they turn deep golden brown and crispy.",
+        "8. Remove and let them cool completely, as they harden further while cooling."
+    ],
+    "description": "Thekua is a highly revered traditional snack in Jharkhand and the neighboring region of Bihar, popularly prepared during the Chhath Puja festival. It serves as a sacred offering (prasad) to the Sun God, known for its long shelf life and rustic, earthy sweetness.",
+    "state": "Jharkhand",
+    "veg_or_non_veg": "Veg"
+}

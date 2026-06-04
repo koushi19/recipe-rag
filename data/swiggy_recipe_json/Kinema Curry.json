@@ -1,0 +1,33 @@
+{
+    "name": "Kinema Curry",
+    "url": "https://indianfoodmap.example.com/kinema-curry",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "200g fermented soybean (Kinema)",
+        "2 medium tomatoes, chopped",
+        "1 large onion, finely chopped",
+        "2-3 green chilies, slit",
+        "1/2 tsp turmeric powder",
+        "1 tsp ginger-garlic paste",
+        "1/2 tsp red chili powder",
+        "2 tbsp mustard oil",
+        "Fresh coriander leaves for garnish",
+        "Salt to taste",
+        "Water as needed"
+    ],
+    "instructions": [
+        "1. Heat mustard oil in a pan until it smokes slightly.",
+        "2. Add chopped onions and green chilies, sautéing until the onions turn golden brown.",
+        "3. Stir in the ginger-garlic paste and cook for a minute.",
+        "4. Add chopped tomatoes, turmeric, and red chili powder, cooking until the tomatoes soften and oil separates.",
+        "5. Add the fermented kinema and mix well with the masala.",
+        "6. Pour in enough water to achieve a medium-thick curry consistency.",
+        "7. Simmer on low heat for 10-15 minutes until the flavors meld.",
+        "8. Garnish with fresh coriander and serve hot with steamed rice."
+    ],
+    "description": "Kinema is a traditional fermented soybean product that is a staple protein source in the Himalayan regions, particularly among the Limbu and Rai communities. It is highly valued for its distinct umami flavor, aroma, and probiotic health benefits, often served as a comforting daily meal alongside rice.",
+    "state": "Sikkim",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Chana Ghugni",
+    "url": "https://indianfoodmap.example.com/chana-ghugni",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups dried black chickpeas (kala chana), soaked overnight",
+        "2 medium onions, finely chopped",
+        "1 tablespoon ginger-garlic paste",
+        "2 medium tomatoes, finely chopped",
+        "1 teaspoon cumin seeds",
+        "1/2 teaspoon turmeric powder",
+        "1 teaspoon coriander powder",
+        "1 teaspoon red chili powder",
+        "1 teaspoon garam masala",
+        "2 tablespoons mustard oil",
+        "2 bay leaves",
+        "Fresh coriander leaves for garnish",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Pressure cook the soaked black chickpeas with water and a pinch of salt until soft and tender.",
+        "2. Heat mustard oil in a heavy-bottomed pan until it smokes slightly, then add cumin seeds and bay leaves.",
+        "3. Add chopped onions and sauté until golden brown.",
+        "4. Stir in the ginger-garlic paste and cook for a minute, then add tomatoes, turmeric, coriander, and chili powder.",
+        "5. Cook the masala until the oil separates from the sides.",
+        "6. Add the boiled chickpeas with their cooking water to the pan.",
+        "7. Simmer on low heat for 10-15 minutes until the gravy thickens.",
+        "8. Finish with garam masala and garnish generously with fresh coriander."
+    ],
+    "description": "Chana Ghugni is a quintessential Bihari street food, cherished as a hearty breakfast or an evening snack. It is often served with flattened rice (chura) or puffed rice (muri) and holds deep cultural roots as a quick, nutritious, and soul-satisfying comfort food found across Bihar's household kitchens and local food stalls.",
+    "state": "Bihar",
+    "veg_or_non_veg": "Veg"
+}

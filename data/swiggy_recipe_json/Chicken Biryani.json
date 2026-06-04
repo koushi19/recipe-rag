@@ -1,0 +1,29 @@
+{
+    "name": "Chicken Biryani",
+    "url": "https://indianfoodmap.example.com/chicken-biryani",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g Basmati rice",
+        "500g Chicken pieces",
+        "2 large onions, thinly sliced",
+        "200g yogurt",
+        "1 tbsp ginger-garlic paste",
+        "2 tomatoes, chopped",
+        "1 tsp turmeric powder",
+        "1 tbsp red chili powder",
+        "1 tbsp garam masala",
+        "Whole spices (bay leaf, cloves, cardamom, cinnamon sticks)",
+        "Fresh coriander and mint leaves",
+        "Saffron soaked in warm milk",
+        "Clarified butter (ghee)",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Marinate chicken with yogurt, ginger-garlic paste, salt, and spices for at least 1 hour. 2. Fry sliced onions until golden brown (birista). 3. Cook marinated chicken in a pan until half done. 4. Boil basmati rice with whole spices until 70% cooked. 5. In a heavy-bottomed pot, layer the chicken followed by rice, mint, coriander, fried onions, and saffron milk. 6. Seal the pot with dough or a tight lid and cook on low heat (dum) for 15-20 minutes."
+    ],
+    "description": "While Chandigarh is a planned city with a cosmopolitan food scene, Chicken Biryani here is heavily influenced by Punjabi culinary traditions, featuring bold spices, rich gravies, and a hearty serving style often accompanied by cooling raita.",
+    "state": "Chandigarh",
+    "veg_or_non_veg": "Non-Veg"
+}

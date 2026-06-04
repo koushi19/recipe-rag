@@ -1,0 +1,21 @@
+{
+    "name": "Crab Masala Fry",
+    "url": "https://indianfoodmap.example.com/crab-masala-fry",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Crab",
+        "Onions",
+        "Tomatoes",
+        "Ginger-garlic paste",
+        "Chili powder",
+        "Curry leaves"
+    ],
+    "instructions": [
+        "1. Clean crabs thoroughly. 2. Sauté onions and tomatoes with spices. 3. Add crabs and toss until well-coated and cooked."
+    ],
+    "description": "A spicy, flavorful coastal delicacy popular at street stalls and local eateries.",
+    "state": "Puducherry",
+    "veg_or_non_veg": "Non-Veg"
+}

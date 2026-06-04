@@ -1,0 +1,19 @@
+{
+    "name": "Ladakhi Mutton Sausage",
+    "url": "https://indianfoodmap.example.com/ladakhi-mutton-sausage",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Minced Mutton",
+        "Barley flour",
+        "Salt",
+        "Local spices"
+    ],
+    "instructions": [
+        "1. Mix minced meat with spices and flour. 2. Stuff into casings. 3. Steam or boil, then pan-fry before serving."
+    ],
+    "description": "Traditional sun-dried and spiced sausages, the preserved treasure of the winter pantry.",
+    "state": "Ladakh",
+    "veg_or_non_veg": "Non-Veg"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Bal Mithai",
+    "url": "https://indianfoodmap.example.com/bal-mithai",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Khoya (evaporated milk solids)",
+        "Sugar",
+        "Ghee",
+        "White sugar balls (traditional topping)",
+        "Cocoa powder (optional for coloring)"
+    ],
+    "instructions": [
+        "1. Heat a heavy-bottomed pan and add khoya, roasting it on low heat until it turns a deep brown color.",
+        "2. Add sugar to the roasted khoya and stir continuously until the mixture thickens and begins to leave the sides of the pan.",
+        "3. Pour the mixture into a greased tray and spread it evenly to a thickness of about an inch.",
+        "4. While the mixture is still slightly warm, cut it into square or rectangular cubes.",
+        "5. Press the white sugar balls firmly onto the surface of each piece.",
+        "6. Allow the mithai to cool completely and set before serving."
+    ],
+    "description": "Bal Mithai is a quintessential sweet from the Kumaon region of Uttarakhand, particularly famous in Almora. It is a brown, chocolate-colored fudge made from khoya, coated in crunchy white sugar balls. Historically, it was an offering to local deities and remains a beloved cultural symbol of the Himalayan mountain state.",
+    "state": "Uttarakhand",
+    "veg_or_non_veg": "Veg"
+}

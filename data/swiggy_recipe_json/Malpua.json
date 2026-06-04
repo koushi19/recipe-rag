@@ -1,0 +1,29 @@
+{
+    "name": "Malpua",
+    "url": "https://indianfoodmap.example.com/malpua",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Refined flour (maida)",
+        "Mashed ripe bananas",
+        "Milk",
+        "Sugar",
+        "Green cardamom powder",
+        "Fennel seeds (saunf)",
+        "Ghee for frying",
+        "Chopped dry fruits (almonds, cashews, pistachios)",
+        "Khoya (optional)"
+    ],
+    "instructions": [
+        "1. In a bowl, combine flour, mashed bananas, sugar, fennel seeds, and cardamom powder.",
+        "2. Gradually add milk to form a thick, smooth batter and let it rest for 30 minutes.",
+        "3. Heat ghee in a shallow pan.",
+        "4. Pour a ladleful of batter into the hot ghee to form small round pancakes.",
+        "5. Fry on medium heat until golden brown and crispy on both sides.",
+        "6. Remove and drain excess ghee, then optionally dip in warm sugar syrup before serving."
+    ],
+    "description": "Malpua is a traditional Bihari delicacy, often prepared during festivals like Holi and Diwali. It is celebrated for its soft, syrupy center and crispy edges, representing the warmth and hospitality of Bihari culinary traditions.",
+    "state": "Bihar",
+    "veg_or_non_veg": "Veg"
+}

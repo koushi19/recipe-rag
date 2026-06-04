@@ -1,0 +1,26 @@
+{
+    "name": "Rosogolla",
+    "url": "https://indianfoodmap.example.com/rosogolla",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 liter full-fat cow's milk",
+        "2 tablespoons lemon juice or vinegar",
+        "1 cup sugar",
+        "3 cups water",
+        "1/2 teaspoon cardamom powder",
+        "1 teaspoon rose water (optional)"
+    ],
+    "instructions": [
+        "1. Boil milk and add lemon juice to curdle it, then strain the whey using a muslin cloth.",
+        "2. Rinse the chenna with cold water, hang it to drain for 30 minutes, and knead it until smooth.",
+        "3. Shape the dough into small, crack-free balls.",
+        "4. Prepare a thin sugar syrup by boiling sugar, water, and cardamom powder in a wide pan.",
+        "5. Gently drop the chenna balls into the boiling syrup, cover, and cook for 15-20 minutes until they double in size.",
+        "6. Let them cool, add rose water if desired, and serve chilled or at room temperature."
+    ],
+    "description": "Rosogolla is the iconic syrupy dessert of West Bengal, often called the 'King of Bengali sweets.' It is a soft, spongy ball of chenna that represents the culinary heritage of the region and is an essential part of celebrations, festivals, and hospitality in Bengali culture.",
+    "state": "West Bengal",
+    "veg_or_non_veg": "Veg"
+}

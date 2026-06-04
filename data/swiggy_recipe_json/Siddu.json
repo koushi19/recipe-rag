@@ -1,0 +1,30 @@
+{
+    "name": "Siddu",
+    "url": "https://indianfoodmap.example.com/siddu",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Whole wheat flour",
+        "Yeast or sourdough starter",
+        "Poppy seeds (khus khus)",
+        "Walnuts",
+        "Paneer or mashed boiled potatoes",
+        "Green chilies",
+        "Ginger",
+        "Coriander leaves",
+        "Ghee",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Prepare a soft dough using whole wheat flour, yeast, and warm water; let it ferment for several hours until it doubles in size.",
+        "2. Prepare the filling by grinding soaked poppy seeds with walnuts, ginger, green chilies, and coriander, then mixing it with crumbled paneer or potatoes.",
+        "3. Roll small portions of the dough into flat discs and place a spoonful of the filling in the center.",
+        "4. Fold and seal the edges securely to give it a semi-circular, traditional shape.",
+        "5. Steam the stuffed dough pieces in a steamer or a traditional 'Siddu' container for 15-20 minutes until cooked through.",
+        "6. Serve hot, traditionally sliced and drizzled generously with melted ghee."
+    ],
+    "description": "Siddu is a beloved staple from the Kullu and Shimla regions of Himachal Pradesh. It is a labor-intensive dish often prepared during cold winters as it provides warmth and energy. It is considered a festive delicacy and holds deep cultural importance, often served as a main course with dal or meat gravy, representing the simple yet rich mountain lifestyle.",
+    "state": "Himachal Pradesh",
+    "veg_or_non_veg": "Veg"
+}

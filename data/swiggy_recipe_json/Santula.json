@@ -1,0 +1,32 @@
+{
+    "name": "Santula",
+    "url": "https://indianfoodmap.example.com/santula",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Raw papaya",
+        "Potato",
+        "Brinjal",
+        "Pumpkin",
+        "Pointed gourd (Parwal)",
+        "Raw banana",
+        "Green chilies",
+        "Mustard oil",
+        "Panch phoron (cumin, mustard, fennel, fenugreek, and nigella seeds)",
+        "Salt",
+        "Turmeric powder",
+        "Grated coconut (optional)"
+    ],
+    "instructions": [
+        "1. Chop all vegetables into medium-sized cubes.",
+        "2. Boil the vegetables with salt and turmeric in water until they are tender but not mushy.",
+        "3. Drain excess water if necessary or keep it as per preference for a stew-like consistency.",
+        "4. Heat mustard oil in a pan and add panch phoron and slit green chilies.",
+        "5. Once the spices splutter, add the boiled vegetables to the tempering.",
+        "6. Sauté for a few minutes to allow flavors to meld, add grated coconut if using, and serve hot."
+    ],
+    "description": "Santula is a nutritious and comforting vegetarian delicacy from Odisha. It is often prepared in Odia households as an everyday staple, favored for its simplicity, ease of digestion, and the use of minimal oil and spices, reflecting the authentic culinary ethos of the region.",
+    "state": "Odisha",
+    "veg_or_non_veg": "Veg"
+}

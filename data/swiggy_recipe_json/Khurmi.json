@@ -1,0 +1,26 @@
+{
+    "name": "Khurmi",
+    "url": "https://indianfoodmap.example.com/khurmi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Wheat flour",
+        "Jaggery (gur)",
+        "Ghee",
+        "Sesame seeds",
+        "Fennel seeds",
+        "Water"
+    ],
+    "instructions": [
+        "1. Dissolve jaggery in warm water to create a syrup and strain it to remove impurities.",
+        "2. In a bowl, mix wheat flour, sesame seeds, fennel seeds, and a few tablespoons of warm ghee.",
+        "3. Slowly add the jaggery syrup to the flour mixture to form a very stiff, tight dough.",
+        "4. Roll out the dough into a thick sheet and cut into desired shapes, typically diamonds or small squares.",
+        "5. Heat ghee in a heavy-bottomed pan and deep-fry the pieces on medium-low heat until they turn deep golden brown and crunchy.",
+        "6. Remove and let them cool completely; they will harden further as they set."
+    ],
+    "description": "Khurmi is a traditional, rustic sweet snack from Chhattisgarh, often prepared during festivals or kept as a long-lasting dry snack in rural households. It is appreciated for its simple ingredients, satisfying crunch, and long shelf life.",
+    "state": "Chhattisgarh",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Chuak (Rice Beer)",
+    "url": "https://indianfoodmap.example.com/chuak-(rice-beer)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Sticky rice (or Mami rice)",
+        "Water",
+        "Chharwi (Traditional starter cake made from wild herbs and roots)"
+    ],
+    "instructions": [
+        "1. Steam or boil the sticky rice until it is cooked but still firm.",
+        "2. Spread the rice on a clean surface or mat to cool down completely to room temperature.",
+        "3. Crush the Chharwi (herbal starter cake) into a fine powder.",
+        "4. Mix the powdered starter thoroughly into the cooled rice.",
+        "5. Transfer the mixture into an earthen pot (Muthu) and seal the lid tightly to prevent air entry.",
+        "6. Let the mixture ferment in a cool, dark place for 3 to 7 days.",
+        "7. Once fermentation is complete, extract the liquid, filter it, and serve chilled."
+    ],
+    "description": "Chuak is a traditional rice beer deeply ingrained in the culture of the Tripuri people. It is considered an essential part of religious rituals, community festivals, and social gatherings, symbolizing hospitality and the connection between the people and their ancestral lands.",
+    "state": "Tripura",
+    "veg_or_non_veg": "Veg"
+}

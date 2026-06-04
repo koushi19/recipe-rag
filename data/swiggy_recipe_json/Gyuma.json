@@ -1,0 +1,31 @@
+{
+    "name": "Gyuma",
+    "url": "https://indianfoodmap.example.com/gyuma",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Sheep or yak intestines",
+        "Minced sheep or yak meat",
+        "Roasted barley flour (Tsampa)",
+        "Animal blood (optional/traditional)",
+        "Finely chopped onions",
+        "Garlic",
+        "Ginger",
+        "Salt",
+        "Sichuan pepper",
+        "Local herbs"
+    ],
+    "instructions": [
+        "1. Thoroughly clean the intestines using water and salt to ensure they are ready for stuffing.",
+        "2. In a large bowl, mix the minced meat, roasted barley flour (Tsampa), onions, garlic, ginger, salt, and spices. If using blood, incorporate it slowly into the mixture.",
+        "3. Using a funnel or hand-stuffing technique, fill the clean intestines with the mixture, leaving space at the ends to tie them off.",
+        "4. Tie both ends of the stuffed intestines securely with thread.",
+        "5. Bring a large pot of water to a gentle boil and carefully place the sausages inside.",
+        "6. Simmer for 30-45 minutes until the casing is firm and the filling is fully cooked.",
+        "7. Remove, let cool, and slice into rounds before serving, often lightly pan-fried for extra texture."
+    ],
+    "description": "Gyuma is a quintessential Ladakhi delicacy, often prepared during winter months or festive occasions. It reflects the resourcefulness of high-altitude Himalayan cuisine, utilizing the entire animal to provide high-calorie, nourishing food that helps the local population survive the harsh, cold climate.",
+    "state": "Ladakh",
+    "veg_or_non_veg": "Non-Veg"
+}

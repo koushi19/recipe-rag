@@ -1,0 +1,28 @@
+{
+    "name": "Mitha Khaja",
+    "url": "https://indianfoodmap.example.com/mitha-khaja",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups refined wheat flour (maida)",
+        "4 tablespoons ghee (clarified butter)",
+        "1/2 cup water",
+        "1 cup sugar",
+        "1/2 cup water (for syrup)",
+        "2-3 green cardamom pods (crushed)",
+        "Oil or ghee for deep frying",
+        "A pinch of salt"
+    ],
+    "instructions": [
+        "1. Mix flour, salt, and melted ghee in a bowl, then add water gradually to form a stiff dough.",
+        "2. Divide the dough into small balls, roll each into thin circles, brush with ghee, dust with flour, and stack them together.",
+        "3. Roll the stack tightly into a cylinder, cut into small pieces, and flatten them slightly with a rolling pin.",
+        "4. Heat oil in a pan and deep-fry the pieces on medium-low heat until they become crispy and golden brown.",
+        "5. Prepare a one-string consistency sugar syrup by boiling sugar, water, and cardamom pods.",
+        "6. Dip the fried Khaja into the warm sugar syrup for a minute and let them cool on a rack to set."
+    ],
+    "description": "Mitha Khaja is a popular sweet treat in Jharkhand, often served during festivals, weddings, and special celebrations. It is cherished for its flaky, layered texture and its ability to stay fresh for several days, making it a staple in traditional Bihari and Jharkhandi households.",
+    "state": "Jharkhand",
+    "veg_or_non_veg": "Veg"
+}

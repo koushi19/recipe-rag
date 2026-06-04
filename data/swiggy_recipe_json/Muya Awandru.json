@@ -1,0 +1,28 @@
+{
+    "name": "Muya Awandru",
+    "url": "https://indianfoodmap.example.com/muya-awandru",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Bamboo shoot (Muya)",
+        "Rice flour (Awandru)",
+        "Green chilies",
+        "Garlic cloves",
+        "Berma (fermented dry fish)",
+        "Water",
+        "Salt",
+        "Fresh coriander leaves"
+    ],
+    "instructions": [
+        "1. Finely slice the tender bamboo shoots and boil them in a pot of water with crushed garlic and green chilies.",
+        "2. Once the bamboo shoots are tender, add the Berma and simmer until it dissolves completely to create a savory broth.",
+        "3. In a separate bowl, mix rice flour with a little water to form a smooth, lump-free slurry.",
+        "4. Gradually pour the rice flour mixture into the boiling bamboo stew while stirring constantly to prevent lumps.",
+        "5. Cook until the stew thickens to a gravy-like consistency.",
+        "6. Adjust salt, garnish with fresh coriander, and serve hot."
+    ],
+    "description": "Muya Awandru is a quintessential dish of the Tripuri community, celebrated for its unique earthy flavor derived from bamboo shoots and the pungent, savory depth of fermented dry fish (Berma). It represents the traditional indigenous cooking style of Northeast India, relying on forest-foraged ingredients.",
+    "state": "Tripura",
+    "veg_or_non_veg": "Non-Veg"
+}

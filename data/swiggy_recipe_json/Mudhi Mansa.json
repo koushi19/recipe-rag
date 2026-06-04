@@ -1,0 +1,35 @@
+{
+    "name": "Mudhi Mansa",
+    "url": "https://indianfoodmap.example.com/mudhi-mansa",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g mutton (goat meat) cut into medium pieces",
+        "2 cups puffed rice (Mudhi)",
+        "2 large onions, finely sliced",
+        "2 tablespoons ginger-garlic paste",
+        "1 cup tomato puree",
+        "1/2 teaspoon turmeric powder",
+        "1 teaspoon Kashmiri red chili powder",
+        "1 teaspoon coriander powder",
+        "1/2 teaspoon cumin powder",
+        "1 teaspoon garam masala",
+        "2 bay leaves",
+        "3 tablespoons mustard oil",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. Heat mustard oil in a pressure cooker until smoking, then add bay leaves and sliced onions. Sauté until golden brown.",
+        "2. Add ginger-garlic paste and cook for 2 minutes. Stir in turmeric, chili powder, coriander powder, and cumin powder.",
+        "3. Add the mutton pieces and sear them on medium-high heat until they turn brown and release their moisture.",
+        "4. Pour in the tomato puree and salt; sauté until the oil separates from the masala base.",
+        "5. Add a cup of water, cover the cooker, and pressure cook for 4-5 whistles or until the meat is tender.",
+        "6. Once the steam escapes, sprinkle garam masala and garnish with fresh coriander.",
+        "7. To serve, place a generous portion of puffed rice (Mudhi) in a bowl and ladle the hot, spicy mutton curry directly over it."
+    ],
+    "description": "Mudhi Mansa is the signature culinary delight of the Mayurbhanj district in Odisha. It combines the rustic crunch of puffed rice with a spicy, flavorful mutton curry. It is a popular street food and household comfort dish, often enjoyed during local festivals and social gatherings.",
+    "state": "Odisha",
+    "veg_or_non_veg": "Non-Veg"
+}

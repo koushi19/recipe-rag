@@ -1,0 +1,30 @@
+{
+    "name": "Thechwani",
+    "url": "https://indianfoodmap.example.com/thechwani",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Radish (Mooli)",
+        "Potatoes",
+        "Ginger",
+        "Green chilies",
+        "Coriander seeds",
+        "Mustard oil",
+        "Jambu (Himalayan aromatic herb)",
+        "Turmeric powder",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Wash and roughly chop the radish and potatoes. Use a mortar and pestle to coarsely crush the radish, potatoes, ginger, and green chilies together; this texture is key to the dish.",
+        "2. Heat mustard oil in a heavy-bottomed pan or iron kadhai until it smokes.",
+        "3. Add coriander seeds and dried Jambu to the oil for tempering.",
+        "4. Add the crushed mixture to the pan and sauté well on medium heat.",
+        "5. Add turmeric powder and salt, stirring until the raw smell fades.",
+        "6. Pour in enough water to submerge the mixture, cover, and cook on low heat until the vegetables are tender and the gravy has thickened.",
+        "7. Serve hot with steamed rice or mandua (finger millet) roti."
+    ],
+    "description": "Thechwani is a rustic, flavorful dish originating from the Garhwal and Kumaon regions of Uttarakhand. The name is derived from the word 'thechna', meaning to crush, referring to the traditional preparation method. It is highly valued for its simple yet robust profile and the use of indigenous herbs like Jambu, representing the sustainable, farm-to-table essence of Himalayan mountain cuisine.",
+    "state": "Uttarakhand",
+    "veg_or_non_veg": "Veg"
+}

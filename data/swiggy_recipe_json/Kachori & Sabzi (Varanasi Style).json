@@ -1,0 +1,36 @@
+{
+    "name": "Kachori & Sabzi (Varanasi Style)",
+    "url": "https://indianfoodmap.example.com/kachori-&-sabzi-(varanasi-style)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Maida (All-purpose flour)",
+        "Urad dal (Split black gram, soaked and coarsely ground)",
+        "Asafoetida (Hing)",
+        "Ginger-green chili paste",
+        "Fennel seeds (Saunf)",
+        "Coriander powder",
+        "Dry mango powder (Amchur)",
+        "Red chili powder",
+        "Garam masala",
+        "Potatoes (Boiled and mashed)",
+        "Tomato puree",
+        "Turmeric powder",
+        "Mustard oil",
+        "Cumin seeds",
+        "Fresh coriander leaves"
+    ],
+    "instructions": [
+        "1. Prepare the dough by mixing maida, salt, and oil, then kneading it into a firm dough and letting it rest.",
+        "2. Sauté the ground urad dal with hing, ginger-chili paste, fennel, and dry spices until dry to create the stuffing.",
+        "3. Roll small dough balls, fill with the dal mixture, seal, and flatten slightly.",
+        "4. Deep-fry the kachoris in medium-hot oil on low flame until golden and crispy.",
+        "5. For the sabzi, heat mustard oil, temper with cumin and hing, add ginger-chili paste and tomato puree.",
+        "6. Add mashed potatoes, water, turmeric, salt, and amchur; simmer until the curry thickens slightly and oil separates.",
+        "7. Serve hot, garnishing the sabzi with fresh coriander."
+    ],
+    "description": "Kachori and Sabzi is the quintessential breakfast of Varanasi. Often enjoyed on the bustling ghats or at legendary street-side shops, it represents the heart of Banarasi culinary culture, known for its deep, pungent use of spices and mustard oil, and its heritage as a staple 'Satvik' (without onion/garlic) meal.",
+    "state": "Uttar Pradesh",
+    "veg_or_non_veg": "Veg"
+}

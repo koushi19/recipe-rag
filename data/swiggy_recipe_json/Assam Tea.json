@@ -1,0 +1,25 @@
+{
+    "name": "Assam Tea",
+    "url": "https://indianfoodmap.example.com/assam-tea",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Assam black tea leaves (CTC or Orthodox)",
+        "Water",
+        "Fresh milk",
+        "Sugar (optional)",
+        "Crushed ginger (optional)",
+        "Green cardamom pods (optional)"
+    ],
+    "instructions": [
+        "1. Bring water to a rolling boil in a saucepan.",
+        "2. Add the tea leaves and optional spices like ginger or cardamom, allowing it to brew for 2-3 minutes to extract the deep color and flavor.",
+        "3. Add fresh milk to the saucepan and bring the mixture to a second boil.",
+        "4. Lower the heat and let it simmer for another minute until the color turns a rich golden-brown or mahogany.",
+        "5. Strain the tea into cups and add sugar to taste."
+    ],
+    "description": "Assam tea is globally renowned for its malty, brisk, and strong flavor profile. In its home state of Assam, it is more than just a beverage; it is a vital part of daily life and social hospitality, often enjoyed in its pure, strong form or as 'Masala Chai' to provide warmth and rejuvenation.",
+    "state": "Assam",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Kalari Kulcha",
+    "url": "https://indianfoodmap.example.com/kalari-kulcha",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Kalari (traditional Dogra ripened cheese)",
+        "Kulcha bread (leavened refined flour bun)",
+        "Butter or Ghee",
+        "Onions, finely chopped",
+        "Green chilies, finely chopped",
+        "Tomato, diced",
+        "Chaat masala",
+        "Red chili powder",
+        "Salt to taste",
+        "Coriander chutney for serving"
+    ],
+    "instructions": [
+        "1. Heat a non-stick pan or tawa over medium heat and add a small amount of butter or ghee.",
+        "2. Place the Kalari disc on the hot tawa and cook until it turns golden brown and crispy on the outside while melting slightly on the inside.",
+        "3. Sprinkle a little salt and red chili powder over the cheese while it cooks.",
+        "4. Slice the kulcha bun in half and lightly toast it on the pan with a bit of butter.",
+        "5. Place the cooked Kalari inside the toasted kulcha.",
+        "6. Top with chopped onions, tomatoes, green chilies, and a generous sprinkle of chaat masala.",
+        "7. Serve hot with a side of spicy coriander or mint chutney."
+    ],
+    "description": "Kalari, often referred to as the 'Mozzarella of Dogras', is a traditional ripened cheese from the Udhampur and Reasi regions of Jammu. This dish is a quintessential Jammu street food, celebrated for its unique chewy texture and savory flavor, often enjoyed as a hearty snack or breakfast.",
+    "state": "Jammu and Kashmir",
+    "veg_or_non_veg": "Veg"
+}

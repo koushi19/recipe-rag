@@ -1,0 +1,24 @@
+{
+    "name": "Pukhlein",
+    "url": "https://indianfoodmap.example.com/pukhlein",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Coarse rice flour",
+        "Jaggery",
+        "Water",
+        "Refined oil or mustard oil for deep frying"
+    ],
+    "instructions": [
+        "1. In a pan, melt the jaggery in a small amount of water to create a thick syrup.",
+        "2. Gradually add the coarse rice flour to the jaggery syrup, stirring continuously to form a thick, stiff dough.",
+        "3. Allow the dough to cool slightly, then shape it into small, flat round discs.",
+        "4. Heat oil in a heavy-bottomed pan or wok.",
+        "5. Deep-fry the discs in the hot oil on medium heat until they turn a deep golden brown and become crispy.",
+        "6. Remove from the oil and drain on paper towels before serving."
+    ],
+    "description": "Pukhlein is a popular sweet dish from the Khasi community of Meghalaya. It is often served during festivals, celebrations, and as a tea-time snack. Its simplicity highlights the staple use of rice in the region, transformed into a delicious, crunchy treat.",
+    "state": "Meghalaya",
+    "veg_or_non_veg": "Veg"
+}

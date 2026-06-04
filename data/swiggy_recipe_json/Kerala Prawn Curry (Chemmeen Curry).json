@@ -1,0 +1,35 @@
+{
+    "name": "Kerala Prawn Curry (Chemmeen Curry)",
+    "url": "https://indianfoodmap.example.com/kerala-prawn-curry-(chemmeen-curry)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g prawns, cleaned and deveined",
+        "1 cup coconut milk (thick and thin)",
+        "1 tbsp coconut oil",
+        "1 tsp mustard seeds",
+        "1/2 tsp fenugreek seeds",
+        "2 sprigs fresh curry leaves",
+        "1 inch ginger, julienned",
+        "4-5 cloves garlic, sliced",
+        "2 green chilies, slit",
+        "1 tsp turmeric powder",
+        "1 tbsp Kashmiri chili powder",
+        "1/2 tsp coriander powder",
+        "1 tbsp tamarind pulp (or kudampuli/Malabar tamarind)",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Heat coconut oil in a manchatti (clay pot) and splutter mustard seeds and fenugreek seeds.",
+        "2. Add curry leaves, sliced garlic, ginger, and green chilies; sauté until aromatic.",
+        "3. Lower the heat and add turmeric, chili powder, and coriander powder, stirring briefly without burning.",
+        "4. Pour in the thin coconut milk and tamarind pulp, bringing the mixture to a gentle boil.",
+        "5. Add the prawns and cook for 3-5 minutes until they turn pink and opaque.",
+        "6. Pour in the thick coconut milk, check salt, and simmer for one minute without letting it boil.",
+        "7. Remove from heat, drizzle a teaspoon of fresh coconut oil, and garnish with extra curry leaves before serving."
+    ],
+    "description": "Kerala Prawn Curry, locally known as Chemmeen Curry, is a hallmark of the state's coastal cuisine. It is deeply rooted in the fishing communities of Kerala, where the use of coconut, curry leaves, and the signature Malabar tamarind (kudampuli) creates a flavor profile that is both rustic and sophisticated. It is traditionally served with steamed red rice or appam.",
+    "state": "Kerala",
+    "veg_or_non_veg": "Non-Veg"
+}

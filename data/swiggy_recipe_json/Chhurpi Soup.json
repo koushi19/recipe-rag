@@ -1,0 +1,31 @@
+{
+    "name": "Chhurpi Soup",
+    "url": "https://indianfoodmap.example.com/chhurpi-soup",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "100g Chhurpi (traditional Sikkimese fermented cheese)",
+        "2 medium tomatoes, finely chopped",
+        "1 medium onion, finely chopped",
+        "2 cloves garlic, minced",
+        "1-2 green chillies, slit",
+        "1/2 teaspoon turmeric powder",
+        "1/2 teaspoon timur (Sichuan pepper)",
+        "Fresh coriander leaves for garnish",
+        "2 tablespoons vegetable oil or ghee",
+        "Salt to taste",
+        "3 cups water or vegetable stock"
+    ],
+    "instructions": [
+        "1. Heat oil or ghee in a heavy-bottomed pan and sauté the onions and garlic until translucent.",
+        "2. Add the chopped tomatoes, turmeric powder, and green chillies, cooking until the tomatoes soften into a pulp.",
+        "3. Add the broken pieces of Chhurpi and stir gently for a minute to release its flavor.",
+        "4. Pour in the water or stock and bring the mixture to a gentle boil.",
+        "5. Reduce the heat and let it simmer for 5-7 minutes until the Chhurpi softens and the soup thickens slightly.",
+        "6. Season with salt and crushed timur, then garnish with fresh coriander leaves before serving hot."
+    ],
+    "description": "Chhurpi soup is a staple in Sikkimese cuisine, reflecting the high-altitude lifestyle of the Himalayas. Made from fermented yak or cow milk cheese, this soup is prized for its unique tangy profile and high protein content, offering warmth and sustenance during the cold mountain winters.",
+    "state": "Sikkim",
+    "veg_or_non_veg": "Veg"
+}

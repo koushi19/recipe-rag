@@ -1,0 +1,33 @@
+{
+    "name": "Lemon Rice",
+    "url": "https://indianfoodmap.example.com/lemon-rice",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups cooked long-grain rice (cooled)",
+        "2 tbsp lemon juice",
+        "1 tsp mustard seeds",
+        "1 tsp chana dal (split chickpeas)",
+        "1 tsp urad dal (split black gram)",
+        "1/4 cup raw peanuts",
+        "2 sprigs curry leaves",
+        "2-3 green chilies (slit)",
+        "1/2 tsp turmeric powder",
+        "1/2 tsp asafoetida (hing)",
+        "2 tbsp sesame oil",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. Heat sesame oil in a pan and add mustard seeds; once they splutter, add chana dal, urad dal, and peanuts, roasting until golden.",
+        "2. Add green chilies, curry leaves, and asafoetida, sautéing for a few seconds.",
+        "3. Lower the heat, add turmeric powder and salt, then mix well.",
+        "4. Add the cooked rice and toss gently to ensure the grains are evenly coated with the tempering.",
+        "5. Turn off the heat and stir in the fresh lemon juice.",
+        "6. Garnish with fresh coriander leaves and serve warm or at room temperature."
+    ],
+    "description": "Known as 'Elumichai Sadam' in Tamil, this dish is a quintessential part of Tamil Nadu's culinary culture. It is a popular 'lunchbox' staple and is frequently prepared as a 'Prasadam' (offering) in temples, cherished for its simplicity, refreshing citrus flavor, and ability to stay fresh for long durations.",
+    "state": "Tamil Nadu",
+    "veg_or_non_veg": "Veg"
+}

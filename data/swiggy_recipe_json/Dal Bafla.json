@@ -1,0 +1,29 @@
+{
+    "name": "Dal Bafla",
+    "url": "https://indianfoodmap.example.com/dal-bafla",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Whole wheat flour (atta)",
+        "Semolina (rava)",
+        "Gram flour (besan)",
+        "Ghee",
+        "Turmeric powder",
+        "Carom seeds (ajwain)",
+        "Yogurt",
+        "Mixed lentils (toor, moong, chana)",
+        "Cumin seeds",
+        "Mustard seeds",
+        "Green chilies",
+        "Ginger-garlic paste",
+        "Asafoetida (hing)",
+        "Fresh coriander leaves"
+    ],
+    "instructions": [
+        "1. Prepare the dough by mixing wheat flour, semolina, besan, carom seeds, salt, turmeric, yogurt, and ghee. 2. Shape the dough into firm balls (baflas). 3. Boil the baflas in salted water until they float, then drain and pat dry. 4. Roast the boiled baflas on a grill or oven until the crust is golden and crispy. 5. Cook the lentils with turmeric and salt until soft. 6. Prepare a tempering (tadka) of ghee, cumin, mustard seeds, asafoetida, ginger-garlic, and green chilies. 7. Pour the tempering over the cooked dal. 8. Serve the hot baflas by dipping them in melted ghee, accompanied by the dal and spicy garlic chutney."
+    ],
+    "description": "Dal Bafla is a traditional and hearty dish from Madhya Pradesh, particularly popular in the Indore and Malwa regions. It is a nutritious comfort food often prepared during festivals and family gatherings, representing the rustic and flavorful culinary heritage of central India.",
+    "state": "Madhya Pradesh",
+    "veg_or_non_veg": "Veg"
+}

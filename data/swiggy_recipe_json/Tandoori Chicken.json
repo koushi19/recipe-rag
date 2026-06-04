@@ -1,0 +1,34 @@
+{
+    "name": "Tandoori Chicken",
+    "url": "https://indianfoodmap.example.com/tandoori-chicken",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 whole chicken (about 1.2 kg), skin removed, cut into pieces",
+        "1 cup thick plain yogurt (full-fat, hung for 2 hours to drain whey)",
+        "2 tablespoons ginger-garlic paste (freshly ground)",
+        "1 tablespoon Kashmiri red chili powder (for color, not heat)",
+        "1 teaspoon turmeric powder",
+        "1 teaspoon cumin powder (roasted and ground)",
+        "1 teaspoon garam masala (clove, cardamom, cinnamon blend)",
+        "1 tablespoon lemon juice (freshly squeezed)",
+        "2 tablespoons mustard oil (or vegetable oil, for marination)",
+        "1 teaspoon black salt (kala namak) or regular salt",
+        "2 tablespoons chickpea flour (besan), dry roasted until aromatic",
+        "Optional: a pinch of red food coloring (traditional, but can omit)",
+        "Fresh cilantro and lemon wedges for garnish"
+    ],
+    "instructions": [
+        "1. Pat chicken pieces dry and score deep slits (2-3 per piece) to allow marinade penetration.",
+        "2. In a bowl, whisk yogurt until smooth. Add ginger-garlic paste, chili powder, turmeric, cumin, garam masala, lemon juice, mustard oil, salt, and besan. Mix into a smooth paste. (If using food coloring, add now.)",
+        "3. Coat chicken thoroughly with marinade, massaging into slits. Cover and refrigerate for at least 6 hours (or overnight for deeper flavor).",
+        "4. Remove chicken from fridge 30 minutes before cooking. Preheat tandoor (or oven) to 450°F (230°C). If using oven, place a baking tray lined with foil on the bottom rack to catch drips.",
+        "5. Thread chicken pieces onto skewers (if available) or place directly on a wire rack set over a baking sheet. For extra smoke, place a small bowl of hot coals or a piece of charcoal in the oven (optional).",
+        "6. Cook for 25-30 minutes, turning once halfway, until charred in spots and internal temp reaches 165°F (74°C). For chargrill effect, broil for last 2 minutes.",
+        "7. Rest for 5 minutes, then brush with melted butter or ghee. Garnish with cilantro and lemon wedges. Serve hot with naan and mint chutney."
+    ],
+    "description": "A fiery, smoky embrace of yogurt-tenderized chicken, charred to perfection in the tandoor's ancient heat.",
+    "state": "Punjab",
+    "veg_or_non_veg": "Non-Veg"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Chilka Roti",
+    "url": "https://indianfoodmap.example.com/chilka-roti",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Rice flour",
+        "Chana dal (split Bengal gram)",
+        "Urad dal (split black gram)",
+        "Ginger paste",
+        "Green chillies",
+        "Cumin seeds",
+        "Salt to taste",
+        "Mustard oil for greasing",
+        "Water"
+    ],
+    "instructions": [
+        "1. Soak rice and both dals for 4-6 hours. 2. Grind them into a smooth, pourable batter and let it ferment slightly. 3. Add salt, cumin, ginger paste, and chopped green chillies to the batter. 4. Heat a flat pan or tawa and lightly grease it with mustard oil. 5. Pour a ladle of batter onto the center and spread it in a circular motion to make a thin roti. 6. Cook on medium heat until golden brown spots appear, then flip to cook the other side. 7. Serve hot with aloo dum or chutney."
+    ],
+    "description": "Chilka Roti is a traditional staple of the tribal communities of Jharkhand. It is often prepared during festivals like Karma and Sohrai. It is known for its unique texture—crispy on the edges and soft in the center—and is valued for its nutritional balance of carbohydrates and proteins.",
+    "state": "Jharkhand",
+    "veg_or_non_veg": "Veg"
+}

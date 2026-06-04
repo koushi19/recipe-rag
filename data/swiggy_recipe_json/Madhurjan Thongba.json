@@ -1,0 +1,34 @@
+{
+    "name": "Madhurjan Thongba",
+    "url": "https://indianfoodmap.example.com/madhurjan-thongba",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Besan (gram flour)",
+        "Milk",
+        "Cooking oil",
+        "Bay leaf",
+        "Cinnamon stick",
+        "Cardamom pods",
+        "Cumin seeds",
+        "Ginger paste",
+        "Turmeric powder",
+        "Red chili powder",
+        "Garam masala",
+        "Salt to taste",
+        "Water"
+    ],
+    "instructions": [
+        "1. Mix gram flour with a pinch of salt and water to form a firm dough, then shape into small, thin cylinders or bite-sized balls.",
+        "2. Deep-fry the gram flour pieces in oil until golden brown and set aside.",
+        "3. In a separate pan, heat oil and temper with cumin seeds, bay leaf, cinnamon, and cardamom.",
+        "4. Add ginger paste, turmeric, and chili powder, sautéing until fragrant.",
+        "5. Pour in the milk and bring to a gentle boil, ensuring it does not curdle.",
+        "6. Add the fried gram flour dumplings to the gravy and simmer until the dumplings absorb the liquid and soften.",
+        "7. Finish with a sprinkle of garam masala and serve hot."
+    ],
+    "description": "Madhurjan Thongba is a classic Manipuri vegetarian delicacy often served during religious ceremonies and feasts. It highlights the unique Manipuri culinary style of incorporating milk into savory curries, resulting in a creamy, mild, and comforting dish that pairs well with steamed rice.",
+    "state": "Manipur",
+    "veg_or_non_veg": "Veg"
+}

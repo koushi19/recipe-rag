@@ -1,0 +1,27 @@
+{
+    "name": "Qubani Ka Meetha",
+    "url": "https://indianfoodmap.example.com/qubani-ka-meetha",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "250g dried apricots (qubani)",
+        "1/2 cup sugar (adjust to taste)",
+        "2 cups water",
+        "1/4 teaspoon cardamom powder",
+        "1 tablespoon lemon juice",
+        "Blanched almonds (for garnish)",
+        "Fresh cream or malai (for serving)"
+    ],
+    "instructions": [
+        "1. Soak dried apricots in water overnight to soften them.",
+        "2. Pit the apricots, reserving the kernels if available, and place the fruit with the soaking water into a pan.",
+        "3. Add sugar and simmer on low heat until the apricots soften and the liquid thickens into a syrup.",
+        "4. Gently mash some of the apricots while leaving others whole for texture.",
+        "5. Stir in cardamom powder and lemon juice to balance the sweetness.",
+        "6. Let it cool, then garnish with blanched almonds and serve cold with a dollop of fresh cream or malai."
+    ],
+    "description": "Qubani Ka Meetha is an iconic Hyderabadi dessert, often synonymous with royal weddings and festive banquets. It originates from the Nizami cuisine of Hyderabad, Telangana, and is cherished for its rich, tangy-sweet flavor profile and velvety texture.",
+    "state": "Telangana",
+    "veg_or_non_veg": "Veg"
+}

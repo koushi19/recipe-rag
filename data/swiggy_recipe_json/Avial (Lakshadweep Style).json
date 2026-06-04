@@ -1,0 +1,33 @@
+{
+    "name": "Avial (Lakshadweep Style)",
+    "url": "https://indianfoodmap.example.com/avial-(lakshadweep-style)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Drumstick",
+        "Raw plantain",
+        "Yam",
+        "Carrot",
+        "Snake gourd",
+        "Fresh grated coconut",
+        "Green chilies",
+        "Cumin seeds",
+        "Turmeric powder",
+        "Curry leaves",
+        "Raw mango or tamarind pulp",
+        "Cold-pressed coconut oil",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Chop all vegetables into uniform batons and cook them in a clay pot with water, turmeric, and salt until tender.",
+        "2. Grind the grated coconut, cumin seeds, and green chilies into a coarse paste.",
+        "3. Add the coconut paste to the cooked vegetables and simmer for 2-3 minutes; do not overcook.",
+        "4. If using raw mango, add it during the boiling phase, or use a small amount of tamarind pulp for tanginess.",
+        "5. Remove from heat and drizzle generously with fresh raw coconut oil and garnish with a handful of fresh curry leaves.",
+        "6. Cover the pot for 10 minutes to allow the flavors to infuse before serving."
+    ],
+    "description": "Avial is a quintessential dish in the Lakshadweep islands, reflecting the influence of Kerala cuisine. It is a staple during festivals and community feasts, celebrated for its reliance on locally sourced island vegetables and the abundant supply of fresh coconut, which provides a rich, creamy base without the need for dairy.",
+    "state": "Lakshadweep",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Naivedyam",
+    "url": "https://indianfoodmap.example.com/naivedyam",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Gram flour (besan)",
+        "Pure ghee",
+        "Sugar",
+        "Cashews",
+        "Almonds",
+        "Raisins",
+        "Green cardamom powder",
+        "Edible camphor (pachai karpooram)"
+    ],
+    "instructions": [
+        "1. Roast the gram flour in pure ghee over low heat until it turns golden brown and aromatic.",
+        "2. In a separate pan, prepare a sugar syrup of one-string consistency.",
+        "3. Add the roasted flour to the sugar syrup, stirring continuously to avoid lumps.",
+        "4. Incorporate chopped cashews, almonds, raisins, cardamom powder, and a tiny pinch of edible camphor.",
+        "5. Once the mixture cools slightly, grease your palms with ghee and shape the mixture into firm, round laddus while warm."
+    ],
+    "description": "Naivedyam is famously associated with the Mahavir Mandir in Patna, Bihar. It is a traditional sweet offered to Lord Hanuman. The dish is unique for its distinctive aroma of edible camphor and its rich, ghee-laden texture, symbolizing purity and devotion.",
+    "state": "Bihar",
+    "veg_or_non_veg": "Veg"
+}

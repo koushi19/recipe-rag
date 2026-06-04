@@ -1,0 +1,32 @@
+{
+    "name": "Besan Masala Roti",
+    "url": "https://indianfoodmap.example.com/besan-masala-roti",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup wheat flour (atta)",
+        "1/2 cup gram flour (besan)",
+        "1 finely chopped onion",
+        "1 finely chopped green chili",
+        "1 tablespoon fresh coriander leaves",
+        "1/2 teaspoon carom seeds (ajwain)",
+        "1/2 teaspoon turmeric powder",
+        "1/2 teaspoon red chili powder",
+        "1 teaspoon dry pomegranate seeds (anardana) or amchur",
+        "Salt to taste",
+        "1 tablespoon ghee or oil",
+        "Warm water for kneading"
+    ],
+    "instructions": [
+        "1. In a large mixing bowl, combine wheat flour, gram flour, chopped onion, green chili, coriander, ajwain, turmeric, red chili powder, salt, and ghee.",
+        "2. Gradually add warm water to knead a firm, smooth dough and let it rest for 15 minutes.",
+        "3. Divide the dough into equal portions and roll them into thick, round discs.",
+        "4. Heat a tawa (griddle) over medium heat and place the roti on it.",
+        "5. Cook both sides until golden brown spots appear, applying a little ghee or butter.",
+        "6. Serve hot with a dollop of white butter (makkhan) or spicy mango pickle."
+    ],
+    "description": "Besan Masala Roti is a staple breakfast or meal in Haryanvi households. Known for being hearty and nutritious, it reflects the agrarian lifestyle of the state, traditionally served with a generous helping of homemade white butter or curd, providing energy for long days of physical labor.",
+    "state": "Haryana",
+    "veg_or_non_veg": "Veg"
+}

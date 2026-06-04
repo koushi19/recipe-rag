@@ -1,0 +1,31 @@
+{
+    "name": "Malpua with Rabri",
+    "url": "https://indianfoodmap.example.com/malpua-with-rabri",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup All-purpose flour (maida)",
+        "1/2 cup Semolina (rava)",
+        "1/2 cup Khoya (mawa)",
+        "1 cup Milk",
+        "1/2 tsp Fennel seeds (saunf) powder",
+        "1/4 tsp Green cardamom powder",
+        "Saffron strands",
+        "Ghee for deep frying",
+        "1 cup Sugar",
+        "1 liter Full-fat milk (for rabri)",
+        "Chopped almonds and pistachios for garnish"
+    ],
+    "instructions": [
+        "1. Prepare the rabri by simmering full-fat milk until reduced to one-third, adding sugar, cardamom, and saffron.",
+        "2. Create the batter by mixing flour, semolina, khoya, milk, fennel powder, and cardamom into a smooth, thick consistency.",
+        "3. Prepare a sugar syrup by boiling sugar and water until a single-thread consistency is reached.",
+        "4. Heat ghee in a flat pan and ladle small amounts of batter to form circular pancakes; fry until golden brown on both sides.",
+        "5. Immediately soak the hot malpuas in the sugar syrup for 2-3 minutes.",
+        "6. Serve warm malpuas topped with cold rabri and garnished with nuts."
+    ],
+    "description": "Malpua with Rabri is a royal delicacy often prepared during festivals like Holi and Diwali in Madhya Pradesh. It represents the rich culinary heritage of the region, combining the crispy, sweet texture of the fried pancake with the rich, creamy decadence of slow-cooked milk.",
+    "state": "Madhya Pradesh",
+    "veg_or_non_veg": "Veg"
+}

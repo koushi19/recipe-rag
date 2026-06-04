@@ -1,0 +1,30 @@
+{
+    "name": "Meat Pitha",
+    "url": "https://indianfoodmap.example.com/meat-pitha",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Rice flour",
+        "Minced mutton or chicken",
+        "Onion, finely chopped",
+        "Ginger-garlic paste",
+        "Green chilies",
+        "Turmeric powder",
+        "Coriander powder",
+        "Garam masala",
+        "Mustard oil",
+        "Salt to taste",
+        "Water"
+    ],
+    "instructions": [
+        "1. Prepare the filling by sautéing onions, ginger-garlic paste, and minced meat with turmeric, coriander, garam masala, and salt until cooked; let it cool.",
+        "2. Boil water with a pinch of salt and gradually stir in rice flour to form a soft, non-sticky dough.",
+        "3. Take a small portion of the dough, flatten it into a disc, place a spoonful of the meat mixture in the center, and fold it into a semi-circle or cylindrical shape.",
+        "4. Steam the shaped pithas in a steamer or a traditional vessel for 15-20 minutes until the outer layer is firm and translucent.",
+        "5. Serve hot as a snack or a meal."
+    ],
+    "description": "Meat Pitha is a rustic, hearty dish often prepared during festivals and winter months in the tribal regions of Jharkhand. It showcases the region's reliance on rice-based staples and locally sourced spices, reflecting the culinary heritage of the indigenous communities.",
+    "state": "Jharkhand",
+    "veg_or_non_veg": "Non-Veg"
+}

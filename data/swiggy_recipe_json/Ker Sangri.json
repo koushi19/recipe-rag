@@ -1,0 +1,33 @@
+{
+    "name": "Ker Sangri",
+    "url": "https://indianfoodmap.example.com/ker-sangri",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Dried Ker (caper berries)",
+        "Dried Sangri (desert beans)",
+        "Mustard oil",
+        "Asafoetida (hing)",
+        "Cumin seeds",
+        "Mustard seeds",
+        "Dried red chillies",
+        "Turmeric powder",
+        "Red chilli powder",
+        "Coriander powder",
+        "Amchur powder (dry mango powder)",
+        "Salt",
+        "Curd (optional, for texture)"
+    ],
+    "instructions": [
+        "1. Soak dried Ker and Sangri in water overnight or for at least 8 hours to rehydrate.",
+        "2. Rinse thoroughly and pressure cook them with a pinch of salt until tender.",
+        "3. Heat mustard oil in a pan until it smokes, then add hing, cumin, and mustard seeds.",
+        "4. Add dried red chillies and the boiled Ker and Sangri mixture.",
+        "5. Stir in the turmeric, red chilli, and coriander powders; cook on low heat for 5-7 minutes.",
+        "6. Add amchur powder and adjust salt, sautéing until the flavours are well incorporated."
+    ],
+    "description": "Ker Sangri is a quintessential Rajasthani dish, often referred to as the 'Desert Gold'. Born from the scarcity of fresh vegetables in the arid Thar Desert, it utilizes sun-dried ingredients that can be stored for long periods, reflecting the ingenuity of Marwari culinary traditions.",
+    "state": "Rajasthan",
+    "veg_or_non_veg": "Veg"
+}

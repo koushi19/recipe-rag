@@ -1,0 +1,32 @@
+{
+    "name": "Bedmi Poori & Sabzi",
+    "url": "https://indianfoodmap.example.com/bedmi-poori-&-sabzi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Coarse wheat flour (Atta)",
+        "Urad dal (soaked and ground)",
+        "Semolina (Sooji)",
+        "Fennel seeds (Saunf)",
+        "Coriander seeds (crushed)",
+        "Asafoetida (Hing)",
+        "Red chili powder",
+        "Ghee/Oil",
+        "Potatoes (boiled)",
+        "Ginger",
+        "Green chilies",
+        "Dry mango powder (Amchur)",
+        "Garam masala"
+    ],
+    "instructions": [
+        "1. Prepare the dough by mixing wheat flour, semolina, spices, and the coarse Urad dal paste. Let it rest for 30 minutes.",
+        "2. For the sabzi, heat oil, add hing, cumin, ginger, and green chilies. Add chopped tomatoes and cook until soft.",
+        "3. Add turmeric, red chili, coriander powder, and amchur. Stir in mashed potatoes and water, simmering until a thin gravy forms.",
+        "4. Divide the dough into small balls, roll into thick discs, and deep-fry in hot oil until golden brown and crispy.",
+        "5. Serve the hot, puffy poori with the spicy potato gravy."
+    ],
+    "description": "Bedmi Poori is a classic breakfast staple from the streets of Mathura, Agra, and Delhi. It is deeply rooted in North Indian culinary culture, often enjoyed as a hearty weekend meal or served during festive occasions, celebrated for its unique texture and bold, spicy flavor profile.",
+    "state": "Uttar Pradesh",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Kosha Mangsho",
+    "url": "https://indianfoodmap.example.com/kosha-mangsho",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 kg mutton (goat meat) on the bone",
+        "2 cups thinly sliced onions",
+        "1/2 cup mustard oil",
+        "1/2 cup yogurt (beaten)",
+        "2 tbsp ginger-garlic paste",
+        "2 large potatoes, halved",
+        "1 tsp turmeric powder",
+        "1 tsp Kashmiri red chili powder",
+        "1 tsp cumin powder",
+        "1 tsp coriander powder",
+        "Whole spices (2 bay leaves, 4 green cardamoms, 4 cloves, 1-inch cinnamon stick)",
+        "Salt to taste",
+        "1 tsp sugar (for caramelization)",
+        "1 cup warm water"
+    ],
+    "instructions": [
+        "1. Marinate the mutton with yogurt, ginger-garlic paste, turmeric, and a tablespoon of mustard oil for at least 2 hours.",
+        "2. Heat mustard oil in a heavy-bottomed pan and fry the potatoes until golden; remove and set aside.",
+        "3. In the same oil, add sugar and let it caramelize until deep brown, then add whole spices.",
+        "4. Sauté the sliced onions until soft and translucent.",
+        "5. Add the marinated mutton and cook on high heat, stirring continuously, to 'koshano' (sauté) the meat until it releases its juices and oil begins to separate.",
+        "6. Add the powdered spices (cumin, coriander, chili) and cook for another 10 minutes.",
+        "7. Pour in warm water, add the fried potatoes, cover, and cook on low heat until the meat is tender and the gravy is thick and dark.",
+        "8. Rest for 10 minutes before serving with luchi or basmati rice."
+    ],
+    "description": "Kosha Mangsho is an iconic Bengali delicacy, traditionally prepared during Sunday lunches or festivals like Durga Puja. The term 'Kosha' refers to the slow-frying technique of the spice base, resulting in a dark, succulent, and flavor-packed mutton dish that embodies the culinary heritage of Bengal.",
+    "state": "West Bengal",
+    "veg_or_non_veg": "Non-Veg"
+}

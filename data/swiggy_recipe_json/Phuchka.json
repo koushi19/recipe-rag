@@ -1,0 +1,31 @@
+{
+    "name": "Phuchka",
+    "url": "https://indianfoodmap.example.com/phuchka",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Semolina (sooji)",
+        "Whole wheat flour (atta)",
+        "Boiled potatoes",
+        "Boiled black chickpeas (kala chana)",
+        "Tamarind pulp",
+        "Roasted cumin powder",
+        "Black salt",
+        "Green chilies",
+        "Fresh coriander leaves",
+        "Red chili powder",
+        "Ginger paste",
+        "Chaat masala",
+        "Vegetable oil for deep frying"
+    ],
+    "instructions": [
+        "1. Knead semolina and flour into a stiff dough, roll into small thin discs, and deep-fry until they puff up into golden hollow spheres.",
+        "2. Mash boiled potatoes with black chickpeas, roasted cumin, black salt, red chili powder, ginger, and coriander to create the filling.",
+        "3. Prepare the tangy water by mixing tamarind pulp, water, black salt, cumin powder, and crushed green chilies.",
+        "4. Poke a hole in the center of the fried shell, stuff with the potato mixture, and dip into the spicy tamarind water before serving."
+    ],
+    "description": "Phuchka is the iconic street food of Kolkata, distinct from its counterparts in other regions due to the use of spicy, tangy tamarind water and a potato filling that is heavily spiced with roasted Bengal spices. It is a quintessential social snack often enjoyed at street-side stalls.",
+    "state": "West Bengal",
+    "veg_or_non_veg": "Veg"
+}

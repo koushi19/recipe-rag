@@ -1,0 +1,36 @@
+{
+    "name": "Pandi Curry (Coorg Pork Curry)",
+    "url": "https://indianfoodmap.example.com/pandi-curry-(coorg-pork-curry)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1kg Pork with fat",
+        "2 tbsp Kachampuli (Coorg vinegar)",
+        "2 tbsp Ghee",
+        "2 large onions, finely chopped",
+        "10 cloves garlic, minced",
+        "2 inch ginger, grated",
+        "3 green chillies, slit",
+        "1 tbsp red chilli powder",
+        "1 tsp turmeric powder",
+        "2 tbsp roasted mustard seeds powder",
+        "1 tbsp roasted coriander powder",
+        "1 tsp roasted cumin powder",
+        "1 tsp black pepper powder",
+        "10-12 curry leaves",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Marinate the cleaned pork cubes with salt, turmeric, and Kachampuli for at least 30 minutes.",
+        "2. Heat ghee in a heavy-bottomed pan or pressure cooker and sauté the onions, ginger, garlic, and green chillies until the onions turn golden brown.",
+        "3. Add the marinated pork and sear it on high heat for 5-7 minutes.",
+        "4. Add the spice powders (chilli, coriander, cumin, pepper, and mustard) and curry leaves, stirring well to coat the meat.",
+        "5. Add a little water, cover, and cook until the pork is tender (about 3-4 whistles if using a pressure cooker).",
+        "6. Remove the lid and simmer on low heat until the gravy thickens and the oil separates from the sides.",
+        "7. Serve hot with Kadambuttu (steamed rice balls) or akki otti."
+    ],
+    "description": "Pandi Curry is the iconic dish of the Kodava community in Coorg. It is synonymous with the region's identity and is traditionally prepared during weddings, festivals, and special celebrations. The key ingredient, Kachampuli, extracted from the fruit of the Garcinia gummi-gutta tree, provides the curry with its distinct dark color and sharp, tart flavor profile.",
+    "state": "Karnataka",
+    "veg_or_non_veg": "Non-Veg"
+}

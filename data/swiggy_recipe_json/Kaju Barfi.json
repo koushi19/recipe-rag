@@ -1,0 +1,19 @@
+{
+    "name": "Kaju Barfi",
+    "url": "https://indianfoodmap.example.com/kaju-barfi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Cashew nuts",
+        "Sugar",
+        "Ghee",
+        "Silver Vark"
+    ],
+    "instructions": [
+        "1. Grind cashews into a fine powder. 2. Cook with sugar syrup until a dough forms. 3. Roll out and cut into diamonds."
+    ],
+    "description": "Elegant cashew diamonds with a hint of silver, a staple for every celebration.",
+    "state": "Chandigarh",
+    "veg_or_non_veg": "Veg"
+}

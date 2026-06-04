@@ -1,0 +1,29 @@
+{
+    "name": "Enduri Pitha",
+    "url": "https://indianfoodmap.example.com/enduri-pitha",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Parboiled rice (soaked)",
+        "Black gram (urad dal, soaked)",
+        "Freshly grated coconut",
+        "Jaggery (gur)",
+        "Black pepper powder",
+        "Crushed green cardamom",
+        "Turmeric leaves (for aroma and wrapping)",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Grind the soaked rice and black gram into a smooth, slightly thick batter and allow it to ferment for a few hours.",
+        "2. Prepare the filling by cooking grated coconut and jaggery in a pan until thick, then season with cardamom and black pepper.",
+        "3. Take a fresh, clean turmeric leaf and spread a portion of the batter thinly over it.",
+        "4. Place a spoonful of the coconut-jaggery mixture in the center of the batter.",
+        "5. Fold the leaf in half to seal the batter inside, creating a pouch.",
+        "6. Steam the wrapped pithas in a steamer or idli cooker for 15-20 minutes until the batter is cooked through.",
+        "7. Remove the leaves before serving warm."
+    ],
+    "description": "Enduri Pitha is a traditional delicacy from Odisha, primarily prepared during the Prathamastami festival. The use of turmeric leaves gives the dish a distinct, medicinal aroma and flavor, making it a beloved seasonal comfort food.",
+    "state": "Odisha",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Udupi Sambar",
+    "url": "https://indianfoodmap.example.com/udupi-sambar",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Toor dal",
+        "Mixed vegetables (drumstick, pumpkin, carrot, beans)",
+        "Fresh coconut",
+        "Coriander seeds",
+        "Dried red chilies",
+        "Fenugreek seeds",
+        "Cumin seeds",
+        "Urad dal",
+        "Tamarind extract",
+        "Jaggery",
+        "Curry leaves",
+        "Mustard seeds",
+        "Asafoetida",
+        "Turmeric powder",
+        "Coconut oil"
+    ],
+    "instructions": [
+        "1. Pressure cook toor dal with turmeric until soft. 2. Boil chopped vegetables in water with salt, turmeric, and tamarind extract. 3. Roast coriander seeds, fenugreek, cumin, and red chilies in oil, then grind with fresh coconut into a smooth paste. 4. Add the cooked dal and the ground spice paste to the boiling vegetables. 5. Add a small piece of jaggery and simmer for 10 minutes. 6. Prepare a tempering by heating coconut oil, spluttering mustard seeds, and adding curry leaves and asafoetida. 7. Pour the tempering over the sambar and serve hot."
+    ],
+    "description": "Originating from the Udupi region of Karnataka, this sambar is a staple of Udupi cuisine. It is culturally significant for its use of freshly ground coconut masala, distinguishing it from other South Indian sambars, and is commonly served with idli, vada, or steamed rice in traditional vegetarian households and temples.",
+    "state": "Karnataka",
+    "veg_or_non_veg": "Veg"
+}

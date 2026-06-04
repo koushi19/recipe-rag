@@ -1,0 +1,34 @@
+{
+    "name": "Dum Aloo (Kashmiri Style)",
+    "url": "https://indianfoodmap.example.com/dum-aloo-(kashmiri-style)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Baby potatoes",
+        "Mustard oil",
+        "Kashmiri red chili powder",
+        "Dried ginger powder (Sonth)",
+        "Fennel seed powder (Saunf)",
+        "Asafoetida (Hing)",
+        "Yogurt (Dahi)",
+        "Cinnamon stick",
+        "Green cardamom",
+        "Black cardamom",
+        "Cloves",
+        "Cumin seeds",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Parboil the baby potatoes, peel them, and prick them all over using a fork.",
+        "2. Heat mustard oil in a heavy-bottomed pan and deep-fry the potatoes until they turn golden brown and crisp. Remove and drain.",
+        "3. In a bowl, whisk the yogurt with Kashmiri red chili powder, ginger powder, and fennel seed powder.",
+        "4. In the same pan with a little oil, temper the asafoetida and whole spices (cardamoms, cinnamon, cloves, cumin).",
+        "5. Reduce the heat and slowly pour in the yogurt mixture, stirring constantly to prevent curdling.",
+        "6. Add the fried potatoes to the gravy, season with salt, and cover tightly (dum).",
+        "7. Simmer on very low heat for 15-20 minutes until the oil separates and potatoes absorb the flavors."
+    ],
+    "description": "Dum Aloo is a signature Kashmiri Pandit delicacy, traditionally prepared for festive occasions and weddings. It is renowned for its signature red hue, derived from Kashmiri chilies, and the distinct aromatic profile of fennel and dried ginger.",
+    "state": "Jammu and Kashmir",
+    "veg_or_non_veg": "Veg"
+}

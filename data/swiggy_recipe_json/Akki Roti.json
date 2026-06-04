@@ -1,0 +1,29 @@
+{
+    "name": "Akki Roti",
+    "url": "https://indianfoodmap.example.com/akki-roti",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Rice flour",
+        "Finely chopped onions",
+        "Finely chopped dill leaves (sabsige soppu)",
+        "Grated carrot",
+        "Finely chopped green chilies",
+        "Cumin seeds",
+        "Salt",
+        "Warm water",
+        "Oil or ghee for cooking"
+    ],
+    "instructions": [
+        "1. In a large mixing bowl, combine rice flour, chopped onions, dill leaves, grated carrot, green chilies, cumin seeds, and salt.",
+        "2. Gradually add warm water and knead into a soft, non-sticky dough.",
+        "3. Grease a flat pan (tawa) or a banana leaf with oil.",
+        "4. Take a ball-sized portion of the dough and pat it evenly with wet fingers into a thin, circular roti directly on the pan.",
+        "5. Make a small hole in the center of the roti, drizzle a little oil around it, and cook on medium heat covered with a lid.",
+        "6. Flip and cook until golden brown spots appear on both sides."
+    ],
+    "description": "Akki Roti is a staple breakfast dish from Karnataka, known for its unique texture and healthy combination of rice flour and fresh greens. It is traditionally served hot with spicy coconut chutney or butter.",
+    "state": "Karnataka",
+    "veg_or_non_veg": "Veg"
+}

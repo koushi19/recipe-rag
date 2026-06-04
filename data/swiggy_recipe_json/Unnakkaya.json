@@ -1,0 +1,27 @@
+{
+    "name": "Unnakkaya",
+    "url": "https://indianfoodmap.example.com/unnakkaya",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Ripe Nendran bananas",
+        "Grated coconut",
+        "Sugar",
+        "Ghee",
+        "Cardamom powder",
+        "Cashew nuts",
+        "Raisins",
+        "Coconut oil for deep frying"
+    ],
+    "instructions": [
+        "1. Steam the ripe Nendran bananas until soft, peel them, remove the central seeds, and mash them into a smooth dough.",
+        "2. Prepare the filling by sautéing grated coconut in ghee, adding sugar, cardamom powder, chopped cashews, and raisins until golden and caramelized.",
+        "3. Grease your palms with a little ghee, take a portion of the banana dough, and flatten it into an oval shape.",
+        "4. Place a spoonful of the coconut filling in the center and fold the edges to seal, shaping it into a spindle or cigar shape.",
+        "5. Heat coconut oil in a deep pan and fry the Unnakkaya until they turn golden brown and crispy on the outside."
+    ],
+    "description": "Unnakkaya is a popular sweet snack originating from the Malabar region of Kerala. It is synonymous with festive occasions, particularly during the holy month of Ramadan, and is prized for its unique spindle shape and the delicate balance between the sweetness of the banana dough and the rich, nutty coconut filling.",
+    "state": "Kerala",
+    "veg_or_non_veg": "Veg"
+}

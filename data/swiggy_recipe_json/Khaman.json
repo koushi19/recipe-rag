@@ -1,0 +1,34 @@
+{
+    "name": "Khaman",
+    "url": "https://indianfoodmap.example.com/khaman",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups gram flour (besan)",
+        "1/2 cup yogurt (curd)",
+        "1 tablespoon ginger-green chili paste",
+        "1 teaspoon citric acid or lemon juice",
+        "1/2 teaspoon turmeric powder",
+        "1 teaspoon fruit salt (Eno)",
+        "1/2 teaspoon mustard seeds",
+        "1 teaspoon sesame seeds",
+        "2-3 whole green chilies",
+        "Fresh coriander leaves",
+        "Grated coconut for garnish",
+        "Sugar and salt to taste",
+        "Water as needed"
+    ],
+    "instructions": [
+        "1. Whisk gram flour, yogurt, turmeric, salt, sugar, and water to create a smooth batter.",
+        "2. Add the ginger-green chili paste and citric acid, mixing thoroughly.",
+        "3. Just before steaming, add fruit salt (Eno) and a splash of water to activate the bubbles, then fold gently.",
+        "4. Pour the batter into a greased steaming tray and steam for 15-20 minutes until a toothpick comes out clean.",
+        "5. Once cooled, cut into squares.",
+        "6. For the tempering, heat oil in a small pan, add mustard seeds, sesame seeds, and green chilies, then pour this mixture over the steamed squares along with a little sugar water.",
+        "7. Garnish with fresh coriander and grated coconut."
+    ],
+    "description": "Khaman is a quintessentially Gujarati snack, beloved for its soft, spongy texture and balance of sweet, tangy, and savory flavors. It is a staple at breakfast or tea time and represents the diverse vegetarian culinary heritage of Gujarat.",
+    "state": "Gujarat",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Tilgur (Til Ladoo)",
+    "url": "https://indianfoodmap.example.com/tilgur-(til-ladoo)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups White sesame seeds (Til)",
+        "1.5 cups Jaggery (Gud), grated",
+        "1 tsp Cardamom powder",
+        "1 tbsp Ghee",
+        "1/4 cup Roasted peanuts (crushed, optional)",
+        "2 tbsp Water"
+    ],
+    "instructions": [
+        "1. Dry roast the sesame seeds in a heavy-bottomed pan on low heat until they turn aromatic and slightly golden, then set aside.",
+        "2. In the same pan, heat ghee and add the grated jaggery along with a tablespoon of water.",
+        "3. Melt the jaggery on low heat until it reaches a 'soft-ball' consistency (test by dropping a small amount in cold water; it should form a pliable ball).",
+        "4. Add cardamom powder and the roasted sesame seeds (and peanuts if using) to the syrup.",
+        "5. Mix quickly and remove from heat.",
+        "6. Grease your palms with a little ghee or water and shape the mixture into round ladoos while it is still warm."
+    ],
+    "description": "Tilgur is a quintessential festive sweet in Chhattisgarh, especially prepared during Makar Sankranti. It is highly valued for its health benefits during the winter season, as sesame seeds and jaggery are known to provide warmth and essential nutrients to the body.",
+    "state": "Chhattisgarh",
+    "veg_or_non_veg": "Veg"
+}

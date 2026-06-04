@@ -1,0 +1,24 @@
+{
+    "name": "Amrusu",
+    "url": "https://indianfoodmap.example.com/amrusu",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Rice (sticky rice or local red rice)",
+        "Chicken pieces (traditionally with bone)",
+        "Dried meat (smoked pork or chicken)",
+        "Fresh ginger",
+        "Garlic",
+        "Green chilies",
+        "Rice flour (for thickening)",
+        "Salt",
+        "Spring onions (for garnish)"
+    ],
+    "instructions": [
+        "1. Soak the rice for 30 minutes. 2. In a large pot, boil the chicken and smoked meat with salt and water until tender. 3. Add the soaked rice to the boiling broth and stir continuously to prevent sticking. 4. Incorporate crushed ginger, garlic, and slit green chilies. 5. Once the rice softens and breaks down, stir in the rice flour mixed with a little water to thicken the consistency. 6. Simmer on low heat until the mixture is creamy and smooth. 7. Garnish with chopped spring onions and serve hot."
+    ],
+    "description": "Amrusu is a comforting and nutritious traditional Naga porridge often served as a wholesome meal. It highlights the Naga culinary preference for simple, boiled preparations that rely on the freshness of ingredients and the distinct flavor of smoked meats.",
+    "state": "Nagaland",
+    "veg_or_non_veg": "Non-Veg"
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Goan Fish Curry (Xitt Kodi)",
+    "url": "https://indianfoodmap.example.com/goan-fish-curry-(xitt-kodi)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g firm white fish (Kingfish or Pomfret), sliced",
+        "1 cup freshly grated coconut",
+        "4-5 dried Kashmiri red chilies",
+        "1 tsp coriander seeds",
+        "1/2 tsp cumin seeds",
+        "1/4 tsp turmeric powder",
+        "4-5 cloves of garlic",
+        "1 small ball of tamarind (marble-sized)",
+        "2 green chilies, slit",
+        "1 medium onion, finely chopped",
+        "2 tbsp coconut oil",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. Soak the tamarind in warm water and extract the pulp.",
+        "2. Grind the grated coconut, red chilies, coriander seeds, cumin seeds, garlic, and turmeric into a very smooth paste adding minimal water.",
+        "3. Heat coconut oil in a clay pot (manchatti) or heavy-bottomed pan and sauté the onions and green chilies until translucent.",
+        "4. Add the ground masala paste and cook for 2-3 minutes until fragrant.",
+        "5. Add the tamarind extract and enough water to reach desired consistency, bringing the gravy to a gentle simmer.",
+        "6. Slide the fish pieces into the simmering curry and cook for 5-7 minutes until the fish is opaque and tender.",
+        "7. Adjust salt, garnish with fresh coriander, and serve hot with steamed rice."
+    ],
+    "description": "Xitt Kodi, meaning 'Rice and Curry' in Konkani, is the soul food of Goa. It reflects the region's coastal identity, blending the heat of dried chilies with the creaminess of coconut and the sharp tang of tamarind, embodying the harmony between the sea and local spice harvests.",
+    "state": "Goa",
+    "veg_or_non_veg": "Non-Veg"
+}

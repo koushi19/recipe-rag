@@ -1,0 +1,32 @@
+{
+    "name": "Seekh Kebab",
+    "url": "https://indianfoodmap.example.com/seekh-kebab",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g minced mutton (keema)",
+        "2 tbsp ginger-garlic paste",
+        "1 medium onion finely chopped",
+        "2 tbsp roasted gram flour (besan)",
+        "1 tsp red chili powder",
+        "1 tsp garam masala",
+        "1/2 tsp cumin powder",
+        "1/2 tsp coriander powder",
+        "2 tbsp fresh coriander leaves",
+        "1 tbsp lemon juice",
+        "2 tbsp ghee or butter",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. In a large mixing bowl, combine minced mutton with ginger-garlic paste, onions, spices, lemon juice, and roasted gram flour.",
+        "2. Knead the mixture thoroughly until it becomes smooth and holds its shape.",
+        "3. Grease your palms and take a portion of the mixture, pressing it firmly onto a metal skewer to form a long cylindrical shape.",
+        "4. Heat a tandoor or a grill pan and brush with ghee.",
+        "5. Cook the kebabs, rotating them frequently until they turn golden brown and develop a slight char.",
+        "6. Serve hot with mint chutney, onion rings, and lemon wedges."
+    ],
+    "description": "While the Seekh Kebab has roots in Mughlai cuisine, it is a beloved staple in the culinary landscape of Madhya Pradesh, especially in cities like Bhopal. Influenced by the state's royal heritage, these kebabs are celebrated for their melt-in-the-mouth texture and the balanced infusion of local earthy spices.",
+    "state": "Madhya Pradesh",
+    "veg_or_non_veg": "Non-Veg"
+}

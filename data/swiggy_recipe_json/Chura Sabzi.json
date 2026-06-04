@@ -1,0 +1,29 @@
+{
+    "name": "Chura Sabzi",
+    "url": "https://indianfoodmap.example.com/chura-sabzi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Fermented yak milk cheese (Chura)",
+        "Local green chilies",
+        "Onions",
+        "Tomatoes",
+        "Ginger-garlic paste",
+        "Turmeric powder",
+        "Salt to taste",
+        "Water",
+        "Oil"
+    ],
+    "instructions": [
+        "1. Heat oil in a pan and sauté finely chopped onions, ginger, and garlic until golden brown.",
+        "2. Add chopped tomatoes, turmeric, and local green chilies, cooking until the tomatoes soften.",
+        "3. Add the crumbled fermented yak cheese (Chura) into the mixture.",
+        "4. Pour in a little water to adjust the consistency to a thick gravy.",
+        "5. Simmer on low heat until the cheese melts and blends with the spices.",
+        "6. Season with salt and serve hot with steamed rice."
+    ],
+    "description": "Chura Sabzi is a quintessential dish of the Monpa tribe in Arunachal Pradesh. It highlights the use of yak milk products, which are vital to the high-altitude lifestyle of the region. The dish is known for its intense, pungent flavor profile derived from the fermented cheese and is a comforting staple during cold weather.",
+    "state": "Arunachal Pradesh",
+    "veg_or_non_veg": "Veg"
+}

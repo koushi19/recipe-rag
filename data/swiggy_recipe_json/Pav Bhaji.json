@@ -1,0 +1,34 @@
+{
+    "name": "Pav Bhaji",
+    "url": "https://indianfoodmap.example.com/pav-bhaji",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Boiled and mashed potatoes",
+        "Finely chopped onions",
+        "Finely chopped tomatoes",
+        "Green peas",
+        "Cauliflower",
+        "Ginger-garlic paste",
+        "Pav bhaji masala",
+        "Kashmiri red chili powder",
+        "Turmeric powder",
+        "Butter",
+        "Fresh coriander leaves",
+        "Lemon wedges",
+        "Pav (soft bread rolls)"
+    ],
+    "instructions": [
+        "1. Heat butter in a large pan and sauté onions until translucent.",
+        "2. Add ginger-garlic paste and sauté until raw smell disappears.",
+        "3. Add tomatoes, salt, and spices including pav bhaji masala and chili powder; cook until soft.",
+        "4. Add boiled, mashed vegetables and water; mash everything together thoroughly using a potato masher.",
+        "5. Simmer the mixture with a generous dollop of butter until it reaches a thick, uniform consistency.",
+        "6. Slice pav, butter them, and toast on a hot griddle.",
+        "7. Serve the bhaji hot, garnished with butter, coriander, and onion rings, with pav on the side."
+    ],
+    "description": "Originating from the streets of Mumbai in the 1850s, Pav Bhaji was initially created as a quick and affordable lunch for textile mill workers. It has since become one of the most iconic and beloved street foods across India, celebrated for its buttery, spiced complexity and soul-warming comfort.",
+    "state": "Maharashtra",
+    "veg_or_non_veg": "Veg"
+}

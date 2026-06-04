@@ -1,0 +1,33 @@
+{
+    "name": "Bedmi Poori & Nagori Halwa",
+    "url": "https://indianfoodmap.example.com/bedmi-poori-&-nagori-halwa",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Coarsely ground urad dal",
+        "Whole wheat flour (Atta)",
+        "Semolina (Sooji)",
+        "Fennel seeds",
+        "Asafoetida (Hing)",
+        "Ginger-green chili paste",
+        "Coriander powder",
+        "Red chili powder",
+        "Carom seeds (Ajwain)",
+        "Ghee",
+        "Refined oil for deep frying",
+        "Sugar",
+        "Dry fruits (cashews/almonds)"
+    ],
+    "instructions": [
+        "1. Soak urad dal, grind coarsely, and sauté with spices like hing and fennel to make the stuffing.",
+        "2. Mix whole wheat flour with a little oil and salt to knead a firm dough; stuff the dal mixture into small dough balls.",
+        "3. Roll out the stuffed dough into thick discs and deep-fry until golden and crispy.",
+        "4. Prepare the Nagori by kneading a stiff dough of sooji and flour, rolling small discs, and frying them until crunchy.",
+        "5. Prepare the Halwa by roasting sooji in ghee, adding sugar syrup and dry fruits.",
+        "6. Serve the hot Bedmi poori with a spicy aloo tamatar curry and the crunchy Nagori with the sweet halwa."
+    ],
+    "description": "Bedmi Poori and Nagori Halwa is a legendary breakfast staple from Old Delhi. The contrast between the savory, spicy, lentil-stuffed pooris and the sweet, crunchy Nagori halwa represents the rich, indulgent culinary heritage of Delhi street food culture.",
+    "state": "Delhi",
+    "veg_or_non_veg": "Veg"
+}

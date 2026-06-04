@@ -1,0 +1,37 @@
+{
+    "name": "Kundapura Koli Saaru",
+    "url": "https://indianfoodmap.example.com/kundapura-koli-saaru",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1kg chicken",
+        "1 cup grated coconut",
+        "8-10 dried Byadgi chillies",
+        "1 tsp coriander seeds",
+        "1/2 tsp cumin seeds",
+        "1/4 tsp mustard seeds",
+        "1/4 tsp fenugreek seeds",
+        "1/2 tsp black peppercorns",
+        "1 inch cinnamon stick",
+        "3-4 cloves",
+        "1 small piece mace",
+        "1/2 tsp turmeric powder",
+        "1 medium onion (sliced)",
+        "2 sprigs curry leaves",
+        "1 small ball tamarind",
+        "2 tbsp coconut oil",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Roast the coriander, cumin, mustard, fenugreek, peppercorns, cinnamon, cloves, mace, and dried chillies in a little oil until fragrant, then grind with grated coconut and tamarind into a smooth paste.",
+        "2. Heat coconut oil in a heavy-bottomed pan, sauté onions and curry leaves until golden.",
+        "3. Add the chicken pieces and turmeric powder, cooking until the chicken turns opaque.",
+        "4. Pour in the prepared ground masala paste and enough water to reach desired consistency.",
+        "5. Simmer on low heat until the chicken is tender and the oil separates from the gravy.",
+        "6. Adjust salt and serve hot with neer dosa or steamed rice."
+    ],
+    "description": "Originating from the Kundapura region in the Udupi district of coastal Karnataka, this dish is a quintessential Bunt community delicacy. It is famous for its bold, spicy profile and the unique use of coconut oil and roasted spices, making it a comfort food staple at local weddings and celebrations.",
+    "state": "Karnataka",
+    "veg_or_non_veg": "Non-Veg"
+}

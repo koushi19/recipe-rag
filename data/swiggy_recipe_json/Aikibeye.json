@@ -1,0 +1,26 @@
+{
+    "name": "Aikibeye",
+    "url": "https://indianfoodmap.example.com/aikibeye",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Mustard leaves (locally known as mustard greens)",
+        "Colocasia roots (taro roots)",
+        "Green chilies",
+        "Salt",
+        "Water"
+    ],
+    "instructions": [
+        "1. Peel and slice the colocasia roots into small pieces.",
+        "2. Wash and roughly chop the mustard leaves.",
+        "3. In a pot, add the colocasia roots with just enough water to cover them and bring to a boil.",
+        "4. Once the roots begin to soften, add the chopped mustard leaves and green chilies.",
+        "5. Continue boiling over medium heat until both ingredients are tender and most of the water has evaporated.",
+        "6. Mash the mixture thoroughly using a wooden spoon or masher to create a thick, cohesive texture.",
+        "7. Season with salt to taste and serve hot as a side dish with steamed rice."
+    ],
+    "description": "Aikibeye is a quintessential Naga dish that highlights the simplicity and reliance on local, farm-fresh produce. It is a staple in Sumi Naga households, celebrated for its earthy flavors and the unique creaminess derived from the cooked colocasia roots.",
+    "state": "Nagaland",
+    "veg_or_non_veg": "Veg"
+}

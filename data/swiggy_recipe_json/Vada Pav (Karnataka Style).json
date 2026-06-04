@@ -1,0 +1,33 @@
+{
+    "name": "Vada Pav (Karnataka Style)",
+    "url": "https://indianfoodmap.example.com/vada-pav-(karnataka-style)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Boiled and mashed potatoes",
+        "Gram flour (besan)",
+        "Ginger-garlic paste",
+        "Mustard seeds",
+        "Curry leaves",
+        "Turmeric powder",
+        "Green chilies",
+        "Hing (asafoetida)",
+        "Rice flour",
+        "Baking soda",
+        "Pav (dinner rolls)",
+        "Garlic-coconut chutney powder",
+        "Salt",
+        "Cooking oil"
+    ],
+    "instructions": [
+        "1. Heat oil in a pan, add mustard seeds, curry leaves, ginger-garlic paste, green chilies, and turmeric. Add mashed potatoes and salt, sauté well, then cool and shape into balls.",
+        "2. Prepare a smooth batter using gram flour, rice flour, salt, pinch of baking soda, and water.",
+        "3. Dip potato balls in the batter and deep-fry until golden brown.",
+        "4. Slit the pav and spread a generous amount of garlic-coconut chutney powder inside.",
+        "5. Place the fried vada inside the pav, press slightly, and serve hot."
+    ],
+    "description": "While Vada Pav originates from Maharashtra, the Karnataka version is heavily influenced by local Udupi-style culinary traditions. It features an tempering of curry leaves and mustard seeds in the potato mash and often swaps the dry peanut chutney for a traditional garlic-coconut chutney powder, making it a popular breakfast or snack item in Karnataka's bustling street food landscape.",
+    "state": "Karnataka",
+    "veg_or_non_veg": "Veg"
+}

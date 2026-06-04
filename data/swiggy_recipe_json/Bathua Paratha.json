@@ -1,0 +1,30 @@
+{
+    "name": "Bathua Paratha",
+    "url": "https://indianfoodmap.example.com/bathua-paratha",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups fresh bathua leaves (chenopodium album)",
+        "2 cups whole wheat flour (atta)",
+        "1 teaspoon carom seeds (ajwain)",
+        "1 teaspoon red chili powder",
+        "1/2 teaspoon turmeric powder",
+        "1 tablespoon ginger-garlic paste",
+        "2 finely chopped green chilies",
+        "Salt to taste",
+        "Ghee or mustard oil for cooking"
+    ],
+    "instructions": [
+        "1. Wash the bathua leaves thoroughly and blanch them in boiling water for 2-3 minutes.",
+        "2. Drain the leaves and grind them into a smooth paste.",
+        "3. In a large bowl, mix the whole wheat flour, bathua paste, carom seeds, red chili powder, turmeric, ginger-garlic paste, green chilies, and salt.",
+        "4. Knead into a soft, firm dough using the moisture from the bathua paste, adding minimal water if necessary.",
+        "5. Divide the dough into small balls and roll each into a flat circular disc.",
+        "6. Heat a griddle (tawa) and place the rolled paratha on it.",
+        "7. Cook on both sides, applying ghee or oil until golden brown spots appear and the paratha is crispy."
+    ],
+    "description": "Bathua Paratha is a quintessential winter breakfast in Haryana. Bathua is a nutritious, wild-growing green leafy vegetable rich in iron and minerals, traditionally harvested during the cold season. It is considered a seasonal superfood that provides warmth and immunity, commonly served with a dollop of white butter (makkhan) and curd.",
+    "state": "Haryana",
+    "veg_or_non_veg": "Veg"
+}

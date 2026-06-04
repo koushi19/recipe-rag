@@ -1,0 +1,21 @@
+{
+    "name": "Butter Chicken",
+    "url": "https://indianfoodmap.example.com/butter-chicken",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Tandoori Chicken",
+        "Butter",
+        "Tomato puree",
+        "Cream",
+        "Kasuri methi",
+        "Honey/Sugar"
+    ],
+    "instructions": [
+        "1. Grill chicken in a tandoor. 2. Make a smooth tomato gravy with butter and cream. 3. Add grilled chicken to the gravy. 4. Season with kasuri methi and a touch of honey."
+    ],
+    "description": "Velvety, tomato-rich, and decadently creamy—the global ambassador of North Indian cuisine.",
+    "state": "Chandigarh",
+    "veg_or_non_veg": "Non-Veg"
+}

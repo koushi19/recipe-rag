@@ -1,0 +1,30 @@
+{
+    "name": "Mach Bhat",
+    "url": "https://indianfoodmap.example.com/mach-bhat",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Freshwater fish (Rohu or Katla)",
+        "Steamed white rice",
+        "Mustard oil",
+        "Turmeric powder",
+        "Salt",
+        "Green chilies",
+        "Onions",
+        "Ginger-garlic paste",
+        "Black mustard seeds",
+        "Fresh coriander leaves"
+    ],
+    "instructions": [
+        "1. Clean and marinate fish pieces with turmeric and salt.",
+        "2. Heat mustard oil in a pan and lightly fry the fish pieces until golden brown; set aside.",
+        "3. In the same oil, temper mustard seeds and add chopped onions and ginger-garlic paste, sautéing until fragrant.",
+        "4. Add turmeric, salt, and slit green chilies, then add water to create a thin gravy base.",
+        "5. Once the gravy simmers, gently add the fried fish and cook until tender.",
+        "6. Garnish with fresh coriander and serve hot over a steaming mound of white rice."
+    ],
+    "description": "Mach Bhat translates simply to 'Fish and Rice' and serves as the primary dietary foundation for the people of Tripura. It represents the state's deep cultural connection to riverine life and traditional Bengali-influenced culinary practices, embodying comfort and sustenance in every household.",
+    "state": "Tripura",
+    "veg_or_non_veg": "Non-Veg"
+}

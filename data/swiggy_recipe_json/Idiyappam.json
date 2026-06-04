@@ -1,0 +1,20 @@
+{
+    "name": "Idiyappam",
+    "url": "https://indianfoodmap.example.com/idiyappam",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups raw rice flour (idiyappam flour)",
+        "1 cup water (plus more as needed)",
+        "1/2 tsp salt",
+        "1 tsp sesame oil or coconut oil",
+        "1/2 cup grated fresh coconut (optional for garnish)"
+    ],
+    "instructions": [
+        "1. Roast the rice flour lightly on medium heat until warm to the touch. 2. Boil water with salt and oil, then gradually add the hot water to the flour, mixing with a wooden spatula to form a soft, non-sticky dough. 3. While the dough is still warm, fill an idiyappam press (sevai nazhi) with the dough. 4. Grease idli plates or a steamer tray with a little oil. 5. Press the dough in circular motions onto the plates to form thin noodle nests. 6. Steam for 8-10 minutes on high heat. 7. Remove and optionally garnish with grated coconut."
+    ],
+    "description": "Also known as 'string hoppers', Idiyappam is a staple breakfast dish in Tamil Nadu. It is often served with vegetable kurma, sweetened coconut milk, or spicy potato stew. It holds cultural significance as a comfort food often prepared for family gatherings and festivals, valued for its light and digestible nature.",
+    "state": "Tamil Nadu",
+    "veg_or_non_veg": "Veg"
+}

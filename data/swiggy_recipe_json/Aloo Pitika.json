@@ -1,0 +1,26 @@
+{
+    "name": "Aloo Pitika",
+    "url": "https://indianfoodmap.example.com/aloo-pitika",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Boiled potatoes",
+        "Raw onion, finely chopped",
+        "Green chilies, finely chopped",
+        "Mustard oil (Kachi Ghani)",
+        "Fresh coriander leaves, chopped",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Peel and mash the boiled potatoes in a mixing bowl until smooth.",
+        "2. Add the finely chopped onions, green chilies, and fresh coriander to the mashed potatoes.",
+        "3. Drizzle a generous tablespoon of raw mustard oil over the mixture.",
+        "4. Add salt according to taste.",
+        "5. Mix everything thoroughly by hand to ensure the sharp flavor of the mustard oil is well incorporated into the potatoes.",
+        "6. Serve alongside steamed rice and dal."
+    ],
+    "description": "Aloo Pitika is a quintessential Assamese comfort food, often served as an accompaniment to rice and dal. It highlights the simplicity of Assamese cuisine, where the distinct, pungent aroma of raw mustard oil elevates basic boiled vegetables into a flavorful dish. It is a staple in almost every household in Assam.",
+    "state": "Assam",
+    "veg_or_non_veg": "Veg"
+}

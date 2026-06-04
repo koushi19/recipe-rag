@@ -167,3 +167,39 @@ sudo systemctl start nginx
 
 sudo systemctl status recipe-rag nginx ollama
 ```
+
+---
+
+# Cloud Run Deployment (Alternative & Recommended)
+
+Since this project contains a `Dockerfile` preconfigured for GCP Cloud Run, you can deploy it as a serverless container. This is much simpler than managing a VM.
+
+### 1. Open Google Cloud Shell
+Go to the [Google Cloud Console](https://console.cloud.google.com) and click **Activate Cloud Shell** (the `>_` terminal icon in the top right header).
+
+### 2. Clone the Repository in Cloud Shell
+Run the following commands in the Cloud Shell terminal:
+```bash
+git clone https://github.com/koushi19/recipe-rag.git
+cd recipe-rag
+```
+
+### 3. Deploy to Cloud Run
+Run the single-line deployment command. It automatically builds the container using Cloud Build, uploads it to Artifact Registry, and deploys it:
+```bash
+gcloud run deploy recipe-rag \
+    --source . \
+    --platform managed \
+    --region us-central1 \
+    --allow-unauthenticated
+```
+
+*Note: If prompted to enable the Artifact Registry, Cloud Build, or Cloud Run APIs, press `y` to enable them.*
+
+### 4. Get the URL
+Once the deployment finishes, the terminal will display the Service URL:
+```
+Service URL: https://recipe-rag-xxxxxx-uc.a.run.app
+```
+Copy this URL and use it in your **FreshAuditor** app configuration as the backend endpoint!
+

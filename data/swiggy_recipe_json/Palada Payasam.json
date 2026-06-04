@@ -1,0 +1,26 @@
+{
+    "name": "Palada Payasam",
+    "url": "https://indianfoodmap.example.com/palada-payasam",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "50g ada (rice flakes)",
+        "1 liter full-fat milk",
+        "150g sugar",
+        "2 tbsp ghee",
+        "4-5 green cardamoms (crushed)",
+        "Water as needed"
+    ],
+    "instructions": [
+        "1. Soak the ada in hot water for 20 minutes, then drain and rinse with cold water.",
+        "2. In a heavy-bottomed pan, heat a teaspoon of ghee and sauté the soaked ada for a minute.",
+        "3. Add milk to the pan and bring to a slow boil over low-medium heat.",
+        "4. Simmer the mixture, stirring frequently to prevent sticking, until the milk reduces significantly and turns a light pinkish color.",
+        "5. Add sugar and continue to simmer until the desired consistency is reached.",
+        "6. Stir in the crushed cardamom pods and a final teaspoon of ghee before removing from heat."
+    ],
+    "description": "Palada Payasam is an iconic Keralite dessert, traditionally served during the Onam festival and at weddings. It is highly prized for its labor-intensive slow-cooking process, which allows the milk to caramelize and thicken naturally, creating a deep, authentic flavor.",
+    "state": "Kerala",
+    "veg_or_non_veg": "Veg"
+}

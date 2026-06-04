@@ -1,0 +1,37 @@
+{
+    "name": "Khatti Dal",
+    "url": "https://indianfoodmap.example.com/khatti-dal",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup Toor dal (split pigeon peas)",
+        "Small lemon-sized ball of tamarind (soaked and extracted)",
+        "1 medium onion, chopped",
+        "2 green chilies, slit",
+        "1 tsp ginger-garlic paste",
+        "1/2 tsp turmeric powder",
+        "1 tsp red chili powder",
+        "1/2 tsp mustard seeds",
+        "1/2 tsp cumin seeds",
+        "1/4 tsp fenugreek seeds (methi dana)",
+        "2-3 dry red chilies",
+        "1 sprig curry leaves",
+        "2 tbsp oil or ghee",
+        "Fresh coriander leaves for garnish",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Wash the toor dal and pressure cook with turmeric, ginger-garlic paste, and water until soft (3-4 whistles).",
+        "2. Mash the cooked dal until smooth and set aside.",
+        "3. Extract tamarind juice from the soaked pulp and add it to the dal along with salt and red chili powder.",
+        "4. Bring the dal to a boil and let it simmer for 10 minutes so the raw tamarind flavor mellows.",
+        "5. In a separate small pan, heat oil/ghee and add mustard, cumin, and fenugreek seeds.",
+        "6. Once they splutter, add dried red chilies, curry leaves, and onions; sauté until the onions turn golden brown.",
+        "7. Pour the tempering (tadka) over the boiling dal.",
+        "8. Garnish with fresh coriander leaves and serve hot with steamed rice."
+    ],
+    "description": "Khatti Dal is an iconic dish from the Telangana region, particularly popular in Hyderabadi households. 'Khatti' means sour in Urdu, referring to the heavy use of tamarind which gives the dish its signature tangy flavor. It is a humble yet essential comfort food, typically served as part of a daily meal alongside rice and a spicy side dish like Aloo Fry or Bagara Khana.",
+    "state": "Telangana",
+    "veg_or_non_veg": "Veg"
+}

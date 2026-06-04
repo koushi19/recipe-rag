@@ -1,0 +1,28 @@
+{
+    "name": "Anishi with Smoked Pork",
+    "url": "https://indianfoodmap.example.com/anishi-with-smoked-pork",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Smoked pork (belly or shoulder)",
+        "Anishi (fermented yam leaf patties)",
+        "Bamboo shoot extract or dry bamboo shoots",
+        "King chilli (Raja Mircha)",
+        "Ginger",
+        "Garlic",
+        "Salt to taste",
+        "Water"
+    ],
+    "instructions": [
+        "1. Soak the smoked pork in warm water to clean and soften, then cut into bite-sized chunks.",
+        "2. In a heavy-bottomed pot, place the pork, sliced ginger, smashed garlic, and King chilli.",
+        "3. Add enough water to cover the meat and bring to a boil.",
+        "4. Crumble the dry Anishi patties into the pot and add the bamboo shoots.",
+        "5. Reduce heat to low and simmer for 45-60 minutes until the pork is tender and the flavors have melded into a thick, dark broth.",
+        "6. Adjust salt to taste and serve hot with steamed red rice."
+    ],
+    "description": "Anishi is a traditional Naga delicacy made from the leaves of the wild yam plant, which are fermented, mashed into patties, and smoked over a hearth. When combined with smoked pork, it creates a quintessential Ao Naga dish known for its pungent aroma and deep, earthy flavor, reflecting the state's reliance on smoking and fermentation as primary preservation methods.",
+    "state": "Nagaland",
+    "veg_or_non_veg": "Non-Veg"
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Idli with Sambar and Chutney",
+    "url": "https://indianfoodmap.example.com/idli-with-sambar-and-chutney",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Parboiled rice",
+        "Urad dal (split black gram)",
+        "Fenugreek seeds",
+        "Tamarind",
+        "Toor dal",
+        "Drumstick",
+        "Shallots",
+        "Tomato",
+        "Sambar powder",
+        "Mustard seeds",
+        "Curry leaves",
+        "Asafoetida",
+        "Fresh coconut",
+        "Roasted gram (pottukadalai)",
+        "Green chillies",
+        "Ginger"
+    ],
+    "instructions": [
+        "1. Soak rice and urad dal separately for 4-6 hours, then grind into a smooth batter and ferment overnight.",
+        "2. Steam the batter in an idli mould for 10-12 minutes.",
+        "3. For Sambar, pressure cook toor dal with vegetables, then simmer with tamarind extract and homemade sambar powder.",
+        "4. Temper the sambar with mustard seeds, curry leaves, and asafoetida.",
+        "5. For chutney, grind coconut, roasted gram, green chillies, and ginger into a paste, then temper with mustard seeds and curry leaves."
+    ],
+    "description": "Idli with Sambar and Chutney is the quintessential South Indian breakfast. It is a highly nutritious, fermented dish that is culturally ingrained in the daily lives of Tamilians, often symbolizing a healthy start to the day and traditional home hospitality.",
+    "state": "Tamil Nadu",
+    "veg_or_non_veg": "Veg"
+}

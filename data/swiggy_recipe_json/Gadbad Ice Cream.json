@@ -1,0 +1,33 @@
+{
+    "name": "Gadbad Ice Cream",
+    "url": "https://indianfoodmap.example.com/gadbad-ice-cream",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Vanilla ice cream",
+        "Strawberry ice cream",
+        "Chocolate ice cream",
+        "Mixed fruit chunks (apple, banana, pineapple)",
+        "Mango pulp",
+        "Rooh Afza or strawberry syrup",
+        "Roasted cashews",
+        "Roasted almonds",
+        "Tutti-frutti",
+        "Jelly cubes",
+        "Vermicelli (cooked and cooled)",
+        "Whipped cream"
+    ],
+    "instructions": [
+        "1. Prepare the tall glass by drizzling a generous amount of strawberry syrup or Rooh Afza along the inner sides.",
+        "2. Add a layer of cooked vermicelli at the bottom of the glass.",
+        "3. Add a scoop of vanilla ice cream, followed by a layer of mixed fruit chunks and jelly cubes.",
+        "4. Add a scoop of strawberry ice cream and drizzle with mango pulp.",
+        "5. Layer with chopped roasted nuts and tutti-frutti.",
+        "6. Add a final scoop of chocolate ice cream on top.",
+        "7. Garnish with a dollop of whipped cream, extra nuts, and a maraschino cherry or more tutti-frutti."
+    ],
+    "description": "Gadbad Ice Cream is an iconic, nostalgic dessert popular in coastal regions like Goa and Mangalore. The name 'Gadbad' literally translates to 'mix-up' or 'chaos', reflecting the delightful, unscripted blend of textures and flavors that define this classic sundae.",
+    "state": "Goa",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Malidalu",
+    "url": "https://indianfoodmap.example.com/malidalu",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Whole wheat flour (atta)",
+        "Jaggery",
+        "Ghee",
+        "Cardamom powder",
+        "Water",
+        "Salt (pinch)"
+    ],
+    "instructions": [
+        "1. Knead the wheat flour with water and a pinch of salt to make soft dough. ",
+        "2. Roll the dough into thick rotis and cook them on a griddle (tava) using a little ghee until golden brown. ",
+        "3. While the rotis are still warm, tear them into small pieces and grind them coarsely in a mixer or crumble them by hand. ",
+        "4. Melt the jaggery in a pan with a small amount of water to create a thick syrup and strain it to remove impurities. ",
+        "5. Add the crumbled roti pieces into the jaggery syrup along with cardamom powder and a generous amount of ghee. ",
+        "6. Mix thoroughly until the syrup is absorbed by the roti, shape into laddus or serve as a crumble."
+    ],
+    "description": "Malidalu is a traditional, energy-dense dessert from Telangana, often prepared during festivals and auspicious occasions. It represents the rustic culinary heritage of the region, utilizing staple ingredients like wheat and jaggery to create a comforting, nutritious treat.",
+    "state": "Telangana",
+    "veg_or_non_veg": "Veg"
+}

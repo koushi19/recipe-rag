@@ -1,0 +1,36 @@
+{
+    "name": "Rajasthani Kadhi",
+    "url": "https://indianfoodmap.example.com/rajasthani-kadhi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup sour yogurt (dahi)",
+        "3 tablespoons gram flour (besan)",
+        "2 cups water",
+        "1 teaspoon cumin seeds",
+        "1/2 teaspoon mustard seeds",
+        "1/4 teaspoon fenugreek seeds (methi dana)",
+        "1/2 teaspoon turmeric powder",
+        "1 teaspoon red chili powder",
+        "2-3 dry red chilies",
+        "8-10 curry leaves",
+        "1 inch ginger, grated",
+        "2 green chilies, slit",
+        "1 tablespoon ghee",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. Whisk together yogurt, gram flour, turmeric, red chili powder, and salt until smooth.",
+        "2. Add water to the mixture and stir well.",
+        "3. Heat ghee in a deep pan and add mustard seeds, cumin seeds, fenugreek seeds, dry red chilies, and curry leaves.",
+        "4. Add ginger and green chilies, sautéing for a minute.",
+        "5. Pour the yogurt mixture into the pan, stirring continuously to prevent curdling.",
+        "6. Simmer on low heat for 15-20 minutes until the kadhi thickens and the raw smell of besan is gone.",
+        "7. Garnish with fresh coriander and serve hot with steamed rice or bajra roti."
+    ],
+    "description": "Rajasthani Kadhi is a staple comfort food known for its distinct sourness and spicy tempering. Unlike other regional versions, it is typically prepared without pakoras and emphasizes the balance of tangy yogurt and fragrant spices, reflecting the culinary simplicity and resourcefulness of Rajasthan's arid climate.",
+    "state": "Rajasthan",
+    "veg_or_non_veg": "Veg"
+}

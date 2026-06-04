@@ -1,0 +1,21 @@
+{
+    "name": "Ubadiyu",
+    "url": "https://indianfoodmap.example.com/ubadiyu",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Sweet potatoes",
+        "Purple yam (Kand)",
+        "Surti Papdi beans",
+        "Green chili paste",
+        "Ginger paste",
+        "Ajwain"
+    ],
+    "instructions": [
+        "1. Marinate vegetables in a spicy green paste. 2. Stuff into a clay pot lined with aromatic leaves. 3. Bury the pot upside down and cover with dry leaves. 4. Set fire and let it slow cook for 1 hour. 5. Serve with local chutney."
+    ],
+    "description": "A primal, slow-cooked celebration of the earth, buried in a clay pot.",
+    "state": "Dadra & Nagar Haveli and Daman & Diu",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Chicken Chettinad",
+    "url": "https://indianfoodmap.example.com/chicken-chettinad",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g chicken, curry cut",
+        "1 tablespoon fennel seeds",
+        "1 teaspoon cumin seeds",
+        "1 teaspoon black peppercorns",
+        "3 dry red chilies",
+        "1 inch cinnamon stick",
+        "2 cloves",
+        "2 green cardamom pods",
+        "1/2 cup grated fresh coconut",
+        "2 tablespoons sesame oil",
+        "1 sprig curry leaves",
+        "2 onions, finely chopped",
+        "1 tablespoon ginger-garlic paste",
+        "2 tomatoes, chopped",
+        "1/2 teaspoon turmeric powder",
+        "1 teaspoon coriander powder",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Dry roast fennel seeds, cumin, peppercorns, red chilies, cinnamon, cloves, and cardamom until fragrant, then grind into a fine paste with fresh coconut and a little water.",
+        "2. Heat sesame oil in a heavy-bottomed pan and temper with mustard seeds and curry leaves.",
+        "3. Sauté chopped onions until golden brown, then add ginger-garlic paste and cook until the raw smell dissipates.",
+        "4. Add tomatoes, turmeric, and coriander powder, cooking until the tomatoes turn soft and pulpy.",
+        "5. Add the chicken pieces and sear until they turn opaque.",
+        "6. Pour in the prepared spice-coconut paste and sufficient water to reach desired consistency.",
+        "7. Cover and simmer on low heat until the chicken is tender and the oil starts to float on the surface.",
+        "8. Garnish with fresh coriander leaves and serve hot."
+    ],
+    "description": "Chicken Chettinad is an iconic dish from the Chettinad region of Tamil Nadu, known for its bold, fiery flavor profile. It highlights the community's mastery of spice blending, reflecting the historical trade routes that brought exotic spices to this part of South India.",
+    "state": "Tamil Nadu",
+    "veg_or_non_veg": "Non-Veg"
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Aloo Tikki Chaat",
+    "url": "https://indianfoodmap.example.com/aloo-tikki-chaat",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Boiled potatoes",
+        "Cornflour",
+        "Green peas (stuffed)",
+        "Ginger-green chili paste",
+        "Roasted cumin powder",
+        "Coriander powder",
+        "Red chili powder",
+        "Garam masala",
+        "Tamarind chutney",
+        "Mint-coriander chutney",
+        "Thick curd (yogurt)",
+        "Black salt",
+        "Chaat masala",
+        "Sev",
+        "Pomegranate arils",
+        "Fresh cilantro"
+    ],
+    "instructions": [
+        "1. Mash boiled potatoes and mix with cornflour, salt, and ginger-chili paste to form a dough.",
+        "2. Prepare a filling by sautéing boiled peas with cumin, coriander, and red chili powder.",
+        "3. Take a portion of potato mix, flatten it, place a spoonful of pea filling in the center, and seal it to form a round patty.",
+        "4. Shallow fry the patties in a griddle (tawa) with generous oil until crispy and golden brown on both sides.",
+        "5. To serve, place two tikkis on a plate, lightly crush them, and top with whisked yogurt, tamarind chutney, and green chutney.",
+        "6. Sprinkle black salt, roasted cumin powder, and chaat masala generously over the top.",
+        "7. Garnish with sev, pomegranate arils, and fresh cilantro."
+    ],
+    "description": "A quintessential Delhi street food, Aloo Tikki Chaat is a harmonious blend of textures and flavors. It is a beloved evening snack that represents the heart of Delhi's bustling street food culture, celebrated for its perfect balance of spicy, sweet, and tangy notes.",
+    "state": "Delhi",
+    "veg_or_non_veg": "Veg"
+}

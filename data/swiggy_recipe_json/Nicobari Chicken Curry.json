@@ -1,0 +1,33 @@
+{
+    "name": "Nicobari Chicken Curry",
+    "url": "https://indianfoodmap.example.com/nicobari-chicken-curry",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g chicken pieces",
+        "2 tbsp coconut oil",
+        "1 cup fresh coconut milk",
+        "2 onions, finely sliced",
+        "1 tbsp ginger-garlic paste",
+        "2 green chilies, slit",
+        "1 tsp turmeric powder",
+        "1 tsp coriander powder",
+        "1 tsp red chili powder",
+        "Salt to taste",
+        "Fresh curry leaves",
+        "1/2 tsp mustard seeds"
+    ],
+    "instructions": [
+        "1. Heat coconut oil in a heavy-bottomed pan and add mustard seeds and curry leaves until they splutter.",
+        "2. Add sliced onions and sauté until translucent.",
+        "3. Add ginger-garlic paste and green chilies, cooking until the raw smell disappears.",
+        "4. Stir in the turmeric, coriander powder, and red chili powder, mixing well.",
+        "5. Add the chicken pieces and sear them until they change color.",
+        "6. Pour in the coconut milk and season with salt, then simmer on low heat until the chicken is tender and the gravy thickens.",
+        "7. Remove from heat and serve hot with steamed rice."
+    ],
+    "description": "Nicobari Chicken Curry is a staple dish from the Nicobar Islands, reflecting the indigenous culinary influence of using abundant local produce like coconut. It is a simple, home-style dish that relies on the freshness of coconut milk to provide a mild, creamy texture, commonly served during community gatherings and local festivities.",
+    "state": "Andaman and Nicobar Islands",
+    "veg_or_non_veg": "Non-Veg"
+}

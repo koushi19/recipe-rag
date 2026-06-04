@@ -1,0 +1,29 @@
+{
+    "name": "Masor Tenga",
+    "url": "https://indianfoodmap.example.com/masor-tenga",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Freshwater fish (Rohu or Katla)",
+        "Mustard oil",
+        "Tomato",
+        "Elephant apple (Ou tenga) or dried mangosteen (Thekera)",
+        "Turmeric powder",
+        "Fenugreek seeds (Methi)",
+        "Green chilies",
+        "Fresh coriander leaves",
+        "Salt"
+    ],
+    "instructions": [
+        "1. Marinate the fish pieces with turmeric and salt, then shallow fry in mustard oil until golden; set aside.",
+        "2. In the same oil, add fenugreek seeds and slit green chilies to temper.",
+        "3. Add chopped tomatoes and cook until soft, then add turmeric powder.",
+        "4. Add the souring agent (elephant apple or Thekera) and pour in water to create a thin broth.",
+        "5. Bring the gravy to a boil and add the fried fish pieces.",
+        "6. Simmer for a few minutes until the flavors infuse, then garnish with fresh coriander leaves."
+    ],
+    "description": "Masor Tenga is a signature Assamese sour fish curry, highly valued for its digestive properties and light, refreshing flavor. It is a staple in Assamese households, typically served as the final main course with steamed rice to cleanse the palate.",
+    "state": "Assam",
+    "veg_or_non_veg": "Non-Veg"
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Creole Fish Curry",
+    "url": "https://indianfoodmap.example.com/creole-fish-curry",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g Fresh fish (King fish or Red Snapper)",
+        "2 tbsp Coconut oil",
+        "1 tsp Mustard seeds",
+        "1 sprig Curry leaves",
+        "2 large Onions, finely chopped",
+        "3 Tomatoes, finely chopped",
+        "1 tbsp Ginger-garlic paste",
+        "2 tsp Kashmiri chili powder",
+        "1 tsp Coriander powder",
+        "1/2 tsp Turmeric powder",
+        "1/2 cup Thick coconut milk",
+        "1 tbsp Tamarind paste",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. Marinate the fish pieces with a pinch of turmeric and salt for 15 minutes.",
+        "2. Heat coconut oil in a pan, add mustard seeds and curry leaves, allowing them to crackle.",
+        "3. Sauté the onions until translucent, then add ginger-garlic paste and cook until fragrant.",
+        "4. Add tomatoes and cook until soft; stir in the chili, coriander, and turmeric powders.",
+        "5. Pour in the tamarind extract and half a cup of water; bring the gravy to a simmer.",
+        "6. Add the fish pieces gently and cook for 5-7 minutes until opaque.",
+        "7. Pour in the coconut milk, simmer for 2 minutes without boiling, and garnish with coriander."
+    ],
+    "description": "Creole Fish Curry is a culinary hallmark of Puducherry, representing the unique 'Franco-Tamil' fusion cuisine. It reflects the region's colonial history through the use of refined textures and cooking styles blended with indigenous ingredients like coconut, tamarind, and local spices.",
+    "state": "Puducherry",
+    "veg_or_non_veg": "Non-Veg"
+}

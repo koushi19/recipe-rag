@@ -1,0 +1,33 @@
+{
+    "name": "Lukhmi",
+    "url": "https://indianfoodmap.example.com/lukhmi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Maida (all-purpose flour)",
+        "Minced mutton",
+        "Ghee",
+        "Ginger-garlic paste",
+        "Red chili powder",
+        "Turmeric powder",
+        "Garam masala",
+        "Finely chopped onions",
+        "Coriander leaves",
+        "Green chilies",
+        "Salt",
+        "Oil for deep frying"
+    ],
+    "instructions": [
+        "1. Prepare a firm dough using maida, a little ghee, and salt, then let it rest for 30 minutes.",
+        "2. In a pan, sauté onions until translucent, then add ginger-garlic paste and minced meat.",
+        "3. Add turmeric, red chili powder, salt, and garam masala, cooking until the meat is browned and dry.",
+        "4. Stir in chopped coriander and green chilies, then let the filling cool completely.",
+        "5. Roll out the dough into thin sheets and cut them into squares.",
+        "6. Place a spoonful of filling in the center, fold to form a square pocket, and seal the edges with a little water.",
+        "7. Deep fry the pockets on low-to-medium heat until they are golden brown and crispy."
+    ],
+    "description": "Lukhmi is an iconic Hyderabadi delicacy often served as a starter at weddings or during evening tea. It is essentially the local variation of a samosa, distinct due to its square shape and a crisp, multi-layered dough that holds a rich, spiced meat filling.",
+    "state": "Telangana",
+    "veg_or_non_veg": "Non-Veg"
+}

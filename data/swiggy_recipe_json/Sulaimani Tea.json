@@ -1,0 +1,23 @@
+{
+    "name": "Sulaimani Tea",
+    "url": "https://indianfoodmap.example.com/sulaimani-tea",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup water",
+        "1 teaspoon black tea leaves",
+        "1 tablespoon sugar or jaggery",
+        "1 small piece cinnamon stick",
+        "2 green cardamom pods, crushed",
+        "2 cloves",
+        "1 slice fresh lemon",
+        "1 pinch ginger, grated (optional)"
+    ],
+    "instructions": [
+        "1. Bring water to a boil in a saucepan. 2. Add cinnamon, cardamom, cloves, and ginger, and simmer for 2-3 minutes to release the aromas. 3. Add the black tea leaves, boil for 30 seconds, then immediately turn off the heat. 4. Stir in sugar or jaggery until dissolved. 5. Strain the decoction into a tea cup. 6. Squeeze the lemon slice into the cup and stir well before serving."
+    ],
+    "description": "Sulaimani Tea is a spiced black tea that reflects the historical Arab influence on Malabar cuisine. It is deeply ingrained in the culture of Kerala, often served in traditional Mappila households as a symbol of hospitality and a refreshing digestive aid after meat-heavy feasts.",
+    "state": "Kerala",
+    "veg_or_non_veg": "Veg"
+}

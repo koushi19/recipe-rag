@@ -1,0 +1,23 @@
+{
+    "name": "Ja-Stem",
+    "url": "https://indianfoodmap.example.com/ja-stem",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Sticky rice (Joha or local red rice)",
+        "Turmeric powder",
+        "Onion, finely chopped",
+        "Ginger, minced",
+        "Green chilies",
+        "Mustard oil",
+        "Salt to taste",
+        "Water"
+    ],
+    "instructions": [
+        "1. Wash the sticky rice thoroughly and drain. 2. Heat mustard oil in a heavy-bottomed pot or pressure cooker. 3. Sauté chopped onions, ginger, and green chilies until aromatic and golden. 4. Add turmeric powder and stir briefly to release its color. 5. Add the rice and stir-fry for a minute to coat the grains with the oil and spices. 6. Add water (usually slightly less than for regular rice to maintain the sticky texture) and salt. 7. Cook until the rice is tender and the water is fully absorbed. 8. Fluff with a fork and serve hot."
+    ],
+    "description": "Ja-Stem is a signature yellow rice dish from the Khasi community of Meghalaya. The name translates to 'Yellow Rice'. It is a simple yet culturally significant dish often prepared during festivals or communal gatherings, valued for its vibrant color derived from turmeric and its comforting, sticky texture.",
+    "state": "Meghalaya",
+    "veg_or_non_veg": "Veg"
+}

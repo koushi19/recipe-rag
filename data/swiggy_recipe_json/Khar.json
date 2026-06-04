@@ -1,0 +1,29 @@
+{
+    "name": "Khar",
+    "url": "https://indianfoodmap.example.com/khar",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Raw papaya",
+        "Khar water (filtered water from charred sun-dried banana peels)",
+        "Mustard oil",
+        "Garlic cloves",
+        "Ginger paste",
+        "Dry red chilies",
+        "Panch phoron (five-spice mix)",
+        "Salt"
+    ],
+    "instructions": [
+        "1. Prepare the Khar water by filtering water through the ashes of sun-dried banana peels until a clear, alkaline liquid is obtained.",
+        "2. Heat mustard oil in a pan and add panch phoron and dry red chilies for tempering.",
+        "3. Add chopped garlic and sauté until golden brown.",
+        "4. Add diced raw papaya and stir-fry for a few minutes.",
+        "5. Pour in the prepared Khar water and cover the pan.",
+        "6. Cook on low heat until the papaya is tender and the liquid is mostly absorbed.",
+        "7. Add salt to taste and mash the papaya slightly to create a thick, coarse texture before serving."
+    ],
+    "description": "Khar is considered the quintessential starter of an authentic Assamese meal. It holds immense cultural significance as it acts as an appetiser and is believed to have cleansing properties for the digestive system.",
+    "state": "Assam",
+    "veg_or_non_veg": "Veg"
+}

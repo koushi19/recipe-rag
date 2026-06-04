@@ -1,0 +1,18 @@
+{
+    "name": "Chhang",
+    "url": "https://indianfoodmap.example.com/chhang",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Barley",
+        "Yeast (Phabs)",
+        "Water"
+    ],
+    "instructions": [
+        "1. Boil barley and cool. 2. Mix with local yeast. 3. Ferment in a closed container for several days."
+    ],
+    "description": "The celebratory barley brew of the Himalayas, fueling festivals and cold winters.",
+    "state": "Ladakh",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Phirni",
+    "url": "https://indianfoodmap.example.com/phirni",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1/2 cup basmati rice, soaked for 2 hours then drained",
+        "1 liter full-fat milk (preferably buffalo milk for richness)",
+        "1/2 cup sugar (or to taste; traditionalists use jaggery or date syrup)",
+        "1/4 cup heavy cream (optional, for extra richness)",
+        "10-12 threads saffron, soaked in 2 tablespoons warm milk",
+        "1 teaspoon cardamom powder (from freshly ground green pods)",
+        "2 tablespoons slivered almonds and pistachios for garnish",
+        "1 tablespoon rose water or kewra water (authentic floral touch)",
+        "1 tablespoon ghee (clarified butter, for roasting nuts)"
+    ],
+    "instructions": [
+        "1. Rinse soaked rice, drain, and grind to a coarse paste with a few tablespoons of water. The texture should be slightly gritty, not smooth.",
+        "2. In a heavy-bottomed pan, bring milk to a gentle boil over medium heat, stirring frequently to prevent scorching. Reduce heat to low and simmer for 10 minutes, allowing volume to reduce slightly.",
+        "3. Add rice paste to the simmering milk in a thin stream, stirring constantly to avoid lumps. Continue stirring for 15-20 minutes until mixture thickens and rice is fully cooked, coating the back of a spoon.",
+        "4. Stir in sugar until fully dissolved. Add saffron milk, cardamom powder, and rose water; mix well. If using cream, fold in gently for a silkier texture.",
+        "5. In a small pan, heat ghee and lightly roast slivered almonds and pistachios until golden. Set aside.",
+        "6. Pour phirni into earthenware bowls (kulhads) or serving dishes. Garnish with roasted nuts and a few saffron threads. Cool to room temperature, then refrigerate for at least 4 hours until chilled and set.",
+        "7. Serve cold, preferably in traditional clay pots, to enhance flavor."
+    ],
+    "description": "A fragrant, creamy symphony of ground rice, cardamom, and saffron, steeped in the moonlit nostalgia of Punjabi harvest festivals.",
+    "state": "Punjab",
+    "veg_or_non_veg": "Veg"
+}

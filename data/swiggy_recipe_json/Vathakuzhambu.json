@@ -1,0 +1,34 @@
+{
+    "name": "Vathakuzhambu",
+    "url": "https://indianfoodmap.example.com/vathakuzhambu",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Sundakkai vathal (dried turkey berry) or Manathakkali vathal",
+        "Tamarind",
+        "Shallots (small onions)",
+        "Garlic cloves",
+        "Sambar powder or red chili powder and coriander powder",
+        "Turmeric powder",
+        "Mustard seeds",
+        "Fenugreek seeds (methi seeds)",
+        "Asafoetida (hing)",
+        "Curry leaves",
+        "Gingelly oil (sesame oil)",
+        "Jaggery",
+        "Salt"
+    ],
+    "instructions": [
+        "1. Soak a lemon-sized ball of tamarind in warm water and extract the juice.",
+        "2. Heat gingelly oil in a pan and fry the vathal (dried berries) until crisp, then set aside.",
+        "3. In the same oil, add mustard seeds, fenugreek seeds, asafoetida, and curry leaves.",
+        "4. Sauté chopped shallots and garlic until golden brown.",
+        "5. Pour in the tamarind extract, add turmeric powder, salt, and sambar powder, and let it boil until the raw smell disappears.",
+        "6. Add the fried vathal and a small piece of jaggery to balance the acidity.",
+        "7. Simmer until the gravy thickens and oil separates from the sides, then serve with steamed rice."
+    ],
+    "description": "Vathakuzhambu is a traditional staple of Tamil Brahmin cuisine, known for its long shelf life and medicinal properties. It is typically prepared as a comforting meal for long journeys or on days when one wants to enjoy a deeply flavorful, tangy gravy that aids digestion.",
+    "state": "Tamil Nadu",
+    "veg_or_non_veg": "Veg"
+}

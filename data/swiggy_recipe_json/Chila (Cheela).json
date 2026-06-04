@@ -1,0 +1,30 @@
+{
+    "name": "Chila (Cheela)",
+    "url": "https://indianfoodmap.example.com/chila-(cheela)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Rice flour",
+        "Gram flour (besan)",
+        "Ginger-garlic paste",
+        "Green chilies",
+        "Cumin seeds",
+        "Chopped coriander leaves",
+        "Salt to taste",
+        "Mustard oil or ghee",
+        "Water"
+    ],
+    "instructions": [
+        "1. In a mixing bowl, combine rice flour and a small portion of gram flour for binding.",
+        "2. Add ginger-garlic paste, finely chopped green chilies, cumin seeds, salt, and chopped coriander leaves.",
+        "3. Gradually add water to create a thin, smooth, pourable batter and let it rest for 10-15 minutes.",
+        "4. Heat a flat iron griddle (tawa) and grease it lightly with mustard oil.",
+        "5. Pour a ladleful of batter in the center and spread it in a circular motion to form a thin crepe.",
+        "6. Drizzle a little oil around the edges and cook on medium heat until the base turns golden brown and crispy.",
+        "7. Carefully flip and cook the other side for a minute, then serve hot with tomato chutney or pickles."
+    ],
+    "description": "Chila is a staple breakfast dish in Chhattisgarh, reflecting the state's agrarian culture centered around rice cultivation. It is a humble, nutritious, and quick-to-prepare comfort food often enjoyed by families to start their day, representing the rustic and flavorful culinary heritage of the region.",
+    "state": "Chhattisgarh",
+    "veg_or_non_veg": "Veg"
+}

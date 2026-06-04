@@ -1,0 +1,20 @@
+{
+    "name": "Patta Chicken",
+    "url": "https://indianfoodmap.example.com/patta-chicken",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Chicken",
+        "Banana leaves",
+        "Coriander",
+        "Green chilies",
+        "Ginger"
+    ],
+    "instructions": [
+        "1. Grind coriander and chilies into a paste. 2. Marinate chicken and wrap in banana leaves. 3. Roast on charcoal until charred and tender."
+    ],
+    "description": "Chicken marinated in a fragrant coriander-based masala, wrapped in banana leaves.",
+    "state": "Dadra & Nagar Haveli and Daman & Diu",
+    "veg_or_non_veg": "Non-Veg"
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Bhindi Ka Salan",
+    "url": "https://indianfoodmap.example.com/bhindi-ka-salan",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "250g fresh okra (bhindi)",
+        "2 large onions (finely sliced)",
+        "1/2 cup thick yogurt",
+        "2 tbsp ginger-garlic paste",
+        "1 tsp cumin seeds",
+        "1 tsp mustard seeds",
+        "1 tsp turmeric powder",
+        "1 tsp red chili powder",
+        "1 tbsp coriander powder",
+        "1/2 tsp garam masala",
+        "2 tbsp gram flour (besan)",
+        "1 tbsp tamarind pulp",
+        "4 tbsp mustard oil",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. Wash and dry the okra, cut them into 1-inch pieces, and shallow fry until golden brown. Remove and set aside.",
+        "2. In the same pan, heat mustard oil and temper with cumin and mustard seeds.",
+        "3. Add onions and sauté until translucent, then add ginger-garlic paste and cook until fragrant.",
+        "4. Stir in the turmeric, red chili, coriander powder, and roasted gram flour, cooking for a minute with a splash of water to prevent burning.",
+        "5. Whisk the yogurt and add it to the pan, stirring continuously until it bubbles.",
+        "6. Add tamarind pulp, salt, and enough water to reach desired gravy consistency.",
+        "7. Gently fold in the fried okra and simmer on low heat for 5-7 minutes.",
+        "8. Finish with a sprinkle of garam masala and fresh coriander."
+    ],
+    "description": "Bhindi Ka Salan is a staple in the Awadhi-influenced cuisine of Uttar Pradesh. It transforms the humble okra into a rich, flavorful dish that perfectly balances the earthiness of the vegetable with the tanginess of yogurt and tamarind, often served with Tandoori Roti or Naan.",
+    "state": "Uttar Pradesh",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Lilva Kachori",
+    "url": "https://indianfoodmap.example.com/lilva-kachori",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Fresh Tuvar beans",
+        "Maida",
+        "Ginger",
+        "Green chili",
+        "Coconut"
+    ],
+    "instructions": [
+        "1. Grind fresh beans with ginger and chili. 2. Stuff into maida dough balls. 3. Deep fry until golden brown."
+    ],
+    "description": "Crispy winter pastries filled with fresh green pigeon peas.",
+    "state": "Dadra & Nagar Haveli and Daman & Diu",
+    "veg_or_non_veg": "Veg"
+}

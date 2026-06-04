@@ -1,0 +1,36 @@
+{
+    "name": "Paneer Butter Masala",
+    "url": "https://indianfoodmap.example.com/paneer-butter-masala",
+    "serving_size": "4",
+    "prep_time": "40 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "250g paneer, cubed",
+        "2 tbsp butter",
+        "1 tbsp oil",
+        "2 onions, finely chopped",
+        "3 tomatoes, pureed",
+        "1 tbsp ginger-garlic paste",
+        "1/4 cup cashew paste",
+        "1/2 tsp turmeric powder",
+        "1 tsp kashmiri red chili powder",
+        "1 tsp coriander powder",
+        "1 tsp garam masala",
+        "1 tsp kasuri methi (dried fenugreek leaves)",
+        "Salt to taste",
+        "2 tbsp fresh cream"
+    ],
+    "instructions": [
+        "Heat butter and oil in a pan. Add finely chopped onions and saute until golden brown.",
+        "Add ginger-garlic paste and saute for a minute until the raw smell disappears.",
+        "Pour in the tomato puree, turmeric, coriander powder, red chili powder, and salt. Cook until oil starts separating from the masala.",
+        "Stir in the cashew paste and cook for another 2-3 minutes to thicken the base.",
+        "Add a little water to adjust the gravy consistency and bring to a gentle simmer.",
+        "Add the paneer cubes and let them simmer for 3-5 minutes so they absorb the flavors.",
+        "Crush kasuri methi between your palms and sprinkle it into the gravy along with garam masala.",
+        "Turn off the heat, stir in the fresh cream gently, and serve hot with naan or jeera rice."
+    ],
+    "description": "Paneer Butter Masala is a rich and creamy Punjabi curry made with paneer, spices, onions, tomatoes, cashews, and generous amounts of butter.",
+    "state": "Punjab",
+    "veg_or_non_veg": "Veg"
+}

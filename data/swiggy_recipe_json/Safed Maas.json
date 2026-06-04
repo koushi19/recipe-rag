@@ -1,0 +1,36 @@
+{
+    "name": "Safed Maas",
+    "url": "https://indianfoodmap.example.com/safed-maas",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g mutton (goat meat)",
+        "1 cup thick yogurt (whisked)",
+        "2 tablespoons cashew nut paste",
+        "2 tablespoons melon seed (magaz) paste",
+        "1 tablespoon ginger-garlic paste",
+        "1/2 cup fresh cream",
+        "3-4 green cardamoms",
+        "1 black cardamom",
+        "2-3 cloves",
+        "1-inch cinnamon stick",
+        "1 teaspoon white pepper powder",
+        "1/2 teaspoon mace powder",
+        "2 tablespoons ghee",
+        "Salt to taste",
+        "Dried rose petals (for garnish)"
+    ],
+    "instructions": [
+        "1. Heat ghee in a heavy-bottomed pot and add whole spices (cardamoms, cloves, cinnamon) until fragrant.",
+        "2. Add the mutton pieces and sear until they change color, then add ginger-garlic paste and sauté for a few minutes.",
+        "3. Lower the heat and slowly incorporate the whisked yogurt, stirring continuously to prevent curdling.",
+        "4. Add the cashew and melon seed pastes and cook on low heat until the meat is tender and the oil starts to separate.",
+        "5. Season with white pepper, mace powder, and salt.",
+        "6. Finally, stir in the fresh cream to achieve a creamy white texture and simmer for 5 minutes.",
+        "7. Garnish with a few dried rose petals and serve hot with sheermal or khamiri roti."
+    ],
+    "description": "Safed Maas is a signature dish of the royal kitchens of Rajasthan. Unlike the fiery red Lal Maas, this dish is defined by its elegant, creamy white color and a subtle, sophisticated flavor profile achieved by using white pepper and nut pastes instead of red chilies.",
+    "state": "Rajasthan",
+    "veg_or_non_veg": "Non-Veg"
+}

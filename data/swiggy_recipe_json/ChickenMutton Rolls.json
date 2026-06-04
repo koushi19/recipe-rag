@@ -1,0 +1,20 @@
+{
+    "name": "Chicken/Mutton Rolls",
+    "url": "https://indianfoodmap.example.com/chickenmutton-rolls",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Chicken/Mutton",
+        "Paratha",
+        "Onions",
+        "Green chutney",
+        "Lime"
+    ],
+    "instructions": [
+        "1. Cook spiced meat chunks. 2. Place on a warm paratha. 3. Add sliced onions and chutney, roll tightly and serve."
+    ],
+    "description": "Tender, spiced meat wrapped in flaky parathas, a popular hearty street food.",
+    "state": "Puducherry",
+    "veg_or_non_veg": "Non-Veg"
+}

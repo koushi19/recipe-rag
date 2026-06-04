@@ -1,0 +1,30 @@
+{
+    "name": "Punjabi Lassi",
+    "url": "https://indianfoodmap.example.com/punjabi-lassi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups fresh, full-fat yogurt (preferably buffalo milk yogurt)",
+        "1/2 cup ice-cold water",
+        "2-3 tablespoons granulated sugar (adjust to taste)",
+        "3-4 green cardamom pods, seeds crushed",
+        "A pinch of saffron threads, soaked in 1 tablespoon warm milk for 10 minutes",
+        "1/4 teaspoon roasted cumin powder (optional, for savory version)",
+        "1-2 tablespoons finely chopped pistachios for garnish",
+        "1-2 tablespoons slivered almonds for garnish",
+        "Ice cubes (optional, for extra chill)",
+        "A pinch of salt (for savory version only)"
+    ],
+    "instructions": [
+        "1. In a deep bowl, whisk the yogurt vigorously with a hand whisk until smooth and creamy. Alternatively, use a blender for 1 minute on low speed to avoid over-aeration.",
+        "2. Add the ice-cold water and sugar, then whisk again until the sugar dissolves and the lassi turns frothy. If using a blender, pulse 2-3 times.",
+        "3. Fold in the crushed cardamom seeds and the saffron milk mixture (reserve a few saffron strands for garnish).",
+        "4. For a savory version, replace sugar with salt and add roasted cumin powder; omit saffron and cardamom.",
+        "5. Pour into tall glasses over ice cubes, if desired. Garnish with pistachios, almonds, and reserved saffron strands.",
+        "6. Serve immediately, preferably with a dollop of malai (cream) on top for richness."
+    ],
+    "description": "A creamy, tangy symphony of cultured yogurt, fragrant cardamom, and a whisper of saffron, cooling the spirit and awakening the senses.",
+    "state": "Punjab",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Bharli Vangi",
+    "url": "https://indianfoodmap.example.com/bharli-vangi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "small purple brinjals",
+        "roasted peanuts (crushed)",
+        "dried desiccated coconut",
+        "sesame seeds",
+        "jaggery",
+        "tamarind pulp",
+        "goda masala",
+        "red chili powder",
+        "turmeric powder",
+        "ginger-garlic paste",
+        "mustard seeds",
+        "asafoetida (hing)",
+        "curry leaves",
+        "fresh coriander leaves",
+        "vegetable oil",
+        "salt"
+    ],
+    "instructions": [
+        "1. Wash brinjals, slit them into quarters keeping the stem intact, and soak in salted water.",
+        "2. Dry roast peanuts, coconut, and sesame seeds, then grind them into a coarse powder.",
+        "3. Mix the ground powder with Goda masala, red chili powder, turmeric, salt, jaggery, tamarind pulp, and ginger-garlic paste to form the stuffing.",
+        "4. Stuff each brinjal generously with this mixture.",
+        "5. Heat oil in a pan, add mustard seeds, hing, and curry leaves.",
+        "6. Place the stuffed brinjals in the pan and sear lightly.",
+        "7. Add the remaining stuffing and a splash of water, cover, and cook on low heat until the brinjals are tender.",
+        "8. Garnish with fresh coriander before serving."
+    ],
+    "description": "Bharli Vangi, meaning 'stuffed brinjals', is a signature Maharashtrian delicacy. It is a staple in households and festive meals, prized for its unique blend of sweet, spicy, and tangy flavors, attributed largely to the distinct use of traditional Goda masala.",
+    "state": "Maharashtra",
+    "veg_or_non_veg": "Veg"
+}

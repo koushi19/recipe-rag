@@ -1,0 +1,24 @@
+{
+    "name": "Doi Chira",
+    "url": "https://indianfoodmap.example.com/doi-chira",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Jolpan chira (flattened rice)",
+        "Doi (thick curd or yogurt)",
+        "Jaggery (gur) or honey",
+        "Ripe banana",
+        "Cream (optional, for richness)"
+    ],
+    "instructions": [
+        "1. Soak the flattened rice (chira) in a little water for a few minutes until it softens, then drain the excess water.",
+        "2. In a large bowl, whisk the thick curd until smooth.",
+        "3. Add the softened chira and mashed ripe banana to the curd.",
+        "4. Sweeten the mixture with jaggery or honey according to taste.",
+        "5. Mix everything well and serve immediately as a nutritious breakfast or snack."
+    ],
+    "description": "Doi Chira is a staple breakfast dish in Assam, commonly served during the Bihu festival. It is prized for its cooling properties and ease of preparation, representing the simple yet wholesome agrarian diet of the Assamese people.",
+    "state": "Assam",
+    "veg_or_non_veg": "Veg"
+}

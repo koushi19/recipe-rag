@@ -1,0 +1,28 @@
+{
+    "name": "Postor Bora",
+    "url": "https://indianfoodmap.example.com/postor-bora",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "50g poppy seeds (posto)",
+        "2 green chilies",
+        "1 small onion, finely chopped",
+        "1/4 teaspoon turmeric powder",
+        "Salt to taste",
+        "2 tablespoons rice flour",
+        "Mustard oil for frying"
+    ],
+    "instructions": [
+        "1. Soak poppy seeds in water for 30 minutes, then drain and grind into a smooth paste with green chilies.",
+        "2. In a mixing bowl, combine the poppy seed paste, chopped onion, turmeric powder, salt, and rice flour.",
+        "3. Mix well to form a thick, moldable batter.",
+        "4. Heat mustard oil in a pan over medium heat.",
+        "5. Shape small portions of the mixture into flat discs or patties.",
+        "6. Drop into the hot oil and fry until both sides are crispy and golden brown.",
+        "7. Serve hot as a side dish with steamed rice."
+    ],
+    "description": "Postor Bora is a beloved traditional fritter in the Bengali-influenced cuisine of Tripura. Poppy seeds are highly valued for their delicate, nutty flavor, and these crispy cakes are a quintessential comfort food often served at the beginning of a meal with dal and rice.",
+    "state": "Tripura",
+    "veg_or_non_veg": "Veg"
+}

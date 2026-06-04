@@ -1,0 +1,27 @@
+{
+    "name": "Mosdeng Serma",
+    "url": "https://indianfoodmap.example.com/mosdeng-serma",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Dry fermented fish (Berma)",
+        "Dried red chilies",
+        "Garlic cloves",
+        "Onion",
+        "Tomato",
+        "Coriander leaves",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Roast the dried red chilies and garlic cloves over an open flame until charred for a smoky flavor.",
+        "2. Lightly roast the fermented fish (Berma) on a dry pan until it releases a strong aroma.",
+        "3. In a mortar and pestle, grind the roasted chilies, garlic, and salt into a coarse paste.",
+        "4. Add the roasted Berma and continue to grind until well combined.",
+        "5. Incorporate chopped raw onion and tomatoes, lightly bruising them into the mixture.",
+        "6. Garnish with fresh coriander leaves and serve as a side dish with steamed rice."
+    ],
+    "description": "Mosdeng Serma is an iconic spicy chutney of the Tripuri people. 'Mosdeng' translates to chutney or mash, and 'Serma' refers to the use of dry fermented fish known as Berma. It is a staple accompaniment in Tripuri cuisine, prized for its pungent, smoky, and intensely spicy profile.",
+    "state": "Tripura",
+    "veg_or_non_veg": "Non-Veg"
+}

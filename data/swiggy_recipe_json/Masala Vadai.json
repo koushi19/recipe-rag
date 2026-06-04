@@ -1,0 +1,20 @@
+{
+    "name": "Masala Vadai",
+    "url": "https://indianfoodmap.example.com/masala-vadai",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Chana dal",
+        "Onions",
+        "Ginger",
+        "Green chilies",
+        "Curry leaves"
+    ],
+    "instructions": [
+        "1. Grind soaked dal coarsely. 2. Mix with chopped aromatics. 3. Shape into discs and deep fry until very crunchy."
+    ],
+    "description": "Crunchy, spiced lentil fritters, a staple of afternoon tea time.",
+    "state": "Puducherry",
+    "veg_or_non_veg": "Veg"
+}

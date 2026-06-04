@@ -1,0 +1,25 @@
+{
+    "name": "Grilled Lobster",
+    "url": "https://indianfoodmap.example.com/grilled-lobster",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Fresh whole lobsters",
+        "Grated coconut",
+        "Ginger-garlic paste",
+        "Red chili powder",
+        "Turmeric powder",
+        "Lemon juice",
+        "Mustard oil",
+        "Fresh curry leaves",
+        "Coriander seeds",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Clean and split the lobsters lengthwise, removing the vein. 2. Prepare a marinade by blending grated coconut, ginger, garlic, red chili powder, turmeric, and roasted coriander seeds with a little mustard oil and lemon juice. 3. Apply the marinade generously over the lobster meat. 4. Let it marinate for at least 30 minutes. 5. Heat a grill or heavy-bottomed pan and drizzle with mustard oil. 6. Place the lobsters shell-side down and cook for 5-7 minutes. 7. Flip and cook for another 3-4 minutes until the meat turns opaque and firm. 8. Garnish with fresh curry leaves and serve hot."
+    ],
+    "description": "Grilled Lobster is a celebratory dish in the Andaman and Nicobar Islands, showcasing the archipelago's abundance of fresh, high-quality seafood. It reflects the fusion of traditional island coastal cooking with subtle influences from mainland Indian spice palettes, making it a highlight of the local seafood culinary scene.",
+    "state": "Andaman and Nicobar Islands",
+    "veg_or_non_veg": "Non-Veg"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Dhuska",
+    "url": "https://indianfoodmap.example.com/dhuska",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups rice (arwa rice)",
+        "1 cup chana dal (split chickpeas)",
+        "1/2 cup urad dal (split black lentils)",
+        "2-3 green chilies",
+        "1-inch ginger piece",
+        "1/2 teaspoon turmeric powder",
+        "1/2 teaspoon cumin seeds",
+        "Fresh coriander leaves, chopped",
+        "Salt to taste",
+        "Mustard oil for deep frying"
+    ],
+    "instructions": [
+        "1. Soak the rice and both dals in water for 5-6 hours.",
+        "2. Drain the water and grind the mixture into a smooth, thick batter adding ginger and green chilies.",
+        "3. Add turmeric, cumin seeds, salt, and chopped coriander to the batter and let it ferment for 1-2 hours.",
+        "4. Heat mustard oil in a deep kadhai until smoking hot.",
+        "5. Pour a ladleful of batter into the center of the oil to form a circular shape.",
+        "6. Fry on medium heat until golden brown and crispy on both sides.",
+        "7. Remove and drain on paper towels, serve hot."
+    ],
+    "description": "Dhuska is a quintessential snack from Jharkhand, cherished during festivals and local celebrations. It represents the state's rustic, wholesome culinary heritage, combining fermented grains with deep-frying techniques to create a crispy-on-the-outside, soft-on-the-inside texture that is traditionally enjoyed with 'aloo dum' or 'ghugni'.",
+    "state": "Jharkhand",
+    "veg_or_non_veg": "Veg"
+}

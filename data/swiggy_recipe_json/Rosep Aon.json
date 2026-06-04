@@ -1,0 +1,23 @@
+{
+    "name": "Rosep Aon",
+    "url": "https://indianfoodmap.example.com/rosep-aon",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Smoked pork",
+        "Dried soyabean (Axone/Akhuni)",
+        "Mustard leaves",
+        "Bamboo shoot",
+        "Ginger",
+        "Garlic",
+        "Local Naga chili",
+        "Salt"
+    ],
+    "instructions": [
+        "1. Boil the smoked pork in water until it softens. 2. Add the fermented soyabean (Axone) and bamboo shoot to the pot. 3. Crush ginger, garlic, and Naga chili into a paste and stir it into the boiling mixture. 4. Add the chopped mustard leaves and cook until the leaves are tender and the flavors have melded. 5. Season with salt to taste and simmer until the stew thickens slightly."
+    ],
+    "description": "Rosep Aon is a quintessential Naga dish that highlights the indigenous use of fermented ingredients. It is a hearty, rustic stew central to Ao Naga culinary traditions, reflecting the community's reliance on forest produce and preserved meats.",
+    "state": "Nagaland",
+    "veg_or_non_veg": "Non-Veg"
+}

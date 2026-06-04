@@ -1,0 +1,25 @@
+{
+    "name": "Morok Metpa",
+    "url": "https://indianfoodmap.example.com/morok-metpa",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Green chilies (fresh or dried)",
+        "Fermented fish (Ngari)",
+        "Onions",
+        "Potato (boiled)",
+        "Salt",
+        "Coriander leaves (optional)"
+    ],
+    "instructions": [
+        "1. Roast the green chilies and onions over an open flame until charred or steam them until soft.",
+        "2. In a mortar and pestle, grind the fermented fish (Ngari) into a paste.",
+        "3. Add the roasted chilies and onions to the mortar and mash them together with the fish paste.",
+        "4. Add a boiled and peeled potato to the mixture and mash until well combined but slightly textured.",
+        "5. Season with salt to taste and garnish with fresh coriander leaves before serving."
+    ],
+    "description": "Morok Metpa is a staple side dish in Manipuri cuisine. Its name translates to 'chili mash' (Morok meaning chili and Metpa meaning mash). It is a pungent, fiery, and flavorful accompaniment served with steamed rice and Eromba, embodying the authentic, bold flavors of Northeast Indian culinary traditions.",
+    "state": "Manipur",
+    "veg_or_non_veg": "Non-Veg"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Til Pitha",
+    "url": "https://indianfoodmap.example.com/til-pitha",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Bora Saul (sticky rice)",
+        "Black sesame seeds",
+        "Jaggery (gur)",
+        "Water"
+    ],
+    "instructions": [
+        "1. Soak the sticky rice for a few hours, drain, and grind into a fine, moist powder.",
+        "2. Dry roast black sesame seeds and grind them coarsely, then mix with grated jaggery to create the stuffing.",
+        "3. Heat a flat iron pan (tawa), spread a thin layer of the rice powder uniformly like a crepe.",
+        "4. Place a spoonful of the sesame-jaggery mixture in the center.",
+        "5. Carefully roll the crepe tightly while it is still warm to seal the filling inside.",
+        "6. Serve once cooled to ensure the texture sets properly."
+    ],
+    "description": "Til Pitha is an iconic Assamese delicacy, central to the celebration of Magh Bihu, the harvest festival. It represents the state's agricultural prosperity and is traditionally prepared by women in the family to offer to guests and deities.",
+    "state": "Assam",
+    "veg_or_non_veg": "Veg"
+}

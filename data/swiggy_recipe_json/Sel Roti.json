@@ -1,0 +1,26 @@
+{
+    "name": "Sel Roti",
+    "url": "https://indianfoodmap.example.com/sel-roti",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Parboiled rice (soaked for 6-8 hours)",
+        "Sugar",
+        "Ghee",
+        "Cardamom powder",
+        "Water",
+        "Refined oil for deep frying"
+    ],
+    "instructions": [
+        "1. Drain the soaked rice and grind it into a semi-coarse paste using minimal water.",
+        "2. Mix in sugar, ghee, and cardamom powder, then let the batter rest for a few hours to ferment slightly.",
+        "3. Heat oil or ghee in a deep kadhai (wok).",
+        "4. Take a handful of the batter and pour it into the hot oil in a circular, ring-like motion using your fingers.",
+        "5. Deep fry until both sides turn a deep golden brown.",
+        "6. Remove and drain excess oil before serving."
+    ],
+    "description": "Sel Roti is a traditional ring-shaped sweet bread from the Himalayan regions, including Sikkim. It holds significant cultural importance, commonly prepared during festivals like Tihar (Dashain) and special occasions like weddings, symbolizing prosperity and festive joy.",
+    "state": "Sikkim",
+    "veg_or_non_veg": "Veg"
+}

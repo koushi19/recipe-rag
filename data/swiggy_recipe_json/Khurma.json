@@ -1,0 +1,26 @@
+{
+    "name": "Khurma",
+    "url": "https://indianfoodmap.example.com/khurma",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Maida (all-purpose flour)",
+        "Ghee",
+        "Sugar",
+        "Cardamom powder",
+        "Water",
+        "Oil for deep frying"
+    ],
+    "instructions": [
+        "1. Mix maida with melted ghee and enough water to form a tight, stiff dough.",
+        "2. Rest the dough for 30 minutes, then roll it out into a thick sheet.",
+        "3. Cut the sheet into small uniform bite-sized squares or diamonds.",
+        "4. Heat oil/ghee in a heavy-bottomed pan and deep-fry the pieces on medium-low heat until golden and crispy.",
+        "5. Prepare a thick sugar syrup of one-string consistency and infuse with cardamom powder.",
+        "6. Toss the fried khurma in the sugar syrup until coated and allow them to cool and crystallize."
+    ],
+    "description": "Khurma is a beloved traditional snack in Madhya Pradesh, often prepared during festivals like Diwali and weddings. It is a crisp, sweet treat that reflects the region's penchant for long-lasting, shelf-stable celebratory sweets.",
+    "state": "Madhya Pradesh",
+    "veg_or_non_veg": "Veg"
+}

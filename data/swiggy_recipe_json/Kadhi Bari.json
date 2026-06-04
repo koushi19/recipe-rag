@@ -1,0 +1,33 @@
+{
+    "name": "Kadhi Bari",
+    "url": "https://indianfoodmap.example.com/kadhi-bari",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Gram flour (besan)",
+        "Sour yogurt (dahi)",
+        "Turmeric powder",
+        "Red chili powder",
+        "Mustard seeds (rai)",
+        "Fenugreek seeds (methi dana)",
+        "Asafoetida (hing)",
+        "Cumin seeds",
+        "Dried red chilies",
+        "Ginger-garlic paste",
+        "Salt",
+        "Mustard oil",
+        "Baking soda (a pinch)"
+    ],
+    "instructions": [
+        "1. Prepare the bari by mixing besan, salt, turmeric, chili powder, and a pinch of baking soda with water to make a thick batter, then deep-fry small spoonfuls until golden.",
+        "2. Whisk yogurt, besan, turmeric, and chili powder with water to create a smooth mixture for the kadhi.",
+        "3. Heat mustard oil in a pan and temper with mustard seeds, cumin, fenugreek seeds, hing, and dried red chilies.",
+        "4. Pour the yogurt mixture into the pan and bring to a simmer, stirring continuously to prevent curdling.",
+        "5. Once the kadhi thickens, add the prepared bari and cook on low heat for a few minutes to allow the dumplings to absorb the gravy.",
+        "6. Serve hot with steamed rice."
+    ],
+    "description": "Kadhi Bari is a traditional comfort food from Bihar, often prepared during festivals or festive lunches. Unlike the Punjabi version, the Bihari style uses a unique blend of spices and is characterized by its light, tangy flavor and soft, airy dumplings.",
+    "state": "Bihar",
+    "veg_or_non_veg": "Veg"
+}

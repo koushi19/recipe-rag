@@ -1,0 +1,27 @@
+{
+    "name": "Chhanar Jalebi",
+    "url": "https://indianfoodmap.example.com/chhanar-jalebi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "250g fresh chhana (cottage cheese)",
+        "2 tablespoons maida (all-purpose flour)",
+        "1 tablespoon suji (semolina)",
+        "1/2 teaspoon green cardamom powder",
+        "1 cup sugar",
+        "1 cup water",
+        "Ghee or vegetable oil for deep frying",
+        "A pinch of baking powder"
+    ],
+    "instructions": [
+        "1. Knead the chhana, maida, suji, and baking powder together until completely smooth and lump-free.",
+        "2. Divide the dough into small portions and roll them into thin cylinders, then join the ends to form jalebi shapes.",
+        "3. Prepare a sugar syrup by boiling sugar and water with cardamom until it reaches a thin, sticky consistency.",
+        "4. Heat ghee in a pan and deep-fry the shaped coils on low to medium heat until they turn deep golden brown.",
+        "5. Immediately transfer the fried jalebis into the warm sugar syrup and let them soak for at least 30 minutes before serving."
+    ],
+    "description": "Chhanar Jalebi is a decadent Bengali dessert that differs from the North Indian flour-based jalebi by using chhana as the base. It is a beloved specialty often found in traditional sweet shops (mishti dokan) in West Bengal, celebrated for its rich, melt-in-the-mouth texture and subtle cardamom flavor.",
+    "state": "West Bengal",
+    "veg_or_non_veg": "Veg"
+}

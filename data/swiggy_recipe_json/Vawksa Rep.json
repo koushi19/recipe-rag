@@ -1,0 +1,33 @@
+{
+    "name": "Vawksa Rep",
+    "url": "https://indianfoodmap.example.com/vawksa-rep",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g pork belly, cut into 2-inch chunks (skin on)",
+        "1 cup fermented bamboo shoots (tuai), rinsed and drained",
+        "2 large onions, sliced",
+        "6-8 green chilies, slit",
+        "1 head garlic, cloves separated and smashed",
+        "2-inch piece ginger, julienned",
+        "1 teaspoon turmeric powder",
+        "Salt to taste",
+        "2 tablespoons mustard oil (or any vegetable oil)",
+        "2 cups bamboo leaves (for wrapping, or use banana leaves)",
+        "1 cup water"
+    ],
+    "instructions": [
+        "1. Marinate the pork with turmeric and salt for 30 minutes.",
+        "2. In a heavy-bottomed pan, heat mustard oil until smoking. Add pork chunks and sear on all sides until browned. Remove and set aside.",
+        "3. In the same oil, sauté onions, garlic, ginger, and green chilies until fragrant and onions are translucent.",
+        "4. Add the fermented bamboo shoots and cook for 5 minutes, stirring occasionally.",
+        "5. Return the pork to the pan, add water, and bring to a boil. Cover and simmer on low heat for 45 minutes, or until pork is tender. Check seasoning.",
+        "6. Preheat a tandoor or oven to 200°C (400°F). Line a baking dish with bamboo leaves. Transfer the pork mixture onto the leaves, fold the leaves to enclose, and secure with kitchen twine.",
+        "7. Place the wrapped packet in the oven and bake for 15-20 minutes, until the leaves are charred and fragrant.",
+        "8. Remove from oven, let rest for 5 minutes, then unwrap and serve hot with steamed rice."
+    ],
+    "description": "A smoky, heart-warming embrace of fermented bamboo and mountain herbs.",
+    "state": "Mizoram",
+    "veg_or_non_veg": "Non-Veg"
+}

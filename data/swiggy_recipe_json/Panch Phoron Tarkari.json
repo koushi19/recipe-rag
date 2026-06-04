@@ -1,0 +1,31 @@
+{
+    "name": "Panch Phoron Tarkari",
+    "url": "https://indianfoodmap.example.com/panch-phoron-tarkari",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Mixed seasonal vegetables (pumpkin, potato, eggplant, beans, raw banana)",
+        "Panch Phoron (equal parts of fennel seeds, mustard seeds, fenugreek seeds, nigella seeds, and cumin seeds)",
+        "Mustard oil",
+        "Dried red chilies",
+        "Turmeric powder",
+        "Salt to taste",
+        "Green chilies",
+        "Grated ginger",
+        "Water"
+    ],
+    "instructions": [
+        "1. Chop all vegetables into uniform medium-sized cubes.",
+        "2. Heat mustard oil in a heavy-bottomed pan until it reaches a smoking point.",
+        "3. Add the Panch Phoron seeds and dried red chilies to the oil until they crackle and release an aroma.",
+        "4. Add the ginger and green chilies, sautéing briefly.",
+        "5. Add the harder vegetables like potatoes and raw bananas first, sautéing for a few minutes.",
+        "6. Add the softer vegetables, turmeric powder, and salt, mixing well.",
+        "7. Add a small amount of water, cover, and simmer until all vegetables are tender.",
+        "8. Adjust consistency and serve warm with steamed rice."
+    ],
+    "description": "Panch Phoron Tarkari is a quintessential Bengali-influenced dish staple in Tripuri households. It highlights the simplicity of North-East Indian cooking, relying on the distinct aromatic profile of the five-seed spice blend to provide flavor without the use of heavy onion-garlic masalas.",
+    "state": "Tripura",
+    "veg_or_non_veg": "Veg"
+}

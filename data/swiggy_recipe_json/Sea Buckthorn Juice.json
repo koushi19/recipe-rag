@@ -1,0 +1,18 @@
+{
+    "name": "Sea Buckthorn Juice",
+    "url": "https://indianfoodmap.example.com/sea-buckthorn-juice",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Sea buckthorn berries",
+        "Sugar/Honey",
+        "Water"
+    ],
+    "instructions": [
+        "1. Extract pulp from fresh berries. 2. Dilute with water. 3. Sweeten to taste and serve chilled."
+    ],
+    "description": "The 'Wonder Berry' of Ladakh, a tart, orange-gold explosion of vitamins.",
+    "state": "Ladakh",
+    "veg_or_non_veg": "Veg"
+}

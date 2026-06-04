@@ -1,0 +1,34 @@
+{
+    "name": "Doh-Han (Duck Curry)",
+    "url": "https://indianfoodmap.example.com/doh-han-(duck-curry)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1kg duck meat, cut into medium pieces",
+        "2 large onions, finely chopped",
+        "2 tablespoons ginger-garlic paste",
+        "4-5 green chilies, slit",
+        "1 teaspoon turmeric powder",
+        "1 teaspoon black pepper powder",
+        "2-3 bay leaves",
+        "3 tablespoons mustard oil",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish",
+        "Optional: 1 cup of black sesame seed paste (for traditional variation)"
+    ],
+    "instructions": [
+        "1. Heat mustard oil in a heavy-bottomed pan or pot until it starts to smoke slightly.",
+        "2. Add bay leaves and chopped onions, sautéing until the onions turn golden brown.",
+        "3. Add the ginger-garlic paste and green chilies, cooking until the raw smell disappears.",
+        "4. Incorporate the duck pieces and sear them on medium-high heat until they change color.",
+        "5. Add turmeric, black pepper, and salt, mixing thoroughly to coat the meat.",
+        "6. Cover and cook on low heat, allowing the meat to release its own fat; add a little warm water if necessary to prevent sticking.",
+        "7. If using sesame paste, add it midway through the cooking process and stir well.",
+        "8. Continue cooking until the meat is tender and the oil separates from the gravy.",
+        "9. Garnish with fresh coriander and serve hot with steamed red rice."
+    ],
+    "description": "Doh-Han is a celebrated delicacy among the Khasi and Jaintia communities of Meghalaya. Duck meat is prized for its strong, distinct flavor, and this curry represents the rustic, authentic culinary heritage of the hills, often served during traditional festivals and family gatherings.",
+    "state": "Meghalaya",
+    "veg_or_non_veg": "Non-Veg"
+}

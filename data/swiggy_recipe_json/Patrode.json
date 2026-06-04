@@ -1,0 +1,32 @@
+{
+    "name": "Patrode",
+    "url": "https://indianfoodmap.example.com/patrode",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Colocasia (Arbi) leaves",
+        "Gram flour (Besan)",
+        "Ginger-garlic paste",
+        "Green chilies",
+        "Cumin seeds",
+        "Coriander powder",
+        "Turmeric powder",
+        "Red chili powder",
+        "Amchur (dried mango powder)",
+        "Asafoetida (Hing)",
+        "Salt",
+        "Mustard oil"
+    ],
+    "instructions": [
+        "1. Wash and pat dry the colocasia leaves, removing the thick central veins.",
+        "2. Prepare a thick batter by mixing gram flour, spices, ginger-garlic paste, and a little water.",
+        "3. Place a leaf flat, spread a thin layer of the batter over it, and layer more leaves on top, repeating the process.",
+        "4. Roll the leaves tightly into a cylindrical log and secure with thread if needed.",
+        "5. Steam the rolls in a steamer for 20-25 minutes until cooked through.",
+        "6. Once cooled, slice the logs into rounds and pan-fry them in mustard oil until golden and crispy."
+    ],
+    "description": "Patrode is a nutritious and flavorful snack synonymous with the monsoon season in Himachal Pradesh. It reflects the region's resourceful use of locally available greens and is often prepared during festivals and special family gatherings.",
+    "state": "Himachal Pradesh",
+    "veg_or_non_veg": "Veg"
+}

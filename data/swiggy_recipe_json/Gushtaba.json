@@ -1,0 +1,33 @@
+{
+    "name": "Gushtaba",
+    "url": "https://indianfoodmap.example.com/gushtaba",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g mutton (minced finely)",
+        "100g mutton fat",
+        "2 cups yogurt (beaten)",
+        "1 tsp ginger powder (sonth)",
+        "1 tsp fennel powder (saunf)",
+        "1/2 tsp cardamom powder",
+        "1/2 tsp clove powder",
+        "1 tsp black cumin seeds (shahi jeera)",
+        "2 tbsp mustard oil",
+        "Salt to taste",
+        "1/2 tsp dried mint leaves (optional)"
+    ],
+    "instructions": [
+        "1. Pound the mutton and fat together using a heavy mallet until it forms a smooth, sticky paste.",
+        "2. Shape the mixture into large, firm meatballs.",
+        "3. Boil water in a large pot and poach the meatballs until they are firm and cooked through.",
+        "4. In a separate heavy-bottomed pan, heat mustard oil and add beaten yogurt, whisking continuously to prevent curdling.",
+        "5. Add ginger powder, fennel powder, cardamom, and cloves to the yogurt sauce.",
+        "6. Add the cooked meatballs into the simmering yogurt gravy.",
+        "7. Cover and cook on low heat until the gravy thickens and emulsifies with the meat.",
+        "8. Serve hot with steamed Kashmiri rice."
+    ],
+    "description": "Often referred to as the 'dish of kings', Gushtaba is an integral part of the traditional Kashmiri Wazwan feast. It is usually served as the final meat course, symbolizing the culmination of a celebratory meal.",
+    "state": "Jammu and Kashmir",
+    "veg_or_non_veg": "Non-Veg"
+}

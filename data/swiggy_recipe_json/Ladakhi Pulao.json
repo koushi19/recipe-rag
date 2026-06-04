@@ -1,0 +1,30 @@
+{
+    "name": "Ladakhi Pulao",
+    "url": "https://indianfoodmap.example.com/ladakhi-pulao",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Basmati rice",
+        "Mutton (lamb chunks)",
+        "Clarified butter (Ghee)",
+        "Onions",
+        "Ginger-garlic paste",
+        "Carrots",
+        "Green peas",
+        "Black cardamom",
+        "Cinnamon stick",
+        "Cloves",
+        "Shahi jeera (Caraway seeds)",
+        "Saffron strands soaked in milk",
+        "Dried apricots",
+        "Cashews and raisins",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Wash and soak basmati rice for 30 minutes. 2. In a heavy-bottomed pot, heat ghee and sauté whole spices until fragrant. 3. Add onions, ginger-garlic paste, and mutton chunks, searing until browned. 4. Add water and simmer until the mutton is tender. 5. Stir in carrots, peas, and soaked rice. 6. Add saffron milk and salt, cover tightly, and cook on low heat until the rice is fluffy and aromatic. 7. Garnish with fried cashews, raisins, and dried apricots before serving."
+    ],
+    "description": "Ladakhi Pulao is a testament to the region's position on the ancient Silk Road. Unlike typical Indian pulaos, it incorporates dried apricots and mild spices, highlighting the influence of Tibetan and Kashmiri culinary traditions adapted to the cold, high-altitude climate.",
+    "state": "Ladakh",
+    "veg_or_non_veg": "Non-Veg"
+}

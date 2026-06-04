@@ -1,0 +1,25 @@
+{
+    "name": "Malabar Parotta",
+    "url": "https://indianfoodmap.example.com/malabar-parotta",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "All-purpose flour (maida)",
+        "Warm water",
+        "Vegetable oil or ghee",
+        "Sugar",
+        "Salt",
+        "Egg (optional, for softness)"
+    ],
+    "instructions": [
+        "1. Mix flour, salt, sugar, oil, and water (and egg if using) to form a soft, elastic dough, then rest for at least 1 hour.",
+        "2. Divide dough into balls, flatten thinly, and brush with oil.",
+        "3. Pleat the dough like a paper fan, roll it into a spiral (coil), and rest again for 15 minutes.",
+        "4. Gently roll out the spiral into a round disc.",
+        "5. Heat a tawa or flat griddle, cook the parotta on both sides with oil or ghee until golden brown, and clap the parotta between your hands while hot to release the layers."
+    ],
+    "description": "Malabar Parotta is a culinary icon of Kerala, known for its distinct flaky, shredded texture. It is a street food staple often served with spicy meat curries like Kerala beef fry or vegetable kurma, reflecting the diverse culinary influences of the Malabar coast.",
+    "state": "Kerala",
+    "veg_or_non_veg": "Veg"
+}

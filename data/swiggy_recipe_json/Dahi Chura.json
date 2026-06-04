@@ -1,0 +1,24 @@
+{
+    "name": "Dahi Chura",
+    "url": "https://indianfoodmap.example.com/dahi-chura",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Chura (Flattened rice/Beaten rice)",
+        "Dahi (Thick, fresh set curd/yogurt)",
+        "Gud (Jaggery) or Chini (Sugar)",
+        "Ripe yellow bananas",
+        "Optional: Chena (Fresh paneer) or Tilkut (Sesame brittle)"
+    ],
+    "instructions": [
+        "1. Thoroughly rinse the chura in a colander under running water for a few seconds to clean it, then drain completely and let it sit for a minute to soften slightly.",
+        "2. In a large bowl, whisk the thick dahi until smooth.",
+        "3. Add the softened chura to the bowl of dahi and mix gently.",
+        "4. Sweeten the mixture with grated jaggery or sugar to taste.",
+        "5. Serve immediately with sliced ripe bananas on the side or mixed in, optionally topped with crushed jaggery or crumbled chena."
+    ],
+    "description": "Dahi Chura is a quintessential comfort food of Bihar, deeply rooted in the state's agricultural culture. It is famously prepared and consumed during the Makar Sankranti festival, symbolizing the harvest season. The dish is celebrated for its simplicity, nutritional value, and cooling properties.",
+    "state": "Bihar",
+    "veg_or_non_veg": "Veg"
+}

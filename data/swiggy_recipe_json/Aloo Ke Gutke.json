@@ -1,0 +1,31 @@
+{
+    "name": "Aloo Ke Gutke",
+    "url": "https://indianfoodmap.example.com/aloo-ke-gutke",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g boiled potatoes (peeled and cubed)",
+        "2 tablespoons mustard oil",
+        "1 teaspoon cumin seeds",
+        "1 teaspoon mustard seeds",
+        "1 tablespoon dried coriander seeds (crushed)",
+        "3-4 dried red chillies",
+        "1/2 teaspoon turmeric powder",
+        "1 teaspoon asafoetida (hing)",
+        "1 tablespoon fresh coriander leaves (finely chopped)",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Heat mustard oil in an iron kadhai until it smokes, then reduce the heat.",
+        "2. Add cumin seeds, mustard seeds, and dried red chillies, letting them crackle.",
+        "3. Add asafoetida, then stir in the turmeric powder.",
+        "4. Add the boiled potato cubes and toss gently to coat them with the spices.",
+        "5. Sprinkle salt and crushed coriander seeds over the potatoes.",
+        "6. Sauté on medium-low heat for 8-10 minutes until the potatoes develop a light, crispy golden crust.",
+        "7. Garnish generously with fresh coriander leaves and serve hot."
+    ],
+    "description": "Aloo Ke Gutke is the most famous snack from the Kumaon region of Uttarakhand. It is a simple yet flavorful dish often served with hot tea or as a side with Poori or Mandua (finger millet) roti. It is a staple at local festivities and roadside dhabas across the hills.",
+    "state": "Uttarakhand",
+    "veg_or_non_veg": "Veg"
+}

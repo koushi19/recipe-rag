@@ -1,0 +1,19 @@
+{
+    "name": "Jetty Roll",
+    "url": "https://indianfoodmap.example.com/jetty-roll",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Chicken/Egg",
+        "Refined flour paratha",
+        "Green chutney",
+        "Sautéed onions"
+    ],
+    "instructions": [
+        "1. Cook spiced chicken pieces. 2. Place on a freshly made paratha with egg. 3. Roll with chutney and onions."
+    ],
+    "description": "Daman's local version of the Kathi roll, a favorite for evening beach strolls.",
+    "state": "Dadra & Nagar Haveli and Daman & Diu",
+    "veg_or_non_veg": "Non-Veg"
+}

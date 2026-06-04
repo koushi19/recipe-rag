@@ -1,0 +1,28 @@
+{
+    "name": "Boiled Vegetables (Hinkejvu)",
+    "url": "https://indianfoodmap.example.com/boiled-vegetables-(hinkejvu)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Colocasia roots (taro)",
+        "French beans",
+        "Mustard leaves",
+        "Pumpkin",
+        "Water",
+        "Salt to taste",
+        "Green chilies",
+        "Ginger (optional)"
+    ],
+    "instructions": [
+        "1. Wash and chop the colocasia, pumpkin, French beans, and mustard leaves into medium-sized pieces.",
+        "2. In a large pot, bring a small amount of water to a boil.",
+        "3. Add the harder vegetables like colocasia and pumpkin first and cook until they begin to soften.",
+        "4. Add the French beans, mustard leaves, green chilies, and salt.",
+        "5. Continue boiling until all the vegetables are tender and the water is reduced to a thick, gravy-like consistency.",
+        "6. Mash some of the colocasia slightly to thicken the broth and serve hot."
+    ],
+    "description": "Hinkejvu is a staple dish of the Sumi Naga tribe. It represents the Naga philosophy of eating fresh, seasonal, and natural produce. The dish is prized for being oil-free and preserving the original flavors of the vegetables, making it a healthy and essential part of a traditional Naga meal.",
+    "state": "Nagaland",
+    "veg_or_non_veg": "Veg"
+}

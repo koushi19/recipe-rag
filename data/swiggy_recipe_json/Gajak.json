@@ -1,0 +1,25 @@
+{
+    "name": "Gajak",
+    "url": "https://indianfoodmap.example.com/gajak",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Roasted sesame seeds (Til)",
+        "Jaggery (Gud)",
+        "Ghee",
+        "Cardamom powder",
+        "Dry ginger powder (Saunth)"
+    ],
+    "instructions": [
+        "1. Dry roast the sesame seeds in a heavy-bottomed pan until they turn light golden and aromatic, then set aside.",
+        "2. In the same pan, heat ghee and add jaggery pieces, cooking on low flame until the jaggery melts completely.",
+        "3. Continue cooking the jaggery until it reaches the hard-crack stage (test by dropping a small amount in cold water; it should snap cleanly).",
+        "4. Stir in the cardamom powder and dry ginger powder.",
+        "5. Quickly add the roasted sesame seeds and mix thoroughly.",
+        "6. Pour the mixture onto a greased flat surface or wooden board, roll it to the desired thickness, and cut into squares or diamonds while still warm."
+    ],
+    "description": "Gajak is a quintessential winter delicacy of Madhya Pradesh, particularly famous in Morena. It is highly valued for its health benefits, as sesame and jaggery are known to provide warmth to the body during the chilly winter months, and it serves as a staple snack during the festival of Makar Sankranti.",
+    "state": "Madhya Pradesh",
+    "veg_or_non_veg": "Veg"
+}

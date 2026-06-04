@@ -1,0 +1,29 @@
+{
+    "name": "Banana Bonda",
+    "url": "https://indianfoodmap.example.com/banana-bonda",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 ripe Robusta or Rasthali bananas",
+        "1 cup all-purpose flour (maida) or wheat flour",
+        "1/2 cup jaggery, powdered",
+        "1/4 teaspoon cardamom powder",
+        "1 pinch edible camphor (optional)",
+        "1 pinch salt",
+        "1/4 teaspoon baking soda",
+        "Oil for deep frying"
+    ],
+    "instructions": [
+        "1. Mash the peeled bananas thoroughly in a bowl until smooth.",
+        "2. Add the powdered jaggery and mix until completely dissolved.",
+        "3. Add the flour, cardamom powder, salt, and baking soda, mixing to form a thick, drop-able batter.",
+        "4. Heat oil in a deep frying pan over medium heat.",
+        "5. Carefully drop small spoonfuls of the batter into the hot oil.",
+        "6. Fry until the bondas turn a deep golden brown on all sides.",
+        "7. Remove and drain on paper towels before serving warm."
+    ],
+    "description": "Banana Bonda, known locally as Vazhappazha Bonda, is a classic Tamil Nadu snack. It is a popular tea-time comfort food often prepared using overripe bananas, reflecting the traditional cultural value of minimizing food waste while creating delightful, sweet treats.",
+    "state": "Tamil Nadu",
+    "veg_or_non_veg": "Veg"
+}

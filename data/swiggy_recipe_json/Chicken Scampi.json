@@ -1,0 +1,33 @@
+{
+    "name": "Chicken Scampi",
+    "url": "https://indianfoodmap.example.com/chicken-scampi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g boneless chicken thighs, cut into bite-sized pieces",
+        "4 tbsp unsalted butter",
+        "6 cloves garlic, finely minced",
+        "1 large onion, thinly sliced",
+        "1 tsp ginger paste",
+        "1/2 tsp red chili powder (adjust to taste)",
+        "1/4 tsp turmeric powder",
+        "1 tsp garam masala",
+        "1/2 cup heavy cream",
+        "2 tbsp fresh lemon juice",
+        "1/4 cup chopped fresh cilantro",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Season chicken pieces with salt and a pinch of turmeric. Set aside for 10 minutes.",
+        "2. In a large skillet, melt butter over medium heat. Add garlic and sauté until fragrant, about 1 minute.",
+        "3. Add sliced onions and cook until golden brown, stirring occasionally.",
+        "4. Stir in ginger paste, red chili powder, turmeric, and garam masala. Cook for 1 minute until spices bloom.",
+        "5. Add chicken pieces and sear until golden on all sides, about 5 minutes.",
+        "6. Lower heat, pour in heavy cream, and stir gently. Cover and simmer for 10 minutes until chicken is cooked through.",
+        "7. Finish with fresh lemon juice and garnish with cilantro. Serve hot with naan or steamed rice."
+    ],
+    "description": "A buttery, garlic-kissed symphony of succulent chicken and aromatic spices, echoing the lush fields of Punjab.",
+    "state": "Punjab",
+    "veg_or_non_veg": "Non-Veg"
+}

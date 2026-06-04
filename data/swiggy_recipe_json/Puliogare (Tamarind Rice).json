@@ -1,0 +1,34 @@
+{
+    "name": "Puliogare (Tamarind Rice)",
+    "url": "https://indianfoodmap.example.com/puliogare-(tamarind-rice)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Cooked Sona Masuri rice",
+        "Tamarind pulp",
+        "Roasted chana dal",
+        "Roasted urad dal",
+        "Roasted peanuts",
+        "Dry red chillies",
+        "Mustard seeds",
+        "Curry leaves",
+        "Turmeric powder",
+        "Hing (asafoetida)",
+        "Jaggery",
+        "Puliogare gojju powder (a blend of coriander seeds, sesame, fenugreek, and mustard seeds)",
+        "Cooking oil (preferably sesame oil)",
+        "Salt"
+    ],
+    "instructions": [
+        "1. Prepare the gojju by boiling tamarind pulp with salt, turmeric, jaggery, and the Puliogare spice powder until it thickens into a paste.",
+        "2. In a pan, heat sesame oil and add mustard seeds, chana dal, urad dal, peanuts, and dry red chillies until golden.",
+        "3. Add curry leaves and hing to the tempering.",
+        "4. Pour the prepared tamarind gojju into the tempering and simmer for a few minutes.",
+        "5. Gently fold the cooked rice into the prepared gojju mixture until evenly coated.",
+        "6. Let it sit for 30 minutes to allow the flavors to infuse before serving."
+    ],
+    "description": "Puliogare is a signature dish of Karnataka, deeply rooted in the temple culinary tradition, specifically famous as 'Temple Prasadam'. It is cherished for its perfect balance of tanginess, spice, and earthiness, and is a staple during festivals and journeys.",
+    "state": "Karnataka",
+    "veg_or_non_veg": "Veg"
+}

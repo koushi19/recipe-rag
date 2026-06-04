@@ -1,0 +1,35 @@
+{
+    "name": "Seafood Platter",
+    "url": "https://indianfoodmap.example.com/seafood-platter",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Fresh King Prawns",
+        "Red Snapper fillets",
+        "Squid rings",
+        "Crab meat",
+        "Turmeric powder",
+        "Kashmiri red chili powder",
+        "Ginger-garlic paste",
+        "Fresh coconut milk",
+        "Tamarind pulp",
+        "Curry leaves",
+        "Mustard oil",
+        "Green chilies",
+        "Sea salt"
+    ],
+    "instructions": [
+        "1. Clean the prawns, snapper, squid, and crab thoroughly and pat dry.",
+        "2. Prepare a marinade using ginger-garlic paste, turmeric, red chili powder, salt, and a dash of tamarind pulp.",
+        "3. Coat all seafood pieces evenly with the marinade and let it rest for 30 minutes.",
+        "4. Heat mustard oil in a heavy-bottomed pan or griddle over medium heat.",
+        "5. Temper the oil with fresh curry leaves and green chilies.",
+        "6. Place the seafood on the hot surface, searing each item until cooked through and golden-brown.",
+        "7. Drizzle a small amount of thick coconut milk over the platter in the final minute of cooking for a creamy, coastal finish.",
+        "8. Serve hot garnished with fresh coriander."
+    ],
+    "description": "The Seafood Platter represents the vibrant culinary heritage of the Andaman and Nicobar Islands. Heavily influenced by the abundant marine life of the Bay of Bengal, this dish showcases the islanders' reliance on fresh, locally sourced ingredients, combining indigenous cooking methods with the influence of settlers to create a quintessential tropical coastal feast.",
+    "state": "Andaman and Nicobar Islands",
+    "veg_or_non_veg": "Non-Veg"
+}

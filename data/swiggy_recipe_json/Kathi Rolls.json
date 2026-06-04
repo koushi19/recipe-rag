@@ -1,0 +1,33 @@
+{
+    "name": "Kathi Rolls",
+    "url": "https://indianfoodmap.example.com/kathi-rolls",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Maida (all-purpose flour)",
+        "Boneless chicken or Paneer cubes",
+        "Ghee or oil",
+        "Onion rings",
+        "Green chilies",
+        "Ginger-garlic paste",
+        "Garam masala",
+        "Chaat masala",
+        "Red chili powder",
+        "Lemon juice",
+        "Yogurt",
+        "Coriander leaves",
+        "Egg (optional for base)"
+    ],
+    "instructions": [
+        "1. Marinate the chicken or paneer in yogurt, ginger-garlic paste, and spices for 30 minutes.",
+        "2. Sauté the marinated mixture on a hot pan until cooked through and slightly charred.",
+        "3. Prepare soft parathas using maida and shallow fry them; add a beaten egg over the paratha while cooking if preferred.",
+        "4. Place the cooked filling in the center of the paratha.",
+        "5. Top with sliced onions, a squeeze of lemon juice, green chutney, and a sprinkle of chaat masala.",
+        "6. Roll the paratha tightly, wrap the bottom in foil or tissue, and serve hot."
+    ],
+    "description": "Originally from Kolkata but perfected as the quintessential street food of Delhi, Kathi Rolls are a portable, indulgent meal consisting of flavorful, spiced fillings wrapped in a flaky, ghee-laden paratha, reflecting the vibrant and fast-paced culinary culture of India's capital.",
+    "state": "Delhi",
+    "veg_or_non_veg": "Both"
+}

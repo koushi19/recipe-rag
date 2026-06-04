@@ -1,0 +1,29 @@
+{
+    "name": "Tan Ngang",
+    "url": "https://indianfoodmap.example.com/tan-ngang",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Fresh duck meat",
+        "Onions",
+        "Ginger-garlic paste",
+        "Green chilies",
+        "Turmeric powder",
+        "Local aromatic herbs (like Morok metpa or coriander)",
+        "Mustard oil",
+        "Salt to taste",
+        "Water"
+    ],
+    "instructions": [
+        "1. Clean and cut the duck meat into medium-sized pieces.",
+        "2. Heat mustard oil in a heavy-bottomed pan or wok until smoking point, then reduce heat.",
+        "3. Add chopped onions, ginger-garlic paste, and green chilies; sauté until golden brown.",
+        "4. Add turmeric powder and the duck pieces, searing the meat until it browns on all sides.",
+        "5. Add salt and a small amount of water to cover the meat, then cover and simmer over low heat until the meat is tender.",
+        "6. Once the liquid has reduced to a thick, flavorful gravy and the meat is succulent, garnish with fresh herbs and serve hot with steamed rice."
+    ],
+    "description": "Tan Ngang is a signature Manipuri delicacy featuring duck meat, which is a prized protein in the region. It is traditionally prepared during special occasions and festivals, reflecting the indigenous culinary practices of the Meitei community that emphasize natural, robust flavors.",
+    "state": "Manipur",
+    "veg_or_non_veg": "Non-Veg"
+}

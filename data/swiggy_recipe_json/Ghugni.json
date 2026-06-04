@@ -1,0 +1,39 @@
+{
+    "name": "Ghugni",
+    "url": "https://indianfoodmap.example.com/ghugni",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Dried yellow peas (matar dal)",
+        "Potato",
+        "Ginger-garlic paste",
+        "Onion",
+        "Tomato",
+        "Green chilies",
+        "Cumin seeds",
+        "Bay leaf",
+        "Turmeric powder",
+        "Cumin powder",
+        "Coriander powder",
+        "Red chili powder",
+        "Garam masala powder",
+        "Mustard oil",
+        "Tamarind pulp",
+        "Fresh coriander leaves",
+        "Black salt",
+        "Roasted cumin powder"
+    ],
+    "instructions": [
+        "1. Soak dried yellow peas overnight and pressure cook them with salt and turmeric until tender.",
+        "2. Heat mustard oil in a pan, temper with bay leaf and cumin seeds.",
+        "3. Sauté onions, ginger-garlic paste, and tomatoes until soft.",
+        "4. Add turmeric, cumin, coriander, and red chili powders with a splash of water to form a masala paste.",
+        "5. Add cubed potatoes and fry until browned.",
+        "6. Mix in the boiled peas, adjust water consistency, and simmer for 10 minutes.",
+        "7. Finish by adding garam masala, tamarind pulp, and fresh coriander, and serve topped with chopped onions and roasted cumin powder."
+    ],
+    "description": "Ghugni is a quintessential Bengali street food staple. It is a hearty, comfort-food curry made from dried yellow peas, typically served in small bowls or 'shoras' and topped with fresh garnishes, representing the vibrant and soulful snack culture of Kolkata.",
+    "state": "West Bengal",
+    "veg_or_non_veg": "Veg"
+}

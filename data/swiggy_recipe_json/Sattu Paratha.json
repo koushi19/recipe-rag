@@ -1,0 +1,34 @@
+{
+    "name": "Sattu Paratha",
+    "url": "https://indianfoodmap.example.com/sattu-paratha",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups whole wheat flour (atta)",
+        "1 cup roasted gram flour (sattu)",
+        "1 medium onion finely chopped",
+        "2 green chilies finely chopped",
+        "1 tablespoon ginger grated",
+        "1 tablespoon garlic finely chopped",
+        "1 tablespoon mustard oil",
+        "1 teaspoon carom seeds (ajwain)",
+        "1 teaspoon nigella seeds (kalonji)",
+        "1 tablespoon pickle masala (from mango or chili pickle)",
+        "Fresh coriander leaves finely chopped",
+        "Salt to taste",
+        "Water as needed",
+        "Ghee for frying"
+    ],
+    "instructions": [
+        "1. Knead the wheat flour with water and a pinch of salt into a soft, pliable dough and let it rest for 20 minutes.",
+        "2. In a bowl, mix the sattu, chopped onions, green chilies, ginger, garlic, carom seeds, nigella seeds, pickle masala, mustard oil, salt, and coriander leaves.",
+        "3. Take a lemon-sized ball of dough, flatten it, and create a cup shape.",
+        "4. Place a spoonful of the sattu mixture in the center, seal the edges, and gently roll it into a thick disc.",
+        "5. Heat a tawa or skillet and place the paratha on it.",
+        "6. Cook on both sides over medium heat, applying ghee until golden brown spots appear and the paratha becomes crispy."
+    ],
+    "description": "Sattu Paratha is a staple comfort food from Bihar, often served with baingan bharta, chokha, or plain yogurt. It is highly valued for its cooling properties and high protein content, making it a vital part of the daily diet for farmers and laborers in the region.",
+    "state": "Bihar",
+    "veg_or_non_veg": "Veg"
+}

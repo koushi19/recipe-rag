@@ -1,0 +1,28 @@
+{
+    "name": "Bajra Khichdi",
+    "url": "https://indianfoodmap.example.com/bajra-khichdi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup Bajra (pearl millet)",
+        "1/2 cup Moong dal (split green gram)",
+        "4 cups water",
+        "1 tsp salt",
+        "1/2 tsp turmeric powder",
+        "1 tbsp ghee",
+        "1/2 tsp cumin seeds",
+        "Optional: chopped ginger or green chilies"
+    ],
+    "instructions": [
+        "1. Wash and soak the bajra in water for at least 4-6 hours or overnight. Once soaked, coarsely crush the grains using a mortar and pestle or a pulse setting in a blender.",
+        "2. Wash the moong dal thoroughly and drain.",
+        "3. In a pressure cooker, combine the crushed bajra, moong dal, water, salt, and turmeric.",
+        "4. Cook on medium heat for 6-8 whistles until the mixture is soft and creamy.",
+        "5. Heat ghee in a small pan, add cumin seeds, and let them splutter. Pour this tempering over the cooked khichdi.",
+        "6. Mix well and serve hot, ideally with curd, jaggery, or garlic chutney."
+    ],
+    "description": "Bajra Khichdi is a staple winter comfort food in rural Haryana. It is highly nutritious, packed with fiber and protein, and holds deep cultural roots as a traditional 'peasant food' that provides immense energy for long days in the fields.",
+    "state": "Haryana",
+    "veg_or_non_veg": "Veg"
+}

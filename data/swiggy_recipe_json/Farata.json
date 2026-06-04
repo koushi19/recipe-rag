@@ -1,0 +1,18 @@
+{
+    "name": "Farata",
+    "url": "https://indianfoodmap.example.com/farata",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Maida",
+        "Ghee",
+        "Salt"
+    ],
+    "instructions": [
+        "1. Make a soft dough with ghee. 2. Fold and roll into layers. 3. Cook on a griddle until golden and flaky."
+    ],
+    "description": "A breakfast bread made from flour and ghee, commonly enjoyed in Minicoy.",
+    "state": "Lakshadweep",
+    "veg_or_non_veg": "Veg"
+}

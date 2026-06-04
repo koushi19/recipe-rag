@@ -1,0 +1,22 @@
+{
+    "name": "Fish Assad Curry",
+    "url": "https://indianfoodmap.example.com/fish-assad-curry",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Fresh Fish (Seer or Kingfish)",
+        "Coconut milk",
+        "Aniseed",
+        "Turmeric",
+        "Green chilies",
+        "Ginger-garlic paste",
+        "Lemon juice"
+    ],
+    "instructions": [
+        "1. Marinate fish with turmeric and salt. 2. Sauté onions, ginger-garlic paste, and green chilies. 3. Add aniseed and coconut milk. 4. Gently simmer the fish in the gravy until cooked. 5. Finish with a squeeze of lime."
+    ],
+    "description": "A delicate French-Creole fusion, where the mildness of coconut milk meets the zing of local spices.",
+    "state": "Puducherry",
+    "veg_or_non_veg": "Non-Veg"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Snail with Pork",
+    "url": "https://indianfoodmap.example.com/snail-with-pork",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Edible freshwater snails",
+        "Pork belly",
+        "Axone (fermented soybean)",
+        "Fresh Naga king chillies",
+        "Ginger",
+        "Garlic",
+        "Bamboo shoot (fresh or fermented)",
+        "Salt to taste",
+        "Water"
+    ],
+    "instructions": [
+        "1. Thoroughly clean the snails by soaking them in water for a day to remove grit, then trim the tips of the shells.",
+        "2. Boil the pork belly pieces in a pot until partially cooked.",
+        "3. Add the cleaned snails to the pot along with crushed ginger, garlic, and chopped king chillies.",
+        "4. Stir in the Axone and bamboo shoots to provide the signature fermented depth.",
+        "5. Add enough water to submerge the ingredients and simmer over low heat until the pork is tender and the flavors have melded.",
+        "6. Season with salt and serve hot with steamed red rice."
+    ],
+    "description": "This dish is a staple of Naga cuisine, reflecting the community's foraging traditions. It highlights the use of local, earth-centered ingredients like snails and the essential Axone, which provides a unique umami profile central to the tribal culinary identity of the region.",
+    "state": "Nagaland",
+    "veg_or_non_veg": "Non-Veg"
+}

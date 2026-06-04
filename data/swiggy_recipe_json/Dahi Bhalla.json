@@ -1,0 +1,33 @@
+{
+    "name": "Dahi Bhalla",
+    "url": "https://indianfoodmap.example.com/dahi-bhalla",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup split urad dal (skinned black gram)",
+        "1/2 cup moong dal (yellow lentils)",
+        "2 cups thick whisked yogurt (curd)",
+        "1/2 teaspoon hing (asafoetida)",
+        "1 teaspoon roasted cumin powder",
+        "1 teaspoon red chili powder",
+        "1 tablespoon green chutney (mint and coriander)",
+        "1 tablespoon tamarind chutney (imli chutney)",
+        "1/2 teaspoon black salt (kala namak)",
+        "Salt to taste",
+        "Oil for deep frying",
+        "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. Soak urad and moong dal for 4-5 hours, then grind to a smooth, thick paste with minimal water.",
+        "2. Add hing and a pinch of salt to the batter and whisk vigorously until airy and light.",
+        "3. Heat oil in a pan and drop small portions of the batter to deep fry until golden brown.",
+        "4. Transfer the fried bhallas into warm water for 15 minutes, then gently squeeze out the excess water.",
+        "5. Whisk the yogurt with a little sugar and salt until smooth.",
+        "6. Place the bhallas in a serving bowl, pour the yogurt over them, and chill.",
+        "7. Before serving, garnish with black salt, roasted cumin powder, red chili powder, green chutney, and tamarind chutney."
+    ],
+    "description": "Dahi Bhalla is a quintessential street food staple in Chandigarh, enjoyed during festivals like Holi and as a popular teatime snack. It represents the perfect balance of cooling yogurt and spiced, savory lentil fritters, deeply rooted in the vibrant North Indian culinary tradition.",
+    "state": "Chandigarh",
+    "veg_or_non_veg": "Veg"
+}

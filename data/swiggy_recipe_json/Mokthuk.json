@@ -1,0 +1,20 @@
+{
+    "name": "Mokthuk",
+    "url": "https://indianfoodmap.example.com/mokthuk",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Small Momos",
+        "Meat broth",
+        "Spinach",
+        "Carrots",
+        "Spring onions"
+    ],
+    "instructions": [
+        "1. Prepare a flavorful broth. 2. Steam small momos separately. 3. Add momos and greens to the hot broth just before serving."
+    ],
+    "description": "Momo-soup fusion, where succulent dumplings swim in a comforting broth.",
+    "state": "Ladakh",
+    "veg_or_non_veg": "Non-Veg"
+}

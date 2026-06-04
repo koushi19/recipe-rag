@@ -1,0 +1,29 @@
+{
+    "name": "Parwal ki Mithai",
+    "url": "https://indianfoodmap.example.com/parwal-ki-mithai",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g fresh pointed gourd (Parwal)",
+        "200g khoya (mawa)",
+        "1/2 cup sugar (for stuffing)",
+        "1.5 cups sugar (for sugar syrup)",
+        "1/4 tsp green cardamom powder",
+        "1 tbsp chopped pistachios",
+        "1 tbsp chopped almonds",
+        "1/2 tsp rose water",
+        "Water as needed"
+    ],
+    "instructions": [
+        "1. Peel the parwal, slice off the ends, and make a slit lengthwise to carefully scoop out the seeds.",
+        "2. Blanch the parwals in boiling water for 5 minutes, then drain.",
+        "3. Prepare a sugar syrup (one-string consistency) and boil the parwals in it for 10-12 minutes until translucent; let them cool.",
+        "4. In a pan, roast the khoya until soft, add sugar, cardamom powder, and dry fruits, stirring until it thickens into a stuffing.",
+        "5. Gently stuff each parwal with the prepared khoya mixture.",
+        "6. Garnish with slivered nuts and serve chilled."
+    ],
+    "description": "A celebrated sweet from Bihar, Parwal ki Mithai turns a humble vegetable into a royal dessert. It is traditionally prepared during festivals and weddings, showcasing the creative culinary heritage of the region where seasonal produce is transformed into sophisticated confections.",
+    "state": "Bihar",
+    "veg_or_non_veg": "Veg"
+}

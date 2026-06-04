@@ -1,0 +1,26 @@
+{
+    "name": "Chakuli Pitha",
+    "url": "https://indianfoodmap.example.com/chakuli-pitha",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Parboiled rice (Usna chaula)",
+        "Black gram (Biri dali)",
+        "Salt to taste",
+        "Water for grinding",
+        "Ghee or vegetable oil for cooking"
+    ],
+    "instructions": [
+        "1. Soak parboiled rice and black gram in water for 4-6 hours.",
+        "2. Grind the soaked mixture into a smooth, slightly thick batter and let it ferment for 6-8 hours or overnight.",
+        "3. Add salt to the fermented batter and adjust consistency with water if needed.",
+        "4. Heat a flat non-stick or iron tawa and grease it lightly with ghee or oil.",
+        "5. Pour a ladleful of batter onto the center and spread it in a circular motion to form a thin pancake.",
+        "6. Drizzle a little ghee/oil around the edges and cook on medium heat until the base is golden brown.",
+        "7. Flip and cook the other side for a minute, then serve hot."
+    ],
+    "description": "Chakuli Pitha is a staple breakfast dish in Odisha, closely resembling a dosa but thicker and softer. It holds cultural significance as it is prepared during various festivals like Raja Parba and Manabasa Gurubara, and is often served alongside ghugni (dried yellow peas curry) or aloo dum.",
+    "state": "Odisha",
+    "veg_or_non_veg": "Veg"
+}

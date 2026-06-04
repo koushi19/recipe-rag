@@ -1,0 +1,20 @@
+{
+    "name": "Masoor Dal Kharu",
+    "url": "https://indianfoodmap.example.com/masoor-dal-kharu",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Masoor Dal",
+        "Coconut milk",
+        "Tamarind",
+        "Garlic",
+        "Cumin"
+    ],
+    "instructions": [
+        "1. Boil dal until soft. 2. Add tamarind pulp and coconut milk. 3. Temper with garlic and cumin in oil."
+    ],
+    "description": "Flavorful red lentil curry prepared with coconut milk and tamarind.",
+    "state": "Dadra & Nagar Haveli and Daman & Diu",
+    "veg_or_non_veg": "Veg"
+}

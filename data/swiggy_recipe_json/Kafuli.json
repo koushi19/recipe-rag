@@ -1,0 +1,33 @@
+{
+    "name": "Kafuli",
+    "url": "https://indianfoodmap.example.com/kafuli",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Palak (Spinach)",
+        "Methi (Fenugreek leaves)",
+        "Mustard oil",
+        "Jakhya (Cleome viscosa seeds)",
+        "Ginger",
+        "Garlic",
+        "Green chilies",
+        "Besan (Gram flour)",
+        "Curd or Buttermilk",
+        "Salt to taste",
+        "Coriander powder",
+        "Turmeric powder"
+    ],
+    "instructions": [
+        "1. Wash and blanch the spinach and fenugreek leaves, then grind them into a coarse paste.",
+        "2. Heat mustard oil in a heavy-bottomed pan and temper with Jakhya seeds.",
+        "3. Add finely chopped garlic, ginger, and green chilies, sautéing until fragrant.",
+        "4. Stir in the green paste and cook for a few minutes.",
+        "5. Mix gram flour with curd or water to create a slurry and add it to the greens to thicken the consistency.",
+        "6. Add turmeric and coriander powder, then simmer on low heat for 15-20 minutes until the flavors meld.",
+        "7. Serve hot with steamed rice or mandua (ragi) rotis."
+    ],
+    "description": "Kafuli is a nutrient-dense, signature dish of Uttarakhand, reflecting the region's reliance on fresh greens and simple, earthy ingredients. It is considered a comfort food staple, deeply rooted in the hill culture and often prepared in an iron kadhai to enhance its traditional taste.",
+    "state": "Uttarakhand",
+    "veg_or_non_veg": "Veg"
+}

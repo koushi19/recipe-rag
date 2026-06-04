@@ -1,0 +1,26 @@
+{
+    "name": "Mysore Pak",
+    "url": "https://indianfoodmap.example.com/mysore-pak",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup besan (gram flour)",
+        "1 cup ghee",
+        "1.5 cups sugar",
+        "0.5 cup water",
+        "Pinch of edible camphor (optional)"
+    ],
+    "instructions": [
+        "1. Sieve the gram flour to remove lumps and set aside.",
+        "2. Heat the ghee in a small pan until it is hot.",
+        "3. In a heavy-bottomed kadai, combine sugar and water to create a syrup of one-string consistency.",
+        "4. Gradually add the gram flour to the syrup while stirring continuously to prevent lumps.",
+        "5. Slowly pour the hot ghee into the mixture, spoonful by spoonful, stirring constantly until the mixture bubbles and absorbs the ghee.",
+        "6. Once the mixture starts leaving the sides of the pan and becomes porous, pour it immediately into a greased tray.",
+        "7. Level the top, let it cool partially, and cut into squares before it hardens completely."
+    ],
+    "description": "While originating from the Mysore Palace in Karnataka, the 'ghee-heavy' version of Mysore Pak is immensely popular in Tamil Nadu, particularly as a staple sweet in wedding feasts and festive celebrations. It is revered for its delicate texture and the deep, nutty aroma of roasted gram flour and clarified butter.",
+    "state": "Tamil Nadu",
+    "veg_or_non_veg": "Veg"
+}

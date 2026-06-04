@@ -1,0 +1,33 @@
+{
+    "name": "Modur Pulao",
+    "url": "https://indianfoodmap.example.com/modur-pulao",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Basmati rice",
+        "Ghee",
+        "Milk",
+        "Sugar or Honey",
+        "Saffron strands",
+        "Cinnamon stick",
+        "Green cardamom pods",
+        "Cloves",
+        "Cashew nuts",
+        "Almonds",
+        "Raisins",
+        "Dried coconut slices"
+    ],
+    "instructions": [
+        "1. Soak the basmati rice in water for 30 minutes and drain. ",
+        "2. Heat ghee in a heavy-bottomed pan and sauté the dry fruits (cashews, almonds, raisins) until golden, then set aside. ",
+        "3. In the same ghee, add whole spices (cardamom, cinnamon, cloves) and sauté until fragrant. ",
+        "4. Add the soaked rice and lightly toast it in the ghee. ",
+        "5. Pour in milk and water, add the sugar, and sprinkle the saffron strands. ",
+        "6. Cover and cook on low heat until the rice is tender and the liquid is fully absorbed. ",
+        "7. Gently fold in the fried dry fruits and serve warm."
+    ],
+    "description": "Modur Pulao, often referred to as 'Sweet Pulao', is a hallmark of Kashmiri cuisine. It is a luxurious, aromatic dish prepared during special occasions, festivals, and weddings, showcasing the region's love for dry fruits, saffron, and slow-cooking techniques.",
+    "state": "Jammu and Kashmir",
+    "veg_or_non_veg": "Veg"
+}

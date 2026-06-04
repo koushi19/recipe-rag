@@ -1,0 +1,36 @@
+{
+    "name": "Gujarati Kadhi",
+    "url": "https://indianfoodmap.example.com/gujarati-kadhi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup sour yogurt",
+        "2 tbsp gram flour (besan)",
+        "2 cups water",
+        "1 tsp ginger-green chili paste",
+        "1 tbsp jaggery or sugar",
+        "1 sprig curry leaves",
+        "1 tsp mustard seeds",
+        "1/2 tsp cumin seeds",
+        "1/4 tsp fenugreek seeds (methi dana)",
+        "1 cinnamon stick",
+        "2 cloves",
+        "2 dried red chilies",
+        "1 tbsp ghee",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. Whisk the yogurt, gram flour, salt, ginger-green chili paste, and sugar until smooth.",
+        "2. Add water to the mixture and stir well.",
+        "3. Heat ghee in a deep pan, then add mustard seeds, cumin seeds, fenugreek seeds, cinnamon, cloves, dried red chilies, and curry leaves.",
+        "4. Once the spices splutter, pour the yogurt mixture into the pan.",
+        "5. Bring to a boil on low heat, stirring continuously to prevent curdling.",
+        "6. Let it simmer for 10-12 minutes until the raw smell of gram flour disappears.",
+        "7. Garnish with fresh coriander and serve hot with khichdi or steamed rice."
+    ],
+    "description": "Gujarati Kadhi is a staple comfort food in Gujarati cuisine. Unlike other regional kadhis that are thick and spicy, the Gujarati version is known for its distinct pale yellow color, thin consistency, and perfect balance of sweetness from jaggery and tanginess from sour yogurt, reflecting the regional preference for sweet-savory flavor profiles.",
+    "state": "Gujarat",
+    "veg_or_non_veg": "Veg"
+}

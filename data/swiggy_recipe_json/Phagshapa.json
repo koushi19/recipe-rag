@@ -1,0 +1,29 @@
+{
+    "name": "Phagshapa",
+    "url": "https://indianfoodmap.example.com/phagshapa",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Pork fat or pork belly",
+        "Dried red chilies",
+        "Radish (mula)",
+        "Ginger",
+        "Garlic",
+        "Turmeric powder",
+        "Salt",
+        "Vegetable oil or pork lard",
+        "Water"
+    ],
+    "instructions": [
+        "1. Slice the pork fat or belly into strips and sauté in a pot until the fat renders out and the edges turn light brown.",
+        "2. Add crushed ginger and garlic to the rendered fat and sauté until fragrant.",
+        "3. Incorporate the dried red chilies and turmeric powder, stirring briefly to release the spice oils.",
+        "4. Add thick wedges or slices of radish to the pot and toss well to coat.",
+        "5. Pour in enough water to cover the ingredients, season with salt, and simmer covered on low heat until the radish is tender and the pork is succulent.",
+        "6. Continue cooking until the liquid reduces to a thick, flavorful gravy-like consistency."
+    ],
+    "description": "Phagshapa is a quintessential Sikkimese delicacy, deeply rooted in the Himalayan lifestyle. It is a hearty, fat-rich stew traditionally served with rice or rotis, prized for its ability to provide warmth and sustenance in cold mountain climates.",
+    "state": "Sikkim",
+    "veg_or_non_veg": "Non-Veg"
+}

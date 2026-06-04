@@ -1,0 +1,31 @@
+{
+    "name": "Stuffed Paratha",
+    "url": "https://indianfoodmap.example.com/stuffed-paratha",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Whole wheat flour (atta)",
+        "Potatoes (boiled and mashed)",
+        "Finely chopped green chilies",
+        "Fresh coriander leaves",
+        "Carom seeds (ajwain)",
+        "Red chili powder",
+        "Garam masala",
+        "Dry mango powder (amchur)",
+        "Salt",
+        "Ghee or vegetable oil"
+    ],
+    "instructions": [
+        "1. Knead the whole wheat flour with water and a pinch of salt to form a soft, pliable dough and let it rest for 20 minutes.",
+        "2. Mix boiled potatoes with green chilies, coriander, salt, red chili powder, garam masala, and amchur to create the stuffing.",
+        "3. Take a lemon-sized ball of dough, flatten it slightly, and place a spoonful of stuffing in the center.",
+        "4. Bring the edges together to seal the stuffing inside, forming a smooth ball.",
+        "5. Dust with flour and gently roll the ball into a round paratha, being careful not to let the stuffing leak.",
+        "6. Heat a griddle (tawa) and place the paratha on it.",
+        "7. Cook on both sides, applying ghee liberally, until golden brown spots appear and the edges are crispy."
+    ],
+    "description": "Stuffed Parathas, particularly the Aloo variety, are an iconic culinary emblem of Delhi, famously associated with the historic Paranthe Wali Gali in Old Delhi. It is a hearty, comfort-food breakfast typically served with a dollop of white butter, spicy green chutney, and tangy pickled vegetables.",
+    "state": "Delhi",
+    "veg_or_non_veg": "Veg"
+}

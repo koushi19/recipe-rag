@@ -1,0 +1,31 @@
+{
+    "name": "Thalipeeth",
+    "url": "https://indianfoodmap.example.com/thalipeeth",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Bhajani flour (a blend of roasted flours like jowar, bajra, besan, wheat, and rice)",
+        "Finely chopped onions",
+        "Finely chopped green chilies",
+        "Fresh coriander leaves",
+        "Roasted cumin seeds",
+        "Carom seeds (ajwain)",
+        "Turmeric powder",
+        "Red chili powder",
+        "Salt to taste",
+        "Oil or ghee for cooking",
+        "Warm water"
+    ],
+    "instructions": [
+        "1. In a large mixing bowl, combine the Bhajani flour with chopped onions, green chilies, coriander, cumin, carom seeds, turmeric, chili powder, and salt.",
+        "2. Gradually add warm water to knead the mixture into a soft, pliable dough.",
+        "3. Grease a flat pan or a piece of parchment paper with a little oil.",
+        "4. Take a ball of dough, place it in the center, and use your fingertips to pat and spread it into a circular flatbread of uniform thickness.",
+        "5. Poke a small hole in the center of the dough and drizzle a little oil into it and around the edges.",
+        "6. Place the pan over medium heat and cook until both sides are golden brown and crispy, turning carefully."
+    ],
+    "description": "Thalipeeth is a traditional Maharashtrian savory flatbread. It is culturally significant as a wholesome, healthy breakfast or snack, often prepared using 'Bhajani'—a special flour mix made from roasted legumes and cereals, reflecting the traditional agrarian diet of the region.",
+    "state": "Maharashtra",
+    "veg_or_non_veg": "Veg"
+}

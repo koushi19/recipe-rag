@@ -1,0 +1,34 @@
+{
+    "name": "Kadi Pakora",
+    "url": "https://indianfoodmap.example.com/kadi-pakora",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup sour curd (dahi)",
+        "3/4 cup gram flour (besan)",
+        "1/2 teaspoon turmeric powder",
+        "1 teaspoon red chili powder",
+        "1 tablespoon ginger-garlic paste",
+        "2 onions (finely chopped for pakoras)",
+        "1 teaspoon cumin seeds",
+        "1/2 teaspoon mustard seeds",
+        "1/4 teaspoon asafoetida (hing)",
+        "3-4 dried red chilies",
+        "Few curry leaves",
+        "Fresh coriander leaves for garnish",
+        "Mustard oil for frying and tempering",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Whisk curd, besan, turmeric, and chili powder with water to create a smooth batter.",
+        "2. Heat oil in a pan, add cumin and hing, then pour in the batter, stirring continuously until it thickens.",
+        "3. Prepare pakoras by mixing sliced onions, besan, salt, and spices with minimal water and deep-frying until golden brown.",
+        "4. Drop the fried pakoras into the simmering kadi and let them cook for 10 minutes.",
+        "5. Prepare a tadka by heating mustard oil, adding mustard seeds, dried red chilies, and curry leaves.",
+        "6. Pour the sizzling tadka over the kadi, garnish with fresh coriander, and serve hot with steamed rice or bajra roti."
+    ],
+    "description": "Kadi Pakora is a quintessential comfort food in Haryana, deeply rooted in the agricultural lifestyle of the state. It is traditionally prepared using homemade sour curd and fresh gram flour, often served with bajra (pearl millet) roti, reflecting the rustic and wholesome culinary heritage of Haryanvi households.",
+    "state": "Haryana",
+    "veg_or_non_veg": "Veg"
+}

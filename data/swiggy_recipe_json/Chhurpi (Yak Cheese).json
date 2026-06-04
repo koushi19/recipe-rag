@@ -1,0 +1,18 @@
+{
+    "name": "Chhurpi (Yak Cheese)",
+    "url": "https://indianfoodmap.example.com/chhurpi-(yak-cheese)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Yak Milk",
+        "Lime juice",
+        "Smoke"
+    ],
+    "instructions": [
+        "1. Curdle yak milk and drain whey. 2. Press into blocks. 3. For hard chhurpi, dry the blocks over a wood fire for weeks."
+    ],
+    "description": "The world's hardest cheese, a smoky and enduring gift from the Yak.",
+    "state": "Ladakh",
+    "veg_or_non_veg": "Veg"
+}

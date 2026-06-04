@@ -1,0 +1,35 @@
+{
+    "name": "Duck Meat Curry (Haanh Mangxo)",
+    "url": "https://indianfoodmap.example.com/duck-meat-curry-(haanh-mangxo)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Duck meat",
+        "Ash gourd (Kou) or Bottle gourd",
+        "Mustard oil",
+        "Ginger-garlic paste",
+        "Onions",
+        "Black pepper powder",
+        "Whole dry red chilies",
+        "Cinnamon stick",
+        "Green cardamom",
+        "Cloves",
+        "Bay leaf",
+        "Turmeric powder",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Clean and cut the duck meat into medium-sized pieces.",
+        "2. Heat mustard oil in a heavy-bottomed pan or pressure cooker until it smokes.",
+        "3. Add whole spices (bay leaf, cinnamon, cardamom, cloves) and sauté.",
+        "4. Add chopped onions and ginger-garlic paste; fry until golden brown.",
+        "5. Add the duck pieces along with turmeric, salt, and black pepper powder. Sauté well until the meat browns.",
+        "6. Add diced ash gourd or bottle gourd if using.",
+        "7. Add sufficient water and cook until the meat is tender, preferably using a pressure cooker for 5-6 whistles or slow-cooking for an hour.",
+        "8. Adjust consistency and garnish with fresh coriander before serving with steamed rice."
+    ],
+    "description": "Haanh Mangxo is a traditional delicacy of Assam, often prepared during festive occasions and the winter season. The use of duck meat, known for its distinct gamey flavor, combined with the cooling properties of ash gourd, makes it a unique and culturally significant dish in Assamese cuisine.",
+    "state": "Assam",
+    "veg_or_non_veg": "Non-Veg"
+}

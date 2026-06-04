@@ -1,0 +1,22 @@
+{
+  "name": "Classic Margherita Pizza",
+  "url": "https://example.com/margherita",
+  "serving_size": "2",
+  "prep_time": "30 mins",
+  "kcal": "600",
+  "ingredients": [
+    "Pizza dough",
+    "Tomato sauce",
+    "Fresh mozzarella cheese",
+    "Fresh basil leaves",
+    "Olive oil"
+  ],
+  "instructions": [
+    "Preheat the oven to 475°F (245°C).",
+    "Roll out the dough on a floured surface.",
+    "Spread tomato sauce evenly over the dough.",
+    "Tear mozzarella cheese into pieces and place over the sauce.",
+    "Bake for 10-12 minutes until crust is golden and cheese is bubbly.",
+    "Remove from oven, top with fresh basil, and drizzle with olive oil."
+  ]
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Karah Prashad",
+    "url": "https://indianfoodmap.example.com/karah-prashad",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup whole wheat flour (Atta)",
+        "1 cup ghee",
+        "1 cup sugar",
+        "2 cups water"
+    ],
+    "instructions": [
+        "1. Dissolve sugar in water in a saucepan over medium heat and bring to a simmer; do not boil aggressively.",
+        "2. In a heavy-bottomed kadai, heat the ghee and add the whole wheat flour.",
+        "3. Roast the flour on low-medium heat, stirring continuously, until it turns a deep golden brown and releases a nutty aroma.",
+        "4. Gradually pour the warm sugar syrup into the roasted flour mixture, whisking constantly to prevent lumps.",
+        "5. Continue to cook, stirring until the mixture thickens and the ghee begins to separate from the sides.",
+        "6. Serve warm, usually blessed and distributed in Gurudwaras."
+    ],
+    "description": "Karah Prashad is a consecrated halwa served at Gurdwaras in Chandigarh and across the world. It symbolizes equality and humility, representing the 'prasad' (blessing) of the Guru, and is prepared with utmost devotion using equal proportions of flour, ghee, and sugar.",
+    "state": "Chandigarh",
+    "veg_or_non_veg": "Veg"
+}

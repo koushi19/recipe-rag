@@ -1,0 +1,27 @@
+{
+    "name": "Til Barfi",
+    "url": "https://indianfoodmap.example.com/til-barfi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups sesame seeds (til)",
+        "1 cup jaggery (gud), chopped",
+        "1/2 cup roasted peanuts, crushed",
+        "1/4 cup desiccated coconut",
+        "1/2 teaspoon cardamom powder",
+        "1 tablespoon ghee"
+    ],
+    "instructions": [
+        "1. Dry roast the sesame seeds in a pan over medium heat until they pop and turn golden, then set aside.",
+        "2. In the same pan, heat ghee and add the jaggery, stirring continuously until it melts and reaches a soft-ball consistency.",
+        "3. Add the roasted sesame seeds, crushed peanuts, desiccated coconut, and cardamom powder to the syrup.",
+        "4. Mix thoroughly until the ingredients are well combined.",
+        "5. Transfer the mixture to a greased tray or plate and spread it evenly.",
+        "6. While still warm, cut the mixture into square or diamond-shaped pieces.",
+        "7. Allow the barfi to cool completely until it sets firm before serving."
+    ],
+    "description": "Til Barfi is a popular seasonal delicacy in Jharkhand, traditionally prepared during the winter months and festivities like Makar Sankranti. It is cherished for its warmth, energy-giving properties, and the earthy, nutty flavor of sesame seeds combined with the richness of jaggery.",
+    "state": "Jharkhand",
+    "veg_or_non_veg": "Veg"
+}

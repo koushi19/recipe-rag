@@ -1,0 +1,33 @@
+{
+    "name": "Sepu Badi",
+    "url": "https://indianfoodmap.example.com/sepu-badi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Urad dal (split black gram)",
+        "Chana dal (split bengal gram)",
+        "Spinach leaves (palak)",
+        "Yogurt (dahi)",
+        "Ginger-garlic paste",
+        "Onions",
+        "Turmeric powder",
+        "Coriander powder",
+        "Red chili powder",
+        "Asafoetida (hing)",
+        "Mustard oil",
+        "Whole spices (cardamom, cloves, cinnamon, bay leaf)",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Soak the dals overnight, grind them into a smooth paste, and mix with chopped spinach and salt.",
+        "2. Steam the batter in a greased container until firm, then cut into small squares (badi).",
+        "3. Deep-fry the badi until golden brown and keep aside.",
+        "4. Prepare the gravy by sautéing ginger-garlic paste and onions in mustard oil, followed by adding the dry spices.",
+        "5. Whisk the yogurt and add it to the pan, stirring continuously to prevent curdling.",
+        "6. Add the fried badi to the gravy and simmer on low heat until the dumplings absorb the flavors."
+    ],
+    "description": "Sepu Badi is a royal delicacy from the Mandi district of Himachal Pradesh. Traditionally served at Dham (community feasts), it is a labor-intensive dish known for its unique texture and the rich, tangy yogurt gravy that defines Himachali celebratory cuisine.",
+    "state": "Himachal Pradesh",
+    "veg_or_non_veg": "Veg"
+}

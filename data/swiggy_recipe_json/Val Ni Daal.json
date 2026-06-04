@@ -1,0 +1,20 @@
+{
+    "name": "Val Ni Daal",
+    "url": "https://indianfoodmap.example.com/val-ni-daal",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Sprouted Val beans",
+        "Onions",
+        "Garlic",
+        "Cumin seeds",
+        "Turmeric"
+    ],
+    "instructions": [
+        "1. Sauté cumin, garlic, and onions. 2. Add sprouted beans and water. 3. Simmer with minimal spices until the beans are tender. 4. Garnish with coriander."
+    ],
+    "description": "Earthy field beans, transformed into a nutritious and aromatic tribal staple.",
+    "state": "Dadra & Nagar Haveli and Daman & Diu",
+    "veg_or_non_veg": "Veg"
+}

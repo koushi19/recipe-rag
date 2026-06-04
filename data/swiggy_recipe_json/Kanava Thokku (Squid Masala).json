@@ -1,0 +1,21 @@
+{
+    "name": "Kanava Thokku (Squid Masala)",
+    "url": "https://indianfoodmap.example.com/kanava-thokku-(squid-masala)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Squid",
+        "Onions",
+        "Cinnamon",
+        "Cloves",
+        "Chili powder",
+        "Curry leaves"
+    ],
+    "instructions": [
+        "1. Clean and cut squid into rings. 2. Sauté onions with whole spices. 3. Add squid and cook on high heat until the masala thickens."
+    ],
+    "description": "Squid rings simmered in a dark, spicy masala of caramelized onions and curry leaves.",
+    "state": "Puducherry",
+    "veg_or_non_veg": "Non-Veg"
+}

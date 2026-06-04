@@ -1,0 +1,20 @@
+{
+    "name": "Adukku Pathiri",
+    "url": "https://indianfoodmap.example.com/adukku-pathiri",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Rice flour",
+        "Minced Meat/Fish",
+        "Egg",
+        "Onions",
+        "Spices"
+    ],
+    "instructions": [
+        "1. Prepare pathiris and a spicy meat masala. 2. Layer pathiris and masala in a pot. 3. Seal and bake until the layers meld."
+    ],
+    "description": "A multi-layered rice bread 'lasagna', filled with spiced meat or fish.",
+    "state": "Lakshadweep",
+    "veg_or_non_veg": "Non-Veg"
+}

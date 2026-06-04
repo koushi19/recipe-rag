@@ -1,0 +1,23 @@
+{
+    "name": "Chhang (Tongba)",
+    "url": "https://indianfoodmap.example.com/chhang-(tongba)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Millet (Finger Millet/Kodo)",
+        "Murcha (Traditional yeast starter culture)",
+        "Boiling water"
+    ],
+    "instructions": [
+        "1. Cook the finger millet until tender and allow it to cool to room temperature.",
+        "2. Sprinkle the 'Murcha' (yeast starter) evenly over the cooked millet and mix thoroughly.",
+        "3. Pack the mixture into a clean bamboo basket or earthen pot, cover it, and let it ferment in a warm place for 3 to 5 days.",
+        "4. Once the fermentation produces a sweet and sour aroma, transfer the fermented grains into a Tongba (bamboo mug).",
+        "5. Fill the Tongba with hot (not boiling) water and let it sit for a few minutes.",
+        "6. Sip the warm liquid through a bamboo straw. Keep refilling with hot water until the strength of the brew fades."
+    ],
+    "description": "Tongba is a traditional fermented millet beverage popular among the Limbu people of Sikkim and Eastern Nepal. It is often referred to as 'Tibetan hot beer' and is culturally significant as a symbol of hospitality, warmth, and community bonding, typically served during social gatherings and cold weather.",
+    "state": "Sikkim",
+    "veg_or_non_veg": "Veg"
+}

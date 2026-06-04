@@ -1,0 +1,27 @@
+{
+    "name": "Bangwi",
+    "url": "https://indianfoodmap.example.com/bangwi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Gwi rice (a sticky rice variety from Tripura)",
+        "Ginger paste",
+        "Onion slices",
+        "Green chilies",
+        "Ghee or Lard",
+        "Banana leaves",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Soak the Gwi rice in water for a few hours and drain well.",
+        "2. Mix the rice with chopped onion, ginger paste, green chilies, salt, and a dash of ghee or lard.",
+        "3. Clean the banana leaves and lightly heat them over a flame to make them pliable.",
+        "4. Place a portion of the rice mixture onto a banana leaf and roll it tightly into a cylindrical shape, tying the ends securely with thread.",
+        "5. Steam the rolls in a covered vessel or over boiling water until the rice is fully cooked and soft.",
+        "6. Remove from the leaf and serve hot."
+    ],
+    "description": "Bangwi is a quintessential Tripuri delicacy often prepared during festivals and special community gatherings. It is cherished for its unique preparation method and the distinct nutty flavor imparted by the aromatic Gwi rice when steamed in banana leaves.",
+    "state": "Tripura",
+    "veg_or_non_veg": "Veg"
+}

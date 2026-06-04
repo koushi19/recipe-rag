@@ -1,0 +1,19 @@
+{
+    "name": "Breadfruit Curry",
+    "url": "https://indianfoodmap.example.com/breadfruit-curry",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Breadfruit",
+        "Coconut paste",
+        "Turmeric",
+        "Green chili"
+    ],
+    "instructions": [
+        "1. Peel and cube breadfruit. 2. Cook with turmeric and salt. 3. Add coconut-chili paste and simmer until tender."
+    ],
+    "description": "A unique vegetarian dish where breadfruit is transformed by festive spices.",
+    "state": "Lakshadweep",
+    "veg_or_non_veg": "Veg"
+}

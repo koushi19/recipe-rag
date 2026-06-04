@@ -1,0 +1,35 @@
+{
+    "name": "Donne Biryani",
+    "url": "https://indianfoodmap.example.com/donne-biryani",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Seeraga Samba rice",
+        "Chicken or Mutton (for Non-Veg version)",
+        "Fresh coriander leaves",
+        "Fresh mint leaves",
+        "Green chilies",
+        "Garlic cloves",
+        "Ginger",
+        "Cinnamon sticks",
+        "Cloves",
+        "Cardamom",
+        "Onions",
+        "Curd",
+        "Ghee",
+        "Coconut"
+    ],
+    "instructions": [
+        "1. Grind fresh coriander, mint, green chilies, ginger, and garlic into a smooth, vibrant green paste.",
+        "2. Marinate the meat (or vegetables) in curd, a portion of the green paste, and salt for at least 30 minutes.",
+        "3. Heat ghee in a heavy-bottomed vessel, add whole spices, and sauté sliced onions until golden brown.",
+        "4. Add the marinated ingredients and cook until the meat is tender and the oil separates.",
+        "5. Add water in a 1:2 ratio to the rice, bring to a boil, and add the soaked Seeraga Samba rice.",
+        "6. Cook covered on low heat until the rice is fluffy and aromatic.",
+        "7. Serve hot in traditional dried leaf cups (donne) to absorb the earthy flavor."
+    ],
+    "description": "Donne Biryani is a signature dish from Bengaluru and the surrounding regions of Karnataka. It is named after the 'donne' (leaf cup) it is served in, which imparts a distinct earthy aroma. Unlike the layered Hyderabadi style, this is a 'pulao-style' biryani where the rice is cooked directly in the meat stock and green masala, making it intensely flavorful and popular in local 'military hotels'.",
+    "state": "Karnataka",
+    "veg_or_non_veg": "Non-Veg"
+}

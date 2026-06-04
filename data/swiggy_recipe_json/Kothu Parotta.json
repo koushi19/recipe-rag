@@ -1,0 +1,21 @@
+{
+    "name": "Kothu Parotta",
+    "url": "https://indianfoodmap.example.com/kothu-parotta",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Parotta",
+        "Eggs",
+        "Chicken/Mutton Salna",
+        "Onions",
+        "Green chilies",
+        "Curry leaves"
+    ],
+    "instructions": [
+        "1. Shred parottas into small pieces. 2. Sauté onions and chilies. 3. Add eggs and meat gravy. 4. Toss in shredded parotta and chop vigorously with a metal spatula on the griddle. 5. Garnish with coriander."
+    ],
+    "description": "The rhythmic beat of the griddle, transforming humble parotta into a spiced masterpiece.",
+    "state": "Puducherry",
+    "veg_or_non_veg": "Non-Veg"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Angakar Roti",
+    "url": "https://indianfoodmap.example.com/angakar-roti",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Coarse wheat flour (Gehu ka atta)",
+        "Gram flour (Besan)",
+        "Curd",
+        "Ghee",
+        "Carom seeds (Ajwain)",
+        "Salt to taste",
+        "Water for kneading"
+    ],
+    "instructions": [
+        "1. Mix wheat flour, gram flour, carom seeds, salt, and a spoonful of ghee in a bowl.",
+        "2. Add curd and water to knead a firm, tight dough.",
+        "3. Divide the dough into thick, palm-sized round balls or discs.",
+        "4. Prepare a bed of hot charcoal or embers (traditionally done in an earthen stove).",
+        "5. Place the dough discs directly onto the embers and cover them with more hot coals.",
+        "6. Let the roti bake slowly until the surface turns golden brown and develops a crust.",
+        "7. Remove from the heat, brush off the ash, and serve hot with a generous dollop of ghee or spicy vegetable curry."
+    ],
+    "description": "Angakar Roti is a traditional tribal delicacy of Chhattisgarh, named after the Hindi word 'Angar' meaning embers. It is a hearty, rustic bread that reflects the indigenous cooking styles of the region, where the heat from coal embers imparts a unique smoky aroma and a dense, satisfying texture.",
+    "state": "Chhattisgarh",
+    "veg_or_non_veg": "Veg"
+}

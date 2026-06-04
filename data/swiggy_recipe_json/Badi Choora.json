@@ -1,0 +1,27 @@
+{
+    "name": "Badi Choora",
+    "url": "https://indianfoodmap.example.com/badi-choora",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Sun-dried urad dal badi (Urad dal dumplings)",
+        "Small onions, finely chopped",
+        "Garlic cloves, crushed",
+        "Green chilies, finely chopped",
+        "Mustard oil",
+        "Fresh coriander leaves, finely chopped",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Heat a small amount of mustard oil in a pan and shallow-fry the dried urad dal badis until they turn golden brown and crispy.",
+        "2. Remove the badis from the pan and let them cool for a few minutes.",
+        "3. Using a mortar and pestle or a rolling pin, coarsely crush the fried badis into a coarse powder or small chunks.",
+        "4. In a mixing bowl, combine the crushed badis with finely chopped onions, crushed garlic, and green chilies.",
+        "5. Drizzle a teaspoon of raw mustard oil over the mixture and add salt to taste.",
+        "6. Garnish with fresh coriander leaves and mix well before serving as a side with Pakhala Bhata (water rice) or steamed rice."
+    ],
+    "description": "Badi Choora is a traditional Odiya delicacy that celebrates the culture of sun-drying lentils. It is a staple side dish, especially during summer months, commonly paired with Pakhala Bhata to provide a delightful contrast in texture and a pungent, savory kick from the raw mustard oil.",
+    "state": "Odisha",
+    "veg_or_non_veg": "Veg"
+}

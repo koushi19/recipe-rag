@@ -1,0 +1,24 @@
+{
+    "name": "Apong",
+    "url": "https://indianfoodmap.example.com/apong",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Rice (typically sticky rice or Bora Saul)",
+        "Apong plant stalks or 'Epo' (local starter cake)",
+        "Water",
+        "Banana leaves",
+        "Bamboo cylinders or earthen pots"
+    ],
+    "instructions": [
+        "1. Cook the rice until soft and allow it to cool completely on a clean surface.",
+        "2. Crush the 'Epo' (starter cake) into a fine powder and mix it thoroughly with the cooled rice.",
+        "3. Transfer the mixture into an earthen pot or bamboo cylinder lined with dried banana leaves.",
+        "4. Seal the container tightly to prevent air exposure and keep it in a warm, dark place for 5 to 7 days for fermentation.",
+        "5. Once fermentation is complete, dilute the mixture with clean water, strain it through a fine cloth, and serve the liquid."
+    ],
+    "description": "Apong is a traditional rice beer culturally significant to the Mising tribe of Assam. It is not just a drink but a ritualistic offering served during festivals like Ali-Aye-Ligang, symbolizing hospitality, community bonding, and ancestral connection.",
+    "state": "Assam",
+    "veg_or_non_veg": "Veg"
+}

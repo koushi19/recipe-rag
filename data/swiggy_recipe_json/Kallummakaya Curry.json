@@ -1,0 +1,20 @@
+{
+    "name": "Kallummakaya Curry",
+    "url": "https://indianfoodmap.example.com/kallummakaya-curry",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Mussels",
+        "Fennel seeds",
+        "Coconut milk",
+        "Shallots",
+        "Tamarind"
+    ],
+    "instructions": [
+        "1. Clean mussels thoroughly. 2. Make a spiced coconut gravy. 3. Add mussels and cook until they open and the sauce thickens."
+    ],
+    "description": "Fresh mussels cooked in a creamy, spiced coconut gravy.",
+    "state": "Lakshadweep",
+    "veg_or_non_veg": "Non-Veg"
+}

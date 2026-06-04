@@ -1,0 +1,37 @@
+{
+    "name": "Banjara Gosht",
+    "url": "https://indianfoodmap.example.com/banjara-gosht",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g mutton (goat meat) on the bone",
+        "2 large onions, finely sliced",
+        "1/2 cup thick yogurt (curd)",
+        "2 tbsp ginger-garlic paste",
+        "2 dried red chilies",
+        "1 tsp cumin seeds",
+        "1 inch cinnamon stick",
+        "2-3 green cardamoms",
+        "4-5 cloves",
+        "1 tsp turmeric powder",
+        "1.5 tbsp coriander powder",
+        "1 tbsp Kashmiri red chili powder",
+        "1/2 tsp garam masala",
+        "3 tbsp mustard oil",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. Heat mustard oil in a heavy-bottomed pan or kadhai until smoking, then temper with cumin, cinnamon, cloves, cardamoms, and dried red chilies.",
+        "2. Add the sliced onions and sauté until they turn golden brown.",
+        "3. Add the ginger-garlic paste and cook until the raw smell disappears.",
+        "4. Add the mutton pieces and sear on high heat until browned.",
+        "5. Lower the heat, whisk in the yogurt, and add turmeric, coriander powder, chili powder, and salt.",
+        "6. Cover and cook on low heat (dum style) adding minimal water until the meat is succulent and tender.",
+        "7. Finish with garam masala and garnish with fresh coriander."
+    ],
+    "description": "Banjara Gosht is a signature dish of the Banjara tribe of Rajasthan, known for their nomadic lifestyle. The recipe was designed to be prepared in camp-style settings with easily portable spices, resulting in a robust, pungent, and deeply aromatic curry that showcases the intense flavor profiles of Rajasthani cuisine.",
+    "state": "Rajasthan",
+    "veg_or_non_veg": "Non-Veg"
+}

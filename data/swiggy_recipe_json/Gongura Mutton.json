@@ -1,0 +1,35 @@
+{
+    "name": "Gongura Mutton",
+    "url": "https://indianfoodmap.example.com/gongura-mutton",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g mutton (goat meat) with bones",
+        "2 cups gongura (sorrel leaves), cleaned and plucked",
+        "2 large onions, finely chopped",
+        "2 tablespoons ginger-garlic paste",
+        "1/2 teaspoon turmeric powder",
+        "2 teaspoons red chili powder",
+        "1 teaspoon coriander powder",
+        "1/2 teaspoon garam masala",
+        "4-5 green chilies, slit",
+        "1/2 cup oil",
+        "1 teaspoon mustard seeds",
+        "1/2 teaspoon cumin seeds",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. Heat oil in a pressure cooker, add mustard and cumin seeds, and let them splutter.",
+        "2. Sauté onions, green chilies, and ginger-garlic paste until golden brown.",
+        "3. Add the mutton pieces and sear until they change color, then add turmeric, salt, and red chili powder.",
+        "4. Cook the mutton with a little water for 4-5 whistles until tender.",
+        "5. In a separate pan, sauté the gongura leaves with a little oil until they wilt into a paste.",
+        "6. Add the wilted gongura paste to the cooked mutton, sprinkle coriander powder and garam masala, and simmer for 10 minutes on low heat to allow flavors to meld.",
+        "7. Adjust salt and serve hot with steamed rice or ragi mudde."
+    ],
+    "description": "Gongura Mutton is a quintessential Andhra dish celebrated for its unique tangy flavor derived from gongura (sorrel) leaves. It is a staple in the coastal and Rayalaseema regions, reflecting the state's love for bold spices and sour elements in non-vegetarian preparations.",
+    "state": "Andhra Pradesh",
+    "veg_or_non_veg": "Non-Veg"
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Kangra Dham Rajma",
+    "url": "https://indianfoodmap.example.com/kangra-dham-rajma",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Madra/Chitra Rajma (large kidney beans)",
+        "Mustard oil",
+        "Ghee",
+        "Asafoetida (hing)",
+        "Cumin seeds",
+        "Green cardamom",
+        "Black cardamom",
+        "Cinnamon stick",
+        "Cloves",
+        "Ginger-garlic paste",
+        "Curd (whisked)",
+        "Turmeric powder",
+        "Coriander powder",
+        "Red chili powder",
+        "Salt"
+    ],
+    "instructions": [
+        "1. Soak the Rajma overnight and pressure cook until tender but not mushy.",
+        "2. Heat mustard oil in a heavy-bottomed pan until smoking, then let it cool slightly and add ghee.",
+        "3. Add whole spices (cumin, cardamom, cloves, cinnamon) and a pinch of asafoetida to the hot fat.",
+        "4. Add ginger-garlic paste and sauté until golden brown.",
+        "5. Reduce heat to low and whisk in the yogurt gradually, stirring constantly to prevent curdling.",
+        "6. Add the powdered spices (turmeric, coriander, red chili) and cook until the ghee separates from the sides of the gravy.",
+        "7. Add the cooked Rajma along with some of the cooking liquid.",
+        "8. Simmer on low flame for 15-20 minutes to allow the flavors to infuse.",
+        "9. Adjust salt and serve hot with steamed rice."
+    ],
+    "description": "Kangra Dham Rajma is a centerpiece of the 'Dham', the traditional ceremonial feast of Himachal Pradesh. Unlike other Indian kidney bean dishes, it excludes tomatoes and onions, relying instead on yogurt and traditional whole spices to create a distinct, velvety flavor profile that reflects the culinary heritage of the Kangra valley.",
+    "state": "Himachal Pradesh",
+    "veg_or_non_veg": "Veg"
+}

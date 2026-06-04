@@ -1,0 +1,29 @@
+{
+    "name": "Chagem Pomba",
+    "url": "https://indianfoodmap.example.com/chagem-pomba",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Fermented soybean (Hawaijar)",
+        "Broken rice (Chagem)",
+        "Mustard leaves (Hangam)",
+        "Onion",
+        "Green chilies",
+        "Ginger",
+        "Salt",
+        "Water",
+        "Dried fish (Ngari - optional for traditional flavor)"
+    ],
+    "instructions": [
+        "1. Wash and soak the broken rice for 30 minutes.",
+        "2. In a pot, boil water and add the broken rice, cooking until it begins to soften.",
+        "3. Add the chopped mustard leaves, fermented soybean (hawaijar), sliced onions, ginger, and green chilies.",
+        "4. If using, add the dried fish (ngari) at this stage.",
+        "5. Simmer on low heat, stirring occasionally to ensure the rice breaks down into a thick porridge consistency.",
+        "6. Adjust salt to taste and serve hot."
+    ],
+    "description": "Chagem Pomba is a traditional comfort food from the Meitei community of Manipur. It is highly valued for its nutritional profile and use of local, seasonal greens, reflecting the region's reliance on fresh, farm-to-table ingredients.",
+    "state": "Manipur",
+    "veg_or_non_veg": "Non-Veg"
+}

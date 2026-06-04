@@ -1,0 +1,37 @@
+{
+    "name": "Surti Locho",
+    "url": "https://indianfoodmap.example.com/surti-locho",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Chana dal (split Bengal gram)",
+        "Poha (flattened rice)",
+        "Urad dal (split black gram)",
+        "Ginger-green chili paste",
+        "Turmeric powder",
+        "Asafoetida (hing)",
+        "Eno fruit salt or baking soda",
+        "Oil",
+        "Mustard seeds",
+        "Sesame seeds",
+        "Curry leaves",
+        "Red chili powder",
+        "Garam masala",
+        "Salt",
+        "Fresh coriander leaves"
+    ],
+    "instructions": [
+        "1. Soak the chana dal, urad dal, and poha for 4-5 hours.",
+        "2. Grind the mixture into a coarse batter and let it ferment for 2-3 hours.",
+        "3. Add salt, ginger-green chili paste, turmeric, and asafoetida to the batter.",
+        "4. Just before steaming, add Eno or baking soda with a splash of oil and mix gently.",
+        "5. Pour the batter into a greased steamer plate and steam for 15-20 minutes until fluffy.",
+        "6. Prepare a tempering by heating oil and popping mustard seeds, sesame seeds, and curry leaves.",
+        "7. Once the Locho is cooked, drizzle the tempering over it.",
+        "8. Finish by sprinkling with red chili powder, garam masala, and plenty of fresh coriander."
+    ],
+    "description": "Originating from the city of Surat, Surti Locho is a beloved street food celebrated for its unique, soft, and moist texture. It is traditionally served with a signature spicy green chutney, onion rings, and a special blend of spices known as 'Locho Masala', representing the vibrant culinary culture of Southern Gujarat.",
+    "state": "Gujarat",
+    "veg_or_non_veg": "Veg"
+}

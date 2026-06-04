@@ -1,0 +1,30 @@
+{
+    "name": "Babru",
+    "url": "https://indianfoodmap.example.com/babru",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups wheat flour",
+        "1 cup soaked and ground black gram (urad dal)",
+        "1/2 tsp asafoetida (hing)",
+        "1/2 tsp ginger-garlic paste",
+        "1/2 tsp red chili powder",
+        "1/2 tsp turmeric powder",
+        "1 tsp cumin seeds",
+        "Salt to taste",
+        "Water as required",
+        "Mustard oil for deep frying"
+    ],
+    "instructions": [
+        "1. Soak urad dal overnight, drain, and grind into a coarse paste with ginger, garlic, salt, cumin, and spices.",
+        "2. Prepare a soft dough using wheat flour, a pinch of salt, and water, letting it rest for 30 minutes.",
+        "3. Make small balls from the dough and flatten them slightly.",
+        "4. Place a spoonful of the dal mixture in the center and seal the edges to form a stuffed ball.",
+        "5. Gently roll the stuffed ball into a medium-sized circle.",
+        "6. Heat mustard oil in a heavy-bottomed pan and deep-fry the babru on medium heat until both sides are golden brown and crispy."
+    ],
+    "description": "Babru is a popular breakfast dish from Himachal Pradesh, often considered the state's version of the North Indian 'Kachori'. It is culturally significant, typically prepared during festivals and special gatherings, and is best served hot with tangy tamarind chutney or savory Himachali madra.",
+    "state": "Himachal Pradesh",
+    "veg_or_non_veg": "Veg"
+}

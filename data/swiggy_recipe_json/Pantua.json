@@ -1,0 +1,29 @@
+{
+    "name": "Pantua",
+    "url": "https://indianfoodmap.example.com/pantua",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Khoya (evaporated milk solids)",
+        "Chenna (fresh cottage cheese)",
+        "Maida (refined flour)",
+        "Ghee (for deep frying)",
+        "Sugar",
+        "Water",
+        "Green cardamom pods",
+        "Saffron strands",
+        "Rose water"
+    ],
+    "instructions": [
+        "1. Mix khoya, chenna, and maida together to form a smooth, crack-free dough.",
+        "2. Divide the dough into small, equal-sized round balls.",
+        "3. Heat ghee in a deep pan over medium-low heat.",
+        "4. Fry the balls slowly until they turn deep dark brown in color, ensuring they cook through the center.",
+        "5. Prepare a sugar syrup by boiling sugar, water, cardamom, and saffron until it reaches a thin consistency.",
+        "6. Drop the fried balls into the warm syrup and let them soak for at least 2-3 hours before serving."
+    ],
+    "description": "Pantua is a beloved traditional sweet in Bihar, often likened to the Gulab Jamun but with a firmer texture and a distinctively dark, caramelized exterior. It holds significant cultural importance in regional festivals, weddings, and celebratory gatherings.",
+    "state": "Bihar",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Appam with Stew",
+    "url": "https://indianfoodmap.example.com/appam-with-stew",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Raw rice (soaked)",
+        "Freshly grated coconut",
+        "Cooked rice",
+        "Instant dry yeast",
+        "Sugar",
+        "Coconut milk (thin and thick)",
+        "Potato (cubed)",
+        "Carrots",
+        "Green peas",
+        "Green chilies",
+        "Ginger (julienned)",
+        "Curry leaves",
+        "Coconut oil",
+        "Whole spices (cinnamon, cloves, cardamom)",
+        "Black peppercorns",
+        "Salt"
+    ],
+    "instructions": [
+        "1. Blend soaked rice, grated coconut, cooked rice, sugar, and yeast into a smooth batter; ferment for 6-8 hours.",
+        "2. For the stew, sauté whole spices, ginger, green chilies, and curry leaves in coconut oil.",
+        "3. Add chopped vegetables and thin coconut milk; cook until the vegetables are tender.",
+        "4. Pour in thick coconut milk and simmer briefly; finish with a drizzle of fresh coconut oil.",
+        "5. Ladle a scoop of fermented batter into a non-stick appam chatti (wok), swirl to coat the sides, and steam covered until the edges are golden and the center is fluffy."
+    ],
+    "description": "Appam with Stew is a quintessential Kerala breakfast, deeply rooted in the state's Syrian Christian culinary tradition. It is a harmonious balance of the light, airy, fermented pancake and the rich, fragrant, velvety coconut milk gravy, often served during festive occasions and Sunday breakfasts.",
+    "state": "Kerala",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Bai",
+    "url": "https://indianfoodmap.example.com/bai",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g pork belly, cut into 2-inch chunks (or substitute with smoked pork for deeper flavor)",
+        "1 cup fermented bamboo shoots (tuai), rinsed and drained",
+        "2 cups mixed local greens (such as mustard leaves, spinach, or chard), roughly chopped",
+        "4-5 fresh turmeric leaves (or 1 tsp turmeric powder if unavailable)",
+        "2-3 green chillies, slit lengthwise",
+        "1 large onion, thinly sliced",
+        "4 cloves garlic, minced",
+        "1 inch ginger, julienned",
+        "1 tsp fermented fish (ngari) or 2 tbsp fish sauce (optional, for umami)",
+        "Salt to taste",
+        "4 cups water or pork stock",
+        "2 tbsp mustard oil (or vegetable oil)"
+    ],
+    "instructions": [
+        "1. In a heavy-bottomed pot, heat mustard oil over medium-high heat. Add sliced onions and sauté until golden brown, about 5 minutes.",
+        "2. Add minced garlic and julienned ginger; cook for 1 minute until fragrant.",
+        "3. Add pork chunks and sear on all sides until lightly browned, about 5-7 minutes.",
+        "4. Pour in water or stock, add fermented bamboo shoots, turmeric leaves, green chillies, and fermented fish (if using). Bring to a boil, then reduce heat to low, cover, and simmer for 45 minutes or until pork is tender.",
+        "5. Add the mixed greens and stir gently. Continue to simmer uncovered for 10-15 minutes until greens are wilted and flavors meld.",
+        "6. Season with salt to taste. Remove turmeric leaves before serving (or leave as garnish). Serve hot with steamed rice."
+    ],
+    "description": "A smoky, heart-warming embrace of fermented bamboo and mountain herbs, simmered in the misty hills of Mizoram.",
+    "state": "Mizoram",
+    "veg_or_non_veg": "Non-Veg"
+}

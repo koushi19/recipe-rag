@@ -1,0 +1,33 @@
+{
+    "name": "Mackerel Recheado",
+    "url": "https://indianfoodmap.example.com/mackerel-recheado",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "4-6 whole fresh Mackerel",
+        "10-12 dried Kashmiri red chilies",
+        "1 tsp cumin seeds",
+        "1/2 tsp turmeric powder",
+        "6-8 cloves of garlic",
+        "1 inch piece of ginger",
+        "1/2 tsp black peppercorns",
+        "1 small ball of tamarind",
+        "2 tbsp palm vinegar (or toddy vinegar)",
+        "1 tsp sugar",
+        "Salt to taste",
+        "Semolina (rava) for coating",
+        "Coconut oil for shallow frying"
+    ],
+    "instructions": [
+        "1. Clean the mackerel by making a deep slit along the backbone and removing the guts. Wash and pat dry.",
+        "2. Grind the dried red chilies, cumin, turmeric, garlic, ginger, peppercorns, tamarind, salt, sugar, and vinegar into a fine, thick paste.",
+        "3. Stuff the slit of each mackerel generously with the prepared masala paste.",
+        "4. Marinate the fish for about 30 minutes.",
+        "5. Roll each stuffed mackerel in semolina until evenly coated.",
+        "6. Heat coconut oil in a shallow frying pan and fry the fish on medium-low heat until golden brown and crispy on both sides."
+    ],
+    "description": "Mackerel Recheado is an iconic Goan dish representing the Indo-Portuguese culinary fusion. The term 'recheado' means 'stuffed' in Portuguese. It is celebrated for the perfect balance of spice from the chilies and tartness from the toddy vinegar, making it a staple in Goan households and beach shacks.",
+    "state": "Goa",
+    "veg_or_non_veg": "Non-Veg"
+}

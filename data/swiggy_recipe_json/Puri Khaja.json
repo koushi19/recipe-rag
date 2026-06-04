@@ -1,0 +1,28 @@
+{
+    "name": "Puri Khaja",
+    "url": "https://indianfoodmap.example.com/puri-khaja",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Refined wheat flour (Maida)",
+        "Ghee (clarified butter)",
+        "Vegetable oil for deep frying",
+        "Sugar",
+        "Water",
+        "Cardamom powder",
+        "A pinch of salt"
+    ],
+    "instructions": [
+        "1. Mix flour, a little melted ghee, and salt with water to form a firm dough and let it rest for 30 minutes.",
+        "2. Divide the dough into small balls and roll them into very thin circular sheets.",
+        "3. Apply a mixture of ghee and flour paste (sata) on each sheet, stack them, and roll them tightly into a cylindrical log.",
+        "4. Cut the log into small pieces (khajas) and gently press them down with a rolling pin.",
+        "5. Deep-fry the pieces in medium-hot oil until golden brown and crispy.",
+        "6. Prepare a one-string consistency sugar syrup flavored with cardamom.",
+        "7. Dip the fried khajas into the warm syrup until coated well and let them dry to form a sugary glaze."
+    ],
+    "description": "Puri Khaja is a traditional sweet delicacy from the holy city of Puri, Odisha. It is famously known as a key 'Chhappan Bhog' (56 offerings) presented to Lord Jagannath at the Jagannath Temple. Its unique multi-layered, crispy texture and sugar-soaked finish make it a cultural icon of Odia confectionery.",
+    "state": "Odisha",
+    "veg_or_non_veg": "Veg"
+}

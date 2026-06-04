@@ -1,0 +1,30 @@
+{
+    "name": "Pani Hamuk",
+    "url": "https://indianfoodmap.example.com/pani-hamuk",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Fresh river snails (Pani Hamuk)",
+        "Potato",
+        "Onion",
+        "Ginger-garlic paste",
+        "Green chilies",
+        "Turmeric powder",
+        "Khar (alkaline extract)",
+        "Mustard oil",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. Thoroughly clean the river snails and remove the shells or keep them as per preference, then wash them in multiple changes of water.",
+        "2. Heat mustard oil in a heavy-bottomed pan and sauté onions, ginger-garlic paste, and green chilies until fragrant.",
+        "3. Add chopped potatoes and turmeric powder, frying until the potatoes are slightly golden.",
+        "4. Add the snails to the pan and cook for several minutes, allowing the flavors to infuse.",
+        "5. Pour in a small amount of Khar or water, cover, and simmer until the snails are tender and the gravy thickens.",
+        "6. Season with salt and garnish with fresh coriander before serving hot with steamed rice."
+    ],
+    "description": "Pani Hamuk is a quintessential tribal and rural delicacy from Assam. Snails are a traditional source of protein and are considered a seasonal treat. The dish holds cultural significance in the community, often reflecting the deep connection between the local people and the riverine ecosystem of the Brahmaputra valley.",
+    "state": "Assam",
+    "veg_or_non_veg": "Non-Veg"
+}

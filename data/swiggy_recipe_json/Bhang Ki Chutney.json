@@ -1,0 +1,27 @@
+{
+    "name": "Bhang Ki Chutney",
+    "url": "https://indianfoodmap.example.com/bhang-ki-chutney",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Hemp seeds (Bhang seeds)",
+        "Fresh coriander leaves",
+        "Green chillies",
+        "Ginger",
+        "Garlic cloves",
+        "Cumin seeds",
+        "Lemon juice or tamarind pulp",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Dry roast the hemp seeds in a pan over low heat until they start popping and emit a nutty aroma, then set aside to cool.",
+        "2. In a traditional sil-batta (stone mortar and pestle) or a blender, combine the roasted seeds, green chillies, garlic, ginger, and cumin seeds.",
+        "3. Grind the mixture into a coarse paste.",
+        "4. Add fresh coriander leaves and a splash of water, then grind again until you achieve the desired consistency.",
+        "5. Season with salt and add lemon juice or tamarind pulp for acidity, mixing well before serving."
+    ],
+    "description": "Bhang Ki Chutney is a quintessential culinary specialty of Uttarakhand, particularly the Kumaon and Garhwal regions. It is highly valued for its distinct nutty flavor and is traditionally served as a side dish with Mandua (finger millet) roti or steamed rice. Beyond its culinary appeal, it is believed to keep the body warm during the cold mountainous winters.",
+    "state": "Uttarakhand",
+    "veg_or_non_veg": "Veg"
+}

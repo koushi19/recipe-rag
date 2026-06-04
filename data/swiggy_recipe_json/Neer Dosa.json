@@ -1,0 +1,27 @@
+{
+    "name": "Neer Dosa",
+    "url": "https://indianfoodmap.example.com/neer-dosa",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups raw rice (Sona Masuri or white rice)",
+        "1/2 cup fresh grated coconut",
+        "Salt to taste",
+        "Water as required",
+        "Oil or ghee for greasing the pan"
+    ],
+    "instructions": [
+        "1. Wash and soak the rice in water for at least 4-5 hours.",
+        "2. Drain the water and grind the soaked rice along with grated coconut into a very smooth, fine paste using minimal water.",
+        "3. Transfer the batter to a large bowl and add enough water to achieve a thin, watery consistency (thinner than regular dosa batter).",
+        "4. Add salt and mix well.",
+        "5. Heat a non-stick or cast-iron tawa and grease it lightly with oil.",
+        "6. Pour a ladleful of the watery batter onto the hot pan, starting from the edges and moving towards the center, allowing it to spread naturally through the holes.",
+        "7. Cover with a lid and cook on medium-high heat for about 1-2 minutes until the edges lift and the surface is cooked; do not flip.",
+        "8. Gently fold the dosa into a triangle or roll it and serve hot."
+    ],
+    "description": "Neer Dosa, which translates to 'Water Dosa' in Tulu, is a specialty from the coastal regions of Karnataka, particularly the Udupi-Mangaluru area. Unlike traditional fermented dosas, it is light, soft, and does not require fermentation, making it a staple breakfast dish celebrated for its delicate, melt-in-the-mouth texture.",
+    "state": "Karnataka",
+    "veg_or_non_veg": "Veg"
+}

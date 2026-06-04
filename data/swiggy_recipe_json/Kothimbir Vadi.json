@@ -1,0 +1,32 @@
+{
+    "name": "Kothimbir Vadi",
+    "url": "https://indianfoodmap.example.com/kothimbir-vadi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups fresh coriander leaves (finely chopped)",
+        "1 cup gram flour (besan)",
+        "2 tablespoons rice flour",
+        "1 teaspoon ginger-garlic paste",
+        "1 teaspoon green chili paste",
+        "1/2 teaspoon turmeric powder",
+        "1 teaspoon red chili powder",
+        "1 teaspoon cumin seeds",
+        "1/2 teaspoon carom seeds (ajwain)",
+        "1 tablespoon sesame seeds",
+        "Salt to taste",
+        "2 tablespoons oil (for the batter and frying)",
+        "Water as needed"
+    ],
+    "instructions": [
+        "1. In a large bowl, mix chopped coriander, gram flour, rice flour, spices, ginger-garlic paste, and chili paste. Add a little water to form a thick, dough-like consistency.",
+        "2. Grease a steamer plate and spread the mixture evenly over it.",
+        "3. Steam for 15-20 minutes until firm. Let it cool completely.",
+        "4. Once cooled, cut the steamed mixture into small diamond or square-shaped pieces.",
+        "5. Heat oil in a pan and shallow fry the pieces until they are golden brown and crispy on both sides."
+    ],
+    "description": "Kothimbir Vadi is a quintessential Maharashtrian tea-time snack. 'Kothimbir' refers to coriander and 'Vadi' refers to a cube or slice. It is beloved for its aromatic herb profile and crispy texture, frequently served during festivals and family gatherings.",
+    "state": "Maharashtra",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Sisunak Saag",
+    "url": "https://indianfoodmap.example.com/sisunak-saag",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Fresh Sisun/Bichhu Buti (Nettle leaves)",
+        "Garlic cloves",
+        "Green chilies",
+        "Mustard oil",
+        "Salt to taste",
+        "Wheat flour or rice flour (for thickening)",
+        "Water"
+    ],
+    "instructions": [
+        "1. Wear thick gloves to handle the Sisun leaves and wash them thoroughly in running water.",
+        "2. Boil the leaves in a pot of water until soft, then drain the excess water.",
+        "3. Mash the boiled leaves into a coarse paste using a wooden masher or a grinding stone.",
+        "4. Heat mustard oil in a pan and add finely chopped garlic and green chilies.",
+        "5. Add the nettle paste to the pan and cook for a few minutes.",
+        "6. Mix in a little wheat or rice flour mixed with water to thicken the saag and simmer until cooked through.",
+        "7. Add salt to taste and serve hot with steamed rice or mandua (ragi) rotis."
+    ],
+    "description": "Sisunak Saag is a nutrient-dense dish made from Himalayan stinging nettle. It is culturally significant to the Kumaon and Garhwal regions, prized for its medicinal properties and ability to provide warmth during harsh mountain winters.",
+    "state": "Uttarakhand",
+    "veg_or_non_veg": "Veg"
+}

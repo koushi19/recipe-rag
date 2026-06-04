@@ -1,0 +1,34 @@
+{
+    "name": "Rogan Josh",
+    "url": "https://indianfoodmap.example.com/rogan-josh",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g lamb or mutton pieces",
+        "1 cup yogurt",
+        "2 tablespoons Kashmiri red chili powder",
+        "1 teaspoon dry ginger powder (sonth)",
+        "1 teaspoon fennel powder (saunf)",
+        "1/2 teaspoon asafoetida (hing)",
+        "2 black cardamom pods",
+        "4 green cardamom pods",
+        "1-inch cinnamon stick",
+        "4 cloves",
+        "1/2 teaspoon turmeric powder",
+        "4 tablespoons mustard oil",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Heat mustard oil in a heavy-bottomed pan until smoking, then reduce heat and add the whole spices (cardamom, cinnamon, cloves).",
+        "2. Add the mutton pieces and sear until browned.",
+        "3. Stir in the Kashmiri chili powder mixed with a little water, turmeric, and salt.",
+        "4. Add the ginger powder and fennel powder, mixing well.",
+        "5. Gradually whisk in the yogurt over low heat to prevent curdling, then add enough water to cover the meat.",
+        "6. Dissolve the asafoetida in a tablespoon of water and add it to the curry.",
+        "7. Cover and simmer on low heat until the meat is tender and the oil separates from the gravy."
+    ],
+    "description": "Rogan Josh is a signature dish of Kashmiri cuisine, introduced to the region by the Mughals. It is celebrated for its deep red color derived from Kashmiri chilies and its fragrant, rich gravy that relies on aromatics like ginger and fennel rather than onion or garlic, making it a staple of the elaborate Wazwan feast.",
+    "state": "Jammu and Kashmir",
+    "veg_or_non_veg": "Non-Veg"
+}

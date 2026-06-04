@@ -1,0 +1,33 @@
+{
+    "name": "Mysore Masala Dosa",
+    "url": "https://indianfoodmap.example.com/mysore-masala-dosa",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Parboiled rice",
+        "Urad dal (split black lentils)",
+        "Fenugreek seeds",
+        "Potatoes",
+        "Red chili paste (Byadgi chilies)",
+        "Garlic cloves",
+        "Mustard seeds",
+        "Curry leaves",
+        "Turmeric powder",
+        "Onions",
+        "Green chilies",
+        "Ghee",
+        "Salt"
+    ],
+    "instructions": [
+        "1. Soak rice, urad dal, and fenugreek seeds for 6 hours and grind into a smooth batter; ferment overnight.",
+        "2. Prepare red chutney by grinding soaked Byadgi chilies with garlic and salt.",
+        "3. Make the potato filling by sautéing mustard seeds, curry leaves, onions, green chilies, and boiled potatoes with turmeric.",
+        "4. Heat a tawa, pour a ladle of batter, and spread it into a thin circular dosa.",
+        "5. Spread a spoonful of the red chutney over the dosa base.",
+        "6. Place a portion of potato filling in the center, drizzle with ghee, and fold the dosa once crispy."
+    ],
+    "description": "Originating from the royal city of Mysore, this dish is a culinary icon of Karnataka. It is distinguished from a standard masala dosa by the iconic spicy, vibrant red garlic-chili chutney spread inside, offering a perfect balance of heat, crunch, and comfort.",
+    "state": "Karnataka",
+    "veg_or_non_veg": "Veg"
+}

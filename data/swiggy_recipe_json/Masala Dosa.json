@@ -1,0 +1,31 @@
+{
+    "name": "Masala Dosa",
+    "url": "https://indianfoodmap.example.com/masala-dosa",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Parboiled rice",
+        "Urad dal (split black gram)",
+        "Fenugreek seeds",
+        "Boiled potatoes",
+        "Mustard seeds",
+        "Curry leaves",
+        "Turmeric powder",
+        "Green chilies",
+        "Onions",
+        "Ginger",
+        "Salt",
+        "Refined oil or ghee"
+    ],
+    "instructions": [
+        "1. Soak rice, urad dal, and fenugreek seeds for 6 hours and grind into a smooth, slightly coarse batter. Let it ferment overnight.",
+        "2. Prepare the potato masala by tempering mustard seeds, curry leaves, and green chilies in oil, then sautéing onions and ginger before adding boiled potatoes and turmeric.",
+        "3. Heat a non-stick or cast-iron griddle, pour a ladle of batter, and spread it in a circular motion to create a thin crepe.",
+        "4. Drizzle oil or ghee around the edges and cook until golden brown and crispy.",
+        "5. Place a portion of the potato masala in the center, fold the dosa, and serve hot."
+    ],
+    "description": "Masala Dosa is an iconic breakfast dish from South India, specifically Tamil Nadu, celebrated for its perfect balance of a tangy, crispy fermented exterior and a savory, spiced potato interior. It reflects the region's traditional reliance on fermented grains and legumes for gut health and energy.",
+    "state": "Tamil Nadu",
+    "veg_or_non_veg": "Veg"
+}

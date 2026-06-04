@@ -1,0 +1,40 @@
+{
+    "name": "Sorpotel",
+    "url": "https://indianfoodmap.example.com/sorpotel",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Pork meat (with fat)",
+        "Pork liver",
+        "Pork heart",
+        "Pork tongue",
+        "Dried Kashmiri red chillies",
+        "Cinnamon stick",
+        "Cloves",
+        "Peppercorns",
+        "Cumin seeds",
+        "Turmeric powder",
+        "Ginger",
+        "Garlic",
+        "Tamarind pulp",
+        "Feni (optional, for authentic kick)",
+        "Vinegar",
+        "Onions (finely chopped)",
+        "Green chillies",
+        "Salt"
+    ],
+    "instructions": [
+        "1. Parboil the pork meat, liver, heart, and tongue with salt and turmeric until tender.",
+        "2. Once cooled, dice the meat and offal into very small, uniform cubes.",
+        "3. Roast the dry spices (chillies, cloves, cinnamon, cumin, peppercorns) and grind them into a smooth paste using vinegar.",
+        "4. Fry the finely chopped onions and green chillies in a large pot until translucent.",
+        "5. Add the cubed pork and cook until slightly browned.",
+        "6. Pour in the ground spice masala and the remaining parboiling stock.",
+        "7. Simmer on low heat for an extended period, adding tamarind pulp and extra vinegar to achieve the characteristic tang.",
+        "8. Ideally, let it rest for a day, as Sorpotel is known to taste significantly better after 24 hours."
+    ],
+    "description": "Sorpotel is a classic Portuguese-influenced dish deeply rooted in Goan-Catholic culture. Often referred to as 'sarapatel,' it is a staple at Christmas celebrations and weddings, representing the fusion of colonial culinary techniques with local Indian spices.",
+    "state": "Goa",
+    "veg_or_non_veg": "Non-Veg"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Idiyappam with Coconut Milk",
+    "url": "https://indianfoodmap.example.com/idiyappam-with-coconut-milk",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Rice flour",
+        "Fresh Coconut Milk",
+        "Sugar/Jaggery",
+        "Cardamom"
+    ],
+    "instructions": [
+        "1. Steam rice noodle strands. 2. Press out fresh coconut milk. 3. Sweeten with sugar and flavor with cardamom. 4. Serve hot idiyappam with chilled milk."
+    ],
+    "description": "Steamed rice noodles served with sweet, creamy coconut milk.",
+    "state": "Lakshadweep",
+    "veg_or_non_veg": "Veg"
+}

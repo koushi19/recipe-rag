@@ -1,0 +1,30 @@
+{
+    "name": "Naga Masala Tea",
+    "url": "https://indianfoodmap.example.com/naga-masala-tea",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups water",
+        "2 teaspoons black tea leaves (Assam variety)",
+        "1-inch piece of fresh ginger, crushed",
+        "2 cloves",
+        "1 green cardamom pod, crushed",
+        "1/2 teaspoon black pepper, freshly crushed",
+        "1 small piece of cinnamon stick",
+        "2 teaspoons jaggery or brown sugar",
+        "1/2 cup milk (optional)"
+    ],
+    "instructions": [
+        "1. Bring water to a boil in a saucepan.",
+        "2. Add the crushed ginger, cloves, cardamom, black pepper, and cinnamon to the water.",
+        "3. Simmer for 3-5 minutes until the water is aromatic and infused with spice essence.",
+        "4. Add the black tea leaves and let it steep for 1-2 minutes.",
+        "5. Stir in the jaggery or sugar until dissolved.",
+        "6. Add milk if desired and bring to a quick boil again.",
+        "7. Strain the tea into cups and serve hot."
+    ],
+    "description": "Naga Masala Tea is a comforting, potent brew that warms the body against the cool, misty climate of the Naga hills. It highlights the local preference for pungent spices like ginger and black pepper, offering an energizing start to the day that is integral to Naga hospitality.",
+    "state": "Nagaland",
+    "veg_or_non_veg": "Veg"
+}

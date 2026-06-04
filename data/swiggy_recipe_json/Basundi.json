@@ -1,0 +1,30 @@
+{
+    "name": "Basundi",
+    "url": "https://indianfoodmap.example.com/basundi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Full-fat milk",
+        "Sugar",
+        "Cardamom powder",
+        "Saffron strands",
+        "Chironji (charoli)",
+        "Sliced almonds",
+        "Sliced pistachios",
+        "Nutmeg powder"
+    ],
+    "instructions": [
+        "1. Pour full-fat milk into a heavy-bottomed pan and bring to a boil.",
+        "2. Lower the heat and simmer the milk, stirring occasionally and scraping the sides to prevent burning.",
+        "3. Continue simmering until the milk thickens and reduces to about half its original quantity.",
+        "4. Add sugar and stir until dissolved.",
+        "5. Add saffron strands, cardamom powder, and a pinch of nutmeg powder.",
+        "6. Mix in the blanched and sliced almonds, pistachios, and chironji.",
+        "7. Continue simmering for another 5 minutes to allow flavors to infuse.",
+        "8. Serve warm or chilled, garnished with extra nuts."
+    ],
+    "description": "Basundi is a traditional Gujarati delicacy often prepared during festivals like Kali Chaudas and Bhai Dooj. It is known for its creamy, decadent texture and is considered a symbol of celebration and hospitality in Western India.",
+    "state": "Gujarat",
+    "veg_or_non_veg": "Veg"
+}

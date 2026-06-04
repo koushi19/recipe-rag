@@ -1,0 +1,28 @@
+{
+    "name": "Bore Baasi",
+    "url": "https://indianfoodmap.example.com/bore-baasi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Leftover cooked rice",
+        "Water (or Rice Kanji)",
+        "Curd (optional)",
+        "Green chilies",
+        "Raw onion",
+        "Salt",
+        "Mustard oil (optional)",
+        "Garlic cloves"
+    ],
+    "instructions": [
+        "1. Take the leftover cooked rice in a bowl or a clay pot.",
+        "2. Add clean water (or rice starch water) until the rice is completely submerged.",
+        "3. Cover and let it soak overnight at room temperature to allow mild fermentation.",
+        "4. In the morning, drain some of the excess water if desired or keep it for a soup-like consistency.",
+        "5. Season with salt to taste.",
+        "6. Serve cold, traditionally garnished with chopped raw onions, whole green chilies, and sometimes a spoonful of curd."
+    ],
+    "description": "Bore Baasi is the signature breakfast of Chhattisgarh, revered for its cooling properties during the harsh summer months. It is celebrated annually on 'Bore Baasi Diwas' to honor the tribal heritage and the simple, sustainable agricultural lifestyle of the state.",
+    "state": "Chhattisgarh",
+    "veg_or_non_veg": "Veg"
+}

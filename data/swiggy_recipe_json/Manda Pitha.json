@@ -1,0 +1,27 @@
+{
+    "name": "Manda Pitha",
+    "url": "https://indianfoodmap.example.com/manda-pitha",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup rice flour",
+        "2 cups water",
+        "1 cup grated fresh coconut",
+        "3/4 cup jaggery",
+        "1/2 teaspoon green cardamom powder",
+        "1 tablespoon ghee",
+        "A pinch of salt",
+        "1/2 teaspoon black pepper powder"
+    ],
+    "instructions": [
+        "1. Prepare the stuffing by cooking grated coconut and jaggery in a pan until thick, then stir in cardamom powder and black pepper.",
+        "2. Boil water with salt and ghee, then gradually add rice flour while stirring continuously to form a soft, smooth dough.",
+        "3. Take a lemon-sized portion of the dough, flatten it, and place a spoonful of the coconut filling in the center.",
+        "4. Carefully seal the edges to form a ball or semi-circle shape.",
+        "5. Steam the dumplings in a steamer or an idli maker for 10-12 minutes until the outer layer is translucent and firm."
+    ],
+    "description": "Manda Pitha is a quintessential steamed dessert from Odisha, traditionally prepared during festivals like Manabasa Gurubara, Raja Parba, and Kumar Purnima. It represents prosperity and is frequently offered to Lord Jagannath as part of the 'Chhappan Bhog'.",
+    "state": "Odisha",
+    "veg_or_non_veg": "Veg"
+}

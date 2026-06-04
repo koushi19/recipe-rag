@@ -1,0 +1,31 @@
+{
+    "name": "Pinni",
+    "url": "https://indianfoodmap.example.com/pinni",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Whole wheat flour (Atta)",
+        "Pure desi ghee",
+        "Jaggery (Gur) or powdered sugar",
+        "Dried ginger powder (Saunth)",
+        "Edible gum (Gond)",
+        "Chopped almonds",
+        "Chopped cashews",
+        "Melon seeds (Magaz)",
+        "Green cardamom powder",
+        "Raisins"
+    ],
+    "instructions": [
+        "1. Heat ghee in a heavy-bottomed pan and fry the edible gum until puffed, then set aside.",
+        "2. In the same ghee, roast the wheat flour on low heat until it turns golden brown and aromatic.",
+        "3. Add chopped nuts and melon seeds to the flour, roasting for another two minutes.",
+        "4. Remove from heat and stir in the dried ginger powder and cardamom powder.",
+        "5. Melt the jaggery separately to create a syrup or use powdered sugar once the flour mixture has cooled slightly.",
+        "6. Combine the fried gum and sweetener into the flour mixture while warm.",
+        "7. Shape the mixture into small, firm round balls (pinnis) using your palms before it cools completely."
+    ],
+    "description": "Pinni is a traditional Haryanvi winter delicacy known for its medicinal and warming properties. Often prepared during the cold months to boost immunity, it is considered a wholesome energy snack and is culturally significant as a popular gift during festivals and family celebrations.",
+    "state": "Haryana",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Pork Vindaloo",
+    "url": "https://indianfoodmap.example.com/pork-vindaloo",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Pork",
+        "Red Chili Paste",
+        "Vinegar",
+        "Ginger",
+        "Garlic"
+    ],
+    "instructions": [
+        "1. Marinate pork overnight in vinegar and spice paste. 2. Slow cook in its own juices until tender and the sauce is dark and rich."
+    ],
+    "description": "A sharp, fiery, and tangy pork curry—a testament to historical Portuguese connections.",
+    "state": "Dadra & Nagar Haveli and Daman & Diu",
+    "veg_or_non_veg": "Non-Veg"
+}

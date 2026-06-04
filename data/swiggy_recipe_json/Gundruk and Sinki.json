@@ -1,0 +1,31 @@
+{
+    "name": "Gundruk and Sinki",
+    "url": "https://indianfoodmap.example.com/gundruk-and-sinki",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Fermented mustard/radish leaves (Gundruk)",
+        "Fermented radish taproot (Sinki)",
+        "Chopped onions",
+        "Tomatoes",
+        "Green chilies",
+        "Ginger-garlic paste",
+        "Turmeric powder",
+        "Mustard oil",
+        "Salt to taste",
+        "Water"
+    ],
+    "instructions": [
+        "1. Soak the dried Gundruk and Sinki in warm water for 15-20 minutes to rehydrate and remove excess acidity.",
+        "2. Heat mustard oil in a heavy-bottomed pot and sauté onions, ginger-garlic paste, and green chilies until fragrant.",
+        "3. Add chopped tomatoes and turmeric powder, cooking until the tomatoes soften.",
+        "4. Add the drained Gundruk and Sinki to the pot and stir-fry for a few minutes.",
+        "5. Pour in enough water to cover the ingredients and bring to a boil.",
+        "6. Reduce heat and simmer for 15-20 minutes until the flavors meld into a hearty soup consistency.",
+        "7. Adjust salt and serve hot with steamed rice."
+    ],
+    "description": "Gundruk and Sinki are essential staples of the Sikkimese diet, created through the process of lactic acid fermentation. They are considered comfort food, prized for their probiotic benefits and their ability to be stored for long periods, which historically helped mountain communities survive the harsh winter months.",
+    "state": "Sikkim",
+    "veg_or_non_veg": "Veg"
+}

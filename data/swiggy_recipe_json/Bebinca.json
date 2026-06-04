@@ -1,0 +1,30 @@
+{
+    "name": "Bebinca",
+    "url": "https://indianfoodmap.example.com/bebinca",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Fresh coconut milk",
+        "Egg yolks",
+        "Refined flour (maida)",
+        "Caster sugar",
+        "Ghee (clarified butter)",
+        "Cardamom powder",
+        "Nutmeg powder",
+        "Salt"
+    ],
+    "instructions": [
+        "1. Extract thick coconut milk and whisk it with sugar until dissolved.",
+        "2. In a separate bowl, whisk the egg yolks until creamy and combine with the coconut milk mixture.",
+        "3. Gradually fold in the flour, cardamom, and nutmeg powder to create a smooth, thin batter.",
+        "4. Grease a round baking tin with ghee.",
+        "5. Pour a thin layer of batter into the tin and bake under a grill or in an oven until the top is golden brown.",
+        "6. Remove from the heat, brush with a little ghee, and pour an identical thin layer of batter over the first.",
+        "7. Repeat the process of baking and layering until all the batter is used, ensuring each layer is cooked through.",
+        "8. Once the final layer is baked, let it cool completely before unmolding and slicing."
+    ],
+    "description": "Bebinca is widely considered the 'Queen of Goan desserts.' It is an iconic Indo-Portuguese delicacy traditionally prepared during Christmas and special celebrations. Known for its distinct seven or more layers, it reflects the rich culinary heritage of Goa, combining local tropical ingredients with European baking techniques.",
+    "state": "Goa",
+    "veg_or_non_veg": "Non-Veg"
+}

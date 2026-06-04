@@ -1,0 +1,30 @@
+{
+    "name": "Crepes (Sweet/Savoury)",
+    "url": "https://indianfoodmap.example.com/crepes-(sweetsavoury)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Refined flour (maida)",
+        "Eggs",
+        "Milk",
+        "Melted butter or ghee",
+        "Pinch of salt",
+        "Granulated sugar (for sweet version)",
+        "Finely chopped green chilies and onions (for savoury version)",
+        "Fresh coconut gratings (traditional twist)",
+        "Cardamom powder (for sweet version)"
+    ],
+    "instructions": [
+        "1. Whisk the flour, eggs, milk, and a pinch of salt together in a bowl until the batter is thin and free of lumps.",
+        "2. Divide the batter; add sugar and cardamom to one portion for sweet crepes, and add chopped onions, green chilies, and salt to the other for savoury crepes.",
+        "3. Heat a non-stick flat skillet or tava and grease it lightly with butter or ghee.",
+        "4. Pour a ladle of batter onto the center and swirl the pan to spread it into a thin, even circle.",
+        "5. Cook on medium heat until the edges lift and the underside turns golden brown.",
+        "6. Flip carefully and cook for another 30 seconds.",
+        "7. Serve warm, either plain or rolled with a filling of choice."
+    ],
+    "description": "Influenced by French colonial history, crepes have become a staple in the unique Creole cuisine of Puducherry. They represent a cultural fusion where traditional French techniques meet local Indian flavors, often enjoyed as a light breakfast or a tea-time snack.",
+    "state": "Puducherry",
+    "veg_or_non_veg": "Non-Veg"
+}

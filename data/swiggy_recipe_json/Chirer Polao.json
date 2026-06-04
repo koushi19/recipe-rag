@@ -1,0 +1,36 @@
+{
+    "name": "Chirer Polao",
+    "url": "https://indianfoodmap.example.com/chirer-polao",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups thin or medium poha (flattened rice)",
+        "1/2 cup roasted peanuts",
+        "1 medium potato, cubed",
+        "1/4 cup green peas",
+        "1 small carrot, diced",
+        "1-2 green chilies, slit",
+        "1 tsp mustard seeds",
+        "8-10 curry leaves",
+        "1/2 tsp turmeric powder",
+        "1 tsp sugar",
+        "Salt to taste",
+        "2 tbsp mustard oil",
+        "Fresh coriander leaves for garnish",
+        "Optional: soaked raisins and cashews"
+    ],
+    "instructions": [
+        "1. Rinse the poha in a strainer under cold running water for a few seconds until soft but not mushy; drain completely and set aside.",
+        "2. Heat mustard oil in a pan until it smokes slightly, then add mustard seeds and curry leaves.",
+        "3. Add the peanuts and fry until golden brown.",
+        "4. Add potatoes, carrots, and green peas; sauté until the vegetables are cooked through.",
+        "5. Add turmeric, salt, sugar, and green chilies, mixing well.",
+        "6. Gently fold in the drained poha, ensuring the grains are coated with the spices without breaking them.",
+        "7. Cover and steam on low heat for 2 minutes.",
+        "8. Garnish with fresh coriander and serve hot."
+    ],
+    "description": "Chirer Polao is a quintessential Bengali comfort food, often served as a light breakfast or a snack during Pujo. It is a nutritious, quick-to-prepare dish that highlights the use of flattened rice and the pungent, signature flavor of mustard oil.",
+    "state": "West Bengal",
+    "veg_or_non_veg": "Veg"
+}

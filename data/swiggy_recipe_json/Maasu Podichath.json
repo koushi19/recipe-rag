@@ -1,0 +1,31 @@
+{
+    "name": "Maasu Podichath",
+    "url": "https://indianfoodmap.example.com/maasu-podichath",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Maasu (dried skipjack tuna)",
+        "Grated coconut",
+        "Small onions (shallots)",
+        "Garlic cloves",
+        "Green chilies",
+        "Turmeric powder",
+        "Curry leaves",
+        "Mustard seeds",
+        "Coconut oil",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Soak the dried Maasu in water for a few minutes to soften, then flake it into small pieces.",
+        "2. In a mortar and pestle, coarsely crush the grated coconut, shallots, garlic, green chilies, and turmeric powder.",
+        "3. Heat coconut oil in a pan and add mustard seeds; once they pop, add curry leaves.",
+        "4. Add the crushed coconut mixture to the pan and sauté until the raw smell disappears.",
+        "5. Add the flaked Maasu to the pan and mix well.",
+        "6. Sauté on low heat until the mixture is well combined and slightly toasted.",
+        "7. Adjust salt and serve hot with steamed rice or Roti."
+    ],
+    "description": "Maasu Podichath is a staple dish from the Lakshadweep islands, highlighting the region's heavy reliance on skipjack tuna. 'Maasu' is tuna preserved through smoking and drying, which is a traditional maritime technique. This dish is a flavorful representation of island cuisine, perfect as a side dish for daily meals.",
+    "state": "Lakshadweep",
+    "veg_or_non_veg": "Non-Veg"
+}

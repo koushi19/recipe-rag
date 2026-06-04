@@ -1,0 +1,19 @@
+{
+    "name": "Coconut Rice",
+    "url": "https://indianfoodmap.example.com/coconut-rice",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Rice",
+        "Coconut milk",
+        "Mustard seeds",
+        "Cashew nuts"
+    ],
+    "instructions": [
+        "1. Sauté mustard seeds and cashews. 2. Add rice and coconut milk. 3. Cook until the rice is fluffy and fragrant."
+    ],
+    "description": "A delicate, aromatic rice dish cooked with the milky essence of coconut.",
+    "state": "Lakshadweep",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Palkova",
+    "url": "https://indianfoodmap.example.com/palkova",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Full-fat buffalo or cow milk",
+        "Sugar",
+        "A pinch of cardamom powder",
+        "A small drop of lemon juice (optional, for texture)"
+    ],
+    "instructions": [
+        "1. Pour the milk into a wide, heavy-bottomed pan or kadai.",
+        "2. Bring the milk to a boil over medium-high heat, stirring continuously to prevent burning.",
+        "3. Reduce heat to low once it begins to thicken, scraping down the sides of the pan constantly.",
+        "4. Continue to cook and stir until the milk reduces to about one-fourth of its original volume and turns a pale cream color.",
+        "5. Add the sugar and continue stirring as the mixture thickens further into a granular mass.",
+        "6. Mix in the cardamom powder.",
+        "7. Once the mixture starts to leave the sides of the pan and achieves a soft, fudge-like texture, remove from heat and let it cool."
+    ],
+    "description": "Palkova, particularly the famous version from Srivilliputhur in Tamil Nadu, is a cherished dairy delicacy. It holds deep cultural significance as a celebratory sweet offered in temples and served during weddings and festivals, known for its rich, caramelized milk flavor.",
+    "state": "Tamil Nadu",
+    "veg_or_non_veg": "Veg"
+}

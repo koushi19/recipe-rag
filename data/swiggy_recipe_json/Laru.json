@@ -1,0 +1,25 @@
+{
+    "name": "Laru",
+    "url": "https://indianfoodmap.example.com/laru",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Jolpan rice (or glutinous rice flour)",
+        "Jaggery (gur)",
+        "Grated coconut",
+        "Cardamom powder",
+        "Water"
+    ],
+    "instructions": [
+        "1. Heat a pan and melt the jaggery with a little water until it reaches a sticky, syrup-like consistency.",
+        "2. Add the grated coconut to the syrup and cook for a few minutes until it blends well.",
+        "3. Slowly incorporate the rice flour into the mixture while stirring continuously to avoid lumps.",
+        "4. Add a pinch of cardamom powder for flavor and remove from heat.",
+        "5. Let the mixture cool slightly until it is handleable.",
+        "6. Grease your palms with a little ghee or water, take small portions, and roll them into firm, round balls."
+    ],
+    "description": "Laru is an quintessential Assamese sweet treat, often prepared during Bihu festivals and weddings. It symbolizes hospitality and celebration in Assamese culture and is typically shared with guests as a gesture of warmth.",
+    "state": "Assam",
+    "veg_or_non_veg": "Veg"
+}

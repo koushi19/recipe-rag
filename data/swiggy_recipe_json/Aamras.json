@@ -1,0 +1,27 @@
+{
+    "name": "Aamras",
+    "url": "https://indianfoodmap.example.com/aamras",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Ripe Alphonso or Kesar mangoes",
+        "Sugar or jaggery (to taste)",
+        "Cardamom powder",
+        "A pinch of dry ginger powder (optional)",
+        "Saffron strands (soaked in warm milk)",
+        "Ghee (optional, for richness)",
+        "Cold water or milk (for consistency)"
+    ],
+    "instructions": [
+        "1. Wash the ripe mangoes thoroughly and peel them to extract the pulp using your hands or a knife.",
+        "2. Place the pulp into a blender or use a traditional hand masher to reach the desired consistency.",
+        "3. Add sugar or jaggery according to the sweetness of the fruit, along with cardamom powder and a pinch of dry ginger.",
+        "4. Blend until smooth and velvety, adding a small amount of milk or water if the pulp is too thick.",
+        "5. Stir in the saffron-infused milk for added aroma and color.",
+        "6. Chill the mixture in the refrigerator for at least an hour before serving with fresh hot pooris."
+    ],
+    "description": "Aamras is a beloved seasonal delicacy enjoyed across Western India, including the regions of Dadra and Nagar Haveli and Daman and Diu. It is highly valued for its simple yet rich flavor profile, often featuring prominently in celebratory meals and traditional summer feasts.",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "veg_or_non_veg": "Veg"
+}

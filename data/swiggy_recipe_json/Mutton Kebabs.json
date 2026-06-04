@@ -1,0 +1,33 @@
+{
+    "name": "Mutton Kebabs",
+    "url": "https://indianfoodmap.example.com/mutton-kebabs",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g mutton mince (keema)",
+        "2 tbsp ginger-garlic paste",
+        "1 medium onion finely chopped",
+        "2 tbsp roasted gram flour (besan)",
+        "1 tsp red chili powder",
+        "1 tsp garam masala",
+        "1/2 tsp mace and nutmeg powder",
+        "1 tbsp fresh coriander leaves chopped",
+        "1 tbsp mint leaves chopped",
+        "1 green chili finely chopped",
+        "Salt to taste",
+        "2 tbsp ghee or oil for frying"
+    ],
+    "instructions": [
+        "1. In a large mixing bowl, combine the mutton mince with ginger-garlic paste, finely chopped onions, green chilies, coriander, and mint.",
+        "2. Add the red chili powder, garam masala, mace-nutmeg powder, salt, and roasted gram flour to the mixture.",
+        "3. Knead the mixture thoroughly until the ingredients are well incorporated and the mince binds together.",
+        "4. Divide the mixture into equal portions and shape them into round, flat patties (kebabs).",
+        "5. Heat ghee in a non-stick pan over medium heat.",
+        "6. Place the kebabs in the pan and shallow-fry for 3-4 minutes on each side until they turn deep brown and are cooked through.",
+        "7. Serve hot with mint chutney and onion rings."
+    ],
+    "description": "Mutton Kebabs are a cornerstone of Delhi's rich culinary heritage, heavily influenced by Mughal traditions. Often found in the bustling lanes of Old Delhi, these kebabs represent the city's love for street food that combines smoky flavors with deep, complex spice blends.",
+    "state": "Delhi",
+    "veg_or_non_veg": "Non-Veg"
+}

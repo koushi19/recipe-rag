@@ -1,0 +1,21 @@
+{
+    "name": "Salfi",
+    "url": "https://indianfoodmap.example.com/salfi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Fresh sap from the Caryota urens (fishtail palm) tree",
+        "Natural wild yeast (contained within the sap)"
+    ],
+    "instructions": [
+        "1. Locate a mature Caryota urens (fishtail palm) tree in the forests of Chhattisgarh.",
+        "2. Tap the inflorescence (flower stalk) of the palm tree by making a small incision.",
+        "3. Tie an earthen pot or bamboo container securely beneath the incision to collect the dripping sap overnight.",
+        "4. Allow the sap to naturally ferment in the container for several hours to a full day, depending on the desired level of mild effervescence and tanginess.",
+        "5. Consume fresh, typically served in leaf bowls, as the fermentation process continues and the beverage turns acidic if kept for too long."
+    ],
+    "description": "Salfi is often referred to as the 'beer of Bastar.' It is a traditional, mildly alcoholic, and nutritious fermented drink extracted from the fishtail palm. It holds deep cultural significance among the tribal communities of Chhattisgarh, serving as a social beverage during festivals, weddings, and community gatherings.",
+    "state": "Chhattisgarh",
+    "veg_or_non_veg": "Veg"
+}

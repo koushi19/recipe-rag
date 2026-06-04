@@ -1,0 +1,28 @@
+{
+    "name": "Sol Kadhi",
+    "url": "https://indianfoodmap.example.com/sol-kadhi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Kokum petals (dried)",
+        "Freshly grated coconut",
+        "Green chilies",
+        "Garlic cloves",
+        "Cumin seeds",
+        "Fresh coriander leaves",
+        "Rock salt (Sendha namak)",
+        "Water"
+    ],
+    "instructions": [
+        "1. Soak 5-6 kokum petals in half a cup of warm water for at least 30 minutes until the water turns deep pink.",
+        "2. In a blender, combine grated coconut, green chilies, garlic, and cumin seeds with a little water to make a smooth paste.",
+        "3. Extract the thick first milk by straining the mixture through a muslin cloth, then repeat with more water for thin milk.",
+        "4. Mix the kokum infusion into the coconut milk, adjusting the consistency as needed.",
+        "5. Season with rock salt and garnish with freshly chopped coriander leaves.",
+        "6. Serve chilled."
+    ],
+    "description": "Sol Kadhi is a signature beverage from the Konkan region of Maharashtra and Goa. It is traditionally consumed as an appetizer or a digestive aid after a spicy meal, prized for its cooling properties and distinct tangy flavor profile.",
+    "state": "Maharashtra",
+    "veg_or_non_veg": "Veg"
+}

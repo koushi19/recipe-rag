@@ -1,0 +1,32 @@
+{
+    "name": "Thandai (Varanasi Style)",
+    "url": "https://indianfoodmap.example.com/thandai-(varanasi-style)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Full-fat milk",
+        "Almonds",
+        "Cashews",
+        "Pistachios",
+        "Poppy seeds (khus khus)",
+        "Melon seeds (magaz)",
+        "Fennel seeds (saunf)",
+        "Black peppercorns",
+        "Green cardamom pods",
+        "Saffron strands",
+        "Dried rose petals",
+        "Sugar or Mishri (rock sugar)"
+    ],
+    "instructions": [
+        "1. Soak the almonds, cashews, pistachios, poppy seeds, melon seeds, and fennel seeds in water for 4-6 hours.",
+        "2. Peel the skin off the almonds and blend all the soaked ingredients with black peppercorns and cardamom into a smooth, fine paste using a little milk or water.",
+        "3. Boil the milk and allow it to cool, then stir in the sugar or rock sugar until dissolved.",
+        "4. Mix the prepared nut and spice paste into the milk thoroughly.",
+        "5. Strain the mixture through a fine-mesh sieve or muslin cloth for a velvety texture.",
+        "6. Add saffron strands and garnish with dried rose petals and chopped nuts before serving chilled."
+    ],
+    "description": "Thandai is a quintessential summer coolant from Varanasi, Uttar Pradesh. It is deeply embedded in the cultural fabric of the city, especially during the festivals of Maha Shivaratri and Holi. Known for its cooling properties and complex blend of spices, it reflects the rich culinary heritage of the Kashi region.",
+    "state": "Uttar Pradesh",
+    "veg_or_non_veg": "Veg"
+}

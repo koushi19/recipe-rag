@@ -1,0 +1,28 @@
+{
+    "name": "Kanda Poha",
+    "url": "https://indianfoodmap.example.com/kanda-poha",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups thick flattened rice (poha)",
+        "2 medium onions, finely chopped",
+        "1/4 cup roasted peanuts",
+        "1 teaspoon mustard seeds",
+        "1/2 teaspoon turmeric powder",
+        "2-3 green chilies, slit",
+        "8-10 curry leaves",
+        "1 tablespoon sugar",
+        "2 tablespoons vegetable oil",
+        "Salt to taste",
+        "Fresh coriander leaves, chopped",
+        "Freshly grated coconut for garnish",
+        "Lemon wedges for serving"
+    ],
+    "instructions": [
+        "1. Rinse the poha in a colander under running water for a few seconds until soft but not mushy, then drain well. 2. Heat oil in a pan, add mustard seeds, and once they splutter, add peanuts and fry until golden. 3. Add curry leaves, green chilies, and onions; sauté until the onions turn translucent. 4. Add turmeric powder and salt, mixing well. 5. Add the drained poha and sugar to the pan, tossing gently to combine with the tempering. 6. Cover and steam on low heat for 2-3 minutes. 7. Garnish with fresh coriander, grated coconut, and a squeeze of lemon juice before serving."
+    ],
+    "description": "Kanda Poha is the quintessential Maharashtrian breakfast, cherished for its balance of sweet, salty, and tangy flavors. It is a staple in households across the state and is often served as a welcoming snack for guests.",
+    "state": "Maharashtra",
+    "veg_or_non_veg": "Veg"
+}

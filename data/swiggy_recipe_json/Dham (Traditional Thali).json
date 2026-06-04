@@ -1,0 +1,35 @@
+{
+    "name": "Dham (Traditional Thali)",
+    "url": "https://indianfoodmap.example.com/dham-(traditional-thali)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Madra (Chickpeas or Kidney beans)",
+        "Moong Dal",
+        "Bhat (Steamed rice)",
+        "Khatta (Tamarind/Jaggery curry)",
+        "Sepu Badi (Urad dal dumplings)",
+        "Curd (Yogurt)",
+        "Mustard oil",
+        "Asafoetida (Hing)",
+        "Cumin seeds",
+        "Coriander powder",
+        "Turmeric",
+        "Dry red chilies",
+        "Cloves",
+        "Cardamom",
+        "Cinnamon"
+    ],
+    "instructions": [
+        "1. Prepare the Madra by slow-cooking chickpeas or kidney beans in yogurt and aromatic spices until the gravy thickens.",
+        "2. Cook the Moong dal separately with minimal spices to maintain a light, earthy profile.",
+        "3. Prepare the Khatta by balancing tamarind pulp with jaggery and spices to create a sweet and tangy side dish.",
+        "4. Fry the Urad dal-based Sepu Badi and add them to a rich spinach-based yogurt gravy.",
+        "5. Steam the rice to perfection to serve as the base for the meal.",
+        "6. Serve all components together on a plate made of dried Sal leaves (Pattal) to maintain traditional authenticity."
+    ],
+    "description": "Dham is a traditional feast integral to Himachali culture, served during weddings, festivals, and special occasions. It is a community-driven culinary art form that strictly excludes onions and garlic, relying on yogurt, ghee, and traditional spices for rich, soul-warming flavors.",
+    "state": "Himachal Pradesh",
+    "veg_or_non_veg": "Veg"
+}

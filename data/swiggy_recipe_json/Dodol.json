@@ -1,0 +1,27 @@
+{
+    "name": "Dodol",
+    "url": "https://indianfoodmap.example.com/dodol",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup black rice flour (or red rice flour)",
+        "2 cups thick coconut milk",
+        "1.5 cups palm jaggery (chopped)",
+        "1/2 cup cashew nuts (chopped)",
+        "1/4 tsp salt",
+        "1 tbsp ghee"
+    ],
+    "instructions": [
+        "1. Dissolve the jaggery in a little water, strain to remove impurities, and set aside.",
+        "2. Mix the rice flour with a portion of the coconut milk to form a smooth, lump-free paste.",
+        "3. In a heavy-bottomed pan, combine the remaining coconut milk and the jaggery syrup, bringing it to a simmer.",
+        "4. Gradually add the rice flour paste, stirring continuously on low heat to prevent sticking.",
+        "5. Continue to cook, stirring constantly, until the mixture thickens and begins to leave the sides of the pan.",
+        "6. Add the ghee and chopped cashew nuts, mixing thoroughly.",
+        "7. Pour the mixture into a greased tray, smooth the top, and allow it to set and cool before cutting into squares."
+    ],
+    "description": "Dodol is a popular Goan delicacy of Portuguese influence, traditionally prepared during Christmas. It is a dense, sticky, and sweet fudge-like confection that showcases the rich flavors of coconut and palm jaggery.",
+    "state": "Goa",
+    "veg_or_non_veg": "Veg"
+}

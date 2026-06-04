@@ -1,0 +1,21 @@
+{
+    "name": "Sakinalu",
+    "url": "https://indianfoodmap.example.com/sakinalu",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "New harvest rice flour",
+        "Vamu (Carom seeds)",
+        "Sesame seeds",
+        "Salt",
+        "Water",
+        "Oil for deep frying"
+    ],
+    "instructions": [
+        "1. Soak and grind new rice into a fine, slightly damp flour. 2. Mix with vamu, sesame seeds, and salt. 3. Form a stiff dough. 4. Shape into concentric circles on a clean cloth. 5. Deep fry until golden and extremely crunchy."
+    ],
+    "description": "The intricate, hand-shaped spirals of Telangana, a crunchy tribute to tradition.",
+    "state": "Telangana",
+    "veg_or_non_veg": "Veg"
+}

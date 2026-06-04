@@ -1,0 +1,34 @@
+{
+    "name": "Sai Sabzi",
+    "url": "https://indianfoodmap.example.com/sai-sabzi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Fermented bamboo shoots (tuai/chhumi) - 300g, rinsed and sliced",
+        "Pork belly (optional but traditional) - 200g, cut into bite-sized pieces",
+        "Wild mushrooms (oyster or shiitake) - 150g, torn",
+        "Fresh turmeric root - 1 inch, grated",
+        "Ginger - 2 inches, julienned",
+        "Garlic - 6 cloves, crushed",
+        "Bird’s eye chilies - 3-4, slit lengthwise (adjust for heat)",
+        "Stink beans (petai) - 100g, halved (or substitute with flat beans)",
+        "Bamboo shoots (fresh, young) - 200g, thinly sliced (optional for texture)",
+        "Mustard oil - 2 tbsp",
+        "Wild greens (mizuna or watercress) - 2 cups, roughly chopped",
+        "Salt - to taste",
+        "Turmeric powder - ½ tsp"
+    ],
+    "instructions": [
+        "1. In a heavy-bottomed pot, heat mustard oil over medium flame until it begins to smoke lightly. Add the pork belly (if using) and sear until golden on all sides.",
+        "2. Add crushed garlic, julienned ginger, fresh turmeric, and bird’s eye chilies. Sauté for 1 minute until fragrant.",
+        "3. Stir in the fermented bamboo shoots and fresh bamboo slices. Cook for 3-4 minutes, allowing the pungent aroma to mellow.",
+        "4. Add the wild mushrooms and stink beans. Toss to coat with the spices, then pour in 3 cups of water (or bone broth for richness).",
+        "5. Season with salt and turmeric powder. Bring to a low, rolling boil, then reduce heat to a simmer. Cover and cook for 30 minutes (or 45 minutes if using pork).",
+        "6. In the last 5 minutes, stir in the wild greens just until wilted. Adjust salt and chili to taste.",
+        "7. Remove from heat, let rest for 5 minutes, and serve steaming hot over steamed rice."
+    ],
+    "description": "A smoky, slow-simmered broth steeped with the earthy tang of fermented bamboo and wild herbs, a taste of Mizoram's hill-slope kitchens.",
+    "state": "Mizoram",
+    "veg_or_non_veg": "Non-Veg"
+}

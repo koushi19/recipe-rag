@@ -1,0 +1,29 @@
+{
+    "name": "Zan",
+    "url": "https://indianfoodmap.example.com/zan",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Millets (Finger millet or other local grains)",
+        "Water",
+        "Seasonal vegetables (such as spinach or mustard greens)",
+        "Meat (optional, traditionally dried meat)",
+        "Sichuan pepper (local variety)",
+        "Ginger",
+        "Chili flakes",
+        "Salt"
+    ],
+    "instructions": [
+        "1. Boil water in a heavy-bottomed pot.",
+        "2. Gradually add millet flour while stirring continuously to prevent lumps.",
+        "3. Continue cooking on medium heat, stirring frequently until the mixture thickens into a porridge consistency.",
+        "4. Add finely chopped seasonal greens, ginger, and chili flakes.",
+        "5. If using meat, add pre-cooked or dried meat pieces at this stage.",
+        "6. Season with salt and a pinch of ground Sichuan pepper for the signature authentic flavor.",
+        "7. Serve hot as a staple meal."
+    ],
+    "description": "Zan is a significant traditional dish of the Monpa tribe of Arunachal Pradesh. It is a wholesome, nutrient-dense porridge that reflects the region's reliance on millets and seasonal vegetables. It is considered a staple comfort food, often consumed to sustain energy levels in the cold, mountainous climate of Tawang and West Kameng districts.",
+    "state": "Arunachal Pradesh",
+    "veg_or_non_veg": "Veg"
+}

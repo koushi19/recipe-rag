@@ -1,0 +1,28 @@
+{
+    "name": "Mitha Khurmi",
+    "url": "https://indianfoodmap.example.com/mitha-khurmi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups wheat flour (atta)",
+        "1/2 cup ghee",
+        "1 cup jaggery (gud), grated",
+        "1/4 cup water",
+        "1/2 tsp cardamom powder",
+        "Oil or ghee for deep frying",
+        "Pinch of salt"
+    ],
+    "instructions": [
+        "1. Dissolve jaggery in warm water to create a syrup, then strain and let it cool.",
+        "2. In a large bowl, mix wheat flour, a pinch of salt, and ghee until it resembles breadcrumbs.",
+        "3. Slowly add the jaggery syrup to the flour mixture and knead into a very firm, tight dough.",
+        "4. Roll the dough into thick sheets and cut into small square or diamond shapes using a knife or cookie cutter.",
+        "5. Heat oil or ghee in a heavy-bottomed pan over medium-low heat.",
+        "6. Deep fry the pieces in batches until they turn golden brown and crisp on the outside.",
+        "7. Remove and let them cool completely; they will harden further as they set."
+    ],
+    "description": "Mitha Khurmi is a cherished traditional snack from Jharkhand, particularly popular in rural households. It is a dense, crunchy sweet treat that is shelf-stable, making it a common offering during local festivals and a favorite comfort snack for tea time.",
+    "state": "Jharkhand",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Uppittu (Upma)",
+    "url": "https://indianfoodmap.example.com/uppittu-(upma)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup fine/medium semolina (rava)",
+        "2 tbsp vegetable oil or ghee",
+        "1 tsp mustard seeds",
+        "1 tsp split urad dal",
+        "1 tsp chana dal",
+        "2-3 green chilies, slit",
+        "1 inch ginger, finely chopped",
+        "1 medium onion, chopped",
+        "5-6 curry leaves",
+        "1/4 cup green peas or finely chopped carrots",
+        "2.5 cups water",
+        "Salt to taste",
+        "1 tsp lemon juice",
+        "Fresh coriander leaves for garnish",
+        "1 tbsp grated fresh coconut"
+    ],
+    "instructions": [
+        "1. Dry roast the rava in a pan on medium heat until fragrant and slightly golden, then set aside.",
+        "2. Heat oil or ghee in a pan, add mustard seeds, and once they splutter, add urad dal and chana dal.",
+        "3. Add curry leaves, green chilies, ginger, and onions, sautéing until the onions turn translucent.",
+        "4. Add the vegetables and sauté for 2 minutes.",
+        "5. Pour in the water, add salt, and bring to a rolling boil.",
+        "6. Lower the flame and slowly add the roasted rava while stirring continuously to prevent lumps.",
+        "7. Cover and cook on low heat for 3-5 minutes until the water is absorbed and the rava is fluffy.",
+        "8. Turn off the heat, stir in lemon juice, fresh coconut, and garnish with coriander before serving."
+    ],
+    "description": "Uppittu is a staple breakfast dish in Karnataka households. It is a quick, nourishing, and balanced meal known for its distinct texture and the inclusion of aromatic curry leaves and fresh coconut, which sets the Karnataka version apart from other regional variants.",
+    "state": "Karnataka",
+    "veg_or_non_veg": "Veg"
+}

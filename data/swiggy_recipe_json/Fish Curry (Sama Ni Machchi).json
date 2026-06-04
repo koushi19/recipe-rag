@@ -1,0 +1,35 @@
+{
+    "name": "Fish Curry (Sama Ni Machchi)",
+    "url": "https://indianfoodmap.example.com/fish-curry-(sama-ni-machchi)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g fresh fish (pomfret or surmai)",
+        "1 cup coconut milk",
+        "2 tablespoons tamarind pulp",
+        "1 teaspoon turmeric powder",
+        "1 tablespoon red chili powder",
+        "1 tablespoon coriander powder",
+        "1 teaspoon mustard seeds",
+        "1/2 teaspoon fenugreek seeds",
+        "8-10 curry leaves",
+        "2 green chilies slit",
+        "2 tablespoons coconut oil",
+        "Salt to taste",
+        "Fresh coriander for garnish"
+    ],
+    "instructions": [
+        "1. Clean and wash the fish pieces, then marinate with a pinch of turmeric and salt for 15 minutes.",
+        "2. Heat coconut oil in a clay pot or deep pan, then add mustard seeds, fenugreek seeds, and curry leaves.",
+        "3. Add slit green chilies and sauté for a minute.",
+        "4. Mix turmeric, chili powder, and coriander powder with a little water to make a paste, then add it to the pan and cook until the oil separates.",
+        "5. Pour in the tamarind pulp and let it simmer for 3-4 minutes.",
+        "6. Gently slide the fish pieces into the gravy and cook on low heat for 5-7 minutes.",
+        "7. Pour in the coconut milk, adjust salt, and let it simmer for another 2 minutes without boiling vigorously.",
+        "8. Garnish with fresh coriander and serve hot with steamed rice."
+    ],
+    "description": "Sama Ni Machchi is a staple coastal delicacy from Daman, reflecting the region's rich maritime heritage. It is characterized by the generous use of coconut and tamarind, creating a perfect balance of creamy and tangy flavors that pair exceptionally well with local rice varieties.",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "veg_or_non_veg": "Non-Veg"
+}

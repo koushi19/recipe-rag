@@ -1,0 +1,20 @@
+{
+    "name": "Amritsari Kulcha",
+    "url": "https://indianfoodmap.example.com/amritsari-kulcha",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Maida",
+        "Boiled potatoes",
+        "Onions",
+        "Pomegranate seeds (Anardana)",
+        "Butter"
+    ],
+    "instructions": [
+        "1. Make a layered dough with ghee. 2. Stuff with spiced mashed potatoes. 3. Bake in a hot tandoor until crisp. 4. Crush slightly and top with butter."
+    ],
+    "description": "Flaky, tandoor-baked perfection, stuffed with the warmth of spiced potatoes.",
+    "state": "Chandigarh",
+    "veg_or_non_veg": "Veg"
+}

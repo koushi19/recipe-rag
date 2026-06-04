@@ -1,0 +1,36 @@
+{
+    "name": "Nadru Yakhni",
+    "url": "https://indianfoodmap.example.com/nadru-yakhni",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g lotus stem (nadru), peeled and sliced into rounds",
+        "2 cups whisked yogurt (dahi)",
+        "2 tablespoons mustard oil",
+        "1 teaspoon dry ginger powder (sonth)",
+        "1 teaspoon fennel seed powder (saunf)",
+        "1/2 teaspoon asafoetida (hing)",
+        "2 black cardamoms",
+        "4 green cardamoms",
+        "1 inch cinnamon stick",
+        "4-5 cloves",
+        "1 teaspoon cumin seeds",
+        "Salt to taste",
+        "1/2 teaspoon turmeric powder (optional)",
+        "Water as needed"
+    ],
+    "instructions": [
+        "1. Wash and peel the lotus stems, then cut them into half-inch rounds. Boil them in water with a pinch of salt and turmeric until tender, then drain.",
+        "2. Heat mustard oil in a pan until it smokes, then lower the heat.",
+        "3. Add black cardamom, green cardamom, cinnamon, cloves, and cumin seeds. Sauté for a minute.",
+        "4. Add the ginger powder, fennel powder, and asafoetida, stirring quickly to avoid burning.",
+        "5. Reduce heat to low and gradually add the whisked yogurt, stirring continuously to prevent it from curdling.",
+        "6. Add the boiled lotus stems into the yogurt mixture.",
+        "7. Simmer on low heat for 10-15 minutes until the gravy thickens and the flavors infuse into the lotus stems.",
+        "8. Serve hot with steamed basmati rice."
+    ],
+    "description": "Nadru Yakhni is an iconic dish from the Kashmiri Pandit cuisine, representing the region's unique use of yogurt-based gravies without the use of onion or garlic. It is often prepared during festivals and special gatherings, highlighting the lotus stem (nadru) which is a specialty of the Kashmir Valley's lakes.",
+    "state": "Jammu and Kashmir",
+    "veg_or_non_veg": "Veg"
+}

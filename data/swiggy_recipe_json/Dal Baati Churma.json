@@ -1,0 +1,32 @@
+{
+    "name": "Dal Baati Churma",
+    "url": "https://indianfoodmap.example.com/dal-baati-churma",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Whole wheat flour (atta)",
+        "Semolina (rava)",
+        "Clarified butter (ghee)",
+        "Mixed lentils (chana dal, toor dal, moong dal, urad dal)",
+        "Jaggery or sugar",
+        "Dried fruits (almonds, cashews)",
+        "Cumin seeds",
+        "Mustard seeds",
+        "Turmeric powder",
+        "Red chili powder",
+        "Asafoetida (hing)",
+        "Green chilies",
+        "Ginger",
+        "Fresh coriander leaves"
+    ],
+    "instructions": [
+        "1. Knead a stiff dough with wheat flour, semolina, ghee, and salt, then shape into small balls and bake until golden brown.",
+        "2. Boil the mixed lentils with turmeric and salt until soft, then temper with ghee, cumin, mustard seeds, asafoetida, ginger, and chili.",
+        "3. Prepare churma by frying coarsely ground wheat balls, crushing them, and mixing with powdered jaggery, ghee, and nuts.",
+        "4. Serve the baati by dipping them generously in melted ghee, accompanied by the hot dal and the sweet churma."
+    ],
+    "description": "Dal Baati Churma is the iconic culinary signature of Rajasthan. Traditionally prepared during festive occasions and gatherings, it represents the rustic, high-energy diet of the desert region. It is highly nutritious, filling, and deeply embedded in the cultural heritage of the Marwar and Mewar regions.",
+    "state": "Rajasthan",
+    "veg_or_non_veg": "Veg"
+}

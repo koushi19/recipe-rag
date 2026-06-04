@@ -1,0 +1,33 @@
+{
+    "name": "Sea Pomfret Fry",
+    "url": "https://indianfoodmap.example.com/sea-pomfret-fry",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 large whole Sea Pomfret",
+        "2 tbsp ginger-garlic paste",
+        "1 tbsp Kashmiri red chili powder",
+        "1/2 tsp turmeric powder",
+        "1 tsp cumin powder",
+        "1 tbsp lemon juice",
+        "3 tbsp rice flour",
+        "2 tbsp semolina (rava)",
+        "Salt to taste",
+        "Mustard oil for shallow frying",
+        "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. Clean and wash the Pomfret, making deep incisions on both sides.",
+        "2. In a small bowl, mix ginger-garlic paste, red chili powder, turmeric, cumin, lemon juice, and salt to form a thick paste.",
+        "3. Apply this marinade thoroughly over the fish and inside the incisions; let it rest for 30 minutes.",
+        "4. On a plate, mix the rice flour and semolina.",
+        "5. Dredge the marinated fish in the flour mixture, ensuring it is evenly coated.",
+        "6. Heat mustard oil in a heavy-bottomed pan or tawa over medium heat.",
+        "7. Gently place the fish in the pan and shallow fry for 5-7 minutes on each side until the exterior is crispy and the flesh is opaque and cooked through.",
+        "8. Serve hot, garnished with fresh coriander."
+    ],
+    "description": "Influenced by the coastal geography of Daman and Diu, this dish celebrates the fresh catch of the Arabian Sea. It is a staple seafood delicacy often served as a starter or a side dish in local households and beachside eateries, reflecting the region's love for bold spices and crispy textures.",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "veg_or_non_veg": "Non-Veg"
+}

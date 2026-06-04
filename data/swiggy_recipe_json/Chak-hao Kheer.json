@@ -1,0 +1,29 @@
+{
+    "name": "Chak-hao Kheer",
+    "url": "https://indianfoodmap.example.com/chak-hao-kheer",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1/2 cup Chak-hao (black aromatic glutinous rice)",
+        "1 liter full-fat milk",
+        "1/2 cup sugar or jaggery (to taste)",
+        "4-5 green cardamom pods (crushed)",
+        "1 tablespoon ghee",
+        "10-12 cashew nuts and raisins",
+        "Water as needed for soaking"
+    ],
+    "instructions": [
+        "1. Soak the Chak-hao rice in water for at least 3-4 hours or overnight.",
+        "2. Drain the rice and grind it coarsely in a mortar or blender.",
+        "3. Heat ghee in a heavy-bottomed pan and lightly sauté the nuts and raisins; set aside.",
+        "4. In the same pan, add the milk and bring to a boil.",
+        "5. Add the soaked, coarsely ground rice to the boiling milk.",
+        "6. Reduce heat to low and simmer, stirring frequently to prevent sticking, until the rice is tender and the milk has thickened to a creamy consistency.",
+        "7. Stir in the sugar and crushed cardamom pods, cooking for an additional 5 minutes.",
+        "8. Garnish with sautéed nuts and raisins before serving warm or chilled."
+    ],
+    "description": "Chak-hao Kheer is a traditional Manipuri dessert prepared using the unique 'Chak-hao' black rice, which is highly prized for its nutty flavor and health benefits. It is considered a festive delicacy and is a centerpiece during traditional Manipuri feasts and community gatherings.",
+    "state": "Manipur",
+    "veg_or_non_veg": "Veg"
+}

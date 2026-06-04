@@ -1,0 +1,29 @@
+{
+    "name": "Kasoi Bwtwi",
+    "url": "https://indianfoodmap.example.com/kasoi-bwtwi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Beans (fresh green beans)",
+        "Berek (Berma/fermented fish paste)",
+        "Green chilies",
+        "Onion",
+        "Garlic",
+        "Ginger",
+        "Water",
+        "Salt",
+        "Rice flour (for thickening)"
+    ],
+    "instructions": [
+        "1. Wash and cut the fresh beans into small, uniform pieces.",
+        "2. In a pot, boil water and add the beans along with chopped green chilies, onion, garlic, and ginger.",
+        "3. Add a generous spoonful of Berma (fermented fish paste) to the boiling mixture.",
+        "4. Cook until the beans are tender and the flavors of the aromatics and fish paste have infused the broth.",
+        "5. Optionally, stir in a small amount of rice flour mixed with water to slightly thicken the stew.",
+        "6. Adjust salt to taste and serve hot with steamed rice."
+    ],
+    "description": "Kasoi Bwtwi is a hallmark dish of the Tripuri cuisine, reflecting the community's preference for simple, oil-free, and healthy cooking methods. The use of 'Berma' provides a distinct, pungent umami flavor that is central to the traditional palate of Tripura.",
+    "state": "Tripura",
+    "veg_or_non_veg": "Non-Veg"
+}

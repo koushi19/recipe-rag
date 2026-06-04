@@ -1,0 +1,27 @@
+{
+    "name": "Haryana Lassi",
+    "url": "https://indianfoodmap.example.com/haryana-lassi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g fresh thick curd (dahi)",
+        "200ml chilled water",
+        "4 tbsp powdered sugar (or to taste)",
+        "1/2 tsp roasted cumin powder",
+        "A pinch of black salt",
+        "Fresh cream or malai for topping",
+        "Crushed ice"
+    ],
+    "instructions": [
+        "1. In a large earthen pot (matka) or a deep bowl, add the fresh curd.",
+        "2. Use a wooden whisk (mathani) to churn the curd until it becomes smooth and frothy.",
+        "3. Add the powdered sugar, black salt, and roasted cumin powder, and whisk again until fully incorporated.",
+        "4. Gradually add chilled water while whisking to achieve the desired consistency.",
+        "5. Pour into tall glasses and top with a generous spoonful of fresh cream (malai).",
+        "6. Serve chilled, optionally garnished with a sprinkle of roasted cumin."
+    ],
+    "description": "Haryana Lassi is a hallmark of the state's robust dairy culture. It is a dense, refreshing, and deeply nourishing drink often consumed as a staple during meals or as an energy booster by farmers. Its cultural significance lies in the hospitality shown to guests, where a tall glass of 'meethi lassi' topped with thick cream is considered a sign of affection and prosperity.",
+    "state": "Haryana",
+    "veg_or_non_veg": "Veg"
+}

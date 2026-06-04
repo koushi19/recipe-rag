@@ -1,0 +1,27 @@
+{
+    "name": "Sattu ka Sharbat",
+    "url": "https://indianfoodmap.example.com/sattu-ka-sharbat",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 tablespoons roasted black gram flour (sattu)",
+        "1 glass chilled water",
+        "1/2 teaspoon roasted cumin powder",
+        "1/4 teaspoon black salt (kala namak)",
+        "1 teaspoon finely chopped onion",
+        "1/2 teaspoon finely chopped green chili",
+        "1/2 teaspoon lemon juice",
+        "1/2 teaspoon finely chopped fresh coriander leaves"
+    ],
+    "instructions": [
+        "1. In a glass, add the sattu powder and a little water to form a smooth paste, ensuring there are no lumps.",
+        "2. Add the remaining water and stir well.",
+        "3. Add the roasted cumin powder, black salt, chopped onions, green chilies, and lemon juice.",
+        "4. Stir vigorously until all ingredients are well combined.",
+        "5. Garnish with fresh coriander leaves and serve chilled."
+    ],
+    "description": "Sattu ka Sharbat is a quintessential summer coolant from Bihar, highly valued for its natural cooling properties and high protein content. It is often consumed by laborers and farmers as an instant energy booster, reflecting the simple yet robust dietary traditions of the region.",
+    "state": "Bihar",
+    "veg_or_non_veg": "Veg"
+}

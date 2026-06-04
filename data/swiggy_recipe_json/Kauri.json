@@ -1,0 +1,27 @@
+{
+    "name": "Kauri",
+    "url": "https://indianfoodmap.example.com/kauri",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Fresh stinging nettle leaves (sisnu)",
+        "Dried maize flour or rice flour",
+        "Water",
+        "Salt",
+        "Dalle Khursani (Sikkimese cherry pepper)",
+        "Ginger paste",
+        "Garlic cloves"
+    ],
+    "instructions": [
+        "1. Thoroughly wash the stinging nettle leaves (ensure they are boiled or handled to remove the sting).",
+        "2. Boil the leaves in a pot of water until soft.",
+        "3. Add crushed garlic, ginger, and Dalle Khursani for heat.",
+        "4. Slowly whisk in the maize or rice flour to the boiling water, stirring continuously to prevent lumps.",
+        "5. Cook until the mixture thickens into a hearty porridge consistency.",
+        "6. Add salt to taste and serve warm."
+    ],
+    "description": "Kauri is a rustic, nutrient-dense dish rooted in the indigenous culinary traditions of the Himalayas. Often consumed by local communities, it highlights the use of wild-foraged greens like sisnu and reflects the mountain lifestyle of relying on locally sourced, seasonal ingredients for warmth and sustenance.",
+    "state": "Sikkim",
+    "veg_or_non_veg": "Veg"
+}

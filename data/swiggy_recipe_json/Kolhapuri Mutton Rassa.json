@@ -1,0 +1,35 @@
+{
+    "name": "Kolhapuri Mutton Rassa",
+    "url": "https://indianfoodmap.example.com/kolhapuri-mutton-rassa",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g mutton",
+        "2 large onions (finely chopped)",
+        "1/2 cup grated dry coconut",
+        "2 tbsp ginger-garlic paste",
+        "2 tbsp Kolhapuri Kanda Lasun Masala",
+        "1 tsp turmeric powder",
+        "1 tsp Kashmiri red chili powder",
+        "2 tbsp oil",
+        "1 inch cinnamon stick",
+        "2-3 cloves",
+        "2-3 green cardamoms",
+        "1 bay leaf",
+        "Fresh coriander for garnish",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Marinate the mutton with turmeric, salt, and half the ginger-garlic paste for 30 minutes. Pressure cook until tender.",
+        "2. Dry roast the grated coconut until golden brown and grind into a smooth paste.",
+        "3. Heat oil in a heavy-bottomed pan, add whole spices and the remaining ginger-garlic paste, then sauté the onions until dark golden.",
+        "4. Add the Kolhapuri Kanda Lasun Masala and red chili powder, stirring briefly to prevent burning.",
+        "5. Add the ground coconut paste and cook until the oil separates.",
+        "6. Pour in the cooked mutton along with its stock and simmer on low heat for 15-20 minutes until the oil floats on top (the 'tarri').",
+        "7. Garnish with fresh coriander and serve hot with Bhakri or steamed rice."
+    ],
+    "description": "Originating from the city of Kolhapur, this dish is legendary for its intense heat and bold spice profile. It represents the robust culinary traditions of the Maratha region, often served during special occasions and social gatherings as a symbol of hospitality.",
+    "state": "Maharashtra",
+    "veg_or_non_veg": "Non-Veg"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Dal Makhani",
+    "url": "https://indianfoodmap.example.com/dal-makhani",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup whole black lentils (urad dal), soaked overnight",
+        "1/4 cup red kidney beans (rajma), soaked overnight",
+        "4 cups water for pressure cooking",
+        "2 tablespoons ghee or unsalted butter",
+        "1 large onion, finely chopped",
+        "2 large tomatoes, pureed",
+        "1 tablespoon ginger-garlic paste",
+        "2-3 green chilies, slit",
+        "1 teaspoon cumin seeds",
+        "1 teaspoon red chili powder",
+        "1/2 teaspoon turmeric powder",
+        "1 teaspoon garam masala",
+        "1 cup heavy cream (malai) or fresh cream",
+        "2 tablespoons butter for finishing",
+        "Salt to taste",
+        "Fresh ginger julienne and coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. Pressure cook soaked lentils and kidney beans with 4 cups water and a pinch of salt for 6-7 whistles until soft. 2. In a heavy-bottomed pan, heat ghee/butter on medium heat. Add cumin seeds, let them sizzle. 3. Add chopped onion and sauté until golden brown. Add ginger-garlic paste and green chilies; cook for 1 minute. 4. Add tomato puree, red chili powder, turmeric, and salt. Cook until oil separates and mixture thickens. 5. Add cooked lentils and beans (with their cooking liquid if needed). Stir well. Simmer on low heat for 30 minutes, stirring occasionally. 6. Add garam masala and cream. Stir and cook for another 10 minutes, adjusting consistency with water or cream. 7. Finish with butter, and let it rest for 5 minutes. Garnish with ginger julienne and coriander. Serve hot with naan or rice."
+    ],
+    "description": "A velvety, slow-cooked symphony of black lentils and kidney beans, kissed by smoke and enriched with cream and butter.",
+    "state": "Punjab",
+    "veg_or_non_veg": "Veg"
+}

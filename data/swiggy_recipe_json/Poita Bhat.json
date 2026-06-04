@@ -1,0 +1,27 @@
+{
+    "name": "Poita Bhat",
+    "url": "https://indianfoodmap.example.com/poita-bhat",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Leftover cooked rice",
+        "Water",
+        "Mustard oil",
+        "Raw onion",
+        "Green chilies",
+        "Aloo pitika (mashed potatoes)",
+        "Salt",
+        "Optional: Fried fish or pickles"
+    ],
+    "instructions": [
+        "1. Take leftover cooked rice in a bowl and cover it completely with water.",
+        "2. Leave the rice to soak at room temperature overnight (or for at least 8-10 hours) to allow natural fermentation.",
+        "3. In the morning, drain some of the excess water if preferred, or keep it for a soup-like consistency.",
+        "4. Add salt, a drizzle of raw mustard oil, chopped onions, and chopped green chilies to the rice.",
+        "5. Mix well and serve alongside sides like aloo pitika, fried fish, or pungent pickles."
+    ],
+    "description": "Poita Bhat is a staple summer meal in Assam, cherished for its cooling properties and probiotic benefits. It represents the simple, agrarian lifestyle of the region and is deeply ingrained in Assamese folk culture, often associated with providing energy for long hours of field work.",
+    "state": "Assam",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Ragi Mudde",
+    "url": "https://indianfoodmap.example.com/ragi-mudde",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup Ragi flour (Finger millet flour)",
+        "2 to 2.5 cups water",
+        "1 teaspoon ghee (optional)",
+        "A pinch of salt"
+    ],
+    "instructions": [
+        "1. Boil water with a pinch of salt and a drop of ghee in a heavy-bottomed vessel.",
+        "2. Once the water reaches a rolling boil, reduce heat and add a small amount of ragi flour to create a base layer.",
+        "3. Add the remaining ragi flour in the center, cover, and let it cook for a few minutes on low heat.",
+        "4. Using a sturdy wooden stick (ragi kolu), vigorously mash and mix the flour into the water to ensure no lumps remain.",
+        "5. Knead the mixture while hot until it forms a smooth, firm dough.",
+        "6. Wet your hands and shape the dough into firm, smooth balls while still warm."
+    ],
+    "description": "Ragi Mudde is a quintessential food of rural Karnataka, highly valued for its health benefits and cooling properties. It is traditionally served with 'Saaru' (spiced lentil soup) or 'Bassaru' and is considered a symbol of the hard-working agrarian culture of the region.",
+    "state": "Karnataka",
+    "veg_or_non_veg": "Veg"
+}

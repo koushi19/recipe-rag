@@ -1,0 +1,27 @@
+{
+    "name": "Doh-Khlieh",
+    "url": "https://indianfoodmap.example.com/doh-khlieh",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g boiled minced pork",
+        "2 finely chopped onions",
+        "3-4 finely chopped green chilies",
+        "1 inch finely chopped ginger",
+        "Fresh coriander leaves for garnish",
+        "Salt to taste",
+        "Optional: boiled pig brain for extra creaminess",
+        "Optional: steamed green peas or carrots"
+    ],
+    "instructions": [
+        "1. Boil the pork until tender, then drain and mince it finely.",
+        "2. In a large mixing bowl, combine the minced pork with the finely chopped onions, ginger, and green chilies.",
+        "3. Add salt to taste and mix thoroughly by hand to ensure the flavors are well-incorporated.",
+        "4. If using pig brain, mash it gently and mix it into the pork for added texture.",
+        "5. Garnish with fresh coriander leaves and optional steamed vegetables before serving."
+    ],
+    "description": "Doh-Khlieh is a traditional salad from the Khasi community of Meghalaya. It is a staple at local festivities and gatherings, celebrated for its simplicity, fresh ingredients, and distinct, clean flavors that highlight the quality of the meat.",
+    "state": "Meghalaya",
+    "veg_or_non_veg": "Non-Veg"
+}

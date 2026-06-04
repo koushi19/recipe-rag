@@ -1,0 +1,33 @@
+{
+    "name": "Penn de Calamari Pasta",
+    "url": "https://indianfoodmap.example.com/penn-de-calamari-pasta",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "200g Penne pasta",
+        "250g fresh calamari rings",
+        "2 tablespoons Goan/Daman style red chili paste",
+        "1 tablespoon ginger-garlic paste",
+        "1 medium onion, finely chopped",
+        "2 tomatoes, pureed",
+        "1/2 teaspoon turmeric powder",
+        "1 teaspoon coriander powder",
+        "1 tablespoon coconut oil",
+        "Fresh curry leaves",
+        "Fresh coriander for garnish",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Boil the penne pasta in salted water until al dente, drain, and set aside.",
+        "2. Heat coconut oil in a pan, add curry leaves and onions, and sauté until golden brown.",
+        "3. Add ginger-garlic paste and the red chili paste, cooking until the raw smell disappears.",
+        "4. Stir in the turmeric and coriander powders, then add the tomato puree and salt, cooking until the oil separates.",
+        "5. Add the calamari rings and cook on high heat for 2-3 minutes until tender; do not overcook.",
+        "6. Toss the cooked penne pasta into the sauce, ensuring the calamari masala coats the pasta thoroughly.",
+        "7. Garnish with fresh coriander and serve hot."
+    ],
+    "description": "This dish reflects the unique culinary landscape of Daman, where traditional Indian spices meet the coastal influence of the Arabian Sea and historical Portuguese culinary footprints, resulting in a vibrant, spicy seafood pasta variant.",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "veg_or_non_veg": "Non-Veg"
+}

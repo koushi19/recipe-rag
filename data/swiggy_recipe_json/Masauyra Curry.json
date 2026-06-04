@@ -1,0 +1,33 @@
+{
+    "name": "Masauyra Curry",
+    "url": "https://indianfoodmap.example.com/masauyra-curry",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Masauyra (sun-dried lentil balls)",
+        "Mustard oil",
+        "Onions, finely chopped",
+        "Tomatoes, chopped",
+        "Ginger-garlic paste",
+        "Turmeric powder",
+        "Red chili powder",
+        "Cumin powder",
+        "Coriander powder",
+        "Salt to taste",
+        "Fresh coriander leaves",
+        "Water"
+    ],
+    "instructions": [
+        "1. Heat mustard oil in a pan and lightly fry the masauyra balls until golden brown; set aside.",
+        "2. In the same pan, sauté chopped onions until translucent.",
+        "3. Add ginger-garlic paste and cook until the raw smell disappears.",
+        "4. Stir in tomatoes and powdered spices (turmeric, chili, cumin, coriander) with a splash of water, cooking until the oil separates.",
+        "5. Add the fried masauyra balls and enough water to create a gravy consistency.",
+        "6. Cover and simmer until the lentil balls are soft yet hold their shape.",
+        "7. Garnish with fresh coriander leaves and serve hot with steamed rice."
+    ],
+    "description": "Masauyra is a traditional Sikkimese staple made from fermented and sun-dried lentil balls. It is a vital protein source in the mountain diet, known for its distinct umami flavor and chewy texture, commonly prepared during the winter months when fresh produce is scarce.",
+    "state": "Sikkim",
+    "veg_or_non_veg": "Veg"
+}

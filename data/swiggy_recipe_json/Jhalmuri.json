@@ -1,0 +1,36 @@
+{
+    "name": "Jhalmuri",
+    "url": "https://indianfoodmap.example.com/jhalmuri",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Puffed rice (Muri)",
+        "Mustard oil (Kachi Ghani)",
+        "Boiled potatoes, cubed",
+        "Chopped onions",
+        "Chopped tomatoes",
+        "Green chilies, finely chopped",
+        "Roasted peanuts",
+        "Roasted black chickpeas (Chana)",
+        "Coconut slivers",
+        "Cucumber, finely chopped",
+        "Fresh coriander leaves",
+        "Bhujia sev",
+        "Lemon juice",
+        "Black salt (Kala Namak)",
+        "Roasted cumin and red chili powder masala (Bhaja Masala)",
+        "Fresh grated ginger"
+    ],
+    "instructions": [
+        "1. In a large mixing bowl, combine the boiled potatoes, onions, tomatoes, green chilies, cucumbers, ginger, roasted peanuts, and black chickpeas.",
+        "2. Add the black salt, a generous sprinkle of bhaja masala, and a drizzle of raw mustard oil.",
+        "3. Mix well to coat the vegetables with the spices and oil.",
+        "4. Just before serving, add the puffed rice and fresh coriander.",
+        "5. Toss everything vigorously to ensure the puffed rice is well-coated but still crunchy.",
+        "6. Finish with a squeeze of fresh lemon juice, top with bhujia sev, and serve immediately in a paper cone."
+    ],
+    "description": "Jhalmuri is the quintessential Bengali street food, famous for its sharp, pungent flavor profile derived from raw mustard oil. It represents the vibrant street culture of Kolkata, commonly sold by 'Muri-walas' in paper cones, and is cherished as an iconic evening snack that balances textures and spicy, tangy, and nutty flavors.",
+    "state": "West Bengal",
+    "veg_or_non_veg": "Veg"
+}

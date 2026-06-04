@@ -1,0 +1,33 @@
+{
+    "name": "Prawn Pakoras",
+    "url": "https://indianfoodmap.example.com/prawn-pakoras",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g fresh tiger prawns, cleaned and deveined",
+        "1 cup gram flour (besan)",
+        "2 tablespoons rice flour",
+        "1 teaspoon ginger-garlic paste",
+        "1 teaspoon Kashmiri red chili powder",
+        "1/2 teaspoon turmeric powder",
+        "1 teaspoon roasted cumin powder",
+        "1 tablespoon lemon juice",
+        "2 finely chopped green chilies",
+        "1/4 cup chopped fresh coriander leaves",
+        "Salt to taste",
+        "Vegetable oil for deep frying",
+        "Curry leaves for added aroma"
+    ],
+    "instructions": [
+        "1. Marinate the cleaned prawns with ginger-garlic paste, lemon juice, salt, and chili powder for 20 minutes.",
+        "2. In a mixing bowl, whisk together gram flour, rice flour, turmeric, cumin, chopped chilies, and coriander with a little water to form a thick, coating batter.",
+        "3. Heat oil in a deep pan or kadhai over medium-high heat.",
+        "4. Dip each prawn into the batter, ensuring it is well-coated, and carefully drop it into the hot oil.",
+        "5. Fry in batches until the pakoras turn deep golden brown and crispy.",
+        "6. Drain on paper towels and serve hot, ideally garnished with fried curry leaves."
+    ],
+    "description": "Prawn Pakoras are a popular seafood snack in the Andaman and Nicobar Islands, reflecting the region's abundant access to fresh marine life. These crispy fritters blend local seafood with traditional Indian spice profiles, often served at beachside stalls as a staple appetizer highlighting the island's coastal culinary culture.",
+    "state": "Andaman and Nicobar Islands",
+    "veg_or_non_veg": "Non-Veg"
+}

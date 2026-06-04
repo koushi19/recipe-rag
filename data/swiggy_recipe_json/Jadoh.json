@@ -1,0 +1,30 @@
+{
+    "name": "Jadoh",
+    "url": "https://indianfoodmap.example.com/jadoh",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Red hill rice (Joha or local rice)",
+        "Pork meat (with fat)",
+        "Pork blood (optional/traditional)",
+        "Ginger paste",
+        "Garlic paste",
+        "Onion",
+        "Bay leaves",
+        "Black pepper",
+        "Turmeric powder",
+        "Mustard oil"
+    ],
+    "instructions": [
+        "1. Heat mustard oil in a heavy-bottomed pot and sauté sliced onions, bay leaves, ginger, and garlic paste until fragrant.",
+        "2. Add the pork pieces and cook until they are browned and tender.",
+        "3. Stir in the red rice and mix well to coat the grains with the pork fat and spices.",
+        "4. Pour in water (or stock) in a ratio appropriate for the rice and bring to a boil.",
+        "5. Reduce heat to low, cover, and simmer until the rice is fluffy and cooked through.",
+        "6. If using, fold in the pork blood towards the end to darken the rice and intensify the flavor, then steam until fully incorporated."
+    ],
+    "description": "Jadoh is the quintessential comfort food of the Khasi community in Meghalaya. Historically prepared during celebrations and community gatherings, its name translates from 'Ja' (rice) and 'Doh' (meat). It is a beloved staple that reflects the rich, meat-centric culinary traditions of the Northeast hills.",
+    "state": "Meghalaya",
+    "veg_or_non_veg": "Non-Veg"
+}

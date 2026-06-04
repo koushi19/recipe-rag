@@ -1,0 +1,29 @@
+{
+    "name": "Tungrymbai",
+    "url": "https://indianfoodmap.example.com/tungrymbai",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Fermented soya beans",
+        "Pork pieces (optional/traditional)",
+        "Black sesame seeds",
+        "Ginger",
+        "Garlic",
+        "Onions",
+        "Green chilies",
+        "Salt to taste",
+        "Water"
+    ],
+    "instructions": [
+        "1. Boil the fermented soya beans in a small amount of water until they become soft and tender.",
+        "2. Mash the boiled beans slightly using a wooden ladle.",
+        "3. Create a paste by grinding black sesame seeds with garlic, ginger, onions, and green chilies.",
+        "4. In a pan, heat a small amount of oil (or fat from pork) and add the ground spice paste, sautéing until fragrant.",
+        "5. Add the mashed fermented soya beans to the pan and stir-fry the mixture on low heat.",
+        "6. Add salt to taste and continue to cook, stirring occasionally, until the flavors meld into a thick, uniform consistency."
+    ],
+    "description": "Tungrymbai is a staple food of the Khasi tribe in Meghalaya. It is a highly pungent, fermented soya bean dish valued for its deep umami flavor and health benefits. Traditionally prepared at home, it reflects the region's ancient methods of food preservation and is often consumed as a daily accompaniment with red rice.",
+    "state": "Meghalaya",
+    "veg_or_non_veg": "Non-Veg"
+}

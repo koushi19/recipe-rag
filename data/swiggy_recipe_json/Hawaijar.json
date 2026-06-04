@@ -1,0 +1,27 @@
+{
+    "name": "Hawaijar",
+    "url": "https://indianfoodmap.example.com/hawaijar",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Fermented soybean seeds",
+        "Dried red chillies",
+        "Salt",
+        "Mustard oil",
+        "Chopped onions",
+        "Ginger-garlic paste",
+        "Spring onions (optional)"
+    ],
+    "instructions": [
+        "1. Take the fermented soybeans (Hawaijar) and clean them thoroughly.",
+        "2. In a mortar and pestle, grind the fermented soybeans with salt and dried red chillies until it reaches a coarse paste consistency.",
+        "3. Heat a small amount of mustard oil in a pan and lightly sauté chopped onions until translucent.",
+        "4. Add the ginger-garlic paste and cook for a minute until aromatic.",
+        "5. Incorporate the soybean paste into the pan and stir-fry on low heat for 3-5 minutes to enhance the flavor.",
+        "6. Remove from heat, garnish with chopped spring onions if desired, and serve as a relish with steamed rice."
+    ],
+    "description": "Hawaijar is a quintessential Meitei fermented food, similar to Japanese natto, representing the unique culinary heritage of Manipur. It is highly valued for its probiotic properties and distinct, pungent umami flavor, serving as an essential component in daily Manipuri meals.",
+    "state": "Manipur",
+    "veg_or_non_veg": "Veg"
+}

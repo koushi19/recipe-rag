@@ -1,0 +1,26 @@
+{
+    "name": "Rasabali",
+    "url": "https://indianfoodmap.example.com/rasabali",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Fresh Chhena (paneer)",
+        "Semolina (suji)",
+        "Sugar",
+        "Full-cream milk",
+        "Cardamom powder",
+        "Ghee for frying",
+        "Few strands of saffron"
+    ],
+    "instructions": [
+        "1. Knead the chhena with semolina until smooth and form small, flattened round patties.",
+        "2. Deep-fry the patties in ghee until they turn golden brown.",
+        "3. In a separate heavy-bottomed pan, boil the milk until it reduces to half its volume.",
+        "4. Add sugar, cardamom powder, and saffron to the thickened milk.",
+        "5. Gently drop the fried patties into the simmering milk and let them soak for at least an hour before serving."
+    ],
+    "description": "Rasabali is a traditional Odia sweet dish, famously offered as a bhog to Lord Baladevjew at the Baladevjew Temple in Kendrapara. It is one of the iconic Chhappan Bhog (56 offerings) associated with Odisha's rich culinary heritage.",
+    "state": "Odisha",
+    "veg_or_non_veg": "Veg"
+}

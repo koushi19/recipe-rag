@@ -1,0 +1,19 @@
+{
+    "name": "Chicken Tikka",
+    "url": "https://indianfoodmap.example.com/chicken-tikka",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Boneless Chicken",
+        "Yogurt",
+        "Garam Masala",
+        "Lime juice"
+    ],
+    "instructions": [
+        "1. Cube chicken and marinate. 2. Grill on skewers until charred. 3. Serve hot with onions and green chutney."
+    ],
+    "description": "Boneless bites of tandoori perfection, bursting with smoky flavor.",
+    "state": "Chandigarh",
+    "veg_or_non_veg": "Non-Veg"
+}

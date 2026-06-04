@@ -1,0 +1,36 @@
+{
+    "name": "Tonak",
+    "url": "https://indianfoodmap.example.com/tonak",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Chickpeas (soaked overnight)",
+        "Fresh grated coconut",
+        "Dried red chillies (Byadgi or Kashmiri)",
+        "Coriander seeds",
+        "Cumin seeds",
+        "Turmeric powder",
+        "Peppercorns",
+        "Cloves",
+        "Cinnamon stick",
+        "Onion (finely chopped)",
+        "Green chilies",
+        "Tamarind paste",
+        "Coconut oil",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Pressure cook the soaked chickpeas until soft and set aside.",
+        "2. In a pan, dry roast grated coconut, red chillies, coriander seeds, cumin, peppercorns, cloves, and cinnamon until golden brown.",
+        "3. Grind the roasted mixture with a small piece of tamarind and water into a smooth, thick paste.",
+        "4. Heat coconut oil in a pot and sauté the chopped onions and green chilies until translucent.",
+        "5. Add the ground masala paste to the pot and sauté for a few minutes.",
+        "6. Mix in the boiled chickpeas along with some of the cooking water to reach the desired consistency.",
+        "7. Add salt and simmer for 10-15 minutes until the flavors meld together.",
+        "8. Serve hot with Goan pav or rice."
+    ],
+    "description": "Tonak is a quintessential Goan GSB (Gaud Saraswat Brahmin) curry. It is a staple dish often prepared during festivals, weddings, and special occasions, showcasing the Goan mastery of balancing roasted spices with fresh coconut.",
+    "state": "Goa",
+    "veg_or_non_veg": "Veg"
+}

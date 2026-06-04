@@ -1,0 +1,30 @@
+{
+    "name": "Fried Fish (Mas Bhaji)",
+    "url": "https://indianfoodmap.example.com/fried-fish-(mas-bhaji)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Fresh tuna or reef fish fillets",
+        "Turmeric powder",
+        "Red chili powder",
+        "Coriander powder",
+        "Ginger-garlic paste",
+        "Coconut oil",
+        "Curry leaves",
+        "Salt to taste",
+        "Lemon juice"
+    ],
+    "instructions": [
+        "1. Clean the fish fillets thoroughly and pat dry.",
+        "2. In a bowl, combine turmeric powder, chili powder, coriander powder, ginger-garlic paste, salt, and lemon juice to form a thick paste.",
+        "3. Coat the fish pieces evenly with the spice paste and let them marinate for 20-30 minutes.",
+        "4. Heat coconut oil in a traditional heavy-bottomed pan.",
+        "5. Add a few sprigs of fresh curry leaves to the oil for aroma.",
+        "6. Place the fish fillets in the pan and shallow-fry over medium heat until golden brown and crispy on both sides.",
+        "7. Serve hot as an appetizer or a side dish with steamed rice."
+    ],
+    "description": "Mas Bhaji reflects the island's deep-rooted connection to the Arabian Sea. As fishing is a primary occupation in Lakshadweep, this dish highlights the freshness of the local catch, elevated by the ubiquitous use of coconut oil, which is a hallmark of the culinary tradition of the archipelago.",
+    "state": "Lakshadweep",
+    "veg_or_non_veg": "Non-Veg"
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Haakh Saag",
+    "url": "https://indianfoodmap.example.com/haakh-saag",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Bunch of collard greens (Haakh)",
+        "Mustard oil",
+        "Asafoetida (Hing)",
+        "Dried red chilies",
+        "Salt to taste",
+        "Water"
+    ],
+    "instructions": [
+        "1. Wash the Haakh leaves thoroughly and keep them whole or slit lengthwise.",
+        "2. Heat mustard oil in a heavy-bottomed pot until it smokes, then lower the heat.",
+        "3. Add a pinch of asafoetida and dried red chilies to the oil.",
+        "4. Add the Haakh leaves and sauté for a minute until they wilt.",
+        "5. Pour in enough water to partially submerge the leaves and add salt.",
+        "6. Cover and cook on medium-low heat until the leaves are tender, ensuring they remain bright green.",
+        "7. Serve warm with steamed rice."
+    ],
+    "description": "Haakh is the quintessential comfort food of Kashmir, considered a staple in almost every Kashmiri household. It reflects the simple yet profound culinary traditions of the valley, emphasizing fresh, seasonal produce cooked with minimal spices.",
+    "state": "Jammu and Kashmir",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Kashmiri Pulao",
+    "url": "https://indianfoodmap.example.com/kashmiri-pulao",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Basmati rice",
+        "Ghee",
+        "Milk",
+        "Saffron strands",
+        "Cashew nuts",
+        "Almonds",
+        "Walnuts",
+        "Dried apricots",
+        "Raisins",
+        "Pomegranate seeds",
+        "Fresh apple slices or pineapple",
+        "Cinnamon stick",
+        "Green cardamom pods",
+        "Cloves",
+        "Shahi jeera (caraway seeds)",
+        "Salt to taste",
+        "Sugar (optional)"
+    ],
+    "instructions": [
+        "1. Soak the saffron in warm milk and set aside.",
+        "2. Wash and soak basmati rice for 30 minutes, then drain.",
+        "3. Heat ghee in a pan and lightly sauté all nuts (cashews, almonds, walnuts) and dried fruits (apricots, raisins) until golden, then set aside.",
+        "4. In the same ghee, add whole spices (cinnamon, cardamom, cloves, shahi jeera) until fragrant.",
+        "5. Add the soaked rice and sauté gently for 2 minutes.",
+        "6. Pour in water and the saffron-infused milk, adding salt and a pinch of sugar.",
+        "7. Cover and cook on low heat until the rice is tender and fluffy.",
+        "8. Gently fold in the sautéed nuts, dried fruits, and fresh fruit slices before serving."
+    ],
+    "description": "Kashmiri Pulao is a royal, festive delicacy from the Kashmir valley. Known for its distinct flavor profile combining aromatic spices with the sweetness of dry and fresh fruits, it reflects the region's rich culinary heritage and the abundance of high-quality produce like saffron and walnuts.",
+    "state": "Jammu and Kashmir",
+    "veg_or_non_veg": "Veg"
+}

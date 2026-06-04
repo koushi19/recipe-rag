@@ -1,0 +1,33 @@
+{
+    "name": "Maddur Vada",
+    "url": "https://indianfoodmap.example.com/maddur-vada",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup rice flour",
+        "1/2 cup semolina (rava)",
+        "1/2 cup maida (all-purpose flour)",
+        "1 cup finely chopped onions",
+        "2 tablespoons hot oil",
+        "2 sprigs curry leaves (finely chopped)",
+        "2-3 green chilies (finely chopped)",
+        "1 teaspoon cumin seeds",
+        "1/2 teaspoon asafoetida (hing)",
+        "Salt to taste",
+        "Oil for deep frying"
+    ],
+    "instructions": [
+        "1. In a large bowl, mix rice flour, semolina, maida, salt, cumin seeds, and asafoetida.",
+        "2. Add chopped onions, green chilies, and curry leaves to the flour mixture.",
+        "3. Pour 2 tablespoons of hot oil over the mixture and rub it in well.",
+        "4. Gradually add very little water to form a firm, non-sticky dough.",
+        "5. Heat oil in a deep pan for frying.",
+        "6. Take a small portion of the dough, flatten it into a thick disc using your palm, and carefully slide it into the hot oil.",
+        "7. Deep fry on medium heat until both sides are golden brown and crispy.",
+        "8. Remove and drain on paper towels before serving hot."
+    ],
+    "description": "Maddur Vada is a famous deep-fried snack originating from the town of Maddur in Karnataka, located on the Bangalore-Mysore railway line. It is traditionally sold by vendors at the Maddur railway station and is cherished for its signature crunchy texture and the sweetness of caramelized onions.",
+    "state": "Karnataka",
+    "veg_or_non_veg": "Veg"
+}

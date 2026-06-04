@@ -1,0 +1,29 @@
+{
+    "name": "Bara",
+    "url": "https://indianfoodmap.example.com/bara",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Urad dal (split black gram)",
+        "Ginger",
+        "Green chilies",
+        "Cumin seeds",
+        "Asafoetida (hing)",
+        "Chopped coriander leaves",
+        "Salt to taste",
+        "Mustard oil or vegetable oil for deep frying"
+    ],
+    "instructions": [
+        "1. Soak the urad dal in water for 4-6 hours, then drain and grind into a coarse, thick batter using minimal water.",
+        "2. Add finely chopped ginger, green chilies, cumin seeds, a pinch of asafoetida, salt, and fresh coriander to the batter.",
+        "3. Whisk the batter vigorously for a few minutes to incorporate air, ensuring a fluffy texture.",
+        "4. Heat oil in a deep pan or kadhai.",
+        "5. Take a small portion of the batter, flatten it into a small disc or donut shape on your palm, and carefully slide it into the hot oil.",
+        "6. Deep fry on medium heat, turning occasionally, until both sides are golden brown and crispy.",
+        "7. Drain excess oil on absorbent paper and serve hot with chutney."
+    ],
+    "description": "Bara is a quintessential traditional snack of Chhattisgarh, often prepared during festivals, weddings, and local celebrations. It is essentially the regional variation of the Vada and holds deep cultural roots in the agrarian lifestyle of the state, frequently served as a breakfast item or a tea-time snack.",
+    "state": "Chhattisgarh",
+    "veg_or_non_veg": "Veg"
+}

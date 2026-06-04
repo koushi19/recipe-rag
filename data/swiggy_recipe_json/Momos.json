@@ -1,0 +1,31 @@
+{
+    "name": "Momos",
+    "url": "https://indianfoodmap.example.com/momos",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "All-purpose flour",
+        "Minced pork or chicken",
+        "Finely chopped onions",
+        "Ginger-garlic paste",
+        "Fresh coriander",
+        "Green chilies",
+        "Sichuan peppercorns",
+        "Salt to taste",
+        "Vegetable oil",
+        "Water"
+    ],
+    "instructions": [
+        "1. Prepare the dough by mixing flour, water, and a pinch of salt; knead until smooth and rest for 30 minutes.",
+        "2. In a bowl, mix the minced meat, onions, ginger-garlic paste, chilies, crushed Sichuan peppercorns, salt, and oil.",
+        "3. Roll small portions of dough into thin, circular wrappers.",
+        "4. Place a spoonful of filling in the center and pleat the edges to seal the momo.",
+        "5. Grease a steamer basket and arrange the momos, ensuring they do not touch.",
+        "6. Steam over boiling water for 10-15 minutes until the dough is translucent and cooked through.",
+        "7. Serve hot with a spicy red chili chutney."
+    ],
+    "description": "Momos are a staple food in Arunachal Pradesh, heavily influenced by Tibetan culture. They are a beloved comfort food, often served during community gatherings and festivals, reflecting the state's deep Himalayan culinary roots.",
+    "state": "Arunachal Pradesh",
+    "veg_or_non_veg": "Non-Veg"
+}

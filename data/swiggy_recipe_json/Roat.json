@@ -1,0 +1,27 @@
+{
+    "name": "Roat",
+    "url": "https://indianfoodmap.example.com/roat",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Whole wheat flour (Atta)",
+        "Jaggery (Gur)",
+        "Fennel seeds (Saunf)",
+        "Ghee",
+        "Milk",
+        "Cardamom powder",
+        "Water"
+    ],
+    "instructions": [
+        "1. Dissolve jaggery in warm water to create a thick syrup and strain to remove impurities.",
+        "2. In a large bowl, mix wheat flour, fennel seeds, and cardamom powder.",
+        "3. Add melted ghee and the jaggery syrup to the flour, using a little milk if needed to form a stiff, firm dough.",
+        "4. Divide the dough into thick, palm-sized round discs.",
+        "5. Heat ghee in a heavy-bottomed pan or tawa on low heat.",
+        "6. Cook the discs on both sides until they are golden brown and cooked through to the center."
+    ],
+    "description": "Roat is a significant traditional bread in Kumaoni and Garhwali culture, often prepared during religious ceremonies and local festivals. It is known for its dense texture and long shelf life, serving as a staple 'Prasad' or festive snack.",
+    "state": "Uttarakhand",
+    "veg_or_non_veg": "Veg"
+}

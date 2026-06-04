@@ -1,0 +1,33 @@
+{
+    "name": "Hyderabadi Biryani",
+    "url": "https://indianfoodmap.example.com/hyderabadi-biryani",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Basmati rice",
+        "Goat meat (mutton) with bone",
+        "Yogurt",
+        "Ginger-garlic paste",
+        "Red chili powder",
+        "Turmeric powder",
+        "Garam masala",
+        "Green cardamom",
+        "Cloves",
+        "Cinnamon sticks",
+        "Shah jeera",
+        "Bay leaves",
+        "Fried onions (birista)",
+        "Fresh mint leaves",
+        "Fresh coriander leaves",
+        "Saffron infused milk",
+        "Ghee",
+        "Lemon juice"
+    ],
+    "instructions": [
+        "1. Marinate the mutton with yogurt, ginger-garlic paste, spices, fried onions, mint, and coriander for at least 4 hours. 2. Soak basmati rice for 30 minutes. 3. Boil water with whole spices and salt; cook rice until 70% done. 4. Spread the marinated meat in a heavy-bottomed vessel (handi). 5. Layer the partially cooked rice over the meat. 6. Drizzle saffron milk and ghee over the top. 7. Seal the pot with dough or a tight lid and cook on high heat for 5 minutes, then low heat (dum) for 30-40 minutes. 8. Let it rest before serving."
+    ],
+    "description": "Hyderabadi Biryani is a world-renowned culinary masterpiece representing the royal heritage of the Nizams of Hyderabad. It is celebrated for its complex blend of spices, succulent meat, and long-grain basmati rice, symbolizing the fusion of Persian and Mughlai culinary traditions.",
+    "state": "Telangana",
+    "veg_or_non_veg": "Non-Veg"
+}

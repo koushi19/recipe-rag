@@ -1,0 +1,37 @@
+{
+    "name": "Shab Deg",
+    "url": "https://indianfoodmap.example.com/shab-deg",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 kg mutton (mutton shanks or trotters)",
+        "500g turnips (shalgam), peeled and cubed",
+        "200g yogurt (dahi)",
+        "2 tbsp ginger-garlic paste",
+        "1 tsp saffron strands soaked in warm milk",
+        "2 onions, finely sliced and fried",
+        "1 tsp Kashmiri red chili powder",
+        "1 tsp shahi jeera",
+        "4 green cardamoms",
+        "2 black cardamoms",
+        "4 cloves",
+        "1-inch cinnamon stick",
+        "1/2 tsp mace and nutmeg powder",
+        "Salt to taste",
+        "Clarified butter (ghee)",
+        "Fresh coriander for garnish"
+    ],
+    "instructions": [
+        "1. Marinate the mutton with yogurt, ginger-garlic paste, and spices for at least two hours.",
+        "2. Heat ghee in a heavy-bottomed pot and sauté the whole spices until fragrant.",
+        "3. Add the marinated mutton and sear until browned.",
+        "4. Add the fried onions, a little water, and cook covered on low heat until the meat is partially tender.",
+        "5. Add the cubed turnips and saffron milk, ensuring enough liquid covers the ingredients.",
+        "6. Seal the pot with dough (dum) to prevent steam from escaping.",
+        "7. Cook on very low heat (traditionally overnight or for 6-8 hours) until the mutton and turnips are meltingly soft and the flavors have melded completely."
+    ],
+    "description": "Shab Deg is a culinary masterpiece of the Awadhi tradition, where 'Shab' means night and 'Deg' refers to the large heavy-bottomed pot. It was traditionally cooked overnight to allow the turnips to soak up the richness of the meat and spices, often prepared for winter feasts.",
+    "state": "Uttar Pradesh",
+    "veg_or_non_veg": "Non-Veg"
+}

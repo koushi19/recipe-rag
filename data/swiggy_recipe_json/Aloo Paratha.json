@@ -1,0 +1,32 @@
+{
+    "name": "Aloo Paratha",
+    "url": "https://indianfoodmap.example.com/aloo-paratha",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Whole wheat flour (atta)",
+        "Boiled and mashed potatoes",
+        "Finely chopped green chilies",
+        "Finely chopped fresh coriander leaves",
+        "Grated ginger",
+        "Carom seeds (ajwain)",
+        "Dried pomegranate seeds (anardana) or amchur powder",
+        "Red chili powder",
+        "Garam masala",
+        "Salt",
+        "Desi ghee or butter for frying"
+    ],
+    "instructions": [
+        "1. Knead the whole wheat flour with water and a pinch of salt into a soft, pliable dough and let it rest for 20 minutes.",
+        "2. In a bowl, mix mashed potatoes with green chilies, coriander, ginger, ajwain, anardana, red chili powder, garam masala, and salt to create the stuffing.",
+        "3. Take a lemon-sized ball of dough, flatten it, and place a portion of the potato mixture in the center.",
+        "4. Seal the edges, gently flatten with your palm, and roll it out into a disc using a rolling pin.",
+        "5. Heat a tawa (griddle) and place the paratha on it.",
+        "6. Cook both sides until golden brown spots appear, applying generous amounts of desi ghee or butter during the process.",
+        "7. Serve hot with a dollop of white butter, curd, or pickle."
+    ],
+    "description": "A quintessential Punjabi breakfast staple widely enjoyed in Chandigarh, Aloo Paratha represents the hearty and rustic culinary heritage of the region. It is synonymous with warmth and hospitality, often served at roadside dhabas and household dining tables alike.",
+    "state": "Chandigarh",
+    "veg_or_non_veg": "Veg"
+}

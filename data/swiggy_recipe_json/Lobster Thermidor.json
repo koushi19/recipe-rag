@@ -1,0 +1,35 @@
+{
+    "name": "Lobster Thermidor",
+    "url": "https://indianfoodmap.example.com/lobster-thermidor",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Fresh Andaman rock lobster",
+        "Fresh coconut cream",
+        "Grated cheddar cheese",
+        "Shallots",
+        "Garlic cloves",
+        "Mustard powder",
+        "Green chillies",
+        "Fresh curry leaves",
+        "Turmeric powder",
+        "Black pepper",
+        "Butter",
+        "Refined flour (maida)",
+        "Lemon juice",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Boil the lobster, remove the meat from the shell, and chop into bite-sized pieces; keep the shells intact for presentation.",
+        "2. Heat butter in a pan, sauté finely chopped shallots, garlic, and green chillies until translucent.",
+        "3. Add turmeric, black pepper, and curry leaves to infuse flavor.",
+        "4. Stir in flour to make a roux, then gradually add coconut cream and mustard powder, stirring until the sauce thickens.",
+        "5. Fold the lobster meat into the sauce and simmer for 2 minutes.",
+        "6. Fill the cleaned lobster shells with the mixture and top generously with grated cheese.",
+        "7. Bake in a preheated oven at 200°C until the top is bubbly and golden brown."
+    ],
+    "description": "Lobster Thermidor in the Andaman Islands represents a unique fusion of French colonial culinary influence and the island's abundant marine resources. It is a signature luxury dish served in local high-end eateries, highlighting the freshness of local rock lobsters combined with the coastal staple of coconut cream.",
+    "state": "Andaman and Nicobar Islands",
+    "veg_or_non_veg": "Non-Veg"
+}

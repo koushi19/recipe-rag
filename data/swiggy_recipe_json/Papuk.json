@@ -1,0 +1,27 @@
+{
+    "name": "Papuk",
+    "url": "https://indianfoodmap.example.com/papuk",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Raw papaya",
+        "Dried bamboo shoot",
+        "Ghost pepper (Bhut Jolokia) or local chili",
+        "Ginger",
+        "Garlic",
+        "Salt to taste",
+        "Water"
+    ],
+    "instructions": [
+        "1. Peel and chop the raw papaya into small, bite-sized pieces.",
+        "2. In a pot, add water, the chopped papaya, and dried bamboo shoots.",
+        "3. Add crushed ginger, garlic, and the ghost pepper according to heat preference.",
+        "4. Boil the mixture until the papaya is tender and the flavors of the bamboo shoot have infused into the vegetable.",
+        "5. Once cooked, mash the mixture slightly with a spoon or pestle to create a coarse, rustic consistency.",
+        "6. Season with salt and serve warm as a side dish with steamed rice."
+    ],
+    "description": "Papuk is a staple dish of the Adi community in Arunachal Pradesh. It reflects the region's culinary reliance on forest produce, specifically raw papaya and fermented bamboo shoots, embodying the simple yet flavorful nature of indigenous tribal cuisine.",
+    "state": "Arunachal Pradesh",
+    "veg_or_non_veg": "Veg"
+}

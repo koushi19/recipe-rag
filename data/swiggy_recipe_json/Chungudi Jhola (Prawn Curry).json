@@ -1,0 +1,37 @@
+{
+    "name": "Chungudi Jhola (Prawn Curry)",
+    "url": "https://indianfoodmap.example.com/chungudi-jhola-(prawn-curry)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g fresh prawns, deveined and cleaned",
+        "2 medium potatoes, cut into cubes",
+        "1 large onion, finely chopped",
+        "2 tomatoes, chopped",
+        "1 tablespoon ginger-garlic paste",
+        "1/2 teaspoon turmeric powder",
+        "1 teaspoon Kashmiri red chili powder",
+        "1/2 teaspoon cumin powder",
+        "1/2 teaspoon coriander powder",
+        "1/2 teaspoon garam masala",
+        "2 tablespoons mustard oil",
+        "1 bay leaf",
+        "Fresh coriander leaves for garnish",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Marinate the cleaned prawns with a pinch of salt and turmeric.",
+        "2. Heat mustard oil in a pan and lightly fry the prawns for 1-2 minutes; remove and set aside.",
+        "3. In the same oil, fry the potato cubes until golden brown and remove.",
+        "4. Add bay leaf to the remaining oil, then sauté onions until translucent.",
+        "5. Add ginger-garlic paste and cook until the raw smell disappears.",
+        "6. Add tomatoes, turmeric, chili powder, cumin, and coriander powder; cook until oil separates.",
+        "7. Add the fried potatoes and prawns, stirring well to coat with the masala.",
+        "8. Pour in enough water to form a gravy, cover, and simmer until potatoes are cooked.",
+        "9. Finish with a sprinkle of garam masala and fresh coriander before serving."
+    ],
+    "description": "Chungudi Jhola is a quintessential Odia delicacy, reflecting the state's deep coastal connection. Traditionally prepared with mustard oil and tempered with aromatic spices, this curry is a staple in Odia households, often enjoyed with steamed rice during festive occasions and daily meals.",
+    "state": "Odisha",
+    "veg_or_non_veg": "Non-Veg"
+}

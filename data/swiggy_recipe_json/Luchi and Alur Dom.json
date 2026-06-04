@@ -1,0 +1,33 @@
+{
+    "name": "Luchi and Alur Dom",
+    "url": "https://indianfoodmap.example.com/luchi-and-alur-dom",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Refined flour (Maida)",
+        "Potatoes",
+        "Ghee",
+        "Mustard oil",
+        "Cumin seeds",
+        "Ginger paste",
+        "Turmeric powder",
+        "Red chili powder",
+        "Coriander powder",
+        "Garam masala powder",
+        "Bay leaf",
+        "Sugar",
+        "Salt"
+    ],
+    "instructions": [
+        "1. Knead maida with salt, a spoonful of ghee, and water to make a soft, smooth dough; let it rest for 30 minutes.",
+        "2. Boil potatoes, peel, and cut into cubes; shallow fry them with a pinch of turmeric until golden.",
+        "3. Heat mustard oil in a pan, temper with bay leaf and cumin seeds, then add ginger paste, turmeric, chili powder, and coriander powder.",
+        "4. Add the fried potatoes, salt, a pinch of sugar, and water to simmer until the gravy thickens.",
+        "5. Finish the curry with garam masala and a touch of ghee.",
+        "6. Roll the dough into small discs and deep-fry in hot oil until they puff up into golden Luchis."
+    ],
+    "description": "Luchi and Alur Dom is a quintessential Bengali comfort food, often served during breakfast, festivals like Durga Puja, or special family gatherings. It is a beloved combination that perfectly balances the crisp, airy texture of the bread with the deep, savory notes of the potato curry.",
+    "state": "West Bengal",
+    "veg_or_non_veg": "Veg"
+}

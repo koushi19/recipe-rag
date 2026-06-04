@@ -1,0 +1,40 @@
+{
+    "name": "Soya Chaap Masala",
+    "url": "https://indianfoodmap.example.com/soya-chaap-masala",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "250g soya chaap (soy chunks on sticks, cut into pieces)",
+        "3 tbsp mustard oil (for authentic pungency)",
+        "1 large onion, finely chopped",
+        "2 tomatoes, pureed",
+        "1 tbsp ginger-garlic paste",
+        "2 green chilies, slit",
+        "1 tsp cumin seeds",
+        "1 bay leaf",
+        "2-3 green cardamom pods, crushed",
+        "1 inch cinnamon stick",
+        "1 tsp turmeric powder",
+        "1 tbsp Kashmiri red chili powder (for color and mild heat)",
+        "2 tsp coriander powder",
+        "1 tsp garam masala",
+        "1/2 cup yogurt, whisked",
+        "1/2 cup heavy cream",
+        "1 tbsp dried fenugreek leaves (kasuri methi), crushed",
+        "Salt to taste",
+        "Fresh cilantro for garnish"
+    ],
+    "instructions": [
+        "1. Heat mustard oil in a heavy-bottomed pan until smoking, then reduce heat. Add cumin seeds, bay leaf, cardamom, and cinnamon; sizzle for 10 seconds.",
+        "2. Add chopped onions and sauté on medium heat until deep golden brown (about 8-10 mins). Stir in ginger-garlic paste and green chilies; cook for 1 minute until fragrant.",
+        "3. Pour in tomato puree, turmeric, red chili powder, and coriander powder. Cook on low heat, stirring occasionally, until the oil separates (about 5-7 mins).",
+        "4. Whisk yogurt into the masala, then add 1 cup warm water. Season with salt. Bring to a gentle simmer.",
+        "5. While the gravy simmers, pan-fry or grill the soya chaap pieces in a separate pan with a little oil until lightly charred on all sides.  (Skip this step if using pre-cooked chaap).",
+        "6. Add the soya chaap to the simmering gravy, cover, and cook on low heat for 15-20 minutes, stirring occasionally, until the chaap is tender and absorbs the flavors.",
+        "7. Stir in heavy cream and crushed kasuri methi. Simmer for 2 more minutes. Sprinkle garam masala and garnish with fresh cilantro. Serve hot with naan or steamed rice."
+    ],
+    "description": "A robust, smoky symphony of spiced soy and earthy aromatics, wrapped in a velvety gravy that whispers of rustic Punjabi kitchens.",
+    "state": "Punjab",
+    "veg_or_non_veg": "Veg"
+}

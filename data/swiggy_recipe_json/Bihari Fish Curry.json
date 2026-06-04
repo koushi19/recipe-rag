@@ -1,0 +1,36 @@
+{
+    "name": "Bihari Fish Curry",
+    "url": "https://indianfoodmap.example.com/bihari-fish-curry",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g river fish (Rohu or Katla)",
+        "2 tbsp mustard oil",
+        "1 tsp mustard seeds",
+        "1/2 tsp fenugreek seeds (methi)",
+        "2 tbsp mustard paste (yellow mustard seeds soaked and ground)",
+        "1 tbsp ginger-garlic paste",
+        "1 tsp turmeric powder",
+        "1 tsp red chili powder",
+        "1 tsp coriander powder",
+        "2 medium tomatoes, finely chopped",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish",
+        "Water as required"
+    ],
+    "instructions": [
+        "1. Clean and wash the fish pieces, then marinate with a pinch of turmeric and salt.",
+        "2. Heat mustard oil in a pan until it smokes, then fry the fish pieces until golden brown and set aside.",
+        "3. In the same oil, add mustard seeds and fenugreek seeds to temper.",
+        "4. Add ginger-garlic paste and sauté until the raw smell disappears.",
+        "5. Mix turmeric, red chili powder, coriander powder, and mustard paste with a little water to form a paste and add to the pan.",
+        "6. Add chopped tomatoes and cook until they soften and the oil separates.",
+        "7. Pour in water to reach the desired gravy consistency and bring to a boil.",
+        "8. Gently add the fried fish pieces, cover, and cook for 5-7 minutes on low heat.",
+        "9. Garnish with fresh coriander leaves and serve hot with steamed rice."
+    ],
+    "description": "Bihari Fish Curry, or 'Machher Jhol' style preparations in Bihar, is defined by the heavy use of pungent mustard oil and yellow mustard paste. It is a staple in many households, reflecting the region's reliance on freshwater rivers like the Ganges and Gandak, and is often prepared during festivals and special family gatherings.",
+    "state": "Bihar",
+    "veg_or_non_veg": "Non-Veg"
+}

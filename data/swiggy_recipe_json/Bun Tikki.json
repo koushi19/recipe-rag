@@ -1,0 +1,19 @@
+{
+    "name": "Bun Tikki",
+    "url": "https://indianfoodmap.example.com/bun-tikki",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Burger Bun",
+        "Aloo Tikki",
+        "Onion slices",
+        "Mint chutney"
+    ],
+    "instructions": [
+        "1. Toast the bun with butter. 2. Place a hot tikki inside. 3. Add onions and chutneys, press and serve."
+    ],
+    "description": "The local burger—a crispy tikka sandwiched in a soft toasted bun.",
+    "state": "Chandigarh",
+    "veg_or_non_veg": "Veg"
+}

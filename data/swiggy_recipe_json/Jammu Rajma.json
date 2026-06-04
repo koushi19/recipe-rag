@@ -1,0 +1,33 @@
+{
+    "name": "Jammu Rajma",
+    "url": "https://indianfoodmap.example.com/jammu-rajma",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Red Kidney Beans (Bhaderwah variety preferred)",
+        "Anardana (dried pomegranate seeds)",
+        "Ghee",
+        "Mustard oil",
+        "Onions",
+        "Ginger-garlic paste",
+        "Asafoetida (Hing)",
+        "Cumin seeds",
+        "Kashmiri red chili powder",
+        "Coriander powder",
+        "Turmeric powder",
+        "Garam masala",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Soak the Rajma overnight and pressure cook with salt until soft.",
+        "2. Heat mustard oil and ghee in a heavy-bottomed pan, add hing and cumin seeds.",
+        "3. Sauté finely chopped onions until golden brown, then add ginger-garlic paste.",
+        "4. Add turmeric, Kashmiri red chili powder, coriander powder, and crushed Anardana, cooking until the oil separates.",
+        "5. Incorporate the boiled Rajma along with its cooking liquid and simmer on low heat for 30-40 minutes to thicken the gravy.",
+        "6. Finish with garam masala and a dollop of ghee before serving hot with steamed Basmati rice."
+    ],
+    "description": "Jammu Rajma is a signature dish from the Jammu region, celebrated for the specific nutty flavor and creamy texture of the red kidney beans grown in the Bhaderwah valley. It is culturally iconic and traditionally served with plain rice and a side of onion-mint chutney, representing the culinary heart of Dogra cuisine.",
+    "state": "Jammu and Kashmir",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Macher Jhol",
+    "url": "https://indianfoodmap.example.com/macher-jhol",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g Fresh Rohu or Catla fish",
+        "2 large potatoes, cut into wedges",
+        "1 tablespoon turmeric powder",
+        "1 teaspoon nigella seeds (kalonji)",
+        "2 green chilies, slit",
+        "1 teaspoon ginger paste",
+        "1/2 teaspoon red chili powder",
+        "3 tablespoons mustard oil",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish",
+        "Water as needed"
+    ],
+    "instructions": [
+        "1. Clean and marinate fish pieces with salt and 1/2 teaspoon turmeric.",
+        "2. Heat mustard oil in a pan and shallow fry the fish pieces until golden; remove and set aside.",
+        "3. In the same oil, fry the potato wedges until lightly browned and set aside.",
+        "4. Add nigella seeds and slit green chilies to the remaining oil until they splutter.",
+        "5. Mix ginger paste, turmeric, and chili powder with a little water and add to the pan; sauté for a minute.",
+        "6. Add the potatoes and sufficient water to create a thin gravy, then bring to a boil.",
+        "7. Gently add the fried fish to the curry and simmer for 5-7 minutes until the fish is tender.",
+        "8. Garnish with fresh coriander leaves and serve hot with steamed rice."
+    ],
+    "description": "Macher Jhol is a staple dish in the Andaman and Nicobar Islands, reflecting the significant Bengali influence in the region. Due to the abundance of fresh seafood in the islands, this light curry is a beloved household meal, prized for its simplicity and the cooling properties of its thin, spice-infused broth, perfect for the tropical climate.",
+    "state": "Andaman and Nicobar Islands",
+    "veg_or_non_veg": "Non-Veg"
+}

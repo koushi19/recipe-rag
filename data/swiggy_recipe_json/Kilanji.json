@@ -1,0 +1,20 @@
+{
+    "name": "Kilanji",
+    "url": "https://indianfoodmap.example.com/kilanji",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Rice flour",
+        "Eggs",
+        "Bananas",
+        "Coconut milk",
+        "Jaggery"
+    ],
+    "instructions": [
+        "1. Make a very thin batter of rice and eggs. 2. Cook thin crepes. 3. Serve with a sweet mashed banana and coconut milk dip."
+    ],
+    "description": "An ultra-thin rice and egg-based delicacy, typically served with sweet banana milk.",
+    "state": "Lakshadweep",
+    "veg_or_non_veg": "Veg"
+}

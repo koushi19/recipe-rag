@@ -1,0 +1,29 @@
+{
+    "name": "Lauki Chana Dal",
+    "url": "https://indianfoodmap.example.com/lauki-chana-dal",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup Chana Dal (split Bengal gram)",
+        "2 cups Lauki (bottle gourd) diced",
+        "1 medium Onion, finely chopped",
+        "2 Tomatoes, chopped",
+        "1 tsp Ginger-Garlic paste",
+        "2 Green chilies",
+        "1/2 tsp Turmeric powder",
+        "1 tsp Red chili powder",
+        "1/2 tsp Cumin seeds",
+        "1/4 tsp Asafoetida (Hing)",
+        "1 sprig Curry leaves",
+        "2 tbsp Mustard oil",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. Soak the chana dal for at least 30 minutes. 2. In a pressure cooker, add the dal, diced lauki, turmeric, salt, and water, then cook for 3-4 whistles. 3. Heat mustard oil in a pan until it smokes, then add cumin seeds, hing, and curry leaves. 4. Add onions and sauté until translucent, then add ginger-garlic paste and green chilies. 5. Add tomatoes and powdered spices, cooking until the oil separates. 6. Pour the cooked dal mixture into the pan, simmer for 5-7 minutes, and garnish with fresh coriander."
+    ],
+    "description": "Lauki Chana Dal is a staple home-cooked meal in Chhattisgarh, reflecting the state's reliance on simple, nutritious, and locally available produce. It is typically served with steamed rice or 'bidi' roti, offering a perfect balance of fiber and protein.",
+    "state": "Chhattisgarh",
+    "veg_or_non_veg": "Veg"
+}

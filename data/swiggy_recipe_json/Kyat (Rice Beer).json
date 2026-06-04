@@ -1,0 +1,24 @@
+{
+    "name": "Kyat (Rice Beer)",
+    "url": "https://indianfoodmap.example.com/kyat-(rice-beer)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Sticky rice (Bora saul)",
+        "Thiat (Traditional herbal yeast starter)",
+        "Water"
+    ],
+    "instructions": [
+        "1. Wash the sticky rice thoroughly and steam it until it is cooked but firm.",
+        "2. Spread the cooked rice on a clean surface to cool down to room temperature.",
+        "3. Crush the 'thiat' (herbal yeast starter) into a fine powder.",
+        "4. Evenly mix the yeast powder into the cooled rice.",
+        "5. Transfer the mixture into an earthen pot or a fermentation vessel and cover it tightly.",
+        "6. Let the mixture ferment in a cool, dark place for 3 to 7 days, depending on the desired strength and sweetness.",
+        "7. Once fermentation is complete, dilute with a little water if needed and strain the liquid to serve."
+    ],
+    "description": "Kyat is a culturally significant rice beer brewed by the indigenous tribes of Meghalaya, particularly the Khasi and Jaintia people. It is an integral part of social gatherings, religious ceremonies, and traditional festivals, symbolizing hospitality and community bonding.",
+    "state": "Meghalaya",
+    "veg_or_non_veg": "Veg"
+}

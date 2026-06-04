@@ -1,0 +1,19 @@
+{
+    "name": "Khambir",
+    "url": "https://indianfoodmap.example.com/khambir",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Whole wheat flour",
+        "Yeast (Local sourdough starter)",
+        "Water",
+        "Salt"
+    ],
+    "instructions": [
+        "1. Mix flour and sourdough starter to make a dough. 2. Let it ferment overnight. 3. Shape into round flatbreads. 4. Bake on a hot griddle and then directly on fire to get a thick crust."
+    ],
+    "description": "Crusty, leavened sourdough bread, the perfect companion for every Ladakhi meal.",
+    "state": "Ladakh",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Singori",
+    "url": "https://indianfoodmap.example.com/singori",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Khoya (evaporated milk solids)",
+        "Sugar",
+        "Grated coconut",
+        "Cardamom powder",
+        "Malu leaves (Bauhinia vahlii)",
+        "Small amount of ghee"
+    ],
+    "instructions": [
+        "1. In a heavy-bottomed pan, cook the khoya over low heat until it becomes slightly firm.",
+        "2. Add sugar and grated coconut to the khoya, stirring continuously until the mixture thickens into a dough-like consistency.",
+        "3. Add a pinch of cardamom powder for fragrance and mix well.",
+        "4. Allow the mixture to cool down slightly so it can be handled.",
+        "5. Take fresh, cleaned Malu leaves and roll them into a cone shape.",
+        "6. Stuff the cone with the sweetened khoya mixture and secure the base of the leaf to hold the shape.",
+        "7. Serve as a unique, fragrant dessert wrapped in its natural packaging."
+    ],
+    "description": "Singori is a quintessential sweet of Uttarakhand, particularly famous in Almora. It is distinct for being wrapped in Malu leaves, which impart a subtle, earthy, and herbal aroma to the sweetened khoya, making it a unique cultural delicacy often used during festivals and celebrations.",
+    "state": "Uttarakhand",
+    "veg_or_non_veg": "Veg"
+}

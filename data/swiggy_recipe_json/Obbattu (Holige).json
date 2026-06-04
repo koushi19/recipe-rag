@@ -1,0 +1,30 @@
+{
+    "name": "Obbattu (Holige)",
+    "url": "https://indianfoodmap.example.com/obbattu-(holige)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Chana dal (split Bengal gram)",
+        "Jaggery",
+        "Maida (all-purpose flour) or Chiroti rava",
+        "Turmeric powder",
+        "Cardamom powder",
+        "Grated nutmeg",
+        "Ghee",
+        "Oil",
+        "Salt"
+    ],
+    "instructions": [
+        "1. Soak chana dal and pressure cook until soft, then drain excess water.",
+        "2. In a pan, combine cooked dal and jaggery; cook until moisture evaporates, forming a thick consistency called 'hoorana'.",
+        "3. Add cardamom and nutmeg powder to the hoorana and let it cool.",
+        "4. Prepare a soft, elastic dough using maida, water, oil, and a pinch of turmeric.",
+        "5. Take a small portion of dough, flatten it, place a ball of hoorana inside, and seal the edges.",
+        "6. Gently roll the stuffed ball into a thin, round disc using a plastic sheet or parchment paper coated with oil.",
+        "7. Roast on a hot tawa with a teaspoon of ghee until golden brown spots appear on both sides."
+    ],
+    "description": "Obbattu, also known as Holige or Puran Poli, is a quintessential Karnataka delicacy. It is a mandatory festive treat, particularly during Ugadi and Varamahalakshmi Vratam, symbolizing prosperity and sweetness in family life.",
+    "state": "Karnataka",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Misal Pav",
+    "url": "https://indianfoodmap.example.com/misal-pav",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Moth beans (Matki) sprouts",
+        "Onion",
+        "Tomato",
+        "Ginger-garlic paste",
+        "Goda masala",
+        "Red chili powder (Kashmiri and spicy)",
+        "Turmeric powder",
+        "Mustard seeds",
+        "Curry leaves",
+        "Farsan (mixture of fried snacks)",
+        "Coriander leaves",
+        "Lemon wedges",
+        "Pav (soft bread rolls)",
+        "Oil"
+    ],
+    "instructions": [
+        "1. Boil the moth bean sprouts with turmeric and salt until tender.",
+        "2. Prepare a base masala by sautéing mustard seeds, curry leaves, onions, ginger-garlic paste, and tomatoes in oil.",
+        "3. Add goda masala, chili powder, and turmeric, then mix in the boiled sprouts.",
+        "4. Add water to adjust the consistency to create the 'kat' (the spicy, oily gravy layer) and simmer.",
+        "5. Serve in a bowl, layering the sprouts first, then topping with farsan, chopped onions, and coriander.",
+        "6. Serve hot with toasted pav, lemon wedges, and extra gravy on the side."
+    ],
+    "description": "Misal Pav is a legendary Maharashtrian breakfast dish known for its intense heat and complex flavor profile. It is a staple street food that represents the vibrant culinary heritage of the region, specifically popular in Pune, Nashik, and Mumbai.",
+    "state": "Maharashtra",
+    "veg_or_non_veg": "Veg"
+}

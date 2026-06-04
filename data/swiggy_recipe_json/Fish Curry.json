@@ -1,0 +1,36 @@
+{
+    "name": "Fish Curry",
+    "url": "https://indianfoodmap.example.com/fish-curry",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g fresh reef fish (cleaned and cut)",
+        "2 tablespoons mustard oil",
+        "1 teaspoon mustard seeds",
+        "1/2 teaspoon turmeric powder",
+        "1 tablespoon coriander powder",
+        "1 teaspoon red chili powder",
+        "1 cup coconut milk",
+        "2 medium onions, finely chopped",
+        "2 tomatoes, chopped",
+        "1 tablespoon ginger-garlic paste",
+        "2 green chilies, slit",
+        "1 sprig curry leaves",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. Marinate the fish pieces with a pinch of turmeric and salt for 15 minutes.",
+        "2. Heat mustard oil in a heavy-bottomed pan and splutter mustard seeds and curry leaves.",
+        "3. Add chopped onions and sauté until golden brown.",
+        "4. Stir in the ginger-garlic paste and slit green chilies, cooking until the raw smell disappears.",
+        "5. Add tomatoes, turmeric, coriander powder, and red chili powder; cook until the oil separates.",
+        "6. Pour in the coconut milk and bring to a gentle simmer.",
+        "7. Carefully add the fish pieces and cook for 8-10 minutes on low heat until the fish is tender.",
+        "8. Adjust salt, garnish with fresh coriander, and serve hot with steamed rice."
+    ],
+    "description": "The Andaman Fish Curry is a staple of the island's coastal cuisine, reflecting the abundance of the Bay of Bengal. It utilizes locally caught reef fish and emphasizes the creamy texture of coconut milk paired with the pungent kick of mustard, highlighting the cultural blend of mainland Indian cooking techniques adapted to island resources.",
+    "state": "Andaman and Nicobar Islands",
+    "veg_or_non_veg": "Non-Veg"
+}

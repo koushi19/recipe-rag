@@ -1,0 +1,28 @@
+{
+    "name": "Manipuri Chai",
+    "url": "https://indianfoodmap.example.com/manipuri-chai",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "High-quality black tea leaves",
+        "Water",
+        "Fresh milk",
+        "Sugar or Jaggery",
+        "Crushed ginger",
+        "Green cardamom pods",
+        "Cinnamon stick",
+        "Black peppercorns"
+    ],
+    "instructions": [
+        "1. In a saucepan, bring water to a boil with crushed ginger, cardamom, cinnamon, and black peppercorns.",
+        "2. Add the tea leaves and allow them to brew in the spiced water for 2-3 minutes until the color is deep.",
+        "3. Pour in the milk and bring the mixture to a gentle boil while stirring occasionally.",
+        "4. Add sugar or jaggery according to your preference.",
+        "5. Reduce the heat and let it simmer for another minute to blend the flavors.",
+        "6. Strain the tea into cups and serve hot."
+    ],
+    "description": "Manipuri Chai reflects the warmth of Northeast Indian hospitality. While Manipur is known for its diverse culinary landscape, its tea culture is deeply influenced by the cold climate of the region, often featuring pungent spices that offer medicinal benefits and comfort.",
+    "state": "Manipur",
+    "veg_or_non_veg": "Veg"
+}

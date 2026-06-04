@@ -1,0 +1,40 @@
+{
+    "name": "Dindigul Biryani",
+    "url": "https://indianfoodmap.example.com/dindigul-biryani",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Seeraga Samba rice",
+        "Mutton or Chicken",
+        "Onions",
+        "Tomatoes",
+        "Green chilies",
+        "Ginger-garlic paste",
+        "Curd",
+        "Red chili powder",
+        "Turmeric powder",
+        "Cinnamon",
+        "Cloves",
+        "Cardamom",
+        "Bay leaf",
+        "Mint leaves",
+        "Coriander leaves",
+        "Ghee",
+        "Cooking oil",
+        "Lemon juice"
+    ],
+    "instructions": [
+        "1. Soak the Seeraga Samba rice for 20 minutes.",
+        "2. Heat oil and ghee in a heavy-bottomed vessel, add whole spices and sliced onions, and sauté until golden brown.",
+        "3. Add ginger-garlic paste, green chilies, and tomatoes, cooking until soft.",
+        "4. Add meat and sauté well, then stir in curd and spice powders.",
+        "5. Pour in water (usually 1.5 to 2 cups per cup of rice) and bring to a boil.",
+        "6. Add the soaked rice, mint, and coriander leaves.",
+        "7. Cover with a tight lid and cook on low heat until the water is absorbed and the rice is tender.",
+        "8. Fluff gently before serving."
+    ],
+    "description": "Originating from Dindigul, this iconic biryani is renowned for its use of Seeraga Samba rice, which has a distinct aroma, and its sharp, spicy flavor profile. Unlike the Hyderabadi style, it relies on a unique blend of local spices and is a hallmark of Tamil Nadu's culinary heritage.",
+    "state": "Tamil Nadu",
+    "veg_or_non_veg": "Non-Veg"
+}

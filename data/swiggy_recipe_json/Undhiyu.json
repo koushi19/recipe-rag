@@ -1,0 +1,20 @@
+{
+    "name": "Undhiyu",
+    "url": "https://indianfoodmap.example.com/undhiyu",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Purple yam",
+        "Sweet potato",
+        "Broad beans",
+        "Muthiya",
+        "Grated coconut"
+    ],
+    "instructions": [
+        "1. Sauté all vegetables with a green masala. 2. Arrange in layers in a heavy pot. 3. Slow cook until vegetables are tender."
+    ],
+    "description": "A seasonal vegetable casserole, representing the rich harvest of the winter months.",
+    "state": "Dadra & Nagar Haveli and Daman & Diu",
+    "veg_or_non_veg": "Veg"
+}

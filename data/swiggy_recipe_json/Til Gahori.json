@@ -1,0 +1,30 @@
+{
+    "name": "Til Gahori",
+    "url": "https://indianfoodmap.example.com/til-gahori",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g pork (belly or shoulder, cut into medium cubes)",
+        "4 tbsp black sesame seeds (dry roasted and ground into a paste)",
+        "2-3 green chilies (slit)",
+        "1 inch ginger (crushed)",
+        "5-6 cloves garlic (crushed)",
+        "1 medium onion (finely chopped)",
+        "1/2 tsp turmeric powder",
+        "Salt to taste",
+        "2 tbsp mustard oil",
+        "1 cup water"
+    ],
+    "instructions": [
+        "1. Heat mustard oil in a heavy-bottomed pan or pressure cooker until it reaches smoking point and then cools slightly.",
+        "2. Add the chopped onions, crushed ginger, and garlic; sauté until golden brown.",
+        "3. Add the pork cubes, turmeric powder, and salt. Sauté on high heat until the pork is lightly browned and releases its fat.",
+        "4. Add the slit green chilies and the black sesame paste, mixing thoroughly to coat the meat.",
+        "5. Add water, cover, and cook on low heat (or pressure cook for 3-4 whistles) until the pork is soft and the gravy thickens to a semi-dry consistency.",
+        "6. Serve hot with steamed rice or Jolpan."
+    ],
+    "description": "Til Gahori is a signature delicacy of the Ahom community in Assam. The combination of succulent pork and the earthy, nutty flavor of black sesame seeds (Til) creates a unique flavor profile that is quintessentially Assamese, often prepared during celebrations like Magh Bihu.",
+    "state": "Assam",
+    "veg_or_non_veg": "Non-Veg"
+}

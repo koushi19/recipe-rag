@@ -1,0 +1,33 @@
+{
+    "name": "Bhel Puri",
+    "url": "https://indianfoodmap.example.com/bhel-puri",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups murmura (puffed rice)",
+        "1/2 cup sev (crispy chickpea noodles)",
+        "1 small boiled potato, diced",
+        "1 small onion, finely chopped",
+        "1 medium tomato, finely chopped",
+        "2 tablespoons fresh coriander, chopped",
+        "1 tablespoon tamarind chutney",
+        "1 tablespoon green chili-coriander chutney",
+        "1 teaspoon chaat masala",
+        "1/2 teaspoon roasted cumin powder",
+        "1/4 teaspoon red chili powder",
+        "1 tablespoon lemon juice",
+        "2 papdis, crushed"
+    ],
+    "instructions": [
+        "1. In a large mixing bowl, combine the puffed rice, chopped onions, potatoes, and tomatoes.",
+        "2. Add the tamarind chutney and green chutney according to taste.",
+        "3. Sprinkle the chaat masala, roasted cumin powder, red chili powder, and lemon juice.",
+        "4. Toss everything together quickly to ensure the puffed rice remains crisp.",
+        "5. Fold in the crushed papdis and sev.",
+        "6. Garnish with plenty of fresh coriander and serve immediately in a paper cone or bowl."
+    ],
+    "description": "Bhel Puri is an iconic Delhi street food delicacy. It is a harmonious balance of sweet, spicy, and tangy flavors, beloved for its varying textures ranging from the crunch of puffed rice to the soft bite of boiled potatoes. It represents the vibrant and accessible culinary culture of Delhi's bustling markets.",
+    "state": "Delhi",
+    "veg_or_non_veg": "Veg"
+}

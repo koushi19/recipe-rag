@@ -1,0 +1,28 @@
+{
+    "name": "Kachri ki Chutney",
+    "url": "https://indianfoodmap.example.com/kachri-ki-chutney",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "250g fresh Kachri (wild melon)",
+        "4-5 cloves of garlic",
+        "2-3 green chilies",
+        "1 teaspoon cumin seeds",
+        "1/2 teaspoon red chili powder",
+        "Salt to taste",
+        "1 tablespoon mustard oil",
+        "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. Wash and peel the kachri thoroughly, then chop into small pieces, ensuring you discard any bitter ones.",
+        "2. In a mortar and pestle (sil-batta), crush the garlic cloves, green chilies, and cumin seeds into a coarse paste.",
+        "3. Add the chopped kachri pieces to the mixture and continue to pound until a semi-coarse consistency is achieved.",
+        "4. Stir in the red chili powder and salt, mixing well.",
+        "5. Drizzle with mustard oil to enhance the raw, sharp flavor.",
+        "6. Serve fresh with hot Bajra roti or as a side with a traditional Haryanvi meal."
+    ],
+    "description": "Kachri ki Chutney is a quintessential dish from rural Haryana, reflecting the region's reliance on arid-land produce. The wild melon (kachri) grows abundantly in the sandy soil of the state and serves as an important source of tanginess in the absence of tomatoes in traditional rural diets.",
+    "state": "Haryana",
+    "veg_or_non_veg": "Veg"
+}

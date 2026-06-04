@@ -1,0 +1,19 @@
+{
+    "name": "Batla Appam",
+    "url": "https://indianfoodmap.example.com/batla-appam",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Rice flour",
+        "Grated coconut",
+        "Yeast",
+        "Salt"
+    ],
+    "instructions": [
+        "1. Ferment a batter of rice flour and coconut. 2. Pour into a greased 'batla' (plate). 3. Steam until firm. 4. Cut into diamonds and serve with fish curry."
+    ],
+    "description": "Soft, steamed rice cakes, the gentle canvas for spicy island curries.",
+    "state": "Lakshadweep",
+    "veg_or_non_veg": "Veg"
+}

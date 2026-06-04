@@ -1,0 +1,38 @@
+{
+    "name": "Mirchi Ka Salan",
+    "url": "https://indianfoodmap.example.com/mirchi-ka-salan",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "8-10 large green chilies (Bhavnagari/Hyderabadi)",
+        "1/2 cup peanuts",
+        "2 tablespoons sesame seeds",
+        "2 tablespoons desiccated coconut",
+        "1 tablespoon coriander seeds",
+        "1 teaspoon cumin seeds",
+        "1 teaspoon mustard seeds",
+        "1/2 teaspoon fenugreek seeds",
+        "1 large onion, finely chopped",
+        "1 tablespoon ginger-garlic paste",
+        "1/2 teaspoon turmeric powder",
+        "1 teaspoon red chili powder",
+        "1 tablespoon tamarind pulp",
+        "Salt to taste",
+        "Oil as needed",
+        "Fresh curry leaves"
+    ],
+    "instructions": [
+        "1. Dry roast peanuts, sesame seeds, coconut, coriander seeds, and cumin seeds until fragrant; grind into a smooth paste with minimal water.",
+        "2. Slit the green chilies, remove some seeds if desired, and shallow fry them in oil until slightly blistered; remove and set aside.",
+        "3. In the same pan, temper mustard seeds, fenugreek seeds, and curry leaves.",
+        "4. Add onions and ginger-garlic paste, sautéing until golden brown.",
+        "5. Add the ground nut paste along with turmeric and red chili powder, cooking until oil separates.",
+        "6. Mix in the tamarind pulp and enough water to reach desired gravy consistency.",
+        "7. Add the fried chilies and simmer on low heat for 5-7 minutes to allow flavors to penetrate.",
+        "8. Serve hot with Hyderabadi Biryani or Bagara Rice."
+    ],
+    "description": "Mirchi Ka Salan is an iconic Hyderabadi delicacy often served as a quintessential accompaniment to Biryani. It is a harmonious blend of nutty, tangy, and spicy flavors that reflects the rich culinary heritage of the Nizami kitchens in Telangana.",
+    "state": "Telangana",
+    "veg_or_non_veg": "Veg"
+}

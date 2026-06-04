@@ -1,0 +1,19 @@
+{
+    "name": "Chourico (Portuguese Sausage)",
+    "url": "https://indianfoodmap.example.com/chourico-(portuguese-sausage)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Pork Chourico",
+        "Onions",
+        "Potatoes",
+        "Vinegar"
+    ],
+    "instructions": [
+        "1. Remove sausage from casing. 2. Sauté with chopped onions and potatoes. 3. Add a splash of vinegar and cook until oil releases."
+    ],
+    "description": "Spiced pork sausages reflecting Daman's deep Portuguese maritime heritage.",
+    "state": "Dadra & Nagar Haveli and Daman & Diu",
+    "veg_or_non_veg": "Non-Veg"
+}

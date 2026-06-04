@@ -1,0 +1,34 @@
+{
+    "name": "Zafrani Pulao",
+    "url": "https://indianfoodmap.example.com/zafrani-pulao",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Long-grain basmati rice",
+        "High-quality saffron (zafran) strands",
+        "Warm milk",
+        "Ghee (clarified butter)",
+        "Green cardamom pods",
+        "Cloves",
+        "Cinnamon stick",
+        "Bay leaves",
+        "Sugar",
+        "Rose water",
+        "Blanched almonds",
+        "Cashew nuts",
+        "Raisins",
+        "Silver vark (optional for garnish)"
+    ],
+    "instructions": [
+        "1. Soak saffron strands in warm milk for 20 minutes to release flavor and color.",
+        "2. Rinse and soak basmati rice for 30 minutes, then parboil in water with bay leaves, cloves, and cinnamon until 75% cooked.",
+        "3. Heat ghee in a heavy-bottomed pan and lightly toast the almonds, cashews, and raisins until golden; set aside.",
+        "4. In the same pan, layer the parboiled rice, drizzle with the saffron milk, sugar, and rose water.",
+        "5. Cover tightly and cook on the lowest heat (dum) for 10-15 minutes until rice is fully tender and fragrant.",
+        "6. Gently fluff with a fork and garnish with toasted dry fruits before serving."
+    ],
+    "description": "Zafrani Pulao is an iconic dish of the Awadhi cuisine of Uttar Pradesh. Historically served in the royal courts of Lucknow, it represents the sophistication of Mughal-influenced culinary arts, characterized by its vibrant golden hue from saffron and the delicate, aromatic balance of spices and sweetness.",
+    "state": "Uttar Pradesh",
+    "veg_or_non_veg": "Veg"
+}

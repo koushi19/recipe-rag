@@ -1,0 +1,27 @@
+{
+    "name": "Ulava Charu",
+    "url": "https://indianfoodmap.example.com/ulava-charu",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Horse gram (Ulava)",
+        "Tamarind extract",
+        "Jaggery",
+        "Mustard seeds",
+        "Cumin seeds",
+        "Dry red chillies",
+        "Curry leaves",
+        "Garlic cloves",
+        "Turmeric powder",
+        "Coriander powder",
+        "Ghee",
+        "Salt"
+    ],
+    "instructions": [
+        "1. Soak horse gram overnight and pressure cook with ample water until tender. 2. Strain the water (charu base) and keep aside. 3. Extract thick tamarind pulp. 4. In a large pot, combine the horse gram water and tamarind extract, adding salt, turmeric, and jaggery; boil until the raw tamarind smell disappears. 5. Heat ghee in a small pan, add mustard seeds, cumin, crushed garlic, dry red chillies, and curry leaves. 6. Pour the aromatic tempering into the boiling charu. 7. Simmer for another 10-15 minutes until it reaches a thick, velvety consistency and serve hot with steamed rice and a dollop of fresh cream or ghee."
+    ],
+    "description": "Ulava Charu is a traditional, hearty delicacy from the Guntur and Krishna districts of Andhra Pradesh. Known for its earthy flavor and nutritional benefits, it is often served at weddings and formal feasts, traditionally paired with rice and fresh cream or ghee.",
+    "state": "Andhra Pradesh",
+    "veg_or_non_veg": "Veg"
+}

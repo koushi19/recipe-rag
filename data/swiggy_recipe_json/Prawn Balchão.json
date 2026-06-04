@@ -1,0 +1,21 @@
+{
+    "name": "Prawn Balchão",
+    "url": "https://indianfoodmap.example.com/prawn-balchão",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Prawns",
+        "Dried red chilies",
+        "Vinegar",
+        "Cinnamon",
+        "Cloves",
+        "Ginger-garlic paste"
+    ],
+    "instructions": [
+        "1. Grind red chilies and spices with vinegar. 2. Sauté onions until caramelized. 3. Add spice paste and cook until oil separates. 4. Toss in prawns and simmer until done."
+    ],
+    "description": "A fiery Portuguese-inspired pickle, preserving the soul of the sea in vinegar and spice.",
+    "state": "Dadra & Nagar Haveli and Daman & Diu",
+    "veg_or_non_veg": "Non-Veg"
+}

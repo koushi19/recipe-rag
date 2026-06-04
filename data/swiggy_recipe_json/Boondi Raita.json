@@ -1,0 +1,27 @@
+{
+    "name": "Boondi Raita",
+    "url": "https://indianfoodmap.example.com/boondi-raita",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup fresh thick curd (dahi)",
+        "1/2 cup crispy gram flour boondi (fried chickpea flour pearls)",
+        "1/4 teaspoon roasted cumin powder",
+        "1/4 teaspoon red chili powder",
+        "1/4 teaspoon black salt (kala namak)",
+        "1 tablespoon finely chopped fresh coriander leaves",
+        "1 pinch asafoetida (hing)",
+        "2 tablespoons chilled water"
+    ],
+    "instructions": [
+        "1. Whisk the curd in a bowl until smooth, adding a little chilled water to reach your desired consistency.",
+        "2. Add the roasted cumin powder, red chili powder, black salt, and a pinch of asafoetida, then mix well.",
+        "3. Soak the boondi in a separate bowl of warm water for 2 minutes, then drain and squeeze out excess water gently.",
+        "4. Fold the soaked boondi into the spiced yogurt mixture.",
+        "5. Garnish with fresh coriander leaves and a light sprinkle of cumin powder before serving chilled."
+    ],
+    "description": "Boondi Raita is a staple accompaniment in Rajasthani cuisine, served to balance the intense heat and spiciness of traditional Marwari dishes like Ker Sangri or Gatte ki Sabzi. Its cooling properties make it an essential part of the Rajasthani thali, especially during the hot desert summers.",
+    "state": "Rajasthan",
+    "veg_or_non_veg": "Veg"
+}

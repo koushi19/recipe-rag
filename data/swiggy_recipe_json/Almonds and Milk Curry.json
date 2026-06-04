@@ -1,0 +1,36 @@
+{
+    "name": "Almonds and Milk Curry",
+    "url": "https://indianfoodmap.example.com/almonds-and-milk-curry",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup raw almonds, soaked overnight, blanched, and peeled",
+        "4 cups whole milk (preferably buffalo milk for richness)",
+        "2 tablespoons ghee",
+        "1 teaspoon cumin seeds",
+        "2 dried red chilies (like Kashmiri, for mild heat and color)",
+        "1/2 teaspoon asafoetida (hing)",
+        "1 tablespoon ginger-garlic paste",
+        "2 green cardamom pods, lightly crushed",
+        "1/2 teaspoon ground turmeric",
+        "1 teaspoon garam masala",
+        "1/2 cup heavy cream (optional, for extra richness)",
+        "1 teaspoon sugar (or to taste)",
+        "Salt to taste",
+        "Fresh cilantro for garnish"
+    ],
+    "instructions": [
+        "1. Grind the blanched almonds into a smooth paste using a little milk. Set aside.",
+        "2. Heat ghee in a heavy-bottomed pan over medium heat. Add cumin seeds, dried red chilies, and asafoetida. Sauté until cumin seeds crackle.",
+        "3. Add ginger-garlic paste and crushed cardamom. Cook for 1 minute until fragrant.",
+        "4. Lower the heat and add the almond paste. Stir constantly for 2-3 minutes to prevent sticking.",
+        "5. Gradually pour in the milk, stirring continuously to avoid lumps. Add turmeric, sugar, and salt. Bring to a gentle simmer, then reduce heat to low.",
+        "6. Cook for 15-20 minutes, stirring occasionally, until the curry thickens to a velvety consistency. The milk should not boil vigorously.",
+        "7. Stir in garam masala and heavy cream (if using). Cook for another 2 minutes. Adjust seasoning.",
+        "8. Garnish with fresh cilantro and serve hot with steamed basmati rice or warm naan."
+    ],
+    "description": "A velvety, aromatic embrace of toasted almonds and warm spices, simmered in a golden turmeric-kissed milk that whispers of Punjab's ancient pastoral traditions.",
+    "state": "Punjab",
+    "veg_or_non_veg": "Veg"
+}

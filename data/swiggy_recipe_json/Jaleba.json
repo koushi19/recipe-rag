@@ -1,0 +1,30 @@
+{
+    "name": "Jaleba",
+    "url": "https://indianfoodmap.example.com/jaleba",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Maida (refined wheat flour)",
+        "Besan (gram flour)",
+        "Curd (sour)",
+        "Sugar",
+        "Saffron strands",
+        "Green cardamom powder",
+        "Ghee (for deep frying)",
+        "Water"
+    ],
+    "instructions": [
+        "1. Mix maida, besan, and curd with water to create a smooth, slightly thick batter and leave it to ferment for 6-8 hours.",
+        "2. Prepare a sugar syrup by dissolving sugar in water, adding saffron and cardamom, until it reaches a one-string consistency.",
+        "3. Heat ghee in a flat, wide pan (kadhai).",
+        "4. Fill a muslin cloth or squeeze bottle with the fermented batter.",
+        "5. Carefully pipe the batter into the hot ghee in large, continuous circular motions to form a thick Jaleba.",
+        "6. Fry until golden and crispy on both sides.",
+        "7. Immediately immerse the fried Jaleba into the warm sugar syrup for 2-3 minutes to allow it to absorb the sweetness.",
+        "8. Serve hot, often paired with Poha or Rabri."
+    ],
+    "description": "Jaleba is a jumbo-sized, indulgent version of the classic Jalebi. It is a quintessential breakfast delicacy in cities like Indore, where it is traditionally served alongside savory Poha, creating a beloved sweet-and-salty combination that defines the local culinary culture.",
+    "state": "Madhya Pradesh",
+    "veg_or_non_veg": "Veg"
+}

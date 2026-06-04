@@ -1,0 +1,35 @@
+{
+    "name": "Crab Masala",
+    "url": "https://indianfoodmap.example.com/crab-masala",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1kg Mud crabs",
+        "2 large onions, finely chopped",
+        "3 tomatoes, pureed",
+        "2 tbsp ginger-garlic paste",
+        "1 tsp turmeric powder",
+        "2 tbsp Kashmiri chili powder",
+        "1 tsp garam masala",
+        "1 tsp cumin seeds",
+        "1/2 cup fresh coconut milk",
+        "3 sprigs fresh curry leaves",
+        "4 tbsp coconut oil",
+        "Salt to taste",
+        "Fresh coriander for garnish"
+    ],
+    "instructions": [
+        "1. Clean the crabs thoroughly, remove the shell, and cut into medium pieces. Lightly crack the claws.",
+        "2. Heat coconut oil in a deep pan and add cumin seeds and curry leaves until fragrant.",
+        "3. Add chopped onions and sauté until golden brown, then stir in the ginger-garlic paste.",
+        "4. Add turmeric, chili powder, and tomato puree, cooking until the oil separates from the masala.",
+        "5. Add the crab pieces and stir well to coat them in the spice mixture.",
+        "6. Pour in half a cup of water, cover, and simmer for 10-12 minutes until the crab is cooked.",
+        "7. Stir in the fresh coconut milk and garam masala, cooking for another 2 minutes.",
+        "8. Garnish with fresh coriander and serve hot with steamed rice or paratha."
+    ],
+    "description": "Crab Masala is a signature coastal delicacy of the Andaman Islands, reflecting the region's abundance of fresh, high-quality seafood. It is a celebratory dish often prepared in local households, showcasing the fusion of traditional Indian spice blends with the tropical flavors of fresh coconut, which is a staple ingredient in island cuisine.",
+    "state": "Andaman and Nicobar Islands",
+    "veg_or_non_veg": "Non-Veg"
+}

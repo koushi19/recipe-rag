@@ -1,0 +1,35 @@
+{
+    "name": "Pahadi Dal",
+    "url": "https://indianfoodmap.example.com/pahadi-dal",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Kali Masoor Dal (Black Lentils)",
+        "Ghee (clarified butter)",
+        "Ginger-garlic paste",
+        "Onion, finely chopped",
+        "Tomatoes, chopped",
+        "Cumin seeds",
+        "Asafoetida (Hing)",
+        "Turmeric powder",
+        "Kashmiri red chili powder",
+        "Garam masala",
+        "Fresh coriander leaves",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Wash the Kali Masoor dal thoroughly and soak for 30 minutes.",
+        "2. Pressure cook the dal with water, salt, and turmeric until soft and well-cooked.",
+        "3. In a heavy-bottomed pan, heat ghee and add cumin seeds and a pinch of asafoetida.",
+        "4. Add chopped onions and sauté until golden brown.",
+        "5. Stir in the ginger-garlic paste and cook for a minute.",
+        "6. Add tomatoes and cook until they soften into a paste.",
+        "7. Add red chili powder and garam masala, mixing well with the base.",
+        "8. Pour the cooked dal into the tempering (tadka), mix well, and simmer on low heat for 10 minutes to allow flavors to meld.",
+        "9. Garnish with fresh coriander and serve hot with steamed rice or siddu."
+    ],
+    "description": "Pahadi Dal is a staple comfort food in the mountainous regions of Himachal Pradesh. It is highly valued for its earthy flavor and nutritional density, often cooked in iron vessels or slow-cooked over a wood fire in rural households to provide warmth and energy in the cold Himalayan climate.",
+    "state": "Himachal Pradesh",
+    "veg_or_non_veg": "Veg"
+}

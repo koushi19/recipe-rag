@@ -1,0 +1,27 @@
+{
+    "name": "Churi",
+    "url": "https://indianfoodmap.example.com/churi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup whole wheat flour (atta), coarsely ground (for churi texture)",
+        "2 cups chopped mustard greens (sarson), washed and patted dry",
+        "1 cup chopped spinach (palak), washed",
+        "1/2 cup chopped bathua (lamb's quarters), optional",
+        "1/4 cup ghee (clarified butter)",
+        "1 teaspoon cumin seeds",
+        "1/2 teaspoon asafoetida (hing)",
+        "1 teaspoon salt, or to taste",
+        "1/2 teaspoon red chili powder",
+        "1/2 teaspoon turmeric powder",
+        "1 tablespoon grated ginger",
+        "2 green chilies, finely chopped"
+    ],
+    "instructions": [
+        "1. In a heavy-bottomed pan, heat ghee on medium heat. Add cumin seeds and sizzle until they crackle, then add asafoetida, grated ginger, and green chilies. Sauté for 30 seconds. 2. Add the chopped greens (mustard, spinach, bathua) and stir well. Cook for 5-7 minutes until they wilt and release moisture. 3. Add salt, red chili powder, and turmeric. Mix and cook for another 2 minutes. 4. Sprinkle the coarsely ground wheat flour over the greens evenly. Stir vigorously to combine, ensuring the flour absorbs the moisture and forms crumbly clumps. 5. Reduce heat to low, cover the pan, and let it steam for 10-12 minutes. Every 3-4 minutes, fluff with a fork or spatula to break up lumps. 6. Taste and adjust seasoning. Finish by drizzling a teaspoon of warm ghee on top, then mix gently. Serve hot with a dollop of butter or yogurt."
+    ],
+    "description": "A rustic, soulful symphony of winter greens and whole grains, simmered in ghee and tempered with the earthiness of cumin and asafoetida.",
+    "state": "Punjab",
+    "veg_or_non_veg": "Veg"
+}

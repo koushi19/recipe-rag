@@ -1,0 +1,28 @@
+{
+    "name": "Dehrori",
+    "url": "https://indianfoodmap.example.com/dehrori",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Rice flour",
+        "Curd (Yogurt)",
+        "Gram flour (Besan)",
+        "Sugar",
+        "Cardamom powder",
+        "Refined oil (for deep frying)",
+        "Water",
+        "Saffron strands (optional)"
+    ],
+    "instructions": [
+        "1. Mix rice flour, curd, and a small amount of gram flour to create a thick, smooth batter and let it rest for 30 minutes.",
+        "2. Shape the batter into small, flattened oval or round dumplings.",
+        "3. Heat oil in a pan and deep-fry the dumplings on medium flame until they turn golden brown and crispy.",
+        "4. Prepare a sugar syrup (one-string consistency) by boiling sugar and water with cardamom powder.",
+        "5. Immerse the fried dumplings into the warm sugar syrup for at least 30 minutes to allow them to absorb the sweetness.",
+        "6. Serve warm or at room temperature."
+    ],
+    "description": "Dehrori is a beloved festive delicacy of Chhattisgarh, particularly prepared during Diwali and weddings. It is a rustic, sweet, and comforting snack that showcases the region's reliance on rice-based culinary traditions.",
+    "state": "Chhattisgarh",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Vada Pav",
+    "url": "https://indianfoodmap.example.com/vada-pav",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Boiled potatoes",
+        "Gram flour (besan)",
+        "Pav (soft bread rolls)",
+        "Mustard seeds",
+        "Curry leaves",
+        "Green chilies",
+        "Ginger-garlic paste",
+        "Turmeric powder",
+        "Asafoetida (hing)",
+        "Fresh cilantro",
+        "Dry garlic chutney",
+        "Cooking oil",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Prepare a tempering of mustard seeds, curry leaves, ginger-garlic paste, and green chilies, then mix with mashed potatoes and turmeric.",
+        "2. Shape the potato mixture into medium-sized balls.",
+        "3. Prepare a smooth, thick batter using gram flour, water, salt, and a pinch of turmeric.",
+        "4. Dip potato balls into the batter and deep-fry in hot oil until crisp and golden.",
+        "5. Slit the pav horizontally, smear with dry garlic chutney, and place the hot vada in the center.",
+        "6. Serve immediately, typically accompanied by fried green chilies."
+    ],
+    "description": "Often called the Indian burger, Vada Pav is the iconic street food of Mumbai. It originated in the 1960s as a convenient, affordable meal for the working class and has since become a quintessential symbol of Maharashtrian culinary identity.",
+    "state": "Maharashtra",
+    "veg_or_non_veg": "Veg"
+}

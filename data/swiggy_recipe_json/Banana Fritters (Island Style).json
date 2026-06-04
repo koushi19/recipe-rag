@@ -1,0 +1,30 @@
+{
+    "name": "Banana Fritters (Island Style)",
+    "url": "https://indianfoodmap.example.com/banana-fritters-(island-style)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "4-5 ripe Nendran or small local variety bananas",
+        "1 cup all-purpose flour (maida)",
+        "1/4 cup rice flour",
+        "1/2 cup jaggery syrup",
+        "1/2 teaspoon cardamom powder",
+        "1/4 cup grated coconut",
+        "A pinch of salt",
+        "Coconut oil for deep frying"
+    ],
+    "instructions": [
+        "1. In a mixing bowl, combine all-purpose flour, rice flour, cardamom powder, grated coconut, and salt.",
+        "2. Gradually add jaggery syrup to the dry mixture to create a thick, smooth batter.",
+        "3. Peel the bananas and slice them vertically into thin strips.",
+        "4. Heat coconut oil in a deep pan until hot.",
+        "5. Dip the banana slices into the batter until evenly coated.",
+        "6. Carefully drop the coated slices into the hot oil.",
+        "7. Fry until both sides turn golden brown and crisp.",
+        "8. Remove and drain excess oil on a paper towel before serving."
+    ],
+    "description": "Banana Fritters, locally known as 'Banana Bonda' or 'Pazham Pori', are a staple evening snack in the Lakshadweep archipelago. Reflecting the local abundance of coconuts and bananas, this dish is traditionally served with tea, embodying the simple yet flavorful culinary heritage of the islanders.",
+    "state": "Lakshadweep",
+    "veg_or_non_veg": "Veg"
+}

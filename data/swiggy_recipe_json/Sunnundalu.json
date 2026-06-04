@@ -1,0 +1,24 @@
+{
+    "name": "Sunnundalu",
+    "url": "https://indianfoodmap.example.com/sunnundalu",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup Whole Black Gram (Urad Dal/Minapappu)",
+        "3/4 cup Powdered Jaggery (Bellam) or Powdered Sugar",
+        "1/2 cup Ghee (Clarified Butter)",
+        "2-3 Cardamoms (Elakulu)"
+    ],
+    "instructions": [
+        "1. Dry roast the whole urad dal in a heavy-bottomed pan on low-medium flame until it turns golden brown and releases a nutty aroma.",
+        "2. Allow the roasted dal to cool completely, then blend it with cardamom seeds into a fine, smooth powder.",
+        "3. Add the powdered jaggery (or sugar) to the dal powder and pulse briefly in the blender to ensure even mixing.",
+        "4. Transfer the mixture to a wide bowl, add melted warm ghee, and mix well.",
+        "5. While the mixture is still warm, take small portions and shape them into firm, round balls (ladoos).",
+        "6. Let the ladoos cool completely before storing them in an airtight container."
+    ],
+    "description": "Sunnundalu is a classic, nutritious sweet from Andhra Pradesh, often prepared for children and nursing mothers due to its high protein content. It is a staple during festivals and family celebrations, known for its distinct earthy aroma and rich texture.",
+    "state": "Andhra Pradesh",
+    "veg_or_non_veg": "Veg"
+}

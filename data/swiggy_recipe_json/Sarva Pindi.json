@@ -1,0 +1,34 @@
+{
+    "name": "Sarva Pindi",
+    "url": "https://indianfoodmap.example.com/sarva-pindi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Rice flour",
+        "Chana dal (soaked)",
+        "Peanuts (roasted and crushed)",
+        "Finely chopped onions",
+        "Green chilies",
+        "Ginger-garlic paste",
+        "Curry leaves",
+        "Cumin seeds",
+        "Sesame seeds",
+        "Red chili powder",
+        "Salt",
+        "Oil"
+    ],
+    "instructions": [
+        "1. In a large bowl, mix rice flour, soaked chana dal, crushed peanuts, onions, green chilies, ginger-garlic paste, curry leaves, cumin seeds, sesame seeds, red chili powder, and salt.",
+        "2. Gradually add warm water to knead the mixture into a soft, non-sticky dough.",
+        "3. Grease a deep iron pan or flat skillet with a generous amount of oil.",
+        "4. Take a ball of dough and flatten it directly onto the pan into a thin, even layer.",
+        "5. Poke holes throughout the flattened dough using your finger.",
+        "6. Drizzle a little oil into these holes and around the edges.",
+        "7. Place on medium-low heat and cook until the bottom turns golden brown and crispy.",
+        "8. Flip if necessary to ensure both sides are cooked well and serve hot."
+    ],
+    "description": "Sarva Pindi is a traditional, nutritious breakfast staple from Telangana, often referred to as 'Ginnappa' or 'Tapala Chekkalu'. It is deeply rooted in rural culture and is celebrated for its crispy texture and the blend of roasted peanuts and lentils, making it a wholesome and flavorful delicacy.",
+    "state": "Telangana",
+    "veg_or_non_veg": "Veg"
+}

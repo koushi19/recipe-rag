@@ -1,0 +1,31 @@
+{
+    "name": "Tandoori Fish",
+    "url": "https://indianfoodmap.example.com/tandoori-fish",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Fresh reef fish (Snapper or Grouper)",
+        "Thick hung curd",
+        "Ginger-garlic paste",
+        "Kashmiri red chili powder",
+        "Turmeric powder",
+        "Garam masala",
+        "Lemon juice",
+        "Mustard oil",
+        "Roasted gram flour (besan)",
+        "Black salt",
+        "Kasuri methi"
+    ],
+    "instructions": [
+        "1. Clean and cut the fish into thick fillets or keep as a whole piece.",
+        "2. Whisk the hung curd with ginger-garlic paste, chili powder, turmeric, garam masala, salt, and roasted gram flour to form a thick marinade.",
+        "3. Add mustard oil and lemon juice to the mixture and coat the fish thoroughly.",
+        "4. Let the fish marinate for at least 2 hours in a refrigerator.",
+        "5. Skewer the fish and cook in a preheated Tandoor or high-heat oven until charred and cooked through.",
+        "6. Serve hot, garnished with onion rings, lemon wedges, and green chutney."
+    ],
+    "description": "Tandoori Fish in the Andaman and Nicobar Islands leverages the island's abundant, fresh seafood. It is a fusion of classic North Indian grilling techniques and the pristine, fresh catch of the Bay of Bengal, often served as a popular coastal delicacy reflecting the region's diverse culinary influences.",
+    "state": "Andaman and Nicobar Islands",
+    "veg_or_non_veg": "Non-Veg"
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Thukpa",
+    "url": "https://indianfoodmap.example.com/thukpa",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Hand-pulled wheat noodles",
+        "Chicken pieces or seasonal vegetables",
+        "Ginger",
+        "Garlic",
+        "Green chilies",
+        "Onion",
+        "Carrots",
+        "Cabbage",
+        "Spring onions",
+        "Szechuan pepper (Timur)",
+        "Soy sauce",
+        "Vegetable or chicken broth",
+        "Salt to taste",
+        "Oil"
+    ],
+    "instructions": [
+        "1. Heat oil in a large pot and sauté minced ginger, garlic, green chilies, and onions until fragrant.",
+        "2. Add the chicken or chopped vegetables and cook until browned or tender.",
+        "3. Add the shredded cabbage and carrots, sautéing briefly.",
+        "4. Pour in the broth and bring it to a boil, adding soy sauce, salt, and crushed Szechuan pepper.",
+        "5. Add the fresh noodles to the boiling broth and cook until tender.",
+        "6. Garnish generously with chopped spring onions and serve piping hot."
+    ],
+    "description": "Thukpa is a staple comfort food in the Himalayan regions of Arunachal Pradesh. Influenced by Tibetan culture, this warming noodle soup is essential during cold weather, often served as a complete meal that brings families together.",
+    "state": "Arunachal Pradesh",
+    "veg_or_non_veg": "Non-Veg"
+}

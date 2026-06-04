@@ -1,0 +1,36 @@
+{
+    "name": "Andhra Chicken Biryani",
+    "url": "https://indianfoodmap.example.com/andhra-chicken-biryani",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1kg Chicken (bone-in)",
+        "3 cups Basmati rice",
+        "2 large onions (thinly sliced)",
+        "3 tablespoons ginger-garlic paste",
+        "1 cup yogurt",
+        "4 green chilies (slit)",
+        "1 bunch fresh coriander leaves",
+        "1/2 bunch fresh mint leaves",
+        "2 teaspoons red chili powder",
+        "1/2 teaspoon turmeric powder",
+        "1 teaspoon garam masala",
+        "Whole spices (bay leaf, cloves, cardamom, cinnamon, shahi jeera)",
+        "3 tablespoons ghee",
+        "4 tablespoons oil",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Marinate chicken with yogurt, ginger-garlic paste, chili powder, turmeric, salt, mint, and coriander for at least 2 hours.",
+        "2. Fry onions in oil until golden brown (birista) and set aside.",
+        "3. Soak rice for 30 minutes, then boil in water with whole spices and salt until 70% cooked; drain.",
+        "4. Heat a heavy-bottomed pot, add the marinated chicken, and cook on medium heat until partially done.",
+        "5. Layer the partially cooked rice over the chicken, sprinkle with fried onions, mint, coriander, and ghee.",
+        "6. Cover tightly with a lid and cook on low heat (dum) for 20-25 minutes.",
+        "7. Let it rest for 10 minutes before gently fluffing and serving."
+    ],
+    "description": "Andhra Chicken Biryani is renowned for its intense heat, bold spice profile, and unique culinary heritage. Unlike milder versions, this dish emphasizes the 'Kodi' (chicken) marinade and the fiery kick of local chilies, reflecting the vibrant and robust food culture of Andhra Pradesh.",
+    "state": "Andhra Pradesh",
+    "veg_or_non_veg": "Non-Veg"
+}

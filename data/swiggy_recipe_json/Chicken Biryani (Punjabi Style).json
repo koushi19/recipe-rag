@@ -1,0 +1,35 @@
+{
+    "name": "Chicken Biryani (Punjabi Style)",
+    "url": "https://indianfoodmap.example.com/chicken-biryani-(punjabi-style)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g chicken, bone-in, cut into 2-inch pieces, pat dried",
+        "2 cups basmati rice, soaked 30 min and drained",
+        "1/2 cup yogurt, whisked smooth",
+        "3 tbsp ghee, plus more for smearing",
+        "2 large onions, thinly sliced (for crispy birista)",
+        "1 tbsp ginger-garlic paste",
+        "1 tsp red chili powder (Kashmiri for color, or to taste)",
+        "1/2 tsp turmeric powder",
+        "1 tsp garam masala (freshly ground: cloves, cardamom, cinnamon)",
+        "1/2 cup fresh mint leaves, chopped",
+        "1/2 cup fresh coriander, chopped",
+        "2 tbsp warm milk, infused with a pinch of saffron threads",
+        "Salt to taste",
+        "Water as needed",
+        "Optional: 2 tbsp fried onions (for layering), 1 tbsp rose water or kewra water, 1 tbsp melted butter"
+    ],
+    "instructions": [
+        "1. Marinate chicken: In a bowl, combine chicken with yogurt, ginger-garlic paste, red chili, turmeric, garam masala, half the mint and coriander, and salt. Refrigerate at least 30 min or overnight.",
+        "2. Fry birista: Heat 1 tbsp ghee in a pan; fry sliced onions on medium-low until deep golden and crispy. Drain on paper towel. Reserve.",
+        "3. Parboil rice: Bring 6 cups water to boil, add 2 tsp salt, and the soaked rice. Boil until rice is 70% done (firm but not raw). Drain and set aside.",
+        "4. Layer the biryani: In a heavy-bottomed pot, spread half of the marinated chicken at the bottom. Top with half the rice, then sprinkle half the fried onions, remaining mint and coriander, and drizzle half the saffron milk. Repeat layers: remaining chicken, rice, and on top, add the rest of fried onions, saffron milk, and a pinch of garam masala. Smear ghee or butter on the top layer.",
+        "5. Dum cooking: Seal pot tightly with foil and a lid. Cook on high heat for 5 minutes, then reduce to lowest heat for 20-25 min. Do not open lid. Finally, turn off heat and let rest for 10 min before opening.",
+        "6. Fluff and serve: Gently fluff rice with a fork, mixing layers if desired. Serve hot with raita or salan."
+    ],
+    "description": "A fragrant, layered symphony of saffron-infused rice and tender, spiced chicken, sealed with a dum of steam and smoke.",
+    "state": "Punjab",
+    "veg_or_non_veg": "Non-Veg"
+}

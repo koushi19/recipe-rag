@@ -1,0 +1,30 @@
+{
+    "name": "Puran Poli",
+    "url": "https://indianfoodmap.example.com/puran-poli",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Chana dal (split Bengal gram)",
+        "Jaggery (grated)",
+        "Whole wheat flour",
+        "All-purpose flour (maida)",
+        "Turmeric powder",
+        "Ghee",
+        "Cardamom powder",
+        "Nutmeg powder",
+        "Salt",
+        "Water"
+    ],
+    "instructions": [
+        "1. Boil chana dal until soft, drain excess water, and mash it thoroughly.",
+        "2. Mix mashed dal with jaggery in a pan and cook until the mixture thickens into a lump; stir in cardamom and nutmeg powder, then let it cool.",
+        "3. Prepare a soft dough using whole wheat flour, a pinch of turmeric, salt, oil, and water; let it rest for 30 minutes.",
+        "4. Take a small portion of dough, flatten it, and place a slightly larger ball of the puran mixture in the center.",
+        "5. Seal the edges, gently roll it out into a thin circle using minimal flour.",
+        "6. Cook on a hot griddle (tawa) on both sides until golden brown spots appear, brushing liberally with ghee while cooking."
+    ],
+    "description": "Puran Poli is one of the most iconic delicacies of Maharashtra, prepared especially during festivals like Holi, Gudi Padwa, and Ganesh Chaturthi. It represents auspiciousness and prosperity, often served as an offering during religious ceremonies and enjoyed with warm milk or a dollop of ghee.",
+    "state": "Maharashtra",
+    "veg_or_non_veg": "Veg"
+}

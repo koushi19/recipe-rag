@@ -1,0 +1,29 @@
+{
+    "name": "Goan Banana Filoz",
+    "url": "https://indianfoodmap.example.com/goan-banana-filoz",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "4 large ripe bananas",
+        "1/2 cup gram flour (besan)",
+        "2 tablespoons rice flour",
+        "1/2 teaspoon turmeric powder",
+        "1/2 teaspoon red chili powder",
+        "1 pinch asafoetida (hing)",
+        "Salt to taste",
+        "Oil for deep frying"
+    ],
+    "instructions": [
+        "1. Peel the bananas and slice them into thick diagonal rounds or long strips.",
+        "2. In a mixing bowl, combine gram flour, rice flour, turmeric, red chili powder, asafoetida, and salt.",
+        "3. Gradually add water to create a thick, smooth batter that coats the back of a spoon.",
+        "4. Heat oil in a deep frying pan or kadhai over medium heat.",
+        "5. Dip each banana slice into the batter, ensuring it is well-coated.",
+        "6. Carefully drop the slices into the hot oil and fry in batches until they turn golden brown and crisp.",
+        "7. Remove with a slotted spoon and drain on paper towels. Serve hot."
+    ],
+    "description": "Goan Banana Filoz, often known as 'Banana Fritters', is a popular snack in Goan households. It perfectly balances the sweetness of ripe bananas with the savory, spiced crust, and is traditionally served alongside a hot cup of tea or coffee during the monsoon season.",
+    "state": "Goa",
+    "veg_or_non_veg": "Veg"
+}

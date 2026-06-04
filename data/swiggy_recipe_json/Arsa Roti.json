@@ -1,0 +1,25 @@
+{
+    "name": "Arsa Roti",
+    "url": "https://indianfoodmap.example.com/arsa-roti",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups rice flour",
+        "1 cup jaggery (grated)",
+        "1/2 cup water",
+        "2 tbsp sesame seeds",
+        "Oil or Ghee for deep frying"
+    ],
+    "instructions": [
+        "1. Heat water in a heavy-bottomed pan and add grated jaggery to make a syrup of one-string consistency.",
+        "2. Gradually add rice flour to the syrup while stirring continuously to avoid lumps.",
+        "3. Turn off the heat and mix in the sesame seeds, then let the dough cool until it is handleable.",
+        "4. Grease your palms with oil or water and take small portions of the dough, flattening them into circular discs.",
+        "5. Heat oil in a deep pan and deep-fry the discs on medium heat until they turn deep golden brown and crispy on both sides.",
+        "6. Remove and drain excess oil on paper towels."
+    ],
+    "description": "Arsa Roti is a traditional sweet delicacy of Jharkhand, commonly prepared during festivals, weddings, and special celebrations. It is a dense, chewy, and sweet bread that is loved for its long shelf life and rustic flavor, representing the cultural heritage of the tribal communities in the region.",
+    "state": "Jharkhand",
+    "veg_or_non_veg": "Veg"
+}

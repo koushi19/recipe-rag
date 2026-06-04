@@ -1,0 +1,31 @@
+{
+    "name": "Spiced Beef Dry Fry",
+    "url": "https://indianfoodmap.example.com/spiced-beef-dry-fry",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g beef (cut into thin strips)",
+        "3-4 Raja Mircha (Naga King Chili), crushed",
+        "2 tablespoons ginger-garlic paste",
+        "1 large onion, finely chopped",
+        "1 tablespoon fermented soybean (Axone)",
+        "2 tablespoons mustard oil",
+        "1 teaspoon salt (to taste)",
+        "1/2 teaspoon turmeric powder",
+        "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. Heat mustard oil in a heavy-bottomed pan or wok until it reaches smoking point.",
+        "2. Add the chopped onions and sauté until translucent.",
+        "3. Stir in the ginger-garlic paste and cook until the raw smell dissipates.",
+        "4. Add the beef strips along with salt and turmeric; sear on high heat until the meat browns.",
+        "5. Reduce the heat and stir in the crushed Naga King Chili and Axone (fermented soybean).",
+        "6. Cover and cook on low heat until the meat is tender and the moisture has evaporated completely.",
+        "7. Remove the lid and stir-fry on high heat for 3-5 minutes to get a charred, dry texture.",
+        "8. Garnish with fresh coriander before serving with steamed rice."
+    ],
+    "description": "This dish is a quintessential Naga preparation, highlighting the bold flavors of the region. It relies heavily on the fiery heat of the Naga King Chili and the deep, savory umami punch of Axone, reflecting the tribal culinary heritage where meat preservation and drying techniques are highly valued.",
+    "state": "Nagaland",
+    "veg_or_non_veg": "Non-Veg"
+}

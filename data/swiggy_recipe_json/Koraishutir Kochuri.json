@@ -1,0 +1,30 @@
+{
+    "name": "Koraishutir Kochuri",
+    "url": "https://indianfoodmap.example.com/koraishutir-kochuri",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups green peas (koraishuti)",
+        "1.5 cups all-purpose flour (maida)",
+        "1 inch ginger piece",
+        "2-3 green chilies",
+        "1/2 teaspoon hing (asafoetida)",
+        "1/2 teaspoon nigella seeds (kalo jeera)",
+        "1/2 teaspoon roasted cumin powder",
+        "1 teaspoon sugar",
+        "Salt to taste",
+        "Refined oil for deep frying"
+    ],
+    "instructions": [
+        "1. Blend green peas, ginger, and green chilies into a coarse paste.",
+        "2. Heat oil in a pan, add hing, then sauté the pea paste with salt, sugar, and roasted cumin powder until moisture evaporates.",
+        "3. Prepare a dough with flour, salt, a tablespoon of oil, and water; let it rest for 30 minutes.",
+        "4. Divide dough into small balls and flatten them to create a pocket for the filling.",
+        "5. Stuff the cooled pea mixture into the dough, seal tightly, and roll out gently.",
+        "6. Deep fry in medium-hot oil until the kochuri puffs up and turns golden brown on both sides."
+    ],
+    "description": "Koraishutir Kochuri is an iconic Bengali winter breakfast dish, traditionally served with 'Alur Dom' (spiced potato curry). It is deeply ingrained in Bengali culinary culture, celebrating the seasonal arrival of fresh green peas and often prepared during family gatherings and festive occasions.",
+    "state": "West Bengal",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Chire Doi Aam",
+    "url": "https://indianfoodmap.example.com/chire-doi-aam",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup flattened rice (chire/poha)",
+        "1 cup fresh thick yogurt (doi)",
+        "1 large ripe mango, diced or pureed",
+        "2 tablespoons jaggery or sugar",
+        "1/4 teaspoon black salt (optional)",
+        "1/2 cup cold water or milk",
+        "Fresh mint leaves for garnish"
+    ],
+    "instructions": [
+        "1. Rinse the flattened rice briefly in a strainer under cold water to soften it, then drain well.",
+        "2. In a large bowl, whisk the yogurt with jaggery or sugar until smooth.",
+        "3. Add the softened flattened rice to the yogurt mixture and mix gently.",
+        "4. Fold in the diced or pureed ripe mangoes.",
+        "5. Adjust consistency by adding a little milk or water if desired.",
+        "6. Let the mixture rest for 10 minutes to allow the flavors to meld, then serve chilled garnished with mint."
+    ],
+    "description": "Chire Doi Aam is a quintessential breakfast dish popular in Tripura and throughout the Northeast Indian region. It is highly valued for its cooling properties during hot summer months and uses simple, locally sourced ingredients that reflect the region's agricultural harvest.",
+    "state": "Tripura",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Litti Chokha",
+    "url": "https://indianfoodmap.example.com/litti-chokha",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Whole wheat flour",
+        "Sattu (roasted gram flour)",
+        "Mustard oil",
+        "Ajwain (carom seeds)",
+        "Nigella seeds (kalonji)",
+        "Ginger, garlic, and green chilies",
+        "Pickle masala (achar masala)",
+        "Chopped onions and coriander leaves",
+        "Baingan (eggplant)",
+        "Tomatoes",
+        "Boiled potatoes",
+        "Ghee (clarified butter)"
+    ],
+    "instructions": [
+        "1. Prepare the dough by kneading wheat flour with water and a little ghee. 2. For the filling, mix sattu with finely chopped ginger, garlic, green chilies, onion, coriander, mustard oil, salt, ajwain, and pickle masala. 3. Form small balls of dough, flatten them, add the filling, and seal them into round balls. 4. Roast the littis over coal until the crust turns golden brown and crispy. 5. Prepare the chokha by roasting eggplant and tomatoes, peeling them, and mashing them with boiled potatoes, raw mustard oil, salt, and spices. 6. Dip the hot, roasted littis in melted ghee and serve hot with the chokha."
+    ],
+    "description": "Litti Chokha is the quintessential rustic dish of Bihar, deeply rooted in the state's agricultural history. Traditionally cooked over cow-dung cakes or coal to impart a smoky flavor, it is considered a symbol of Bihari heritage and is widely relished as a hearty, nutritious meal across all social strata.",
+    "state": "Bihar",
+    "veg_or_non_veg": "Veg"
+}

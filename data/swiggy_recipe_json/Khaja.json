@@ -1,0 +1,27 @@
+{
+    "name": "Khaja",
+    "url": "https://indianfoodmap.example.com/khaja",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Refined wheat flour (Maida)",
+        "Ghee (clarified butter)",
+        "Sugar",
+        "Water",
+        "Green cardamom powder",
+        "Oil for deep frying"
+    ],
+    "instructions": [
+        "1. Prepare a stiff dough using flour, melted ghee, and water, then let it rest for 30 minutes.",
+        "2. Divide the dough into small balls and roll them into very thin sheets (rotis).",
+        "3. Apply a thin layer of ghee and dust with flour on each sheet, stacking multiple sheets together.",
+        "4. Roll the stack tightly into a cylinder and cut into small pieces (khajas).",
+        "5. Gently roll out each piece slightly and deep-fry in medium-hot oil until golden and flaky.",
+        "6. Prepare a one-string consistency sugar syrup flavored with cardamom.",
+        "7. Dip the fried khajas into the warm syrup, let them soak briefly, and set aside to cool."
+    ],
+    "description": "Khaja is a traditional sweet from Bihar, specifically famous in regions like Silao and Rajgir. It is known for its multiple crispy, paper-thin layers and is often offered as 'prasad' in temples and served during festivals and weddings.",
+    "state": "Bihar",
+    "veg_or_non_veg": "Veg"
+}

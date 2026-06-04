@@ -1,0 +1,22 @@
+{
+    "name": "Feni",
+    "url": "https://indianfoodmap.example.com/feni",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Ripe cashew apples",
+        "Water (for processing)"
+    ],
+    "instructions": [
+        "1. Collect ripe cashew apples and detach the cashew nut from the fruit.",
+        "2. Place the cashew apples in a stone basin called a 'côin' and tread upon them to extract the juice.",
+        "3. Collect the juice in a large earthen pot buried in the ground and allow it to ferment naturally for a few days.",
+        "4. Transfer the fermented juice into a large copper pot called a 'bann' and heat it over a wood fire.",
+        "5. Capture the distilled vapors through a pipe leading to a smaller pot submerged in cold water, which condenses into the first distillate known as 'urrack'.",
+        "6. Perform a second distillation of the urrack to produce the final, stronger spirit known as Feni."
+    ],
+    "description": "Feni is a GI-tagged heritage spirit of Goa, deeply embedded in the local culture and social fabric. It is exclusively produced from cashew apples or coconut sap, serving as a symbol of Goan identity, hospitality, and traditional agrarian practices.",
+    "state": "Goa",
+    "veg_or_non_veg": "Veg"
+}

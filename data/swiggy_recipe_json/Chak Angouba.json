@@ -1,0 +1,33 @@
+{
+    "name": "Chak Angouba",
+    "url": "https://indianfoodmap.example.com/chak-angouba",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Cooked rice",
+        "Onion",
+        "Green chilies",
+        "Ginger-garlic paste",
+        "Potatoes",
+        "Carrots",
+        "Peas",
+        "Turmeric powder",
+        "Mustard oil",
+        "Salt to taste",
+        "Spring onions for garnish"
+    ],
+    "instructions": [
+        "1. Heat mustard oil in a pan until it smokes slightly.",
+        "2. Add chopped onions and green chilies, sautéing until golden brown.",
+        "3. Add ginger-garlic paste and cook for a minute.",
+        "4. Add cubed potatoes, carrots, and peas; sauté until the vegetables are tender.",
+        "5. Stir in turmeric powder and salt.",
+        "6. Add the cooked rice and toss gently to combine all ingredients evenly.",
+        "7. Stir-fry on high heat for 3-4 minutes to ensure the rice is hot and slightly toasted.",
+        "8. Garnish with chopped spring onions and serve hot."
+    ],
+    "description": "Chak Angouba is the Manipuri version of fried rice. It is a humble, comforting dish commonly eaten in households to utilize leftover rice, reflecting the resourceful and simple culinary traditions of the Meitei people.",
+    "state": "Manipur",
+    "veg_or_non_veg": "Veg"
+}

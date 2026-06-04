@@ -1,0 +1,28 @@
+{
+    "name": "Shrikhand",
+    "url": "https://indianfoodmap.example.com/shrikhand",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 kg full-fat yogurt (dahi)",
+        "3/4 cup powdered sugar",
+        "1/4 teaspoon green cardamom powder",
+        "A pinch of saffron strands soaked in 1 tablespoon warm milk",
+        "1 tablespoon chopped almonds",
+        "1 tablespoon chopped pistachios",
+        "A pinch of nutmeg powder (optional)"
+    ],
+    "instructions": [
+        "1. Tie the yogurt in a clean muslin cloth and hang it over a bowl for 4 to 6 hours in a cool place to drain all the whey, resulting in a thick yogurt mass called 'chakka'.",
+        "2. Transfer the chakka into a large mixing bowl and whisk it until smooth and creamy.",
+        "3. Add the powdered sugar and whisk thoroughly until fully dissolved.",
+        "4. Fold in the cardamom powder, nutmeg powder, and the saffron-infused milk.",
+        "5. Gently stir in half of the chopped nuts.",
+        "6. Chill the mixture in the refrigerator for at least an hour before serving.",
+        "7. Garnish with the remaining nuts before serving cold, often paired with hot puri."
+    ],
+    "description": "Shrikhand is an iconic, auspicious dessert from Maharashtra and Gujarat, deeply rooted in Indian tradition. It is a staple during festivals like Gudi Padwa and weddings, known for its velvety texture and rich aromatic profile.",
+    "state": "Maharashtra",
+    "veg_or_non_veg": "Veg"
+}

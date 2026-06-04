@@ -1,0 +1,36 @@
+{
+    "name": "Dhokla",
+    "url": "https://indianfoodmap.example.com/dhokla",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup fermented gram flour (besan)",
+        "1/4 cup yogurt",
+        "1 tsp ginger-green chili paste",
+        "1/2 tsp turmeric powder",
+        "1 tsp fruit salt (Eno) or baking soda",
+        "Salt to taste",
+        "2 tbsp vegetable oil",
+        "1 tsp mustard seeds",
+        "1 tsp sesame seeds",
+        "4-5 curry leaves",
+        "2 slit green chilies",
+        "1/4 cup water for tempering",
+        "1 tsp sugar",
+        "Fresh coriander leaves for garnish",
+        "Grated fresh coconut for garnish"
+    ],
+    "instructions": [
+        "1. Mix gram flour, yogurt, ginger-green chili paste, turmeric, and salt with enough water to create a smooth, thick batter.",
+        "2. Add fruit salt to the batter and whisk quickly until light and fluffy.",
+        "3. Pour the batter into a greased steaming tray and steam for 15-20 minutes.",
+        "4. Once cooled, cut the dhokla into squares.",
+        "5. In a small pan, heat oil and add mustard seeds, sesame seeds, curry leaves, and green chilies.",
+        "6. Add water and sugar to the tempering, bring to a boil, and pour the mixture evenly over the steamed dhokla.",
+        "7. Garnish with fresh coriander and grated coconut before serving."
+    ],
+    "description": "Dhokla is a quintessential Gujarati snack, celebrated for its spongy texture and light, tangy flavor. It is a staple of Gujarati breakfast and teatime culture, symbolizing the regional expertise in balancing sweet, savory, and spicy flavors in a single dish.",
+    "state": "Gujarat",
+    "veg_or_non_veg": "Veg"
+}

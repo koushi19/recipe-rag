@@ -1,0 +1,29 @@
+{
+    "name": "Lassi (Indori Style)",
+    "url": "https://indianfoodmap.example.com/lassi-(indori-style)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g fresh thick curd (dahi)",
+        "1/2 cup powdered sugar",
+        "1/4 cup chilled full-fat milk",
+        "1/2 tsp green cardamom powder",
+        "2 tbsp fresh thick cream (malai)",
+        "1 tsp rose water",
+        "Crushed ice",
+        "Chopped dry fruits (almonds, cashews, pistachios)",
+        "Saffron strands (soaked in a tsp of milk)"
+    ],
+    "instructions": [
+        "1. Whisk the thick chilled curd in a deep vessel using a traditional wooden churner (mathani) until smooth.",
+        "2. Add the powdered sugar and cardamom powder, whisking continuously until the sugar is fully dissolved and the mixture becomes frothy.",
+        "3. Add the chilled milk and rose water, mixing gently to reach the desired consistency.",
+        "4. Pour the lassi into a traditional earthen kulhad.",
+        "5. Top with a generous heap of thick malai, a sprinkle of chopped dry fruits, and saffron strands.",
+        "6. Serve immediately while chilled."
+    ],
+    "description": "Lassi (Indori Style) is a iconic beverage from Indore, renowned for its rich and indulgent nature. Unlike the thinner versions found elsewhere, the Indori style is extremely thick, often served as a meal in itself. It is culturally significant to the street food landscape of Indore, especially during hot summers, and is celebrated for its decadent topping of fresh cream and nuts.",
+    "state": "Madhya Pradesh",
+    "veg_or_non_veg": "Veg"
+}

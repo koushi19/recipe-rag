@@ -1,0 +1,24 @@
+{
+    "name": "Pehak",
+    "url": "https://indianfoodmap.example.com/pehak",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Fermented soybean paste (locally known as Axone or Chura)",
+        "Dried red chili peppers",
+        "Salt to taste",
+        "Water"
+    ],
+    "instructions": [
+        "1. Roast the dried red chilies over an open flame until charred for a smoky flavor.",
+        "2. In a mortar and pestle, grind the roasted red chilies into a coarse paste.",
+        "3. Add the fermented soybean paste (Axone) to the mortar.",
+        "4. Add salt and a splash of water if needed to adjust the consistency.",
+        "5. Pound all ingredients together until well combined into a thick, rustic chutney texture.",
+        "6. Serve fresh with steamed rice."
+    ],
+    "description": "Pehak is a pungent, spicy, and traditional chutney native to Arunachal Pradesh. It is a staple accompaniment in many tribal households, valued for its unique umami profile derived from fermented soybean paste. It reflects the region's reliance on fermentation as a method of preservation and flavor enhancement.",
+    "state": "Arunachal Pradesh",
+    "veg_or_non_veg": "Veg"
+}

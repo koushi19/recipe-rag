@@ -1,0 +1,31 @@
+{
+    "name": "Chhit",
+    "url": "https://indianfoodmap.example.com/chhit",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Fermented bamboo shoots (chhoyar), 200g, thoroughly washed and finely chopped",
+        "Split black gram (urad dal), 100g, soaked for 4 hours and drained",
+        "Green chilies, 4-5, slit lengthwise",
+        "Mustard oil, 3 tablespoons",
+        "Cumin seeds, 1 teaspoon",
+        "Asafoetida (hing), a pinch",
+        "Turmeric powder, 1/2 teaspoon",
+        "Red chili powder, 1 teaspoon (adjust to taste)",
+        "Black salt (kala namak), 1 teaspoon (or to taste)",
+        "Fresh ginger, 1-inch piece, julienned",
+        "Fresh coriander, a handful, chopped for garnish",
+        "Ghee, 1 tablespoon (optional, for finishing)"
+    ],
+    "instructions": [
+        "1. Heat mustard oil in a heavy-bottomed pan until smoking lightly. Reduce heat and add cumin seeds; let them crackle. Add asafoetida and slit green chilies, sauté for 30 seconds.",
+        "2. Add the fermented bamboo shoots and turmeric. Stir-fry on medium heat for 5-7 minutes until the bamboo releases its aroma and begins to brown slightly.",
+        "3. Add the soaked urad dal and red chili powder. Mix well and cook for another 2 minutes.",
+        "4. Pour in 3 cups of warm water. Stir in black salt and bring to a boil. Reduce heat to low, cover, and simmer for 25-30 minutes until the dal is tender and the bamboo shoots are soft, adding more water if needed for desired consistency.",
+        "5. Once cooked, garnish with julienned ginger and fresh coriander. For a richer flavor, drizzle with ghee just before serving. Serve steaming hot with steamed rice or warm flatbreads."
+    ],
+    "description": "A slow-simmered, earthy embrace of fermented bamboo shoots and rustic lentils, redolent with spices that whisper of the Himalayan foothills.",
+    "state": "Punjab",
+    "veg_or_non_veg": "Veg"
+}

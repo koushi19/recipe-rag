@@ -1,0 +1,19 @@
+{
+    "name": "Sutarfeni",
+    "url": "https://indianfoodmap.example.com/sutarfeni",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Fine flour",
+        "Sugar syrup",
+        "Saffron",
+        "Cardamom"
+    ],
+    "instructions": [
+        "1. Stretch dough into fine threads. 2. Deep fry briefly. 3. Soak in flavored sugar syrup and drain."
+    ],
+    "description": "Delicate, thread-like sweet strands flavored with cardamom and saffron.",
+    "state": "Dadra & Nagar Haveli and Daman & Diu",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Medhu Vada",
+    "url": "https://indianfoodmap.example.com/medhu-vada",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups whole skinless urad dal (black gram)",
+        "2 green chilies, finely chopped",
+        "1 inch ginger, finely grated",
+        "1 sprig curry leaves, torn",
+        "1/2 teaspoon whole black peppercorns, crushed",
+        "1 tablespoon chopped cilantro",
+        "1/4 teaspoon asafoetida (hing)",
+        "Salt to taste",
+        "Water as needed",
+        "Oil for deep frying"
+    ],
+    "instructions": [
+        "1. Soak urad dal for 2 to 3 hours, then drain and grind into a very thick, smooth batter using minimal water.",
+        "2. Whisk the batter vigorously for several minutes to incorporate air, ensuring it becomes light and fluffy.",
+        "3. Add finely chopped green chilies, ginger, curry leaves, crushed peppercorns, cilantro, asafoetida, and salt to the batter and mix well.",
+        "4. Heat oil in a deep pan for frying.",
+        "5. Wet your palms, take a portion of the batter, shape it into a round disc, and use your thumb to make a hole in the center.",
+        "6. Carefully slide the vada into the hot oil and fry on medium heat until golden brown and crispy on both sides.",
+        "7. Remove and drain on paper towels; serve hot with coconut chutney and sambar."
+    ],
+    "description": "Medhu Vada is a quintessential South Indian breakfast staple often served during festivals, temple offerings, and daily meals. Known for its distinct donut shape and soft, airy texture, it is a hallmark of Tamil Brahmin and street food culture, typically paired with tangy coconut chutney or spicy sambar.",
+    "state": "Tamil Nadu",
+    "veg_or_non_veg": "Veg"
+}

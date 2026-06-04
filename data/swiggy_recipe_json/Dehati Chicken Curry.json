@@ -1,0 +1,39 @@
+{
+    "name": "Dehati Chicken Curry",
+    "url": "https://indianfoodmap.example.com/dehati-chicken-curry",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1kg chicken (bone-in)",
+        "3 large onions (finely sliced)",
+        "2 tablespoons ginger-garlic paste",
+        "2 medium tomatoes (chopped)",
+        "1/2 cup mustard oil",
+        "1 teaspoon turmeric powder",
+        "1 tablespoon coriander powder",
+        "1 tablespoon Kashmiri red chili powder",
+        "1 teaspoon cumin seeds",
+        "2 bay leaves",
+        "4 cloves",
+        "1-inch cinnamon stick",
+        "2 green cardamoms",
+        "1 teaspoon garam masala",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. Heat mustard oil in a heavy-bottomed pan or kadhai until it smokes, then reduce heat.",
+        "2. Add cumin seeds, bay leaves, cloves, cinnamon, and cardamom to the oil.",
+        "3. Add sliced onions and fry until golden brown.",
+        "4. Stir in the ginger-garlic paste and sauté until the raw smell dissipates.",
+        "5. Add the chicken pieces and fry on high heat for 5-7 minutes until they change color.",
+        "6. Mix in turmeric, coriander powder, chili powder, and salt. Cook for 10 minutes, stirring occasionally.",
+        "7. Add tomatoes and cook until they soften and the oil begins to separate from the masala.",
+        "8. Add a cup of warm water, cover, and simmer on low heat until the chicken is tender.",
+        "9. Sprinkle with garam masala and fresh coriander leaves before serving."
+    ],
+    "description": "Dehati Chicken Curry is a rustic, soul-satisfying dish from the heart of Jharkhand. 'Dehati' translates to 'rustic' or 'village-style,' reflecting the traditional method of cooking in rural households. It is characterized by the use of pungent mustard oil and a rich, thick gravy made with slow-cooked onions, making it a staple dish for celebrations and community gatherings.",
+    "state": "Jharkhand",
+    "veg_or_non_veg": "Non-Veg"
+}

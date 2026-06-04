@@ -1,0 +1,29 @@
+{
+    "name": "Kaddalakka",
+    "url": "https://indianfoodmap.example.com/kaddalakka",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Black chickpeas (kadala)",
+        "Freshly grated coconut",
+        "Mustard seeds",
+        "Dry red chilies",
+        "Curry leaves",
+        "Coconut oil",
+        "Salt",
+        "Turmeric powder",
+        "Cumin seeds"
+    ],
+    "instructions": [
+        "1. Soak the black chickpeas overnight and pressure cook them with salt and turmeric until tender.",
+        "2. Heat coconut oil in a pan and add mustard seeds, letting them splutter.",
+        "3. Add dry red chilies and a generous amount of fresh curry leaves.",
+        "4. Stir in the freshly grated coconut and sauté until it turns slightly golden brown.",
+        "5. Add the cooked chickpeas to the pan, mixing well to combine with the coconut mixture.",
+        "6. Adjust salt if needed and serve hot as a nutritious snack or breakfast side."
+    ],
+    "description": "Kaddalakka is a staple healthy dish in the islands of Lakshadweep. It reflects the local reliance on coconut and legumes, often prepared during local festivities or as a protein-rich daily breakfast, highlighting the simple yet flavorful culinary traditions of the archipelago.",
+    "state": "Lakshadweep",
+    "veg_or_non_veg": "Veg"
+}

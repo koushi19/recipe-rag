@@ -1,0 +1,20 @@
+{
+    "name": "Kavaratti Biryani",
+    "url": "https://indianfoodmap.example.com/kavaratti-biryani",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Basmati Rice",
+        "Fish/Chicken",
+        "Fried onions",
+        "Saffron",
+        "Coconut"
+    ],
+    "instructions": [
+        "1. Par-boil rice. 2. Cook spiced meat/fish layer. 3. Dum cook rice and meat together with fried onions."
+    ],
+    "description": "A local variation of biryani featuring fresh island catch and a hint of saffron.",
+    "state": "Lakshadweep",
+    "veg_or_non_veg": "Non-Veg"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Fara (Phara)",
+    "url": "https://indianfoodmap.example.com/fara-(phara)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups rice flour",
+        "1 cup chana dal (split bengal gram), soaked",
+        "2 green chilies",
+        "1 inch ginger piece",
+        "3-4 cloves garlic",
+        "1/2 teaspoon turmeric powder",
+        "1/2 teaspoon cumin seeds",
+        "1/4 teaspoon asafoetida (hing)",
+        "Fresh coriander leaves, chopped",
+        "Salt to taste",
+        "Water as needed",
+        "1 tablespoon mustard oil for tempering"
+    ],
+    "instructions": [
+        "1. Grind the soaked chana dal with ginger, garlic, and chilies into a coarse paste. Mix in salt, turmeric, asafoetida, and coriander.",
+        "2. Boil water with a pinch of salt and oil, then gradually add rice flour to form a smooth, soft dough.",
+        "3. Make small balls from the dough, flatten them, and place a spoonful of dal stuffing in the center.",
+        "4. Fold the dough over to form a crescent or cylindrical shape, sealing the edges firmly.",
+        "5. Steam the faras in a steamer for 15-20 minutes until the outer covering is cooked and non-sticky.",
+        "6. Optionally, heat oil in a pan, add mustard seeds and curry leaves, and toss the steamed faras until lightly golden."
+    ],
+    "description": "Fara is a signature breakfast dish from Chhattisgarh, popular for its wholesome, gluten-free rice-based outer layer and protein-rich dal stuffing. It reflects the region's agricultural heritage centered around rice cultivation and is traditionally enjoyed with a tangy tomato chutney or spicy green chutney.",
+    "state": "Chhattisgarh",
+    "veg_or_non_veg": "Veg"
+}

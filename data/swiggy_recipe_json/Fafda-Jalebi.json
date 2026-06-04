@@ -1,0 +1,30 @@
+{
+    "name": "Fafda-Jalebi",
+    "url": "https://indianfoodmap.example.com/fafda-jalebi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Besan (gram flour)",
+        "Ajwain (carom seeds)",
+        "Hing (asafoetida)",
+        "Turmeric powder",
+        "Oil (for frying)",
+        "Maida (refined flour)",
+        "Curd (for fermentation)",
+        "Sugar",
+        "Saffron strands",
+        "Cardamom powder",
+        "Water"
+    ],
+    "instructions": [
+        "1. For Fafda, knead besan with oil, ajwain, hing, salt, and turmeric into a stiff dough; roll into thin strips and deep fry until crispy.",
+        "2. For Jalebi, prepare a fermented batter of maida and curd, let it sit for a few hours, then pipe it in spirals into hot oil.",
+        "3. Prepare a sugar syrup infused with saffron and cardamom.",
+        "4. Dip the fried Jalebis into the warm syrup until they soak it up.",
+        "5. Serve the crispy, salty Fafda alongside the sweet, juicy Jalebi."
+    ],
+    "description": "Fafda-Jalebi is the quintessential Gujarati breakfast, often enjoyed on Dussehra. The pairing creates a perfect balance of salty, crunchy textures from the Fafda and sweet, floral syrup from the Jalebi, representing a beloved culinary tradition.",
+    "state": "Gujarat",
+    "veg_or_non_veg": "Veg"
+}

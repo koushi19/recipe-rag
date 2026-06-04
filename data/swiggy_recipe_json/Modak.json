@@ -1,0 +1,27 @@
+{
+    "name": "Modak",
+    "url": "https://indianfoodmap.example.com/modak",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Rice flour",
+        "Grated fresh coconut",
+        "Jaggery (Gul)",
+        "Cardamom powder",
+        "Nutmeg powder",
+        "Ghee",
+        "Water",
+        "Salt"
+    ],
+    "instructions": [
+        "1. Prepare the filling by cooking grated coconut and jaggery in a pan until the moisture evaporates, then stir in cardamom and nutmeg powder.",
+        "2. Boil water with a pinch of salt and a teaspoon of ghee; stir in rice flour, cover, and let it steam for a few minutes.",
+        "3. Knead the dough while warm until soft and smooth.",
+        "4. Shape small portions of dough into cups, fill with the coconut mixture, and pleat the edges to form a conical top.",
+        "5. Steam the modaks for 10-12 minutes until the outer skin is shiny and cooked."
+    ],
+    "description": "Modak is a beloved sweet dumpling considered the favorite offering to Lord Ganesha, especially during the ten-day Ganesh Chaturthi festival. It symbolizes prosperity and is central to Maharashtrian culinary traditions.",
+    "state": "Maharashtra",
+    "veg_or_non_veg": "Veg"
+}

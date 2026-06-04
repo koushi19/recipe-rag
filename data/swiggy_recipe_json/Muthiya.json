@@ -1,0 +1,35 @@
+{
+    "name": "Muthiya",
+    "url": "https://indianfoodmap.example.com/muthiya",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Bottle gourd (dudhi) grated",
+        "Gram flour (besan)",
+        "Wheat flour",
+        "Semolina (rava)",
+        "Ginger-green chili paste",
+        "Turmeric powder",
+        "Red chili powder",
+        "Coriander-cumin powder",
+        "Sugar",
+        "Salt",
+        "Oil",
+        "Mustard seeds",
+        "Sesame seeds",
+        "Asafoetida (hing)",
+        "Fresh coriander leaves"
+    ],
+    "instructions": [
+        "1. Mix grated bottle gourd, gram flour, wheat flour, semolina, ginger-chili paste, spices, and a little oil to form a soft, moist dough.",
+        "2. Shape the dough into cylindrical logs (muthiyas) using greased palms.",
+        "3. Steam the logs in a steamer for 15-20 minutes until firm.",
+        "4. Once cooled, slice the logs into round pieces.",
+        "5. Heat oil in a pan, add mustard seeds, sesame seeds, and asafoetida. Add the sliced muthiyas and sauté until they are slightly crisp and golden brown.",
+        "6. Garnish with fresh coriander and serve hot."
+    ],
+    "description": "Muthiya is a classic Gujarati snack named after the 'mutthi' (fist) shape formed by the fingers while making them. It is a staple healthy dish often eaten at breakfast or teatime, reflecting the Gujarati preference for balancing sweet, spicy, and savory flavors.",
+    "state": "Gujarat",
+    "veg_or_non_veg": "Veg"
+}

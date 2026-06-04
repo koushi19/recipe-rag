@@ -1,0 +1,34 @@
+{
+    "name": "Avial",
+    "url": "https://indianfoodmap.example.com/avial",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Drumstick",
+        "Elephant yam",
+        "Carrot",
+        "Raw banana",
+        "Ash gourd",
+        "Snake gourd",
+        "Fresh grated coconut",
+        "Green chilies",
+        "Cumin seeds",
+        "Turmeric powder",
+        "Curry leaves",
+        "Coconut oil",
+        "Curd (whipped)"
+    ],
+    "instructions": [
+        "1. Cut all vegetables into uniform 2-inch long batons.",
+        "2. Cook the hard vegetables (yam, drumstick, raw banana) in water with turmeric powder and salt until tender.",
+        "3. Add soft vegetables (gourd, carrot) and cook until done but not mushy.",
+        "4. Grind fresh coconut, green chilies, and cumin seeds into a coarse paste.",
+        "5. Stir the coconut paste into the cooked vegetables and simmer for 2 minutes.",
+        "6. Remove from heat and stir in the thick whipped curd.",
+        "7. Drizzle generously with raw coconut oil and garnish with fresh curry leaves."
+    ],
+    "description": "Avial is a quintessential dish of Kerala cuisine, traditionally served at the Onam Sadya (feast). Legend attributes its creation to the mythological hero Bhima, who improvised the dish using various leftover vegetables. It is prized for its balanced texture and the aromatic finish of unrefined coconut oil.",
+    "state": "Kerala",
+    "veg_or_non_veg": "Veg"
+}

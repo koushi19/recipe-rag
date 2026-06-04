@@ -1,0 +1,26 @@
+{
+    "name": "Marua",
+    "url": "https://indianfoodmap.example.com/marua",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Finger millet flour (Ragi)",
+        "Water",
+        "Bamboo shoots (fermented or fresh)",
+        "Green chilies",
+        "Salt",
+        "Optional: Local wild herbs or ginger"
+    ],
+    "instructions": [
+        "1. Boil water in a traditional pot or vessel.",
+        "2. Gradually add finger millet flour to the boiling water while stirring continuously to prevent lumps.",
+        "3. Cook on a low flame until the mixture thickens into a porridge-like consistency.",
+        "4. If making the fermented version, allow the mixture to cool and add fermentation starters, then let it sit for a few days.",
+        "5. For the savory porridge version, fold in finely chopped bamboo shoots, green chilies, and salt.",
+        "6. Serve warm in bamboo mugs or bowls."
+    ],
+    "description": "Marua is a staple finger millet-based dish deeply ingrained in the culture of tribes like the Monpa and Adi. It serves as both a primary source of nutrition and a social beverage, often central to community gatherings, festivals, and traditional hospitality.",
+    "state": "Arunachal Pradesh",
+    "veg_or_non_veg": "Veg"
+}

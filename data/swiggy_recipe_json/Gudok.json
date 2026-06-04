@@ -1,0 +1,31 @@
+{
+    "name": "Gudok",
+    "url": "https://indianfoodmap.example.com/gudok",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Berma (fermented dry fish)",
+        "Potato",
+        "Beans",
+        "Brinjal",
+        "Raw papaya",
+        "Green chilies",
+        "Onion",
+        "Garlic cloves",
+        "Salt",
+        "Water"
+    ],
+    "instructions": [
+        "1. Chop all vegetables into medium-sized chunks.",
+        "2. In a pot, add the vegetables, green chilies, garlic, and a small piece of berma with a minimal amount of water.",
+        "3. Cover and boil until the vegetables are tender and the water has almost completely evaporated.",
+        "4. Remove from heat and transfer the mixture to a large bowl or mortar.",
+        "5. Add raw onions and salt to taste.",
+        "6. Mash all ingredients together thoroughly using a pestle or a heavy spoon until it achieves a rustic, chunky consistency.",
+        "7. Serve warm, usually as a side dish with steamed rice."
+    ],
+    "description": "Gudok is the quintessential traditional dish of the Tripuri people. It is characterized by the distinct, pungent flavor of 'berma' (fermented fish), which provides a deep umami base. It holds immense cultural significance as a staple comfort food often prepared during communal gatherings and festivals.",
+    "state": "Tripura",
+    "veg_or_non_veg": "Non-Veg"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Beef Steak with Herb Butter",
+    "url": "https://indianfoodmap.example.com/beef-steak-with-herb-butter",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g beef sirloin or tenderloin steaks",
+        "50g salted butter at room temperature",
+        "1 tbsp finely chopped fresh coriander",
+        "1 tsp crushed black pepper",
+        "1 tsp ginger-garlic paste",
+        "1/2 tsp Kashmiri chili powder",
+        "1/2 tsp garam masala",
+        "2 tbsp vegetable oil",
+        "1 tbsp lemon juice",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Marinate the beef steaks with ginger-garlic paste, Kashmiri chili powder, garam masala, salt, and lemon juice for 30 minutes.",
+        "2. In a small bowl, mix the softened butter with finely chopped coriander and a pinch of black pepper, then chill until firm.",
+        "3. Heat oil in a heavy-bottomed pan or skillet over high heat until smoking.",
+        "4. Place the steaks in the pan and sear for 3-4 minutes on each side for medium-rare, or until desired doneness.",
+        "5. Remove the steaks from the heat and immediately place a dollop of the herb butter on top, allowing it to melt into the meat while it rests for 5 minutes before serving."
+    ],
+    "description": "Puducherry's cuisine is a unique blend of French techniques and Tamil flavors. This dish represents the 'Creole' influence in the region, where classic European steak preparation is adapted with local spices and fresh herbs, commonly found in the boutique cafes of the French Quarter.",
+    "state": "Puducherry",
+    "veg_or_non_veg": "Non-Veg"
+}

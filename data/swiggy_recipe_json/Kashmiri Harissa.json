@@ -1,0 +1,30 @@
+{
+    "name": "Kashmiri Harissa",
+    "url": "https://indianfoodmap.example.com/kashmiri-harissa",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 kg mutton (boneless or on the bone)",
+        "250g rice (soaked)",
+        "50g fennel seeds (saunf) powder",
+        "2 tablespoons dry ginger powder (sonth)",
+        "1 teaspoon cardamom powder",
+        "2 teaspoons cinnamon powder",
+        "1/2 teaspoon cloves",
+        "1 cup ghee",
+        "salt to taste",
+        "water as needed"
+    ],
+    "instructions": [
+        "1. In a large heavy-bottomed pot or copper cauldron, cook mutton with salt, water, and aromatic spices until the meat becomes tender.",
+        "2. Add the soaked rice to the pot and continue to cook on low heat for several hours, stirring continuously.",
+        "3. Periodically mash the meat and rice mixture using a heavy wooden pestle to achieve a smooth, homogenous texture.",
+        "4. Heat the ghee separately until smoking hot and pour it over the mixture as a tempering (tadka).",
+        "5. Continue stirring until the mixture reaches a thick, paste-like consistency where the meat and rice are inseparable.",
+        "6. Serve hot, traditionally topped with additional hot ghee and served with fresh Kashmiri bread (tsot)."
+    ],
+    "description": "Kashmiri Harissa is a legendary winter delicacy in Kashmir, known for its laborious preparation process. It is traditionally prepared overnight in dedicated Harissa shops and is considered a soulful, high-energy breakfast dish served during the freezing winter months.",
+    "state": "Jammu and Kashmir",
+    "veg_or_non_veg": "Non-Veg"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Pakhala Bhata",
+    "url": "https://indianfoodmap.example.com/pakhala-bhata",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Cooked rice",
+        "Water",
+        "Curd (Dahi)",
+        "Ginger (finely chopped)",
+        "Green chilies",
+        "Curry leaves",
+        "Mustard seeds",
+        "Cumin seeds",
+        "Dry red chili",
+        "Salt",
+        "Lemon leaves (optional)",
+        "Roasted cumin powder"
+    ],
+    "instructions": [
+        "1. Allow cooked rice to cool down completely.",
+        "2. Add water (and optional curd) to the rice in a bowl and let it ferment for a few hours or overnight.",
+        "3. Prepare a 'tadka' by heating oil in a small pan, adding mustard seeds, cumin seeds, dry red chilies, and curry leaves.",
+        "4. Pour the tempering over the soaked rice mixture.",
+        "5. Add chopped ginger, green chilies, and salt to taste.",
+        "6. Garnish with roasted cumin powder and fresh lemon leaves before serving."
+    ],
+    "description": "Pakhala Bhata is the staple comfort food of Odisha, celebrated for its hydrating properties and cooling effect on the body. It holds immense cultural significance, especially during 'Pakhala Dibasa' (March 20th), and is traditionally served with accompaniments like badi chura, fried fish, or saga (greens).",
+    "state": "Odisha",
+    "veg_or_non_veg": "Veg"
+}

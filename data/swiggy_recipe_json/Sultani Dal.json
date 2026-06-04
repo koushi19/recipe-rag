@@ -1,0 +1,34 @@
+{
+    "name": "Sultani Dal",
+    "url": "https://indianfoodmap.example.com/sultani-dal",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup Toor dal (split pigeon peas)",
+        "1/2 cup curd (yogurt), whisked",
+        "1/4 cup milk",
+        "1 tbsp ghee",
+        "1 tsp cumin seeds",
+        "2-3 dry red chilies",
+        "1/2 tsp ginger paste",
+        "1/4 tsp turmeric powder",
+        "1/2 tsp red chili powder",
+        "1/4 tsp garam masala",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish",
+        "2 tbsp cream (optional for richness)"
+    ],
+    "instructions": [
+        "1. Wash and pressure cook the toor dal with salt and turmeric until soft and mushy.",
+        "2. In a separate pan, heat ghee and add cumin seeds and dry red chilies.",
+        "3. Add ginger paste and sauté briefly, then add red chili powder.",
+        "4. Lower the flame and slowly pour in the whisked yogurt and milk, stirring continuously to prevent curdling.",
+        "5. Gently mix in the cooked dal and bring to a simmer for 5 minutes.",
+        "6. Finish by stirring in the garam masala and optionally adding cream.",
+        "7. Garnish with fresh coriander leaves and serve hot with rotis or steamed rice."
+    ],
+    "description": "Sultani Dal is a regal dish originating from the Awadhi culinary traditions of Uttar Pradesh. Historically associated with the royal kitchens of the Nawabs, its name 'Sultani' implies its majestic status, characterized by the unique addition of yogurt and milk which gives the lentils a rich, creamy consistency distinct from typical everyday dals.",
+    "state": "Uttar Pradesh",
+    "veg_or_non_veg": "Veg"
+}

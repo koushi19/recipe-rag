@@ -1,0 +1,28 @@
+{
+    "name": "Kodo Millet Kheer",
+    "url": "https://indianfoodmap.example.com/kodo-millet-kheer",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1/2 cup Kodo millet (Kodon)",
+        "3 cups full-fat milk",
+        "1/2 cup jaggery (Gud), grated",
+        "1/4 teaspoon green cardamom powder",
+        "1 tablespoon ghee",
+        "5-6 cashews, chopped",
+        "5-6 almonds, slivered",
+        "1 tablespoon golden raisins"
+    ],
+    "instructions": [
+        "1. Rinse the Kodo millet thoroughly under cold water and soak it for 30 minutes.",
+        "2. Heat ghee in a heavy-bottomed pan and lightly roast the millet for 2 minutes.",
+        "3. Add milk to the pan and bring it to a boil, then lower the heat and simmer, stirring occasionally, until the millet is tender and the milk thickens.",
+        "4. Once the millet is cooked, turn off the heat and let the mixture cool slightly to prevent the jaggery from curdling the milk.",
+        "5. Stir in the grated jaggery until completely dissolved.",
+        "6. Add cardamom powder and garnish with toasted cashews, almonds, and raisins before serving warm or chilled."
+    ],
+    "description": "Kodo millet is a staple grain in Chhattisgarh, historically consumed by tribal communities. This Kheer is a traditional wholesome dessert often prepared during festivals and special occasions, celebrated for its high nutritional value and earthy flavor.",
+    "state": "Chhattisgarh",
+    "veg_or_non_veg": "Veg"
+}

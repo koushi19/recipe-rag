@@ -1,0 +1,30 @@
+{
+    "name": "Khichu",
+    "url": "https://indianfoodmap.example.com/khichu",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Rice flour",
+        "Water",
+        "Green chilies",
+        "Ginger paste",
+        "Cumin seeds",
+        "Carom seeds (Ajwain)",
+        "Papad khar (Soda bicarbonate)",
+        "Salt",
+        "Peanut oil",
+        "Fresh coriander leaves"
+    ],
+    "instructions": [
+        "1. Boil water in a large pot and add cumin seeds, carom seeds, green chilies, ginger paste, salt, and papad khar.",
+        "2. Once the water comes to a rolling boil, reduce the heat to low.",
+        "3. Gradually add the rice flour while stirring continuously with a wooden spatula to prevent lumps.",
+        "4. Cover the pot with a lid and steam on low heat for 5-7 minutes until the flour is cooked through.",
+        "5. Remove from heat, mix well, and serve hot in a bowl.",
+        "6. Drizzle with peanut oil and garnish with chopped coriander and a sprinkle of chili powder or achaar masala."
+    ],
+    "description": "Khichu is a quintessential comfort food from Gujarat, traditionally made before frying papads. It is a nutritious, gluten-free snack enjoyed for its soft texture and earthy flavors, often associated with monsoon evenings and communal family gatherings.",
+    "state": "Gujarat",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Khura",
+    "url": "https://indianfoodmap.example.com/khura",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Buckwheat flour",
+        "Water",
+        "Salt",
+        "Vegetable oil or butter for frying"
+    ],
+    "instructions": [
+        "1. In a mixing bowl, combine the buckwheat flour with water to create a smooth, pourable batter.",
+        "2. Add a pinch of salt to the batter and whisk until well combined.",
+        "3. Heat a flat pan or tawa over medium heat and lightly grease it with oil or butter.",
+        "4. Pour a ladleful of the batter onto the pan and spread it into a thin circular shape.",
+        "5. Cook until bubbles form on the surface, then flip and cook the other side until golden brown.",
+        "6. Serve hot, traditionally paired with butter tea or a spicy vegetable curry."
+    ],
+    "description": "Khura is a staple pancake dish originating from the Monpa community of the Tawang and West Kameng districts. It holds cultural significance as a simple, nutritious meal often consumed during breakfast or as an accompaniment to butter tea, reflecting the agrarian traditions of the high-altitude regions.",
+    "state": "Arunachal Pradesh",
+    "veg_or_non_veg": "Veg"
+}

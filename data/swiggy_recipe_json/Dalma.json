@@ -1,0 +1,34 @@
+{
+    "name": "Dalma",
+    "url": "https://indianfoodmap.example.com/dalma",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Toor dal (split pigeon peas)",
+        "Raw papaya",
+        "Pumpkin",
+        "Brinjal (eggplant)",
+        "Raw banana",
+        "Potato",
+        "Drumsticks",
+        "Grated coconut",
+        "Mustard oil",
+        "Panch phoron (cumin, mustard, fenugreek, fennel, and nigella seeds)",
+        "Dried red chilies",
+        "Turmeric powder",
+        "Ginger paste",
+        "Salt",
+        "Cumin powder (roasted)"
+    ],
+    "instructions": [
+        "1. Wash and soak the dal for 20 minutes, then pressure cook it with turmeric, salt, and chopped vegetables until soft.",
+        "2. Heat mustard oil in a pan and add panch phoron and dried red chilies.",
+        "3. Add ginger paste and sauté briefly.",
+        "4. Pour the tempered spices into the cooked dal-vegetable mixture and simmer for a few minutes.",
+        "5. Finish by sprinkling roasted cumin powder and freshly grated coconut on top."
+    ],
+    "description": "Dalma is a culinary staple of Odisha, often served as part of the Mahaprasad at the Jagannath Temple in Puri. It is highly nutritious, blending the protein of pulses with the fiber of various seasonal vegetables, representing the simple yet rich agricultural heritage of the region.",
+    "state": "Odisha",
+    "veg_or_non_veg": "Veg"
+}

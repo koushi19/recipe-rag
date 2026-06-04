@@ -1,0 +1,35 @@
+{
+    "name": "Handvo",
+    "url": "https://indianfoodmap.example.com/handvo",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Rice",
+        "Chana dal (split chickpea)",
+        "Toor dal",
+        "Urad dal",
+        "Sour yogurt",
+        "Grated bottle gourd (doodhi)",
+        "Ginger-green chili paste",
+        "Turmeric powder",
+        "Mustard seeds",
+        "Sesame seeds",
+        "Asafoetida (hing)",
+        "Curry leaves",
+        "Fruit salt or baking soda",
+        "Cooking oil",
+        "Salt"
+    ],
+    "instructions": [
+        "1. Soak rice and lentils in water for 5-6 hours, then grind into a coarse paste.",
+        "2. Mix in sour yogurt and let the batter ferment for 8-10 hours.",
+        "3. Add grated bottle gourd, ginger-green chili paste, turmeric, salt, and fruit salt to the fermented batter.",
+        "4. Heat oil in a pan, add mustard seeds, sesame seeds, curry leaves, and hing for tempering.",
+        "5. Pour the batter into the pan over the tempering and cook on low heat with a lid.",
+        "6. Flip carefully when the bottom is golden brown and crisp, then cook the other side until firm."
+    ],
+    "description": "Handvo is a traditional Gujarati savory cake that is highly popular in the regions of Dadra and Nagar Haveli and Daman and Diu due to the cultural proximity. It is essentially a nutrient-dense, vegetable-packed snack often served as breakfast or during tea time, symbolizing the Gujarati philosophy of balancing textures and flavors in a single dish.",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Khaman Dhokla",
+    "url": "https://indianfoodmap.example.com/khaman-dhokla",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups gram flour (besan)",
+        "1/2 cup sour curd",
+        "1 cup water",
+        "1 tsp ginger-green chili paste",
+        "1 tsp lemon juice",
+        "1 tsp turmeric powder",
+        "1 tsp Eno fruit salt",
+        "2 tbsp vegetable oil",
+        "1 tsp mustard seeds",
+        "1 sprig curry leaves",
+        "2-3 green chilies slit",
+        "1 tbsp sugar",
+        "Fresh coriander leaves for garnish",
+        "Grated fresh coconut for garnish"
+    ],
+    "instructions": [
+        "1. Whisk gram flour, curd, water, ginger-green chili paste, turmeric, and salt to form a smooth, lump-free batter.",
+        "2. Let the batter rest for 15-20 minutes.",
+        "3. Add Eno fruit salt and a teaspoon of water, mixing gently until the batter becomes airy.",
+        "4. Pour the batter into a greased steamer tray and steam for 15-20 minutes on medium heat.",
+        "5. Once cooked, let it cool and cut into square pieces.",
+        "6. Prepare the tempering by heating oil in a pan, adding mustard seeds, green chilies, and curry leaves.",
+        "7. Add half a cup of water, sugar, and lemon juice to the tempering, boil briefly, and pour this syrup over the prepared dhokla.",
+        "8. Garnish with fresh coriander and grated coconut."
+    ],
+    "description": "Khaman Dhokla is a quintessential snack in this region, reflecting the strong cultural influence of neighboring Gujarat. It is a light, spongy, and healthy steamed dish often enjoyed as a breakfast item or a side snack, valued for its balance of sweet, spicy, and tangy flavors.",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "veg_or_non_veg": "Veg"
+}

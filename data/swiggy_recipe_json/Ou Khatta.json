@@ -1,0 +1,27 @@
+{
+    "name": "Ou Khatta",
+    "url": "https://indianfoodmap.example.com/ou-khatta",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Ou Tenga (Elephant Apple)",
+        "Jaggery",
+        "Mustard oil",
+        "Mustard seeds",
+        "Turmeric powder",
+        "Salt",
+        "Dry red chilies"
+    ],
+    "instructions": [
+        "1. Peel and slice the Ou Tenga, then boil it in water until soft and drain the excess water.",
+        "2. Mash the boiled pieces coarsely.",
+        "3. Heat mustard oil in a pan and add mustard seeds and dry red chilies to temper.",
+        "4. Add the mashed Ou Tenga, turmeric powder, and salt, stirring well.",
+        "5. Add jaggery and cook on low heat until the mixture thickens and achieves a jam-like consistency.",
+        "6. Remove from heat and serve as a palate cleanser or side dish."
+    ],
+    "description": "Ou Khatta is a quintessential Assamese delicacy made from Elephant Apple (Ou Tenga). It is traditionally served at the end of a meal to act as a digestive aid and palate cleanser due to its distinctively tart flavor profile balanced by the sweetness of jaggery.",
+    "state": "Assam",
+    "veg_or_non_veg": "Veg"
+}

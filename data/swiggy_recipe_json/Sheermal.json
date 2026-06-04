@@ -1,0 +1,29 @@
+{
+    "name": "Sheermal",
+    "url": "https://indianfoodmap.example.com/sheermal",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Maida (refined flour)",
+        "Warm milk",
+        "Ghee",
+        "Sugar",
+        "Saffron strands",
+        "Salt",
+        "Yeast or curd for leavening",
+        "Cardamom powder",
+        "Rose water"
+    ],
+    "instructions": [
+        "1. Dissolve sugar and yeast in warm milk, allowing it to sit until frothy.",
+        "2. Mix maida, a pinch of salt, and cardamom powder in a bowl.",
+        "3. Incorporate the saffron-infused warm milk and melted ghee into the flour to form a soft, pliable dough.",
+        "4. Cover the dough and let it proof in a warm place until it doubles in size.",
+        "5. Divide the dough into balls, roll them out into thick rounds, and prick with a fork to prevent puffing.",
+        "6. Brush with saffron milk and bake in a preheated tandoor or oven until the surface is golden and crisp."
+    ],
+    "description": "Sheermal is a quintessential part of the Awadhi culinary heritage of Lucknow, Uttar Pradesh. Traditionally served with rich, spicy gravies like Nihari or Korma, this mildly sweet, saffron-scented bread is a delicacy often prepared during festive occasions and royal feasts.",
+    "state": "Uttar Pradesh",
+    "veg_or_non_veg": "Veg"
+}

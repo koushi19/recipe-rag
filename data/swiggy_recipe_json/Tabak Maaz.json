@@ -1,0 +1,31 @@
+{
+    "name": "Tabak Maaz",
+    "url": "https://indianfoodmap.example.com/tabak-maaz",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 kg lamb ribs",
+        "2 cups milk",
+        "2 tablespoons ghee",
+        "1 teaspoon fennel powder (saunf)",
+        "1 teaspoon dry ginger powder (sonth)",
+        "4-5 green cardamom pods",
+        "2 black cardamom pods",
+        "1 inch cinnamon stick",
+        "4-5 cloves",
+        "1 teaspoon salt",
+        "Water as needed"
+    ],
+    "instructions": [
+        "1. Clean the lamb ribs thoroughly and cut them into individual pieces.",
+        "2. In a heavy-bottomed pot, add the ribs, milk, water, and whole spices (cardamom, cinnamon, cloves). Bring to a boil.",
+        "3. Add ginger powder, fennel powder, and salt. Reduce heat to low, cover, and simmer until the meat is tender and the liquid has evaporated.",
+        "4. Remove the ribs from the pot and let them cool slightly.",
+        "5. Heat ghee in a shallow frying pan. Shallow fry the ribs on medium heat until they turn deep golden brown and crispy on the outside.",
+        "6. Serve hot, traditionally as a starter in a Wazwan feast."
+    ],
+    "description": "Tabak Maaz is a signature dish of the Kashmiri Wazwan, a multi-course royal banquet. It is celebrated for its dual-texture—tender inside and crispy outside—making it a beloved delicacy during weddings and festivals.",
+    "state": "Jammu and Kashmir",
+    "veg_or_non_veg": "Non-Veg"
+}

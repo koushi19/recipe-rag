@@ -1,0 +1,27 @@
+{
+    "name": "Jigarthanda",
+    "url": "https://indianfoodmap.example.com/jigarthanda",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Full-fat milk",
+        "Badam pisin (Almond gum)",
+        "Nannari syrup (Sarsaparilla root syrup)",
+        "Sugar",
+        "Condensed milk or Khoya",
+        "Vanilla ice cream"
+    ],
+    "instructions": [
+        "1. Soak the badam pisin in water overnight until it expands into a jelly-like consistency.",
+        "2. Boil the milk in a heavy-bottomed pan, stirring constantly, and reduce it to half its volume until it thickens.",
+        "3. Add sugar and khoya (or condensed milk) to the boiling milk and stir until dissolved.",
+        "4. Allow the thickened milk to cool completely.",
+        "5. In a tall glass, add a generous spoonful of the prepared badam pisin jelly.",
+        "6. Pour the chilled thickened milk over the jelly and add a splash of nannari syrup.",
+        "7. Top the mixture with a large scoop of vanilla ice cream and serve immediately."
+    ],
+    "description": "Originating from the city of Madurai, Jigarthanda translates to 'cool heart'. It is a traditional, refreshing summer drink prized for its natural cooling properties, attributed primarily to the use of almond gum (badam pisin).",
+    "state": "Tamil Nadu",
+    "veg_or_non_veg": "Veg"
+}

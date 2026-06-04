@@ -1,0 +1,30 @@
+{
+    "name": "Gupchup",
+    "url": "https://indianfoodmap.example.com/gupchup",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Semolina (suji)",
+        "All-purpose flour (maida)",
+        "Boiled potatoes",
+        "Boiled black chickpeas (ghuguni)",
+        "Green chilies",
+        "Fresh coriander leaves",
+        "Roasted cumin powder",
+        "Black salt",
+        "Tamarind pulp",
+        "Ginger",
+        "Mint leaves",
+        "Chaat masala"
+    ],
+    "instructions": [
+        "1. Knead suji and maida with water into a stiff dough, roll into tiny circles, and deep-fry until golden and crisp.",
+        "2. Prepare the filling by mashing boiled potatoes with boiled chickpeas, chopped green chilies, coriander, salt, and roasted cumin powder.",
+        "3. Create the 'pani' (spiced water) by blending tamarind pulp, mint, ginger, green chilies, water, black salt, and chaat masala.",
+        "4. To serve, poke a hole in the center of a puri, add a spoonful of the potato mixture, and dip it into the spicy tamarind water before consuming immediately."
+    ],
+    "description": "Gupchup is the beloved Odia version of panipuri. It holds immense cultural significance in Odisha as a quintessential street food, often enjoyed in the evenings at roadside stalls where the vendor serves them one by one, creating a unique social experience.",
+    "state": "Odisha",
+    "veg_or_non_veg": "Veg"
+}

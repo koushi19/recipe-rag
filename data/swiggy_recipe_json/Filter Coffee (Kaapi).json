@@ -1,0 +1,23 @@
+{
+    "name": "Filter Coffee (Kaapi)",
+    "url": "https://indianfoodmap.example.com/filter-coffee-(kaapi)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Dark roast coffee powder (containing 70-80% coffee and 20-30% chicory)",
+        "Full-fat whole milk",
+        "Water",
+        "Sugar (optional to taste)"
+    ],
+    "instructions": [
+        "1. Add 3-4 tablespoons of coffee powder into the upper chamber of the filter and press it down firmly with the plunger.",
+        "2. Pour boiling water over the powder and cover with the lid; let it brew for 15-20 minutes until the decoction collects in the bottom container.",
+        "3. Boil the milk separately and pour it back and forth between a tumbler and a davara (a wide-rimmed metal cup) to create a frothy layer.",
+        "4. Pour the fresh decoction into the tumbler, add sugar if desired, and top with the frothy hot milk.",
+        "5. Serve immediately in the traditional davara-tumbler set."
+    ],
+    "description": "Filter Kaapi is an iconic beverage of Tamil Nadu, deeply ingrained in the culture as a symbol of hospitality. It is uniquely characterized by the use of chicory, which provides a distinct bitterness and body, and the signature 'pulling' technique used to create a rich, frothy top.",
+    "state": "Tamil Nadu",
+    "veg_or_non_veg": "Veg"
+}

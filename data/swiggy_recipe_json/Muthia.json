@@ -1,0 +1,20 @@
+{
+    "name": "Muthia",
+    "url": "https://indianfoodmap.example.com/muthia",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Besan",
+        "Methi leaves",
+        "Sesame seeds",
+        "Turmeric",
+        "Lemon juice"
+    ],
+    "instructions": [
+        "1. Make a dough from besan and greens. 2. Shape into rolls and steam. 3. Temper with mustard and sesame seeds."
+    ],
+    "description": "Nutritious steamed dumplings made from chickpea flour and fresh fenugreek leaves.",
+    "state": "Dadra & Nagar Haveli and Daman & Diu",
+    "veg_or_non_veg": "Veg"
+}

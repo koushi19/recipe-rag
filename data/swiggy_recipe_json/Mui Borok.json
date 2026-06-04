@@ -1,0 +1,26 @@
+{
+    "name": "Mui Borok",
+    "url": "https://indianfoodmap.example.com/mui-borok",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Fermented fish (Berma)",
+        "Fresh green chilies",
+        "Garlic cloves",
+        "Ginger",
+        "Onion",
+        "Water",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Lightly roast or boil the fermented fish (Berma) in a small amount of water to soften it.",
+        "2. In a mortar and pestle, crush the garlic, ginger, and green chilies until they form a coarse paste.",
+        "3. Add the softened fermented fish to the paste and pound it together until well integrated.",
+        "4. Add finely chopped onions and salt, mixing thoroughly while maintaining a coarse texture.",
+        "5. Adjust consistency with a little warm water if desired and serve as a side dish with steamed rice."
+    ],
+    "description": "Mui Borok is a foundational dish of the Tripuri people. The key ingredient, Berma, is a sun-dried and fermented fish paste that provides a distinct, umami-rich flavor profile essential to traditional indigenous Tripuri cuisine.",
+    "state": "Tripura",
+    "veg_or_non_veg": "Non-Veg"
+}

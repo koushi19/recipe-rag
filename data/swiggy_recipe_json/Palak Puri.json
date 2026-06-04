@@ -1,0 +1,29 @@
+{
+    "name": "Palak Puri",
+    "url": "https://indianfoodmap.example.com/palak-puri",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups whole wheat flour (atta)",
+        "2 cups fresh spinach leaves (blanched and pureed)",
+        "1 teaspoon ginger-green chili paste",
+        "1/2 teaspoon carom seeds (ajwain)",
+        "1/4 teaspoon turmeric powder",
+        "1/2 teaspoon red chili powder",
+        "1 teaspoon salt",
+        "1 tablespoon oil (for the dough)",
+        "Oil for deep frying"
+    ],
+    "instructions": [
+        "1. Blanch the spinach leaves in boiling water for 2 minutes, then drain and blend into a smooth puree.",
+        "2. In a large bowl, mix wheat flour, salt, carom seeds, turmeric, red chili powder, ginger-green chili paste, and a tablespoon of oil.",
+        "3. Gradually add the spinach puree to the flour mixture and knead into a firm, smooth dough; let it rest for 15 minutes.",
+        "4. Divide the dough into small, equal-sized balls and roll each into a small, thin circular disc.",
+        "5. Heat oil in a deep pan until hot, then gently slide the discs one by one into the oil.",
+        "6. Press lightly with a slotted spoon to help them puff up, and fry until both sides are golden brown."
+    ],
+    "description": "Palak Puri is a staple breakfast and festive dish in Madhya Pradesh, cherished for its bright green color and healthy profile. It is commonly served during celebrations or travel, often paired with aloo rasedar (potato curry) or simple pickles and yogurt.",
+    "state": "Madhya Pradesh",
+    "veg_or_non_veg": "Veg"
+}

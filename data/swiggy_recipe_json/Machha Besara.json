@@ -1,0 +1,33 @@
+{
+    "name": "Machha Besara",
+    "url": "https://indianfoodmap.example.com/machha-besara",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Fresh fish pieces (Rohu or Katla)",
+        "Black mustard seeds",
+        "Yellow mustard seeds",
+        "Garlic cloves",
+        "Dried red chilies",
+        "Turmeric powder",
+        "Mustard oil",
+        "Potato wedges",
+        "Tomato chunks",
+        "Fresh coriander leaves",
+        "Salt to taste",
+        "Water"
+    ],
+    "instructions": [
+        "1. Marinate the fish pieces with salt and turmeric, then shallow fry in mustard oil until golden brown and set aside.",
+        "2. Prepare a fine paste by grinding soaked mustard seeds, garlic cloves, and dried red chilies with a little water.",
+        "3. In the same pan, sauté potato wedges until light brown.",
+        "4. Add the mustard-garlic paste to the pan, along with turmeric, salt, and tomato chunks; cook until the oil separates.",
+        "5. Pour in sufficient water to create a thin gravy and bring to a boil.",
+        "6. Gently slide the fried fish into the gravy and simmer for 5-7 minutes.",
+        "7. Garnish with fresh coriander leaves and serve hot with steamed rice."
+    ],
+    "description": "Machha Besara is a quintessential Odia delicacy that showcases the region's love for mustard-based gravies. It is a staple in many households, often served during lunch, and reflects the coastal influence where fresh river fish and mustard are key culinary components.",
+    "state": "Odisha",
+    "veg_or_non_veg": "Non-Veg"
+}

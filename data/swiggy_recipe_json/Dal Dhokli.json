@@ -1,0 +1,21 @@
+{
+    "name": "Dal Dhokli",
+    "url": "https://indianfoodmap.example.com/dal-dhokli",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Toor dal",
+        "Wheat flour",
+        "Peanuts",
+        "Kokum",
+        "Jaggery",
+        "Mustard seeds"
+    ],
+    "instructions": [
+        "1. Cook dal with turmeric. 2. Make a spiced wheat dough and roll into thin squares (dhokli). 3. Add dhokli to the boiling dal. 4. Add peanuts, kokum, and jaggery. 5. Simmer until the dhokli is cooked."
+    ],
+    "description": "Soft wheat dumplings swimming in a sweet, spicy, and tangy lentil sea.",
+    "state": "Dadra & Nagar Haveli and Daman & Diu",
+    "veg_or_non_veg": "Veg"
+}

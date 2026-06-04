@@ -1,0 +1,21 @@
+{
+    "name": "Aam Ras",
+    "url": "https://indianfoodmap.example.com/aam-ras",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "3-4 ripe Alphonso or Kesar mangoes",
+        "2-3 tablespoons powdered sugar (adjust based on sweetness of mangoes)",
+        "1/4 teaspoon cardamom powder",
+        "A pinch of saffron strands (optional)",
+        "A pinch of dry ginger powder (sonth, optional)",
+        "1 tablespoon ghee (optional, for richness)"
+    ],
+    "instructions": [
+        "1. Wash and peel the mangoes, then chop the flesh into pieces, discarding the seeds. 2. Place the mango pieces into a blender or food processor. 3. Add the powdered sugar, cardamom powder, and optional dry ginger powder. 4. Blend until completely smooth and creamy. 5. If using, mix in the saffron strands soaked in a teaspoon of warm milk or ghee for depth of flavor. 6. Chill in the refrigerator for at least an hour before serving with deep-fried hot puris."
+    ],
+    "description": "Aam Ras is a seasonal delicacy highly cherished in Gujarat during the peak of summer. It is considered a quintessential part of a traditional Gujarati thali and is culturally significant as a celebratory meal, often served during weddings and family gatherings to welcome the mango harvest.",
+    "state": "Gujarat",
+    "veg_or_non_veg": "Veg"
+}

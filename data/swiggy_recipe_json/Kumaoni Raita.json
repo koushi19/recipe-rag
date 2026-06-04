@@ -1,0 +1,27 @@
+{
+    "name": "Kumaoni Raita",
+    "url": "https://indianfoodmap.example.com/kumaoni-raita",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g thick yogurt (curd)",
+        "1 medium cucumber, grated",
+        "1 teaspoon black mustard seeds (rai), crushed into a coarse powder",
+        "1/2 teaspoon turmeric powder",
+        "2-3 green chilies, finely chopped",
+        "1 tablespoon fresh coriander leaves, finely chopped",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Whisk the thick yogurt in a large bowl until smooth.",
+        "2. Add the grated cucumber to the yogurt.",
+        "3. Add the crushed mustard seed powder, turmeric powder, green chilies, and salt.",
+        "4. Mix everything thoroughly to ensure the turmeric is well incorporated.",
+        "5. Let the mixture sit at room temperature for at least 1-2 hours; the mustard seeds need this time to ferment slightly and release their pungent flavor.",
+        "6. Garnish with fresh coriander leaves before serving."
+    ],
+    "description": "Kumaoni Raita is a staple in the Pahadi cuisine of Uttarakhand. Unlike common Indian raitas, it is characterized by its bright yellow hue from turmeric and the sharp, pungent punch of coarsely ground mustard seeds, which are considered to have warming properties suitable for the cold Himalayan climate.",
+    "state": "Uttarakhand",
+    "veg_or_non_veg": "Veg"
+}

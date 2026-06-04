@@ -1,0 +1,29 @@
+{
+    "name": "Daulat Ki Chaat",
+    "url": "https://indianfoodmap.example.com/daulat-ki-chaat",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Full-fat raw milk",
+        "Heavy cream",
+        "Saffron strands",
+        "Powdered sugar",
+        "Rose water",
+        "Silver leaf (Chandi ka vark)",
+        "Pistachios",
+        "Almonds",
+        "Khoa (optional)"
+    ],
+    "instructions": [
+        "1. Combine full-fat milk and heavy cream in a large wide vessel.",
+        "2. Whisk the mixture vigorously, ideally in cool night temperatures or over ice, until a frothy foam forms.",
+        "3. Skim the collected foam carefully and place it into individual serving bowls.",
+        "4. Repeat the process until the desired amount of foam is collected.",
+        "5. Gently fold in powdered sugar and a hint of rose water into the foam.",
+        "6. Chill the bowls and garnish generously with saffron strands, slivered pistachios, almonds, and a layer of silver leaf."
+    ],
+    "description": "Daulat Ki Chaat is a seasonal winter delicacy from Old Delhi, famously known as 'Nimish' in Lucknow or 'Malaiyo' in Varanasi. It is a decadent, cloud-like foam dessert that captures the essence of luxury, historically associated with the Mughal era, traditionally prepared during the cool winter months to maintain the structural integrity of the delicate milk froth.",
+    "state": "Delhi",
+    "veg_or_non_veg": "Veg"
+}

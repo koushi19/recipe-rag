@@ -1,0 +1,32 @@
+{
+    "name": "Bamboo Shoot Fry",
+    "url": "https://indianfoodmap.example.com/bamboo-shoot-fry",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "250g fermented bamboo shoots (tuai), rinsed and drained",
+        "2 tbsp mustard oil",
+        "1 tsp turmeric powder",
+        "4-5 dried red chilies, broken",
+        "1 large onion, thinly sliced",
+        "4 cloves garlic, minced",
+        "1 inch ginger, julienned",
+        "2-3 green chilies, slit",
+        "1 cup fresh bamboo shoot strips (optional, for texture)",
+        "1/2 tsp baking soda (to reduce bitterness, optional)",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. If using fresh bamboo shoots, boil them in water with a pinch of baking soda for 10 minutes, then drain and rinse. If using only fermented shoots, skip to step 2.",
+        "2. Heat mustard oil in a heavy-bottomed pan until it smokes slightly. Add dried red chilies and fry for 30 seconds until they darken.",
+        "3. Add sliced onion and sauté until translucent, about 3-4 minutes. Add garlic and ginger, cook for 1 minute until fragrant.",
+        "4. Add turmeric powder, stir well, then add the fermented bamboo shoots (and fresh shoots if using). Cook on high heat for 2 minutes, stirring frequently.",
+        "5. Add green chilies and salt. Reduce heat to medium and cook for another 5-7 minutes, stirring occasionally, until the shoots are tender and slightly caramelized.",
+        "6. Garnish with fresh coriander leaves and serve hot with steamed rice."
+    ],
+    "description": "A smoky, heart-warming embrace of fermented bamboo and mountain herbs.",
+    "state": "Mizoram",
+    "veg_or_non_veg": "Veg"
+}

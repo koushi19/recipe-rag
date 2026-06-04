@@ -1,0 +1,36 @@
+{
+    "name": "Coconut Prawn Curry",
+    "url": "https://indianfoodmap.example.com/coconut-prawn-curry",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g fresh tiger prawns",
+        "2 cups thick coconut milk",
+        "1 cup thin coconut milk",
+        "2 tablespoons coconut oil",
+        "1 teaspoon mustard seeds",
+        "10-12 curry leaves",
+        "2 medium onions, finely chopped",
+        "1 tablespoon ginger-garlic paste",
+        "2 green chilies, slit",
+        "1 teaspoon turmeric powder",
+        "1 tablespoon red chili powder",
+        "1 teaspoon coriander powder",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. Clean and devein the prawns, then marinate with a pinch of turmeric and salt.",
+        "2. Heat coconut oil in a pan, add mustard seeds and curry leaves until they splutter.",
+        "3. Sauté chopped onions, green chilies, and ginger-garlic paste until golden brown.",
+        "4. Stir in the spice powders (turmeric, chili, coriander) and cook for a minute.",
+        "5. Add the prawns and sauté until they turn pink.",
+        "6. Pour in the thin coconut milk and simmer until the prawns are cooked through.",
+        "7. Lower the heat and stir in the thick coconut milk, allowing it to heat through without boiling.",
+        "8. Garnish with fresh coriander and serve hot with steamed rice."
+    ],
+    "description": "This dish is a staple in the Andaman and Nicobar Islands, reflecting the region's coastal geography and the influence of South Indian and Bengali culinary traditions. It utilizes the island's abundant coconut palms and fresh seafood to create a rich, creamy, and aromatic experience that defines island comfort food.",
+    "state": "Andaman and Nicobar Islands",
+    "veg_or_non_veg": "Non-Veg"
+}

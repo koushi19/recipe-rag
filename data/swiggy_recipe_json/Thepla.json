@@ -1,0 +1,35 @@
+{
+    "name": "Thepla",
+    "url": "https://indianfoodmap.example.com/thepla",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups whole wheat flour",
+        "1/2 cup fresh methi (fenugreek) leaves, finely chopped",
+        "2 tablespoons gram flour (besan)",
+        "1/4 cup yogurt",
+        "1 teaspoon ginger-garlic paste",
+        "1/2 teaspoon turmeric powder",
+        "1 teaspoon red chili powder",
+        "1 teaspoon carom seeds (ajwain)",
+        "1 teaspoon cumin powder",
+        "2 tablespoons oil",
+        "Salt to taste",
+        "Water as needed for kneading"
+    ],
+    "instructions": [
+        "1. In a large bowl, mix wheat flour, besan, chopped methi leaves, yogurt, and all spices.",
+        "2. Add oil and knead into a soft, smooth dough using a little water as needed.",
+        "3. Cover the dough and let it rest for 15-20 minutes.",
+        "4. Divide the dough into small, equal-sized balls.",
+        "5. Roll each ball into a thin circular disc using a rolling pin and a dusting of flour.",
+        "6. Heat a griddle (tawa) over medium-high heat.",
+        "7. Place the rolled dough on the griddle and cook until small bubbles appear.",
+        "8. Flip, drizzle a little oil or ghee, and cook both sides until golden brown spots appear.",
+        "9. Serve warm with pickle, yogurt, or masala chai."
+    ],
+    "description": "Thepla is a staple Gujarati flatbread renowned for its long shelf life, making it a quintessential travel food. It holds significant cultural importance in Gujarati households as a nutritious comfort food often served during breakfast or packed for long journeys.",
+    "state": "Gujarat",
+    "veg_or_non_veg": "Veg"
+}

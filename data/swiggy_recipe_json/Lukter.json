@@ -1,0 +1,22 @@
+{
+    "name": "Lukter",
+    "url": "https://indianfoodmap.example.com/lukter",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Smoked meat (typically beef or pork)",
+        "King chilli (Bhut Jolokia)",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Roast the smoked meat over an open flame until it becomes tender and slightly charred.",
+        "2. In a traditional mortar and pestle, place the roasted meat and the King chillies.",
+        "3. Pound the mixture thoroughly until the meat is shredded and well-combined with the chillies.",
+        "4. Add salt to taste and continue pounding until the desired consistency is achieved.",
+        "5. Serve as an accompaniment to steamed rice or local stews."
+    ],
+    "description": "Lukter is a quintessential tribal dish popular among the Adi and Galo tribes of Arunachal Pradesh. It showcases the region's preference for simple, smoky flavors and high heat, often serving as a flavorful condiment that elevates a simple meal of boiled rice and vegetables.",
+    "state": "Arunachal Pradesh",
+    "veg_or_non_veg": "Non-Veg"
+}

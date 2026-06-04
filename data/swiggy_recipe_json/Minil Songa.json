@@ -1,0 +1,25 @@
+{
+    "name": "Minil Songa",
+    "url": "https://indianfoodmap.example.com/minil-songa",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Sticky rice (Minil)",
+        "Water",
+        "Bamboo tube (newly cut)",
+        "Banana leaves"
+    ],
+    "instructions": [
+        "1. Soak the sticky rice (Minil) in water for a few hours to soften it.",
+        "2. Clean the bamboo tube thoroughly and ensure it is green and fresh.",
+        "3. Pack the soaked rice into the bamboo tube, adding just enough water to allow the rice to steam properly.",
+        "4. Seal the opening of the bamboo tube securely using a wad of banana leaves.",
+        "5. Place the bamboo tube directly over an open fire or hot coals.",
+        "6. Rotate the tube occasionally to ensure even cooking until the bamboo is charred and the rice inside becomes soft and fragrant.",
+        "7. Break open the bamboo to serve the steamed sticky rice warm."
+    ],
+    "description": "Minil Songa is a quintessential Garo culinary specialty from Meghalaya. The use of bamboo imparts a distinct earthy aroma to the sticky rice, a staple in tribal households. Traditionally prepared during community gatherings or family meals, it highlights the indigenous technique of cooking using natural vessels found in the forest.",
+    "state": "Meghalaya",
+    "veg_or_non_veg": "Veg"
+}

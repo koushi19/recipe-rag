@@ -1,0 +1,28 @@
+{
+    "name": "Eromba",
+    "url": "https://indianfoodmap.example.com/eromba",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Fermented fish (Ngari)",
+        "Boiled potatoes",
+        "Seasonal vegetables (like beans, bamboo shoot, or leafy greens)",
+        "King chili (U-morok)",
+        "Bird's eye chili",
+        "Salt",
+        "Fresh coriander leaves",
+        "Spring onion"
+    ],
+    "instructions": [
+        "1. Boil the seasonal vegetables and potatoes until they are soft.",
+        "2. In a small pan or directly over a flame, lightly roast the fermented fish (Ngari) and the dry or fresh chilies.",
+        "3. In a large bowl, mash the boiled vegetables and potatoes thoroughly.",
+        "4. Add the roasted Ngari and chilies into the mash and blend everything together until smooth.",
+        "5. Adjust the salt according to taste.",
+        "6. Garnish with freshly chopped coriander leaves and spring onions before serving."
+    ],
+    "description": "Eromba is a staple food in Manipuri households. It is a unique, pungent mash that reflects the traditional Meitei culinary heritage, where fermented fish provides a deep umami flavor that characterizes the region's cuisine.",
+    "state": "Manipur",
+    "veg_or_non_veg": "Non-Veg"
+}

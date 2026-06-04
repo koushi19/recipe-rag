@@ -1,0 +1,36 @@
+{
+    "name": "Chicken Xacuti",
+    "url": "https://indianfoodmap.example.com/chicken-xacuti",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g chicken pieces",
+        "1 cup grated fresh coconut",
+        "2 tbsp coriander seeds",
+        "1 tsp cumin seeds",
+        "8-10 dried Kashmiri red chilies",
+        "1/2 tsp turmeric powder",
+        "1/2 tsp poppy seeds (khus khus)",
+        "4-5 peppercorns",
+        "2-3 cloves",
+        "1 inch cinnamon stick",
+        "1 star anise",
+        "1 medium onion, sliced",
+        "1 tbsp tamarind paste",
+        "2 tbsp coconut oil",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Dry roast the grated coconut with coriander seeds, cumin, dried chilies, poppy seeds, and whole spices (peppercorns, cloves, cinnamon, star anise) until golden brown and fragrant.",
+        "2. Grind the roasted mixture into a smooth paste using a little water.",
+        "3. Heat coconut oil in a pan and sauté the sliced onions until translucent.",
+        "4. Add the chicken pieces and cook until they turn white.",
+        "5. Stir in the ground spice paste and turmeric, mixing well to coat the chicken.",
+        "6. Add water as needed for consistency, salt, and the tamarind paste.",
+        "7. Simmer on low heat until the chicken is tender and the oil starts to float on the surface."
+    ],
+    "description": "Chicken Xacuti is a signature dish of Goan cuisine, reflecting the state's Portuguese influence and coastal geography. It is renowned for its intense, complex spice profile and the use of freshly roasted coconut, typically served with steamed rice or crusty local bread.",
+    "state": "Goa",
+    "veg_or_non_veg": "Non-Veg"
+}

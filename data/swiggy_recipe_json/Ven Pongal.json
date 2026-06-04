@@ -1,0 +1,31 @@
+{
+    "name": "Ven Pongal",
+    "url": "https://indianfoodmap.example.com/ven-pongal",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup raw rice",
+        "1/2 cup yellow moong dal",
+        "4 cups water",
+        "1 tablespoon ghee",
+        "1 teaspoon black peppercorns, crushed",
+        "1 teaspoon cumin seeds",
+        "1 inch ginger, finely chopped",
+        "10-12 cashew nuts",
+        "1 sprig fresh curry leaves",
+        "1/2 teaspoon asafoetida (hing)",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Dry roast the moong dal until fragrant and wash it along with the rice.",
+        "2. Pressure cook the rice and dal with 4 cups of water and salt until very soft and mushy.",
+        "3. In a separate small pan, heat ghee and add cashews, frying until golden brown.",
+        "4. Add cumin seeds, crushed black peppercorns, finely chopped ginger, curry leaves, and asafoetida to the ghee.",
+        "5. Pour this sizzling tempering over the cooked rice-dal mixture.",
+        "6. Mix well, adding a little extra ghee if desired, and serve hot with coconut chutney and sambar."
+    ],
+    "description": "Ven Pongal is a traditional South Indian breakfast staple, particularly celebrated during the harvest festival of Pongal. It is highly valued for its Ayurvedic properties, specifically its ability to aid digestion and provide soothing nourishment.",
+    "state": "Tamil Nadu",
+    "veg_or_non_veg": "Veg"
+}

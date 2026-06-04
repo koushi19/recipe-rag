@@ -1,0 +1,34 @@
+{
+    "name": "Gatte Ki Sabzi",
+    "url": "https://indianfoodmap.example.com/gatte-ki-sabzi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup gram flour (besan)",
+        "1/2 teaspoon turmeric powder",
+        "1/2 teaspoon red chili powder",
+        "1/4 teaspoon carom seeds (ajwain)",
+        "2 tablespoons curd",
+        "1 tablespoon oil",
+        "1 cup yogurt (whisked)",
+        "1 teaspoon cumin seeds",
+        "1/2 teaspoon mustard seeds",
+        "1 pinch asafoetida (hing)",
+        "1 teaspoon ginger-garlic paste",
+        "1/2 teaspoon coriander powder",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. Mix besan, turmeric, chili powder, ajwain, curd, oil, and salt to form a firm dough; roll into cylindrical logs.",
+        "2. Boil the logs in water for 10-12 minutes until they float, then remove and slice into small pieces (gatte).",
+        "3. Prepare a tadka by heating oil in a pan, adding cumin, mustard seeds, and hing.",
+        "4. Add ginger-garlic paste and sauté, then stir in the whisked yogurt with spices, stirring continuously to prevent curdling.",
+        "5. Add the sliced gattes to the gravy and simmer for 5-7 minutes.",
+        "6. Garnish with fresh coriander and serve hot with roti or steamed rice."
+    ],
+    "description": "A staple dish from the arid regions of Rajasthan, Gatte Ki Sabzi was traditionally created as a substitute for fresh vegetables. The protein-rich besan dumplings symbolize the resourcefulness of Rajasthani cuisine, offering a flavorful and comforting meal often served during festivals and family gatherings.",
+    "state": "Rajasthan",
+    "veg_or_non_veg": "Veg"
+}

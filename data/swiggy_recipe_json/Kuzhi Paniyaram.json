@@ -1,0 +1,33 @@
+{
+    "name": "Kuzhi Paniyaram",
+    "url": "https://indianfoodmap.example.com/kuzhi-paniyaram",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup raw rice",
+        "1 cup parboiled rice (idli rice)",
+        "1/2 cup urad dal (black gram)",
+        "1/4 tsp fenugreek seeds",
+        "1 onion, finely chopped",
+        "2 green chilies, finely chopped",
+        "1/2 tsp mustard seeds",
+        "1 tsp chana dal",
+        "1 sprig curry leaves, chopped",
+        "1 tbsp coriander leaves, chopped",
+        "1/4 cup grated coconut",
+        "Salt to taste",
+        "Gingelly oil for greasing the pan"
+    ],
+    "instructions": [
+        "1. Soak rice, urad dal, and fenugreek for 4-6 hours, then grind into a smooth, thick batter and allow it to ferment overnight.",
+        "2. Heat a small amount of oil in a pan and temper mustard seeds, chana dal, curry leaves, onions, and green chilies.",
+        "3. Add the sautéed mixture, grated coconut, and salt to the fermented batter and mix well.",
+        "4. Heat the Kuzhi Paniyaram pan and brush each cavity with oil.",
+        "5. Pour the batter into each cavity until three-fourths full.",
+        "6. Cook on medium-low heat until the edges turn golden brown, then flip carefully using a skewer to cook the other side until crispy."
+    ],
+    "description": "Kuzhi Paniyaram is a traditional South Indian snack made from leftover idli or dosa batter. It is a staple in Tamil households, often served as a nutritious breakfast or tea-time snack accompanied by spicy coconut or tomato chutney.",
+    "state": "Tamil Nadu",
+    "veg_or_non_veg": "Veg"
+}

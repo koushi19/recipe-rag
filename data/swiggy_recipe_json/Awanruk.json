@@ -1,0 +1,19 @@
+{
+    "name": "Awanruk",
+    "url": "https://indianfoodmap.example.com/awanruk",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Rice flour",
+        "Water",
+        "Salt to taste",
+        "Banana leaves (for wrapping)"
+    ],
+    "instructions": [
+        "1. Mix rice flour with a sufficient amount of water and a pinch of salt to create a smooth, thick dough. 2. Knead the dough well until it reaches a pliable consistency. 3. Take small portions of the dough and shape them into flat, thick discs. 4. Wrap each disc securely in clean banana leaves. 5. Steam the parcels in a steamer or over a traditional vessel until the rice flour is fully cooked and firm. 6. Remove from heat and serve warm, traditionally eaten as a staple accompaniment."
+    ],
+    "description": "Awanruk is a traditional, simple, yet essential steamed rice dish from the Tripuri community. It reflects the indigenous cooking practices of Tripura, where minimal ingredients are used to create wholesome, staple foods often prepared during festivals or daily meals.",
+    "state": "Tripura",
+    "veg_or_non_veg": "Veg"
+}

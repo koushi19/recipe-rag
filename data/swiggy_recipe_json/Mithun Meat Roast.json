@@ -1,0 +1,32 @@
+{
+    "name": "Mithun Meat Roast",
+    "url": "https://indianfoodmap.example.com/mithun-meat-roast",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g Mithun meat (cut into cubes)",
+        "2 tablespoons fermented bamboo shoot (baah gajor)",
+        "4-5 pieces Raja Mircha (King Chilli), slit",
+        "2 large onions, finely chopped",
+        "1 tablespoon ginger-garlic paste",
+        "1 teaspoon turmeric powder",
+        "1 teaspoon Sichuan pepper (locally known as Mehek/Timur)",
+        "2 tablespoons mustard oil",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. Heat mustard oil in a heavy-bottomed pan until it smokes slightly.",
+        "2. Add chopped onions and sauté until translucent.",
+        "3. Add ginger-garlic paste and cook until the raw smell disappears.",
+        "4. Add the cubed Mithun meat, turmeric, and salt; sear on high heat until the meat browns.",
+        "5. Stir in the fermented bamboo shoot and slit Raja Mircha.",
+        "6. Lower the heat, cover, and let the meat slow-roast in its own juices until tender.",
+        "7. Add crushed Sichuan pepper towards the end to add a unique numbing aroma.",
+        "8. Once the moisture evaporates and the meat is well-browned, garnish with fresh coriander and serve hot."
+    ],
+    "description": "Mithun is a semi-domesticated bovine considered the pride of Nagaland. This roast highlights the bold, earthy flavors of Naga cuisine, relying on the iconic fermented bamboo shoot and the world's hottest King Chilli. It is a staple served during festivals and communal feasts, representing the deep connection between the Naga people and their forest ecosystem.",
+    "state": "Nagaland",
+    "veg_or_non_veg": "Non-Veg"
+}

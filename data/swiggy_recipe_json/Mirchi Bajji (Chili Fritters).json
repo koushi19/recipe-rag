@@ -1,0 +1,35 @@
+{
+    "name": "Mirchi Bajji (Chili Fritters)",
+    "url": "https://indianfoodmap.example.com/mirchi-bajji-(chili-fritters)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Large mild green chilies (bhavnagari mirchi)",
+        "Gram flour (besan)",
+        "Rice flour",
+        "Carom seeds (ajwain)",
+        "Red chili powder",
+        "Turmeric powder",
+        "Baking soda",
+        "Salt to taste",
+        "Tamarind paste",
+        "Cumin powder",
+        "Oil for deep frying",
+        "Water"
+    ],
+    "instructions": [
+        "1. Slit the chilies lengthwise and remove the seeds if you prefer less heat. Soak them in salted tamarind water for 15 minutes to reduce spice levels.",
+        "2. Prepare the stuffing by mixing tamarind paste, cumin powder, and a pinch of salt.",
+        "3. Stuff the chilies with the prepared tamarind mixture.",
+        "4. In a bowl, whisk together gram flour, rice flour, red chili powder, carom seeds, salt, turmeric, and a pinch of baking soda.",
+        "5. Gradually add water to the flour mixture to create a thick, smooth batter.",
+        "6. Heat oil in a deep pan.",
+        "7. Dip the stuffed chilies into the batter, ensuring they are well coated.",
+        "8. Carefully drop them into the hot oil and fry until they turn crispy and golden brown.",
+        "9. Drain on paper towels and serve hot, often accompanied by chopped onions, cilantro, and lemon juice."
+    ],
+    "description": "Mirchi Bajji is an iconic Andhra street food, famously served at tea stalls and beaches. It is a quintessential comfort snack, celebrated for its perfect balance of tangy, spicy, and savory flavors, often enjoyed during the monsoon season.",
+    "state": "Andhra Pradesh",
+    "veg_or_non_veg": "Veg"
+}

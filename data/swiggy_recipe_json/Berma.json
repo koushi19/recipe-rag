@@ -1,0 +1,27 @@
+{
+    "name": "Berma",
+    "url": "https://indianfoodmap.example.com/berma",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Fermented dried fish (typically barb fish)",
+        "Green chilies",
+        "Garlic cloves",
+        "Onion",
+        "Water",
+        "Salt (optional)",
+        "Fresh coriander leaves (for garnish)"
+    ],
+    "instructions": [
+        "1. Clean the fermented fish (Berma) thoroughly to remove any impurities.",
+        "2. In a small pot, add the fish with enough water to submerge it.",
+        "3. Add crushed garlic cloves, sliced onions, and chopped green chilies to the pot.",
+        "4. Boil the mixture over medium heat until the water evaporates and the fish becomes tender and breaks down into a thick, pulpy consistency.",
+        "5. Mash the mixture using a mortar and pestle or a spoon until it forms a uniform paste.",
+        "6. Adjust the spice level if necessary and garnish with fresh coriander before serving."
+    ],
+    "description": "Berma is a quintessential element of Tripuri cuisine, highly valued for its intense, umami-rich flavor profile. It acts as a primary seasoning or side dish in many indigenous Tripuri recipes, reflecting the community's traditional methods of food preservation.",
+    "state": "Tripura",
+    "veg_or_non_veg": "Non-Veg"
+}

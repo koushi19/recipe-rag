@@ -1,0 +1,19 @@
+{
+    "name": "Kal Dosai",
+    "url": "https://indianfoodmap.example.com/kal-dosai",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Rice",
+        "Urad dal",
+        "Fenugreek",
+        "Salt"
+    ],
+    "instructions": [
+        "1. Ferment the batter overnight. 2. Pour onto a hot griddle and cook until soft and porous. 3. Serve in pairs."
+    ],
+    "description": "Soft, thick, pancake-like dosa, the quintessential Pondy breakfast.",
+    "state": "Puducherry",
+    "veg_or_non_veg": "Veg"
+}

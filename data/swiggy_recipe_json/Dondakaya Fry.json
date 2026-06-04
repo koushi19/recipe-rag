@@ -1,0 +1,35 @@
+{
+    "name": "Dondakaya Fry",
+    "url": "https://indianfoodmap.example.com/dondakaya-fry",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g Ivy Gourd (Dondakaya), sliced into thin rounds",
+        "2 tbsp cooking oil",
+        "1 tsp mustard seeds",
+        "1 tsp cumin seeds",
+        "1 tsp split urad dal",
+        "1 tsp chana dal",
+        "2 sprigs fresh curry leaves",
+        "2 dried red chilies",
+        "1/4 tsp turmeric powder",
+        "1/2 cup roasted peanuts (optional)",
+        "1 tbsp red chili powder",
+        "1 tsp coriander powder",
+        "Salt to taste",
+        "1/4 cup freshly grated coconut (garnish)"
+    ],
+    "instructions": [
+        "1. Heat oil in a heavy-bottomed pan and add mustard seeds, cumin, urad dal, and chana dal; fry until golden.",
+        "2. Add the dried red chilies and fresh curry leaves, sautéing briefly.",
+        "3. Add the sliced ivy gourd to the pan, sprinkle with salt and turmeric, and stir well.",
+        "4. Cook on medium heat, stirring occasionally, without covering the pan to ensure the gourd remains crispy rather than soggy.",
+        "5. Once the gourd is cooked through and starts to brown, add the red chili powder, coriander powder, and roasted peanuts.",
+        "6. Sauté for another 3-5 minutes on low heat until the spices coat the vegetables evenly.",
+        "7. Turn off the heat, garnish with grated coconut, and serve hot with steamed rice and dal."
+    ],
+    "description": "Dondakaya Fry is a quintessential staple in Andhra households. It highlights the regional preference for 'poriyal' or 'fry' style vegetable preparations that offer a perfect crunch and balance of spice. It is often prepared as a side dish for lunch, paired with pappu (lentil stew) and hot rice, embodying the humble yet flavor-rich culinary tradition of the Telugu people.",
+    "state": "Andhra Pradesh",
+    "veg_or_non_veg": "Veg"
+}

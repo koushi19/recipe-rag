@@ -1,0 +1,29 @@
+{
+    "name": "Xaak Bhaji",
+    "url": "https://indianfoodmap.example.com/xaak-bhaji",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Fresh leafy greens (Lai Xaak, Paleng Xaak, or Dhekia)",
+        "Mustard oil",
+        "Panch phoron (five spice mix)",
+        "Dry red chilies",
+        "Finely chopped garlic",
+        "Finely chopped onion",
+        "Salt to taste",
+        "Green chilies"
+    ],
+    "instructions": [
+        "1. Wash the greens thoroughly and chop them finely.",
+        "2. Heat mustard oil in a kadai until it begins to smoke slightly.",
+        "3. Add panch phoron and dry red chilies to the hot oil for tempering.",
+        "4. Sauté the chopped garlic and onions until golden brown.",
+        "5. Add the chopped greens and green chilies, then stir-fry on medium-high heat.",
+        "6. Season with salt and cook until the greens are wilted and tender.",
+        "7. Serve hot as a side dish with steamed rice and dal."
+    ],
+    "description": "Xaak Bhaji is a staple side dish in every Assamese household, reflecting the region's emphasis on fresh, farm-to-table greens. It is highly nutritious and represents the simplicity of daily Assamese cuisine, typically served as the first course of a traditional meal.",
+    "state": "Assam",
+    "veg_or_non_veg": "Veg"
+}

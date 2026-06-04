@@ -1,0 +1,23 @@
+{
+    "name": "Doodhpak",
+    "url": "https://indianfoodmap.example.com/doodhpak",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 liter full-fat milk",
+        "1/4 cup basmati rice (soaked)",
+        "1/2 cup sugar",
+        "1/2 teaspoon green cardamom powder",
+        "10-12 strands saffron",
+        "1 tablespoon sliced almonds",
+        "1 tablespoon sliced pistachios",
+        "1 tablespoon charoli (chironji seeds)"
+    ],
+    "instructions": [
+        "1. Soak the basmati rice for 30 minutes, drain, and crush them slightly. 2. Boil milk in a heavy-bottomed pan and add the crushed rice. 3. Cook on low heat, stirring continuously until the milk reduces to half its volume and the rice is completely cooked. 4. Add sugar and continue to cook until the mixture thickens to a creamy consistency. 5. Add cardamom powder and saffron strands soaked in a little warm milk. 6. Stir in the almonds, pistachios, and charoli. 7. Serve chilled or warm as per preference."
+    ],
+    "description": "Doodhpak is a traditional, rich Gujarati-style milk-based dessert popular in the Daman and Diu region. It is often prepared during festivals, special occasions, and weddings, served alongside hot pooris to balance the sweetness with savory textures.",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Fresh Tender Coconut Water",
+    "url": "https://indianfoodmap.example.com/fresh-tender-coconut-water",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 Fresh green tender coconut (Elaneer)",
+        "Optional: A pinch of crushed roasted cumin (Jeera)",
+        "Optional: A squeeze of fresh lime juice",
+        "Optional: A small pinch of black salt (Kala Namak)"
+    ],
+    "instructions": [
+        "1. Select a fresh green tender coconut that makes a sloshing sound when shaken.",
+        "2. Carefully slice the top portion of the coconut husk using a heavy knife or machete to reach the soft shell.",
+        "3. Create a small circular opening in the shell, ensuring no debris falls inside.",
+        "4. If desired, stir in a pinch of roasted cumin or black salt for enhanced electrolytes and digestion.",
+        "5. Serve immediately, preferably chilled, by inserting a straw or pouring the water into a glass."
+    ],
+    "description": "Tender coconut water is the quintessential drink of the Lakshadweep archipelago. Given the abundance of coconut palms, it serves as a staple source of hydration and nutrition for the local population. It is deeply culturally significant, often offered to guests as a gesture of hospitality and used as a natural, refreshing electrolyte replenisher in the tropical climate.",
+    "state": "Lakshadweep",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Putharo",
+    "url": "https://indianfoodmap.example.com/putharo",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Rice flour (specifically local sticky or red rice flour)",
+        "Water",
+        "Salt to taste",
+        "Oil or fat for greasing"
+    ],
+    "instructions": [
+        "1. Mix rice flour with a pinch of salt and enough water to form a smooth, thick batter that is spreadable but not runny.",
+        "2. Heat a specialized clay pot (or a flat-bottomed pan) over medium heat and lightly grease it.",
+        "3. Pour a ladleful of the batter into the center of the pot and spread it evenly.",
+        "4. Cover the pot with a lid and let it steam-cook until the surface is dry and the edges pull away slightly from the sides.",
+        "5. Once firm and cooked through, carefully remove the Putharo and serve warm."
+    ],
+    "description": "Putharo is a staple breakfast bread of the Pnar and Khasi communities of Meghalaya. It is a simple, comforting rice pancake that is often served alongside spicy meat curries or local tea, reflecting the indigenous reliance on rice as a primary dietary component in the hilly terrain.",
+    "state": "Meghalaya",
+    "veg_or_non_veg": "Veg"
+}

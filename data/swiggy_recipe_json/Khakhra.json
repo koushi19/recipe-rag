@@ -1,0 +1,19 @@
+{
+    "name": "Khakhra",
+    "url": "https://indianfoodmap.example.com/khakhra",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Wheat flour",
+        "Oil",
+        "Salt",
+        "Methi leaves"
+    ],
+    "instructions": [
+        "1. Roll dough into paper-thin discs. 2. Roast on a slow griddle while pressing with a cloth until crisp."
+    ],
+    "description": "Thin, crunchy wheat crackers, the perfect travel-friendly snack.",
+    "state": "Dadra & Nagar Haveli and Daman & Diu",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Chakhwi",
+    "url": "https://indianfoodmap.example.com/chakhwi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Bamboo shoots (fresh or fermented)",
+        "Jackfruit seeds",
+        "Green papaya",
+        "Green chilies",
+        "Rice flour (for thickening)",
+        "Potash (alkaline water made from burnt banana peels, known as Khar)",
+        "Salt",
+        "Water"
+    ],
+    "instructions": [
+        "1. Prepare the alkaline water (Khar) by soaking burnt banana peels in water and straining it. 2. Chop the bamboo shoots, green papaya, and jackfruit seeds into bite-sized pieces. 3. Boil the jackfruit seeds and papaya in water until tender. 4. Add the bamboo shoots and green chilies to the pot. 5. Pour in the prepared alkaline water and let the mixture simmer. 6. Stir in a paste made of rice flour and water to thicken the consistency. 7. Cook until all vegetables are soft and the flavors have melded, then serve hot."
+    ],
+    "description": "Chakhwi is a signature indigenous dish of the Tripuri community. It is celebrated for its earthy taste and the use of 'Khar', which provides a distinct, slightly bitter, and savory flavor. It reflects the traditional forest-based diet of the region and is often served during festivals and family gatherings.",
+    "state": "Tripura",
+    "veg_or_non_veg": "Veg"
+}

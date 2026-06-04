@@ -1,0 +1,37 @@
+{
+    "name": "Muri Ghonto",
+    "url": "https://indianfoodmap.example.com/muri-ghonto",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Rohu or Katla fish head",
+        "Gobindobhog rice",
+        "Potatoes",
+        "Onion",
+        "Ginger-garlic paste",
+        "Tomato",
+        "Turmeric powder",
+        "Red chili powder",
+        "Cumin powder",
+        "Garam masala powder",
+        "Mustard oil",
+        "Bay leaf",
+        "Green chilies",
+        "Ghee",
+        "Salt",
+        "Sugar"
+    ],
+    "instructions": [
+        "1. Marinate the fish head with salt and turmeric, then deep-fry in mustard oil until golden; break into smaller chunks.",
+        "2. Fry potato cubes in the same oil and set aside.",
+        "3. Temper the oil with bay leaves, then sauté chopped onions, ginger-garlic paste, and tomatoes until soft.",
+        "4. Add turmeric, chili powder, cumin powder, and salt, cooking until oil separates.",
+        "5. Add the soaked Gobindobhog rice and fry for a few minutes.",
+        "6. Add the fried potatoes and fish head chunks, then pour in warm water and cover to let the rice cook until tender.",
+        "7. Finish with a generous dollop of ghee and garam masala, fluffing the rice gently before serving."
+    ],
+    "description": "Muri Ghonto is a classic celebratory dish in Bengali cuisine, traditionally prepared using the head of a large fish. It highlights the Bengali culinary philosophy of 'waste not,' transforming a secondary part of the fish into a rich, flavorful centerpiece often served during weddings and special family gatherings.",
+    "state": "West Bengal",
+    "veg_or_non_veg": "Non-Veg"
+}

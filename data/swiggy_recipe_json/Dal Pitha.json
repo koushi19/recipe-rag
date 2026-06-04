@@ -1,0 +1,32 @@
+{
+    "name": "Dal Pitha",
+    "url": "https://indianfoodmap.example.com/dal-pitha",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Rice flour",
+        "Chana dal (split bengal gram)",
+        "Ginger",
+        "Garlic cloves",
+        "Green chilies",
+        "Cumin seeds",
+        "Turmeric powder",
+        "Asafoetida (hing)",
+        "Carom seeds (ajwain)",
+        "Mustard oil",
+        "Salt",
+        "Water"
+    ],
+    "instructions": [
+        "1. Soak chana dal for 4 hours, then grind it with ginger, garlic, green chilies, cumin, salt, and hing into a coarse paste.",
+        "2. Boil water with a pinch of salt and oil, then gradually mix in rice flour to form a smooth, soft dough.",
+        "3. Pinch off a lemon-sized ball of dough, flatten it into a small disc, and place a spoonful of the dal mixture in the center.",
+        "4. Fold the dough to create a semi-circular dumpling and seal the edges tightly.",
+        "5. Steam the pithas in a steamer or boiling water for 15-20 minutes until the outer shell is firm.",
+        "6. Serve hot, often garnished with a tadka of mustard oil, cumin, and curry leaves."
+    ],
+    "description": "Dal Pitha is often referred to as the 'Bihari dumpling' or the Indian equivalent of ravioli. It is a nutritious, comfort food traditionally prepared during festivals or winters, showcasing the rustic and wholesome flavors of Bihari cuisine.",
+    "state": "Bihar",
+    "veg_or_non_veg": "Veg"
+}

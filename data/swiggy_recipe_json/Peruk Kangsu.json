@@ -1,0 +1,26 @@
+{
+    "name": "Peruk Kangsu",
+    "url": "https://indianfoodmap.example.com/peruk-kangsu",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Peruk leaf (Indian Pennywort/Centella asiatica)",
+        "Dried Ngari (fermented fish)",
+        "Dry red chillies",
+        "Onion",
+        "Salt to taste",
+        "Water"
+    ],
+    "instructions": [
+        "1. Clean and wash the Peruk leaves thoroughly.",
+        "2. In a small pot, boil the Peruk leaves with a little water until soft, or steam them briefly.",
+        "3. Roast the dried Ngari and dry red chillies over an open flame or in a dry pan until charred and aromatic.",
+        "4. In a mortar and pestle, crush the roasted chillies and Ngari together with some salt.",
+        "5. Add the cooked Peruk leaves to the mixture and mash everything together until well combined.",
+        "6. Mix in finely chopped onions for extra crunch and texture before serving."
+    ],
+    "description": "Peruk Kangsu is a quintessential Manipuri side dish known for its medicinal properties, particularly the use of Peruk (Centella asiatica). It is valued in Meitei cuisine for its refreshing taste and the deep umami flavor contributed by Ngari, reflecting the traditional reliance on fermented fish in Manipuri culinary culture.",
+    "state": "Manipur",
+    "veg_or_non_veg": "Non-Veg"
+}

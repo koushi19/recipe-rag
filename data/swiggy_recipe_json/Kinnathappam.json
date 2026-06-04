@@ -1,0 +1,20 @@
+{
+    "name": "Kinnathappam",
+    "url": "https://indianfoodmap.example.com/kinnathappam",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Rice flour",
+        "Coconut milk",
+        "Sugar",
+        "Eggs",
+        "Cumin seeds"
+    ],
+    "instructions": [
+        "1. Prepare a smooth batter. 2. Pour into a plate (kinnam) and steam for 30-40 minutes. 3. Cool and cut into diamond shapes."
+    ],
+    "description": "A dense, chewy steamed cake, the sweet heart of island celebrations.",
+    "state": "Lakshadweep",
+    "veg_or_non_veg": "Veg"
+}

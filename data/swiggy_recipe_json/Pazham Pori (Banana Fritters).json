@@ -1,0 +1,30 @@
+{
+    "name": "Pazham Pori (Banana Fritters)",
+    "url": "https://indianfoodmap.example.com/pazham-pori-(banana-fritters)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Ripe Nendran bananas (Plantains)",
+        "All-purpose flour (Maida)",
+        "Rice flour",
+        "Turmeric powder",
+        "Sugar",
+        "Salt",
+        "Water",
+        "Coconut oil for deep frying"
+    ],
+    "instructions": [
+        "1. Slice the Nendran bananas vertically into long, thick strips.",
+        "2. In a mixing bowl, combine all-purpose flour, rice flour, turmeric powder, sugar, and a pinch of salt.",
+        "3. Gradually add water to the dry mix to form a thick, smooth, pouring-consistency batter.",
+        "4. Heat coconut oil in a deep frying pan or kadai.",
+        "5. Dip each banana slice into the batter, ensuring it is evenly coated.",
+        "6. Carefully drop the coated slices into the hot oil.",
+        "7. Deep fry on medium heat, turning occasionally, until the fritters are golden brown and crisp.",
+        "8. Remove and drain on paper towels; serve hot with tea."
+    ],
+    "description": "Pazham Pori is an iconic snack of Kerala, synonymous with the state's tea-time culture. It highlights the use of Nendran bananas, a staple variety in the region, and is traditionally enjoyed with a hot cup of cardamom-infused black tea or chai.",
+    "state": "Kerala",
+    "veg_or_non_veg": "Veg"
+}

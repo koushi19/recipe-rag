@@ -1,0 +1,33 @@
+{
+    "name": "Banana Flower Curry",
+    "url": "https://indianfoodmap.example.com/banana-flower-curry",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 large banana flower (valai poo)",
+        "1/2 cup grated coconut",
+        "1 tsp mustard seeds",
+        "1/2 tsp turmeric powder",
+        "2 dry red chilies",
+        "1 tsp cumin seeds",
+        "2 green chilies",
+        "1 onion, finely chopped",
+        "1 sprig curry leaves",
+        "2 tbsp coconut oil",
+        "Salt to taste",
+        "Water as needed"
+    ],
+    "instructions": [
+        "1. Remove the tough outer petals of the banana flower to reach the tender florets; remove the pistil and calyx from each floret and chop them finely.",
+        "2. Soak the chopped banana flower in water with a pinch of turmeric and salt to prevent discoloration.",
+        "3. Heat coconut oil in a pan, add mustard seeds, dry red chilies, and curry leaves.",
+        "4. Add onions and green chilies, sautéing until translucent.",
+        "5. Drain the banana flower and add it to the pan, cooking until softened.",
+        "6. Add turmeric and salt, then stir in the grated coconut.",
+        "7. Cover and cook on low heat for 5-7 minutes until the flavors meld and the texture is tender."
+    ],
+    "description": "Banana flower curry is a staple in the Andaman and Nicobar Islands, reflecting the region's abundance of tropical produce. It is valued for its nutritional density and cooling properties, often prepared as a wholesome side dish that showcases the islanders' reliance on fresh, local, plant-based ingredients.",
+    "state": "Andaman and Nicobar Islands",
+    "veg_or_non_veg": "Veg"
+}

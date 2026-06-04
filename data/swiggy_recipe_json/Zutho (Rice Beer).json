@@ -1,0 +1,25 @@
+{
+    "name": "Zutho (Rice Beer)",
+    "url": "https://indianfoodmap.example.com/zutho-(rice-beer)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Sticky rice",
+        "Rice husk or wheat bran",
+        "Starter cake (known as 'humao' or wild herb starter)",
+        "Water"
+    ],
+    "instructions": [
+        "1. Soak the sticky rice in water and steam it until it is cooked well.",
+        "2. Spread the steamed rice on a clean surface or mat to cool down to room temperature.",
+        "3. Grind the traditional starter cake into a fine powder and mix it thoroughly with the cooled rice.",
+        "4. Place the mixture into an earthen pot or a container lined with rice husk or wheat bran.",
+        "5. Cover the container tightly and store it in a warm, dark place for 3 to 5 days to allow natural fermentation.",
+        "6. Once fermented, add water to the mixture to achieve the desired consistency.",
+        "7. Strain the liquid through a fine cloth or sieve before serving as a chilled, milky-white fermented drink."
+    ],
+    "description": "Zutho is a traditional fermented rice beer popular among the Angami Naga and Chakhesang tribes of Nagaland. It is highly significant in Naga culture, often served as a gesture of hospitality to guests and used as a centerpiece during festivals, weddings, and social gatherings.",
+    "state": "Nagaland",
+    "veg_or_non_veg": "Veg"
+}

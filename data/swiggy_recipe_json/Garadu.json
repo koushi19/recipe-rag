@@ -1,0 +1,28 @@
+{
+    "name": "Garadu",
+    "url": "https://indianfoodmap.example.com/garadu",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g Purple Yam (Garadu)",
+        "Oil for deep frying",
+        "1 tbsp Garadu Masala (a specific mix of roasted cumin, coriander seeds, dry red chillies, black salt, and rock salt)",
+        "1 tbsp Lemon juice",
+        "Fresh coriander leaves for garnish",
+        "Chaat masala (optional for extra tang)"
+    ],
+    "instructions": [
+        "1. Peel the purple yam and cut it into bite-sized cubes.",
+        "2. Wash the cubes thoroughly and pat them dry completely.",
+        "3. Heat oil in a heavy-bottomed pan and deep-fry the cubes on medium heat until they are partially cooked and lightly browned.",
+        "4. Remove and let them cool for a few minutes; press them lightly if desired.",
+        "5. Deep-fry them a second time on high heat until they turn dark golden and very crispy.",
+        "6. Drain the excess oil and transfer to a mixing bowl.",
+        "7. Immediately toss with lemon juice and the traditional Garadu masala while the yam is still hot.",
+        "8. Garnish with fresh coriander and serve hot."
+    ],
+    "description": "Garadu is a quintessential winter street food snack from Indore and other parts of Madhya Pradesh. Made from purple yam, it is prized for its earthy flavor and satisfying crunch, usually enjoyed during the chilly evenings of December and January.",
+    "state": "Madhya Pradesh",
+    "veg_or_non_veg": "Veg"
+}

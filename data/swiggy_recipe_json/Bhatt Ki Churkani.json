@@ -1,0 +1,34 @@
+{
+    "name": "Bhatt Ki Churkani",
+    "url": "https://indianfoodmap.example.com/bhatt-ki-churkani",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Black bhatt dal (black soybeans)",
+        "Mustard oil",
+        "Wheat flour",
+        "Jakhya (cleome viscosa seeds)",
+        "Garlic cloves",
+        "Ginger",
+        "Onion",
+        "Turmeric powder",
+        "Red chili powder",
+        "Coriander powder",
+        "Salt",
+        "Water",
+        "Fresh coriander leaves"
+    ],
+    "instructions": [
+        "1. Dry roast the black bhatt dal in a pan until fragrant, then crush them coarsely using a mortar and pestle.",
+        "2. Heat mustard oil in an iron kadhai, add jakhya seeds for tempering, followed by chopped garlic, ginger, and onions.",
+        "3. Add the crushed dal and sauté for a few minutes.",
+        "4. Stir in wheat flour to the mixture and roast until golden brown to create a base.",
+        "5. Add turmeric, red chili, and coriander powders, mixing well.",
+        "6. Gradually add hot water while stirring continuously to avoid lumps, then simmer on low heat for 20-30 minutes until the gravy thickens.",
+        "7. Garnish with fresh coriander and serve hot with steamed rice."
+    ],
+    "description": "Bhatt Ki Churkani is a nutritious and comforting staple from the Kumaon region of Uttarakhand. Traditionally prepared in an iron wok, the dish is known for its earthy, smoky flavor and high protein content, often served during winters with steaming rice.",
+    "state": "Uttarakhand",
+    "veg_or_non_veg": "Veg"
+}

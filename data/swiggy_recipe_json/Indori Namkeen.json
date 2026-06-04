@@ -1,0 +1,32 @@
+{
+    "name": "Indori Namkeen",
+    "url": "https://indianfoodmap.example.com/indori-namkeen",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Gram flour (besan)",
+        "Rice flour",
+        "Peanuts",
+        "Poha (flattened rice)",
+        "Curry leaves",
+        "Mustard seeds",
+        "Turmeric powder",
+        "Red chili powder",
+        "Asafoetida (hing)",
+        "Dry mango powder (amchur)",
+        "Black salt",
+        "Refined oil for frying"
+    ],
+    "instructions": [
+        "1. Prepare a thick, smooth dough using gram flour, turmeric, red chili powder, salt, and oil.",
+        "2. Use a sev press (sancha) to drop the dough into hot oil, frying until golden and crispy.",
+        "3. Separately fry poha, peanuts, and curry leaves in hot oil until crunchy.",
+        "4. In a large bowl, combine the crispy sev, fried poha, and peanuts.",
+        "5. Sprinkle with black salt, dry mango powder, and asafoetida, tossing well to coat the mixture evenly.",
+        "6. Store in an airtight container once cooled."
+    ],
+    "description": "Indori Namkeen is the culinary identity of Indore, reflecting the city's obsession with savory snacks. It is a staple of Indori breakfast and evening tea, known for its unique blend of sweet, spicy, and tangy flavors, often served as a topping on Poha.",
+    "state": "Madhya Pradesh",
+    "veg_or_non_veg": "Veg"
+}

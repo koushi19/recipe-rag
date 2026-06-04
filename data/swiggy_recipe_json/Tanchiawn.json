@@ -1,0 +1,33 @@
+{
+    "name": "Tanchiawn",
+    "url": "https://indianfoodmap.example.com/tanchiawn",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g pork belly, cut into 2-inch chunks (with skin for depth)",
+        "200g fermented bamboo shoot (tuai), rinsed and chopped (homemade preferred)",
+        "6 cloves garlic, smashed",
+        "1 large onion, sliced",
+        "3-4 dried red chilies, broken",
+        "1 inch ginger, sliced",
+        "1 tsp turmeric powder",
+        "Salt to taste",
+        "2 tbsp mustard oil (or vegetable oil)",
+        "2 green chilies, slit",
+        "1 cup water (or bamboo tube water for extra flavor)",
+        "Fresh coriander, chopped (garnish)"
+    ],
+    "instructions": [
+        "1. Heat mustard oil in a heavy pan until smoking. Add dried red chilies and garlic; sizzle for 20 seconds.",
+        "2. Add sliced onions and ginger; sauté until onions are translucent and golden.",
+        "3. Add pork pieces; sear on all sides until browned, about 5 minutes.",
+        "4. Stir in turmeric powder and salt; cook for 1 minute.",
+        "5. Add chopped fermented bamboo shoot and green chilies; mix well.",
+        "6. Pour in water; bring to a boil. Reduce heat to low, cover, and simmer for 45-60 minutes until pork is tender and flavors meld.",
+        "7. Adjust salt and garnish with fresh coriander. Serve with steamed rice."
+    ],
+    "description": "A smoky, heart-warming embrace of fermented bamboo and mountain herbs, simmered with pork in a garlicky broth.",
+    "state": "Mizoram",
+    "veg_or_non_veg": "Non-Veg"
+}

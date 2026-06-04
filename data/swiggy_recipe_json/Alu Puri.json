@@ -1,0 +1,33 @@
+{
+    "name": "Alu Puri",
+    "url": "https://indianfoodmap.example.com/alu-puri",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups whole wheat flour (atta)",
+        "4 large boiled potatoes",
+        "1 tsp cumin seeds",
+        "1/2 tsp asafoetida (hing)",
+        "1 tsp turmeric powder",
+        "1 tsp red chili powder",
+        "1 tsp coriander powder",
+        "1/2 tsp amchur (dry mango powder)",
+        "2 green chilies, finely chopped",
+        "1 inch ginger, grated",
+        "Fresh coriander leaves",
+        "Mustard oil or ghee for frying",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Knead the whole wheat flour with water, a pinch of salt, and a tablespoon of oil into a firm dough and let it rest for 20 minutes.",
+        "2. To make the curry, heat oil in a pan, add cumin seeds and asafoetida. Add ginger and green chilies.",
+        "3. Add mashed potatoes and all dry spices (turmeric, chili powder, coriander powder, amchur, salt). Sauté for a few minutes.",
+        "4. Pour in 1.5 cups of water, cover, and simmer for 10 minutes until the gravy thickens; garnish with fresh coriander.",
+        "5. Roll small portions of the dough into circular puris and deep-fry them in hot oil until golden brown and puffed.",
+        "6. Serve hot puris with the spiced potato curry."
+    ],
+    "description": "Alu Puri is a quintessential Haryanvi breakfast, favored for its simplicity and robustness. It reflects the agricultural heartland's diet, prioritizing hearty, energy-dense ingredients. Often prepared during festivals and slow weekend mornings, it is a comfort food that brings families together across the state.",
+    "state": "Haryana",
+    "veg_or_non_veg": "Veg"
+}

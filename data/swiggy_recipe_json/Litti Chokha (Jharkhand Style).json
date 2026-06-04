@@ -1,0 +1,34 @@
+{
+    "name": "Litti Chokha (Jharkhand Style)",
+    "url": "https://indianfoodmap.example.com/litti-chokha-(jharkhand-style)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Whole wheat flour",
+        "Sattu (roasted gram flour)",
+        "Mustard oil",
+        "Ajwain (caraway seeds)",
+        "Kalonji (nigella seeds)",
+        "Ginger-garlic paste",
+        "Finely chopped green chilies",
+        "Finely chopped onions",
+        "Pickle masala (achaar masala)",
+        "Lemon juice",
+        "Roasted eggplant (baingan)",
+        "Boiled potatoes",
+        "Roasted tomatoes",
+        "Fresh coriander leaves",
+        "Ghee"
+    ],
+    "instructions": [
+        "1. Prepare the dough by mixing wheat flour with water and a little ghee; let it rest.",
+        "2. For the filling, mix Sattu with onion, ginger, garlic, chilies, ajwain, kalonji, mustard oil, lemon juice, and pickle masala.",
+        "3. Shape the dough into small discs, place a spoonful of filling, seal them into balls, and roast them over an open coal fire until golden brown and charred.",
+        "4. For the Chokha, roast the eggplant and tomatoes, peel the skin, and mash them with boiled potatoes, raw onions, green chilies, coriander, and a drizzle of raw mustard oil.",
+        "5. Break open the hot Litti, dip it generously in melted ghee, and serve with the prepared Chokha."
+    ],
+    "description": "Litti Chokha is the quintessential comfort food of Jharkhand and Bihar. Historically consumed by travelers and laborers due to its high nutritional value and long shelf life, it has evolved into a beloved rustic delicacy often served at community festivals and family gatherings, symbolizing the deep-rooted agrarian culture of the region.",
+    "state": "Jharkhand",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Radha Ballavi",
+    "url": "https://indianfoodmap.example.com/radha-ballavi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Refined flour (maida)",
+        "Split yellow moong dal (soaked)",
+        "Ginger paste",
+        "Green chilies",
+        "Asafoetida (hing)",
+        "Cumin powder",
+        "Fennel powder",
+        "Garam masala",
+        "Sugar",
+        "Salt",
+        "Mustard oil or Ghee",
+        "Refined oil for deep frying"
+    ],
+    "instructions": [
+        "1. Grind the soaked moong dal into a coarse paste with ginger and green chilies.",
+        "2. Sauté the paste in a pan with ghee, hing, cumin, fennel, sugar, and salt until it becomes a dry, non-sticky mixture.",
+        "3. Prepare a soft, pliable dough using flour, a pinch of salt, and a little oil.",
+        "4. Roll out small portions of dough, place a teaspoon of the dal stuffing in the center, and seal the edges tightly.",
+        "5. Gently roll the stuffed balls into flat discs, ensuring the filling does not leak.",
+        "6. Deep fry in hot oil until both sides are golden brown and puffed up."
+    ],
+    "description": "Radha Ballavi is a classic Bengali breakfast staple, often prepared during festivals and special occasions. It is essentially a richer, more flavorful version of the standard dal puri, deeply rooted in the culinary tradition of Bengal's aristocratic households and street-food culture.",
+    "state": "West Bengal",
+    "veg_or_non_veg": "Veg"
+}

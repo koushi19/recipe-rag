@@ -1,0 +1,32 @@
+{
+    "name": "Bhajia",
+    "url": "https://indianfoodmap.example.com/bhajia",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Gram flour (Besan)",
+        "Finely chopped onions",
+        "Green chilies",
+        "Ginger-garlic paste",
+        "Carom seeds (Ajwain)",
+        "Red chili powder",
+        "Turmeric powder",
+        "Fresh coriander leaves",
+        "Salt to taste",
+        "Water as needed",
+        "Mustard oil for deep frying"
+    ],
+    "instructions": [
+        "1. In a mixing bowl, combine gram flour, chopped onions, green chilies, ginger-garlic paste, and all dry spices.",
+        "2. Gradually add small amounts of water to create a thick, binding batter that coats the onions well.",
+        "3. Heat mustard oil in a heavy-bottomed pan until it reaches a high smoking point.",
+        "4. Drop spoonfuls of the batter carefully into the hot oil.",
+        "5. Fry on medium-high heat until the bhajias turn golden brown and crispy on all sides.",
+        "6. Remove using a slotted spoon and drain excess oil on paper towels.",
+        "7. Serve hot with spicy green chutney or imli (tamarind) chutney."
+    ],
+    "description": "Bhajia is an quintessential Chhattisgarhi snack, often referred to as the soul of local street food. It is deeply ingrained in the regional culture, frequently served at tea stalls during the monsoon season and during local festivals, symbolizing warmth and hospitality.",
+    "state": "Chhattisgarh",
+    "veg_or_non_veg": "Veg"
+}

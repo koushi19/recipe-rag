@@ -1,0 +1,31 @@
+{
+    "name": "Mimi (Dry Snack)",
+    "url": "https://indianfoodmap.example.com/mimi-(dry-snack)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 packet of instant noodles (dry)",
+        "1 tablespoon mustard oil or vegetable oil",
+        "1/2 teaspoon turmeric powder",
+        "1 teaspoon red chili powder (or crushed dried red chilies)",
+        "1/2 teaspoon cumin powder",
+        "1/2 teaspoon coriander powder",
+        "1 small onion, finely chopped",
+        "1 green chili, finely chopped",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. Remove the noodles from the packet and crush them into bite-sized pieces in a bowl.",
+        "2. Heat the mustard oil in a small pan until smoking point and let it cool slightly.",
+        "3. Add the turmeric, red chili powder, cumin, and coriander powder to the oil to bloom the spices.",
+        "4. Pour this spiced oil over the crushed noodles.",
+        "5. Add the finely chopped onions, green chilies, and salt.",
+        "6. Mix everything vigorously until the noodles are well coated with the spice mix.",
+        "7. Serve immediately as a crunchy snack, garnished with fresh coriander."
+    ],
+    "description": "Mimi is a quintessential 'after-school' or 'tea-time' snack in Sikkim. Reflecting the influence of instant noodle culture in the Himalayan regions, this dish elevates a simple convenience food into a flavorful, textured experience that captures the local preference for spicy and pungent seasoning.",
+    "state": "Sikkim",
+    "veg_or_non_veg": "Veg"
+}

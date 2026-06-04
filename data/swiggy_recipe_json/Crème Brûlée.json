@@ -1,0 +1,19 @@
+{
+    "name": "Crème Brûlée",
+    "url": "https://indianfoodmap.example.com/crème-brûlée",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Cream",
+        "Egg yolks",
+        "Sugar",
+        "Vanilla bean"
+    ],
+    "instructions": [
+        "1. Prepare a smooth vanilla custard. 2. Bake in a water bath. 3. Top with sugar and torch until caramelized and crisp."
+    ],
+    "description": "A rich custard base topped with a layer of caramelized sugar, a favorite in Pondy's cafes.",
+    "state": "Puducherry",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Ariselu",
+    "url": "https://indianfoodmap.example.com/ariselu",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Raw rice (soaked for 24 hours)",
+        "Jaggery (powdered)",
+        "Ghee",
+        "Sesame seeds",
+        "Cardamom powder",
+        "Oil (for deep frying)"
+    ],
+    "instructions": [
+        "1. Soak raw rice for 24 hours, drain, and grind into a slightly coarse powder while moist.",
+        "2. Melt jaggery in a pan with minimal water and boil until it reaches a soft-ball consistency.",
+        "3. Gradually add the rice flour to the jaggery syrup, stirring continuously to form a smooth, thick dough.",
+        "4. Add a teaspoon of ghee and cardamom powder to the dough and let it rest.",
+        "5. Take small portions of the dough, flatten them into round discs on a greased surface, and sprinkle sesame seeds on top.",
+        "6. Deep fry the discs in hot oil until they turn deep golden brown on both sides.",
+        "7. Gently press with a spatula to remove excess oil and cool before serving."
+    ],
+    "description": "Ariselu is a traditional and auspicious sweet dish prepared during the festival of Sankranti in Andhra Pradesh. It is known for its chewy texture, deep sweetness, and its role as a customary offering in households and temples.",
+    "state": "Andhra Pradesh",
+    "veg_or_non_veg": "Veg"
+}

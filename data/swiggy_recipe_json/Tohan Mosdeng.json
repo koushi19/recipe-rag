@@ -1,0 +1,29 @@
+{
+    "name": "Tohan Mosdeng",
+    "url": "https://indianfoodmap.example.com/tohan-mosdeng",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g chicken meat (usually boneless or skin-on)",
+        "4-5 dried red chilies (roasted)",
+        "2 tablespoons Berma (fermented fish paste)",
+        "1 large onion (finely chopped)",
+        "2 tablespoons fresh coriander leaves (chopped)",
+        "1 teaspoon ginger paste",
+        "Salt to taste",
+        "Water for boiling"
+    ],
+    "instructions": [
+        "1. Boil the chicken pieces in water with a pinch of salt until fully cooked and tender.",
+        "2. Once cooked, remove the chicken, let it cool, and shred the meat into thin strips or small pieces.",
+        "3. On an open flame, roast the dried red chilies until charred and aromatic.",
+        "4. In a bowl or mortar, crush the roasted chilies with salt, ginger, and the Berma (fermented fish paste) to create a coarse, pungent paste.",
+        "5. Add the shredded chicken to the paste and mix thoroughly using your hands to ensure the flavors coat the meat.",
+        "6. Add the finely chopped onions and coriander leaves, tossing everything together.",
+        "7. Serve as a spicy appetizer or side dish with steamed rice."
+    ],
+    "description": "Tohan Mosdeng is a quintessential Tripuri tribal delicacy. 'Mosdeng' translates to a spicy mashed or pounded salad/chutney, and this specific variation features chicken as the star protein. It is highly valued for the deep, umami-rich flavor contributed by 'Berma', a fermented fish paste that is a staple in Tripuri cuisine.",
+    "state": "Tripura",
+    "veg_or_non_veg": "Non-Veg"
+}

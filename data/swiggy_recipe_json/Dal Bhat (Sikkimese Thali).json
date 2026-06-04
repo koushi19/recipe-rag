@@ -1,0 +1,30 @@
+{
+    "name": "Dal Bhat (Sikkimese Thali)",
+    "url": "https://indianfoodmap.example.com/dal-bhat-(sikkimese-thali)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Steamed jasmine or local white rice",
+        "Yellow lentils (moong or masoor dal)",
+        "Seasonal mountain vegetables (fiddlehead fern/niyuro, bamboo shoots)",
+        "Turmeric powder",
+        "Ginger-garlic paste",
+        "Fresh green chilies",
+        "Dalle khursani (Sikkimese fiery red cherry pepper)",
+        "Ghee or mustard oil",
+        "Cumin seeds",
+        "Salt to taste",
+        "Fresh coriander leaves"
+    ],
+    "instructions": [
+        "1. Wash and boil the lentils with water, turmeric, and salt until soft, then temper with ghee, cumin, and ginger-garlic paste.",
+        "2. Steam the rice until fluffy and set aside.",
+        "3. Prepare the seasonal vegetables (like Niyuro) by stir-frying in mustard oil with garlic and sliced green chilies.",
+        "4. Prepare the side of Dalle Khursani by lightly pickling or serving fresh with a dash of salt and lime.",
+        "5. Assemble the thali by placing the rice in the center and arranging the dal bowl, vegetable side dish, and chili condiment around it."
+    ],
+    "description": "Dal Bhat is the quintessential comfort food of the Himalayas. In Sikkim, it is served as a balanced thali that reflects the local agricultural produce, often featuring unique mountain greens like Niyuro and the world-famous Dalle Khursani chili. It is considered the backbone of Sikkimese nutrition and hospitality.",
+    "state": "Sikkim",
+    "veg_or_non_veg": "Veg"
+}

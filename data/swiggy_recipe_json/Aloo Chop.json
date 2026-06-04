@@ -1,0 +1,33 @@
+{
+    "name": "Aloo Chop",
+    "url": "https://indianfoodmap.example.com/aloo-chop",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "4 large boiled potatoes",
+        "1 cup gram flour (besan)",
+        "2 tablespoons rice flour",
+        "1 teaspoon turmeric powder",
+        "1 teaspoon red chili powder",
+        "1/2 teaspoon ajwain (carom seeds)",
+        "1 finely chopped onion",
+        "2 green chilies",
+        "1 teaspoon ginger-garlic paste",
+        "Fresh coriander leaves",
+        "Salt to taste",
+        "Mustard oil for frying"
+    ],
+    "instructions": [
+        "1. Mash the boiled potatoes and mix them with chopped onions, green chilies, ginger-garlic paste, coriander, and salt.",
+        "2. Shape the mixture into small, flat patties.",
+        "3. Prepare a thick batter by whisking gram flour, rice flour, turmeric, chili powder, ajwain, salt, and water.",
+        "4. Heat mustard oil in a deep pan.",
+        "5. Dip each potato patty into the batter until evenly coated.",
+        "6. Carefully drop the patties into the hot oil and fry until they turn deep golden brown and crispy on both sides.",
+        "7. Drain on paper towels and serve hot with green chutney or tamarind sauce."
+    ],
+    "description": "Aloo Chop is an iconic snack of Jharkhand, frequently enjoyed during monsoon evenings or as a quick street-side breakfast. It holds deep cultural roots in the region, often served alongside 'Muri' (puffed rice) as a quintessential comfort food that brings communities together.",
+    "state": "Jharkhand",
+    "veg_or_non_veg": "Veg"
+}

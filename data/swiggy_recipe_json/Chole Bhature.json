@@ -1,0 +1,21 @@
+{
+    "name": "Chole Bhature",
+    "url": "https://indianfoodmap.example.com/chole-bhature",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Chickpeas",
+        "Maida",
+        "Yogurt",
+        "Tea bags (for color)",
+        "Amchoor",
+        "Garam masala"
+    ],
+    "instructions": [
+        "1. Soak and boil chickpeas with tea bags. 2. Sauté onions, ginger, and spices. 3. Add chickpeas and simmer until dark and spicy. 4. Make a soft dough for bhatura, ferment, and deep fry until puffed."
+    ],
+    "description": "The golden puff of indulgence, served with the spicy soul of Punjab.",
+    "state": "Chandigarh",
+    "veg_or_non_veg": "Veg"
+}

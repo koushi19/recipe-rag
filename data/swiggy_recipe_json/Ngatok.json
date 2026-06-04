@@ -1,0 +1,28 @@
+{
+    "name": "Ngatok",
+    "url": "https://indianfoodmap.example.com/ngatok",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Fresh river fish",
+        "Ginger paste",
+        "Garlic",
+        "Green chilies",
+        "Oying (local herbs)",
+        "Bamboo shoots",
+        "Salt to taste",
+        "Water"
+    ],
+    "instructions": [
+        "1. Clean the fish thoroughly and cut into medium-sized pieces.",
+        "2. In a pot, combine the fish, crushed ginger, garlic, chopped green chilies, and bamboo shoots.",
+        "3. Add enough water to cover the ingredients and season with salt.",
+        "4. Bring the mixture to a boil and simmer until the fish is tender and the flavors of the bamboo shoot infuse the broth.",
+        "5. Optionally, wrap the ingredients in banana leaves and steam them for a traditional smoky flavor.",
+        "6. Serve hot, typically accompanied by steamed rice."
+    ],
+    "description": "Ngatok is a signature fish curry from Arunachal Pradesh, particularly cherished by the Nishi tribe. It reflects the region's culinary reliance on fresh river produce and wild-foraged ingredients like bamboo shoots, focusing on clean, natural flavors rather than heavy spices.",
+    "state": "Arunachal Pradesh",
+    "veg_or_non_veg": "Non-Veg"
+}

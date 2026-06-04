@@ -1,0 +1,32 @@
+{
+    "name": "Batata Vada",
+    "url": "https://indianfoodmap.example.com/batata-vada",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "4 large boiled and mashed potatoes",
+        "1 cup gram flour (besan)",
+        "2 green chilies, finely chopped",
+        "1 tablespoon ginger-garlic paste",
+        "1/2 teaspoon mustard seeds",
+        "1/4 teaspoon asafoetida (hing)",
+        "1/2 teaspoon turmeric powder",
+        "1 tablespoon fresh coriander leaves, chopped",
+        "1/2 teaspoon red chili powder",
+        "1/4 teaspoon baking soda",
+        "Salt to taste",
+        "Oil for deep frying",
+        "10-12 curry leaves"
+    ],
+    "instructions": [
+        "1. Heat oil in a pan, add mustard seeds, curry leaves, hing, green chilies, and ginger-garlic paste.",
+        "2. Add turmeric and mashed potatoes; mix well with salt and coriander leaves, then shape into small balls.",
+        "3. Prepare a smooth, thick batter using gram flour, turmeric, salt, baking soda, and water.",
+        "4. Dip the potato balls into the batter until evenly coated.",
+        "5. Deep-fry in hot oil until golden and crispy; serve hot with green chutney or dry garlic chutney."
+    ],
+    "description": "Batata Vada is the quintessential Maharashtrian street food, famously served as the core filling in the iconic 'Vada Pav'. It is a beloved snack that reflects the state's love for comfort food, often enjoyed during the monsoon season with a cup of cutting chai.",
+    "state": "Maharashtra",
+    "veg_or_non_veg": "Veg"
+}

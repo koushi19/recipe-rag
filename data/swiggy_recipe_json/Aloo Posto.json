@@ -1,0 +1,23 @@
+{
+    "name": "Aloo Posto",
+    "url": "https://indianfoodmap.example.com/aloo-posto",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Potatoes (peeled and cubed)",
+        "Poppy seeds (Posto)",
+        "Mustard oil",
+        "Green chilies",
+        "Nigella seeds (Kalo Jeera)",
+        "Turmeric powder",
+        "Salt",
+        "Water"
+    ],
+    "instructions": [
+        "1. Soak poppy seeds for 30 minutes and grind into a smooth paste with green chilies and a splash of water. 2. Heat mustard oil in a pan until smoking and add nigella seeds. 3. Add potato cubes and sauté until slightly golden. 4. Add turmeric powder and salt, mixing well. 5. Pour in the poppy seed paste and a little water to cover the potatoes. 6. Cover and cook on low heat until the potatoes are tender and the gravy thickens to a semi-dry consistency. 7. Drizzle a teaspoon of raw mustard oil before serving."
+    ],
+    "description": "Aloo Posto is a cornerstone of Bengali cuisine, celebrated for its unique nutty flavor profile. It is a simple yet sophisticated home-style preparation that reflects the Bengali love for poppy seeds, which were historically introduced to the region's culinary culture through local agrarian practices.",
+    "state": "West Bengal",
+    "veg_or_non_veg": "Veg"
+}

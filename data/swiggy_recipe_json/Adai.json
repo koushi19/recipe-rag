@@ -1,0 +1,33 @@
+{
+    "name": "Adai",
+    "url": "https://indianfoodmap.example.com/adai",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup raw rice",
+        "1/4 cup boiled rice",
+        "1/4 cup chana dal",
+        "1/4 cup toor dal",
+        "1/4 cup urad dal",
+        "1/4 cup moong dal",
+        "4-5 dry red chilies",
+        "1 tsp fennel seeds",
+        "1/2 tsp asafoetida",
+        "1/2 cup finely chopped curry leaves",
+        "1 cup finely chopped drumstick leaves (murungai keerai)",
+        "Salt to taste",
+        "Oil for shallow frying"
+    ],
+    "instructions": [
+        "1. Soak the rice and all dals together in water for 3-4 hours.",
+        "2. Drain the water and grind the mixture with dry red chilies, fennel seeds, and salt into a coarse, thick batter.",
+        "3. Add chopped curry leaves, drumstick leaves, and asafoetida to the batter and mix well.",
+        "4. Heat a tawa and pour a ladleful of batter in the center, spreading it into a thick circle.",
+        "5. Drizzle oil around the edges and in the center hole.",
+        "6. Cook on medium heat until both sides are golden brown and crispy."
+    ],
+    "description": "Adai is a traditional, nutritious South Indian crepe popular in Tamil Nadu, often referred to as 'Tamil Nadu pancake'. Unlike the fermented dosa, Adai does not require fermentation and is packed with protein due to the variety of lentils used. It is often served with Avial or jaggery, and holds cultural significance as a wholesome breakfast or dinner option.",
+    "state": "Tamil Nadu",
+    "veg_or_non_veg": "Veg"
+}

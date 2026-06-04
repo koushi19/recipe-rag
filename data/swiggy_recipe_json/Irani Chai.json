@@ -1,0 +1,26 @@
+{
+    "name": "Irani Chai",
+    "url": "https://indianfoodmap.example.com/irani-chai",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Irani chai dust (strong black tea powder)",
+        "Full-fat milk",
+        "Water",
+        "Sugar",
+        "Green cardamom pods",
+        "Cinnamon sticks",
+        "Cloves"
+    ],
+    "instructions": [
+        "1. Prepare a thick decoction by boiling water with tea dust, crushed cardamom, cinnamon, and cloves for at least 15-20 minutes until very dark and concentrated.",
+        "2. In a separate heavy-bottomed vessel, boil the milk for an extended period until it reduces slightly and thickens.",
+        "3. Pour the strained tea decoction into a cup, filling it about one-third of the way.",
+        "4. Top the cup with the thickened, hot milk and add sugar to taste.",
+        "5. Serve immediately, traditionally accompanied by Osmania biscuits."
+    ],
+    "description": "Introduced by Persian immigrants to Hyderabad, Irani Chai is an iconic part of Telangana's culinary heritage. It is known for its intense flavor, milky texture, and the unique method of brewing tea leaves and milk separately. It serves as a social staple in the historic Irani cafes of Hyderabad, often enjoyed during long conversations.",
+    "state": "Telangana",
+    "veg_or_non_veg": "Veg"
+}

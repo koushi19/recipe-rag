@@ -1,0 +1,27 @@
+{
+    "name": "Ladakhi Apricot Juice",
+    "url": "https://indianfoodmap.example.com/ladakhi-apricot-juice",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g fresh or dried ripe apricots (Chulli)",
+        "4-5 cups water",
+        "2-4 tablespoons honey or local raw sugar (adjust to taste)",
+        "1/2 teaspoon black salt (kala namak)",
+        "A pinch of crushed roasted cumin seeds (optional for depth)",
+        "Ice cubes (optional)"
+    ],
+    "instructions": [
+        "1. If using dried apricots, soak them in water for at least 3-4 hours; if using fresh, wash and pit them.",
+        "2. Place the apricots and their soaking liquid (or fresh water) in a pot and bring to a boil.",
+        "3. Reduce heat and simmer until the apricots are very soft and can be easily mashed.",
+        "4. Remove from heat and allow the mixture to cool to room temperature.",
+        "5. Blend the mixture until smooth and strain if a thinner consistency is desired.",
+        "6. Stir in the honey, black salt, and optional roasted cumin.",
+        "7. Serve chilled or over ice."
+    ],
+    "description": "Apricots, known as 'Chulli' in Ladakh, are a staple fruit of the region, thriving in its high-altitude, cold-desert climate. This juice is a traditional beverage often offered as a sign of hospitality, celebrated for its cooling properties and rich nutritional value.",
+    "state": "Ladakh",
+    "veg_or_non_veg": "Veg"
+}

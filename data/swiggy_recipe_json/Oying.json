@@ -1,0 +1,28 @@
+{
+    "name": "Oying",
+    "url": "https://indianfoodmap.example.com/oying",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Fresh seasonal leafy greens (like mustard greens or pumpkin leaves)",
+        "Bamboo shoot (fresh or fermented)",
+        "Ginger",
+        "Green chilies",
+        "Salt",
+        "Water",
+        "Optional: Smoked pork or dried fish (for non-veg variant)"
+    ],
+    "instructions": [
+        "1. Wash and chop the leafy greens into medium-sized pieces.",
+        "2. Slice the fresh bamboo shoot into thin strips.",
+        "3. In a large pot, bring a moderate amount of water to a boil.",
+        "4. Add the bamboo shoots and chopped ginger to the boiling water.",
+        "5. Once the bamboo shoots are tender, add the leafy greens and green chilies.",
+        "6. Season with salt to taste and simmer until the vegetables are cooked but still retain their vibrant color.",
+        "7. Serve hot, traditionally paired with steamed red rice."
+    ],
+    "description": "Oying is a quintessential staple of the Adi community in Arunachal Pradesh. It represents the indigenous culinary philosophy of using locally foraged ingredients, emphasizing health and simplicity. It is often served as a comforting daily accompaniment to rice, reflecting the symbiotic relationship between the forest and the tribal kitchen.",
+    "state": "Arunachal Pradesh",
+    "veg_or_non_veg": "Veg"
+}

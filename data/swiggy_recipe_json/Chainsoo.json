@@ -1,0 +1,36 @@
+{
+    "name": "Chainsoo",
+    "url": "https://indianfoodmap.example.com/chainsoo",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Black Urad Dal (split or whole)",
+        "Mustard oil",
+        "Asafoetida (hing)",
+        "Cumin seeds",
+        "Garlic cloves",
+        "Ginger",
+        "Green chilies",
+        "Coriander powder",
+        "Turmeric powder",
+        "Red chili powder",
+        "Salt",
+        "Water",
+        "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. Dry roast the black urad dal in a heavy-bottomed pan or iron kadhai until it turns fragrant and slightly darker.",
+        "2. Once cooled, grind the roasted dal into a coarse, grainy powder.",
+        "3. Heat mustard oil in a pan, add cumin seeds, and a pinch of asafoetida.",
+        "4. Add finely chopped garlic, ginger, and green chilies, sautéing until golden.",
+        "5. Add the ground dal powder to the pan and roast it further with the tempering for 2-3 minutes.",
+        "6. Add turmeric, coriander powder, red chili powder, and salt, mixing well.",
+        "7. Gradually pour in water while stirring continuously to prevent lumps.",
+        "8. Simmer on low heat for 20-30 minutes until the dal thickens to a rich, soup-like consistency.",
+        "9. Garnish with fresh coriander and serve hot with steamed rice."
+    ],
+    "description": "Chainsoo is a signature dish of the Garhwal region of Uttarakhand. It is highly valued for its high protein content and deep, earthy flavor. Traditionally cooked in iron utensils, it is a staple comfort food often served during winters and festivals, representing the simple yet robust mountain culinary heritage.",
+    "state": "Uttarakhand",
+    "veg_or_non_veg": "Veg"
+}

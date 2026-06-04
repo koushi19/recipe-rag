@@ -1,0 +1,24 @@
+{
+    "name": "Handia (Rice Beer)",
+    "url": "https://indianfoodmap.example.com/handia-(rice-beer)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Parboiled rice",
+        "Ranu tablet (a traditional herbal starter culture containing various roots and barks)",
+        "Water"
+    ],
+    "instructions": [
+        "1. Boil the parboiled rice in water until it is cooked but still firm.",
+        "2. Drain the water and spread the cooked rice on a clean surface to cool down completely.",
+        "3. Grind the Ranu tablets into a fine powder.",
+        "4. Thoroughly mix the Ranu powder into the cooled rice.",
+        "5. Transfer the mixture into a clean earthen pot (handi) and cover it tightly.",
+        "6. Store the pot in a cool, dark place for 2 to 3 days to allow the fermentation process to occur.",
+        "7. Once the mixture turns liquid and develops a distinct sweet-sour aroma, strain the liquid and serve chilled."
+    ],
+    "description": "Handia is a traditional fermented rice beverage indigenous to the tribal communities of Jharkhand. It holds deep cultural and social significance, often prepared during festivals, weddings, and community gatherings. It is considered a cooling drink and is regarded as a sacred offering to the ancestors and spirits.",
+    "state": "Jharkhand",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Kholak",
+    "url": "https://indianfoodmap.example.com/kholak",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Roasted barley flour (Tsampa)",
+        "Butter tea (Gur-gur chai) or salted water",
+        "Yak butter or unsalted butter",
+        "Roasted wheat flour (optional)",
+        "Dried apricot kernels (optional for texture)"
+    ],
+    "instructions": [
+        "1. Take a clean bowl and add the roasted barley flour (Tsampa).",
+        "2. Gradually add warm butter tea or salted warm water while mixing with your fingers.",
+        "3. Add a small dollop of yak butter to the mixture for richness.",
+        "4. Knead the ingredients together by hand until it forms a firm, pliable, and non-sticky dough.",
+        "5. Shape the dough into small, bite-sized balls or patties.",
+        "6. Serve immediately as a nutritious, travel-friendly meal often paired with pickles or dried meat."
+    ],
+    "description": "Kholak is a foundational dish in Ladakhi culture, representing the resourcefulness of mountain living. Often consumed by travelers and farmers, it provides sustained energy in high-altitude environments due to the high fiber and nutritional content of roasted barley.",
+    "state": "Ladakh",
+    "veg_or_non_veg": "Veg"
+}

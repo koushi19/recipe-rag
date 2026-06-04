@@ -1,0 +1,38 @@
+{
+    "name": "Paneer Pasanda",
+    "url": "https://indianfoodmap.example.com/paneer-pasanda",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "250g Paneer",
+        "50g Khoya (Mawa)",
+        "2 tablespoons finely chopped cashews and raisins",
+        "2 large onions, pureed",
+        "3 tomatoes, pureed",
+        "1 tablespoon ginger-garlic paste",
+        "1/2 teaspoon turmeric powder",
+        "1 teaspoon Kashmiri red chili powder",
+        "1 teaspoon coriander powder",
+        "1/2 teaspoon garam masala",
+        "1/2 cup fresh cream or whisked curd",
+        "2 tablespoons oil or ghee",
+        "1 teaspoon cumin seeds",
+        "1 bay leaf",
+        "Salt to taste",
+        "Fresh coriander for garnish"
+    ],
+    "instructions": [
+        "1. Slice paneer into triangles. Mix khoya, chopped nuts, and a pinch of salt to create a stuffing.",
+        "2. Spread the stuffing between two paneer triangles to make a sandwich and lightly dust with cornflour.",
+        "3. Shallow fry the stuffed paneer pieces until golden and set aside.",
+        "4. In a pan, heat oil, add cumin and bay leaf, then sauté the onion puree until translucent.",
+        "5. Add ginger-garlic paste, tomato puree, turmeric, chili powder, and coriander powder; cook until oil separates.",
+        "6. Whisk in the cream or curd, add a little water to adjust consistency, and bring to a simmer.",
+        "7. Gently place the fried paneer sandwiches into the gravy, sprinkle with garam masala, and cook for 2 minutes.",
+        "8. Garnish with fresh coriander and serve hot."
+    ],
+    "description": "Paneer Pasanda is a quintessential North Indian royal delicacy, particularly popular in Uttar Pradesh. The term 'Pasanda' refers to a dish made with slices of meat or, in this vegetarian version, paneer, which is considered a centerpiece of festive feasts and celebratory dining, known for its indulgent, velvety texture and aromatic spice profile.",
+    "state": "Uttar Pradesh",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Kulfi Faluda",
+    "url": "https://indianfoodmap.example.com/kulfi-faluda",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Full-fat buffalo milk",
+        "Sugar",
+        "Green cardamom powder",
+        "Saffron strands",
+        "Chopped almonds",
+        "Chopped pistachios",
+        "Cornstarch or arrowroot flour",
+        "Rose syrup",
+        "Sabja seeds (sweet basil seeds)",
+        "Falooda sev (vermicelli made from cornstarch)"
+    ],
+    "instructions": [
+        "1. Boil milk in a heavy-bottomed pan and simmer until reduced to half its volume, stirring constantly to prevent burning.",
+        "2. Add sugar, cardamom powder, and saffron strands, cooking until the mixture thickens into a rabri consistency.",
+        "3. Cool the mixture, pour into kulfi molds, and freeze until set solid.",
+        "4. Prepare the falooda sev by boiling in water, then immediately rinsing in cold water to separate strands.",
+        "5. Soak sabja seeds in water until they swell.",
+        "6. To serve, place a portion of chilled falooda sev and soaked seeds in a bowl or glass, add the unmolded kulfi, and drizzle generously with rose syrup and nuts."
+    ],
+    "description": "Kulfi Faluda is an iconic street food of Uttar Pradesh, particularly famous in Lucknow and Varanasi. It represents the rich Mughal culinary heritage, offering a perfect balance of the creamy, nutty frozen kulfi and the cooling, textural contrast of vermicelli and rose-scented syrup, often enjoyed as a refreshing treat during hot summer evenings.",
+    "state": "Uttar Pradesh",
+    "veg_or_non_veg": "Veg"
+}

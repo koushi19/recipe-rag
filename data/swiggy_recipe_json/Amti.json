@@ -1,0 +1,33 @@
+{
+    "name": "Amti",
+    "url": "https://indianfoodmap.example.com/amti",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup toor dal (split pigeon peas)",
+        "2 tbsp goda masala",
+        "1 tbsp jaggery",
+        "1 small lemon-sized ball of tamarind",
+        "1/2 tsp turmeric powder",
+        "1 tsp mustard seeds",
+        "1/2 tsp cumin seeds",
+        "1/4 tsp asafoetida (hing)",
+        "8-10 curry leaves",
+        "2 tbsp oil or ghee",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish",
+        "Water as needed"
+    ],
+    "instructions": [
+        "1. Pressure cook the toor dal with turmeric and water until soft, then mash it until smooth.",
+        "2. Soak tamarind in warm water, extract the pulp, and add it to the cooked dal along with jaggery.",
+        "3. Add goda masala and salt, bringing the mixture to a boil; adjust water to achieve a medium-thin consistency.",
+        "4. In a small pan, heat oil/ghee and add mustard seeds, cumin seeds, curry leaves, and asafoetida.",
+        "5. Pour this tempering over the boiling dal and simmer for another 5 minutes.",
+        "6. Garnish with fresh coriander before serving hot with steamed rice."
+    ],
+    "description": "Amti is the quintessential Maharashtrian dal, distinguished by the use of 'Goda Masala'—a complex, fragrant spice blend unique to the region. It is a staple in everyday Maharashtrian meals, balancing sweet (jaggery), tangy (tamarind), and spicy notes, embodying the soul of home-cooked comfort food.",
+    "state": "Maharashtra",
+    "veg_or_non_veg": "Veg"
+}

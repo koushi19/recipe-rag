@@ -1,0 +1,29 @@
+{
+    "name": "Paaknam",
+    "url": "https://indianfoodmap.example.com/paaknam",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Gram flour (besan)",
+        "Fresh herbs (peucedanum graveolens/singju mana)",
+        "Fine chopped onions",
+        "Crushed chili",
+        "Ginger paste",
+        "Garlic paste",
+        "Salt",
+        "King chili (u-morok)",
+        "Turmeric powder",
+        "Banana leaves (for wrapping)"
+    ],
+    "instructions": [
+        "1. Mix the gram flour, onions, ginger, garlic, salt, turmeric, and chopped local herbs with a little water to form a thick, consistency-rich batter.",
+        "2. Prepare the banana leaves by lightly wilting them over an open flame to make them pliable.",
+        "3. Place a portion of the batter in the center of a prepared banana leaf.",
+        "4. Fold the leaf into a rectangular packet, securing it if necessary.",
+        "5. Cook the packets on a hot flat griddle or tava over medium heat, flipping occasionally until the leaf is charred and the inside is cooked through."
+    ],
+    "description": "Paaknam is a beloved Manipuri snack often referred to as a traditional pancake. Its unique flavor profile comes from the distinct aroma of indigenous herbs and the smoky fragrance imparted by the banana leaves during the slow-griddling process.",
+    "state": "Manipur",
+    "veg_or_non_veg": "Veg"
+}

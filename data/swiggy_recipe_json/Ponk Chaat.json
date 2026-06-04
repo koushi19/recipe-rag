@@ -1,0 +1,30 @@
+{
+    "name": "Ponk Chaat",
+    "url": "https://indianfoodmap.example.com/ponk-chaat",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups tender green jowar (sorghum) grains",
+        "1 small onion, finely chopped",
+        "1 small tomato, finely chopped",
+        "2 tablespoons fresh coriander, finely chopped",
+        "1 teaspoon green chili paste",
+        "1/2 teaspoon chaat masala",
+        "1/4 teaspoon black salt",
+        "1 tablespoon lemon juice",
+        "1 tablespoon sev (crunchy chickpea flour noodles)",
+        "1 tablespoon roasted peanuts",
+        "Pinch of salt"
+    ],
+    "instructions": [
+        "1. Gently rinse the fresh tender green jowar (ponk) and pat them dry if necessary.",
+        "2. In a large mixing bowl, combine the cleaned ponk with finely chopped onions, tomatoes, and green chili paste.",
+        "3. Add the roasted peanuts, chaat masala, black salt, and regular salt according to taste.",
+        "4. Drizzle fresh lemon juice over the mixture and toss everything thoroughly until well combined.",
+        "5. Transfer to a serving dish and garnish generously with fresh coriander and crispy sev before serving immediately to maintain the texture."
+    ],
+    "description": "Ponk Chaat is a seasonal delicacy prepared during the harvest season of tender green sorghum (jowar). Popular in the coastal regions of Daman and Diu, this dish highlights the simplicity of farm-fresh ingredients. It is cherished for its fresh, earthy flavor profile and is often enjoyed as a light evening snack or a refreshing appetizer, reflecting the agricultural roots and vibrant street food culture of the region.",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "veg_or_non_veg": "Veg"
+}

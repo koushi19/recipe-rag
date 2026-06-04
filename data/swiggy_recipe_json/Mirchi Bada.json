@@ -1,0 +1,30 @@
+{
+    "name": "Mirchi Bada",
+    "url": "https://indianfoodmap.example.com/mirchi-bada",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Large green chilies (Bhavnagari/Jodhpuri mirch)",
+        "Boiled potatoes",
+        "Gram flour (besan)",
+        "Cumin seeds",
+        "Fennel seeds",
+        "Coriander powder",
+        "Red chili powder",
+        "Turmeric powder",
+        "Dry mango powder (amchur)",
+        "Garam masala",
+        "Salt",
+        "Ginger-green chili paste",
+        "Fresh coriander leaves",
+        "Carom seeds (ajwain)",
+        "Cooking oil for deep frying"
+    ],
+    "instructions": [
+        "1. Slit the chilies lengthwise and remove seeds to reduce heat. 2. Mash boiled potatoes and mix with cumin, fennel, coriander powder, amchur, ginger paste, and salt to create the stuffing. 3. Stuff the potato mixture into the chilies. 4. Prepare a thick batter using gram flour, water, carom seeds, turmeric, and salt. 5. Heat oil in a deep pan. 6. Dip the stuffed chilies into the batter until coated. 7. Deep fry until the coating is crispy and golden. 8. Serve hot with tamarind or mint chutney."
+    ],
+    "description": "Mirchi Bada is an iconic street food originating from Jodhpur, Rajasthan. It is a quintessential tea-time snack that perfectly balances the heat of the chili with the tangy, spiced potato filling and the earthy crunch of the besan crust, reflecting the robust and flavorful culinary tradition of the Marwar region.",
+    "state": "Rajasthan",
+    "veg_or_non_veg": "Veg"
+}

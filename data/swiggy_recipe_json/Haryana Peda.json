@@ -1,0 +1,25 @@
+{
+    "name": "Haryana Peda",
+    "url": "https://indianfoodmap.example.com/haryana-peda",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Full-fat buffalo milk (Khoya/Mawa)",
+        "Powdered sugar (Bura)",
+        "Green cardamom powder",
+        "Saffron strands (optional)",
+        "Ghee",
+        "Almond or pistachio slivers for garnish"
+    ],
+    "instructions": [
+        "1. Heat a heavy-bottomed pan and add khoya, cooking it on low heat while stirring constantly to prevent burning.",
+        "2. Once the khoya softens and releases a bit of ghee, add powdered sugar and mix thoroughly until the mixture thickens into a dough-like consistency.",
+        "3. Stir in cardamom powder and optional saffron, then remove from heat and let it cool until it can be handled.",
+        "4. Take small portions of the mixture and roll them into smooth balls between your palms.",
+        "5. Press the center gently to create a slight indentation and garnish with a nut slice, then let the pedas set completely before serving."
+    ],
+    "description": "Haryana Peda is a beloved sweet delicacy deeply rooted in the agricultural traditions of Haryana. Often prepared during festivals, weddings, and special celebrations, it represents the richness of the state's dairy culture, utilizing high-quality local buffalo milk to create a dense, melt-in-the-mouth treat.",
+    "state": "Haryana",
+    "veg_or_non_veg": "Veg"
+}

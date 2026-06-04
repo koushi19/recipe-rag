@@ -1,0 +1,31 @@
+{
+    "name": "Khoru",
+    "url": "https://indianfoodmap.example.com/khoru",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Dahi (whisked curd/yogurt)",
+        "Besan (gram flour)",
+        "Mustard oil",
+        "Jakhia or Mustard seeds",
+        "Dry red chillies",
+        "Turmeric powder",
+        "Salt to taste",
+        "Water",
+        "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. Whisk the yogurt and gram flour together in a bowl until smooth and free of lumps.",
+        "2. Add water to the mixture to reach a thin, pouring consistency.",
+        "3. Heat mustard oil in a heavy-bottomed pan until it reaches a smoking point.",
+        "4. Add mustard seeds (or Jakhia) and dry red chillies to the hot oil.",
+        "5. Once the seeds crackle, pour the yogurt mixture into the pan.",
+        "6. Add turmeric powder and salt, then cook on low flame, stirring continuously to prevent curdling.",
+        "7. Allow the mixture to simmer for about 10-15 minutes until thickened slightly.",
+        "8. Garnish with fresh coriander and serve hot with steamed rice."
+    ],
+    "description": "Khoru is a quintessential comfort food from Himachal Pradesh. It is a light, tangy, and cooling curd-based dish prepared frequently in Himachali households. It is culturally significant for its simplicity and is a staple during daily meals, often enjoyed alongside local red rice or other traditional Himachali side dishes.",
+    "state": "Himachal Pradesh",
+    "veg_or_non_veg": "Veg"
+}

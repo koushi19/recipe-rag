@@ -1,0 +1,31 @@
+{
+    "name": "Ghatte ki Sabzi",
+    "url": "https://indianfoodmap.example.com/ghatte-ki-sabzi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup gram flour (besan)",
+        "1/2 tsp carom seeds (ajwain)",
+        "1/2 tsp turmeric powder",
+        "1 tsp red chili powder",
+        "2 tbsp mustard oil",
+        "1 cup yogurt (whisked)",
+        "1 tsp cumin seeds",
+        "1/2 tsp asafoetida (hing)",
+        "1 tbsp coriander powder",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. Mix gram flour with carom seeds, a pinch of turmeric, chili powder, salt, and 1 tbsp oil; knead into a firm dough using minimal water.",
+        "2. Divide the dough into small rolls and boil them in salted water until they float; drain and slice them into bite-sized pieces.",
+        "3. Heat mustard oil in a pan, add cumin seeds and hing.",
+        "4. Lower the heat and add whisked yogurt mixed with coriander powder, turmeric, and chili powder, stirring constantly to prevent curdling.",
+        "5. Once the gravy thickens and oil separates, add the boiled gatte pieces.",
+        "6. Simmer for 5 minutes and garnish with fresh coriander before serving."
+    ],
+    "description": "Ghatte ki Sabzi is a quintessential comfort food from Himachal Pradesh, often prepared during local festivities and social gatherings. It showcases the region's resourceful use of dried pulses and gram flour, creating a robust, flavor-packed dish that pairs perfectly with steamed rice or siddu.",
+    "state": "Himachal Pradesh",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Kolkata Biryani",
+    "url": "https://indianfoodmap.example.com/kolkata-biryani",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Basmati rice",
+        "Mutton or Chicken pieces",
+        "Boiled potatoes",
+        "Hard-boiled eggs",
+        "Yogurt",
+        "Ginger-garlic paste",
+        "Onion barista (fried onions)",
+        "Ghee",
+        "Saffron soaked in milk",
+        "Rose water",
+        "Kewra water",
+        "Whole spices (cardamom, cinnamon, cloves, bay leaf, shahi jeera)",
+        "Biryani masala powder (nutmeg, mace, black cardamom)",
+        "Salt"
+    ],
+    "instructions": [
+        "1. Marinate the meat in ginger-garlic paste, yogurt, and spices for several hours.",
+        "2. Fry the peeled potatoes until golden and soft.",
+        "3. Cook the meat in the marinade until tender.",
+        "4. Par-boil the basmati rice with whole spices until 70% done.",
+        "5. In a heavy-bottomed pot (handi), layer the meat and potatoes at the bottom, followed by a layer of rice.",
+        "6. Drizzle with ghee, saffron milk, rose water, kewra water, and fried onions.",
+        "7. Cover tightly and cook on 'dum' (low heat) for 20-30 minutes.",
+        "8. Serve hot, ensuring each portion includes a potato and an optional boiled egg."
+    ],
+    "description": "Originating from the royal kitchens of Awadh and adapted by the exiled Nawab Wajid Ali Shah in Kolkata, this biryani is unique for the inclusion of a signature soft-cooked potato and often an egg. It is lighter on spices compared to its Hyderabadi counterpart, focusing on the subtle aroma of rose water and saffron, reflecting the sophisticated culinary heritage of Bengali culture.",
+    "state": "West Bengal",
+    "veg_or_non_veg": "Non-Veg"
+}

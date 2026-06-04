@@ -1,0 +1,31 @@
+{
+    "name": "Gond Ladoo",
+    "url": "https://indianfoodmap.example.com/gond-ladoo",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Edible gum (Gond)",
+        "Whole wheat flour (Atta)",
+        "Desi ghee",
+        "Jaggery (Gur)",
+        "Dry coconut (Grated)",
+        "Dried ginger powder (Sonth)",
+        "Muskmelon seeds (Magaz)",
+        "Almonds",
+        "Cashews",
+        "Pistachios",
+        "Black pepper powder"
+    ],
+    "instructions": [
+        "1. Heat ghee in a heavy-bottomed pan and fry the edible gum (gond) until it puffs up; remove and crush coarsely.",
+        "2. In the same ghee, roast whole wheat flour on low heat until golden brown and aromatic.",
+        "3. Add dry ginger powder, crushed gond, grated coconut, melon seeds, and chopped nuts to the flour mixture.",
+        "4. Melt jaggery in a separate pan with a little ghee to form a syrup; do not overcook.",
+        "5. Pour the jaggery syrup into the flour mixture, stir quickly to combine.",
+        "6. While the mixture is still warm, grease your palms with ghee and roll small portions into firm, round ladoos."
+    ],
+    "description": "Gond Ladoo is a highly nutritious, energy-boosting traditional sweet from Haryana, widely consumed during the harsh winter months to provide warmth and strength. It is culturally significant as a post-partum restorative food for nursing mothers and a seasonal health supplement for the entire family.",
+    "state": "Haryana",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Kappa (Garo Soup)",
+    "url": "https://indianfoodmap.example.com/kappa-(garo-soup)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Chicken pieces (traditionally with skin)",
+        "Baking soda (replaces traditional alkali soil/plant ash)",
+        "Green chilies",
+        "Rice flour (for thickening)",
+        "Ginger paste",
+        "Onion",
+        "Garlic cloves",
+        "Water",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. Marinate the chicken with ginger, garlic, salt, and sliced onions.",
+        "2. Boil water in a deep pot and add the baking soda to create the characteristic alkaline base.",
+        "3. Add the marinated chicken to the boiling alkaline water and cook until tender.",
+        "4. Stir in the green chilies and simmer until the broth becomes slightly thick and gray-tinted.",
+        "5. Mix rice flour with a little water to form a slurry and stir into the soup to thicken it.",
+        "6. Adjust seasoning, garnish with fresh coriander, and serve hot."
+    ],
+    "description": "Kappa is a signature soup of the Garo tribe of Meghalaya. It is traditionally prepared using an alkaline ingredient made from burnt plantain skins or specific forest trees, which gives the soup its distinct, slightly bitter flavor profile. It is a comforting dish often served with steamed rice.",
+    "state": "Meghalaya",
+    "veg_or_non_veg": "Non-Veg"
+}

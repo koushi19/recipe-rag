@@ -1,0 +1,34 @@
+{
+    "name": "Sugarcane Vinegar Fish Fry",
+    "url": "https://indianfoodmap.example.com/sugarcane-vinegar-fish-fry",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g fresh fish (Pomfret or Kingfish)",
+        "3 tbsp authentic sugarcane vinegar",
+        "1 tbsp ginger-garlic paste",
+        "1 tsp turmeric powder",
+        "2 tsp Kashmiri red chili powder",
+        "1 tsp cumin powder",
+        "1/2 tsp black pepper powder",
+        "Salt to taste",
+        "4 tbsp rice flour",
+        "2 tbsp semolina (rava)",
+        "Mustard oil for shallow frying",
+        "Curry leaves for garnish"
+    ],
+    "instructions": [
+        "1. Clean the fish slices thoroughly and pat them dry.",
+        "2. In a bowl, whisk together the sugarcane vinegar, ginger-garlic paste, turmeric, red chili powder, cumin, pepper, and salt to create a smooth marinade.",
+        "3. Coat the fish slices evenly with the marinade and let them rest for at least 30 minutes to allow the flavors to penetrate.",
+        "4. Mix the rice flour and semolina on a plate.",
+        "5. Press each marinated fish piece into the flour mixture, ensuring a thin, even crust.",
+        "6. Heat mustard oil in a heavy-bottomed pan over medium heat.",
+        "7. Shallow fry the fish for 3-4 minutes on each side until the exterior is crispy and the flesh is opaque and cooked through.",
+        "8. Serve hot, garnished with fresh curry leaves."
+    ],
+    "description": "This dish is a testament to the coastal heritage of the region, where the use of sugarcane vinegar—a local specialty—provides a unique, mild sweetness and sharp tang that cuts through the richness of the fresh catch. It is a popular preparation in Daman, reflecting the fusion of Portuguese-influenced techniques with local spice profiles.",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "veg_or_non_veg": "Non-Veg"
+}

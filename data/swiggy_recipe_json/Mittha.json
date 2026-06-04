@@ -1,0 +1,30 @@
+{
+    "name": "Mittha",
+    "url": "https://indianfoodmap.example.com/mittha",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Basmati rice",
+        "Ghee",
+        "Sugar or Jaggery",
+        "Green cardamom",
+        "Cloves",
+        "Cinnamon stick",
+        "Dry fruits (raisins, almonds, cashews)",
+        "Edible food color (optional, usually yellow)",
+        "Water"
+    ],
+    "instructions": [
+        "1. Soak the Basmati rice in water for 30 minutes and drain.",
+        "2. Heat ghee in a heavy-bottomed pan and add whole spices (cardamom, cloves, cinnamon) to temper.",
+        "3. Add dry fruits and sauté until golden brown.",
+        "4. Add rice and stir gently to coat with ghee, then add water and a pinch of food color.",
+        "5. Cook on low heat until the rice is fluffy and water is absorbed.",
+        "6. Mix in sugar or jaggery, cover, and let it steam on very low flame until the sugar dissolves and infuses the rice.",
+        "7. Serve hot as a festive treat or as part of a Dham meal."
+    ],
+    "description": "Mittha is a celebratory sweet rice dish often served during Himachali weddings and special occasions. It is a quintessential component of the traditional Himachali 'Dham' (community feast), symbolizing prosperity and auspicious beginnings.",
+    "state": "Himachal Pradesh",
+    "veg_or_non_veg": "Veg"
+}

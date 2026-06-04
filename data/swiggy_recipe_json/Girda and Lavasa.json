@@ -1,0 +1,28 @@
+{
+    "name": "Girda and Lavasa",
+    "url": "https://indianfoodmap.example.com/girda-and-lavasa",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "All-purpose flour (Maida)",
+        "Whole wheat flour (Atta)",
+        "Active dry yeast",
+        "Lukewarm water",
+        "Salt",
+        "Sugar",
+        "Vegetable oil or ghee",
+        "Milk (optional for brushing)",
+        "Poppy seeds or sesame seeds (for garnish)"
+    ],
+    "instructions": [
+        "1. Mix flour, yeast, salt, sugar, and lukewarm water to knead into a soft, elastic dough.",
+        "2. Cover the dough and let it proof in a warm place until it doubles in size.",
+        "3. For Girda: Flatten a portion into a thick disc, create deep circular indentations with your fingers, brush with milk or oil, sprinkle with seeds, and bake in a hot tandoor until golden brown.",
+        "4. For Lavasa: Roll a portion of dough into a very thin, large circular sheet and slap it against the hot inner wall of the tandoor until blistered and cooked through.",
+        "5. Serve hot immediately with Noon Chai (salty tea) or butter."
+    ],
+    "description": "Girda and Lavasa are iconic breads from the Kashmir Valley, forming the backbone of the traditional Kashmiri breakfast. Often bought fresh from local 'Kandur' (bakers) early in the morning, they are culturally significant as they are paired with Noon Chai, symbolizing the start of the day in Kashmiri households.",
+    "state": "Jammu and Kashmir",
+    "veg_or_non_veg": "Veg"
+}

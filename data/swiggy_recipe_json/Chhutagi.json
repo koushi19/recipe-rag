@@ -1,0 +1,21 @@
+{
+    "name": "Chhutagi",
+    "url": "https://indianfoodmap.example.com/chhutagi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Wheat dough (bow-tie shaped)",
+        "Mutton",
+        "Potatoes",
+        "Spinach",
+        "Local peas",
+        "Chili powder"
+    ],
+    "instructions": [
+        "1. Shape dough into small bow-ties. 2. Cook mutton with spices until tender. 3. Add dough bow-ties and vegetables. 4. Simmer until the dough is soft and the soup is thick."
+    ],
+    "description": "Artisanal 'bow-tie' pasta, handcrafted and simmered in a rich mountain broth.",
+    "state": "Ladakh",
+    "veg_or_non_veg": "Non-Veg"
+}

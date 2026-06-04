@@ -1,0 +1,31 @@
+{
+    "name": "Phaanu",
+    "url": "https://indianfoodmap.example.com/phaanu",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Gahat dal (Horse gram) or Chainsoo/mixed lentils",
+        "Mustard oil",
+        "Asafoetida (hing)",
+        "Cumin seeds",
+        "Ginger-garlic paste",
+        "Green chilies",
+        "Turmeric powder",
+        "Coriander powder",
+        "Salt to taste",
+        "Hot water"
+    ],
+    "instructions": [
+        "1. Soak the Gahat or mixed lentils overnight and grind them into a coarse paste without adding too much water.",
+        "2. Heat mustard oil in an iron kadhai until it smokes, then add cumin seeds and a pinch of asafoetida.",
+        "3. Add the lentil paste to the kadhai and roast it on medium heat until it turns golden brown and aromatic.",
+        "4. Stir in ginger-garlic paste, green chilies, turmeric, and coriander powder, cooking for another two minutes.",
+        "5. Gradually add hot water, stirring continuously to ensure no lumps are formed, and bring to a boil.",
+        "6. Reduce the flame to low and let it simmer for 20-30 minutes until the gravy thickens and develops a deep, rich flavor.",
+        "7. Serve hot with steamed red rice or rotis."
+    ],
+    "description": "Phaanu is a staple comfort food from the Garhwal region of Uttarakhand. It is highly valued for its high protein content and rustic flavor, often prepared during winter months. Its earthy, slow-cooked texture represents the traditional hill-cooking philosophy of making nutrient-rich meals from basic, locally grown legumes.",
+    "state": "Uttarakhand",
+    "veg_or_non_veg": "Veg"
+}

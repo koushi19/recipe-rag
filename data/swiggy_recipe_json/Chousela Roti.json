@@ -1,0 +1,28 @@
+{
+    "name": "Chousela Roti",
+    "url": "https://indianfoodmap.example.com/chousela-roti",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Rice flour",
+        "Warm water",
+        "Salt to taste",
+        "Carom seeds (ajwain)",
+        "Mustard oil for deep frying"
+    ],
+    "instructions": [
+        "1. In a large mixing bowl, combine rice flour, salt, and carom seeds.",
+        "2. Gradually add warm water to the flour and knead into a soft, non-sticky dough.",
+        "3. Pinch small lemon-sized portions from the dough and shape them into round balls.",
+        "4. Grease a flat surface or a plastic sheet with oil and gently flatten the balls into thick circles using your palms.",
+        "5. Heat mustard oil in a heavy-bottomed kadhai until it reaches a smoking point.",
+        "6. Carefully slide the prepared roti into the hot oil.",
+        "7. Deep-fry on medium heat, gently pressing with a slotted spoon until it puffs up.",
+        "8. Flip and fry until both sides are golden brown and crispy.",
+        "9. Serve hot with traditional spicy tomato chutney or lentils (dal)."
+    ],
+    "description": "Chousela Roti is an iconic staple of Chhattisgarhi cuisine, deeply rooted in the agrarian culture of the state. These puffed, golden rice breads are commonly prepared during festivals, special occasions, and family gatherings, often paired with tangy chutneys or rich vegetable curries.",
+    "state": "Chhattisgarh",
+    "veg_or_non_veg": "Veg"
+}

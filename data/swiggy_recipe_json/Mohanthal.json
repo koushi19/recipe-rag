@@ -1,0 +1,31 @@
+{
+    "name": "Mohanthal",
+    "url": "https://indianfoodmap.example.com/mohanthal",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups Gram flour (Besan)",
+        "1 cup Ghee",
+        "1 cup Sugar",
+        "1/2 cup Milk",
+        "1 tbsp Milk solids (Khoya/Mawa)",
+        "1/2 tsp Cardamom powder",
+        "1 tbsp Sliced almonds",
+        "1 tbsp Sliced pistachios",
+        "A pinch of Saffron strands",
+        "Water as needed"
+    ],
+    "instructions": [
+        "1. Mix gram flour with 2 tablespoons of warm ghee and milk, rub with fingers to create a crumbly texture, then sieve it.",
+        "2. Heat remaining ghee in a heavy-bottom pan and roast the crumbly flour on low heat until golden brown and fragrant.",
+        "3. Add khoya and roast for another two minutes.",
+        "4. Prepare a one-string consistency sugar syrup by heating sugar with water, saffron, and cardamom.",
+        "5. Pour the syrup into the roasted flour mixture and stir continuously until it thickens and leaves the sides of the pan.",
+        "6. Transfer to a greased tray, garnish with nuts, and let it set until firm.",
+        "7. Cut into diamond-shaped pieces once cooled."
+    ],
+    "description": "Mohanthal is a royal Rajasthani sweet traditionally prepared during festivals and weddings. It is known for its distinct grainy texture and rich, nutty flavor derived from the slow roasting of gram flour in generous amounts of ghee.",
+    "state": "Rajasthan",
+    "veg_or_non_veg": "Veg"
+}

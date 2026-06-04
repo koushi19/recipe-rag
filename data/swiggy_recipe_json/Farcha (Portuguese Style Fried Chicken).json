@@ -1,0 +1,20 @@
+{
+    "name": "Farcha (Portuguese Style Fried Chicken)",
+    "url": "https://indianfoodmap.example.com/farcha-(portuguese-style-fried-chicken)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Chicken drumsticks",
+        "Black pepper",
+        "Ginger-garlic paste",
+        "Eggs",
+        "Breadcrumbs"
+    ],
+    "instructions": [
+        "1. Marinate chicken with spices. 2. Dip in beaten egg and coat with breadcrumbs. 3. Deep fry until golden and crispy."
+    ],
+    "description": "Crispy, spice-crusted chicken, a legacy of Daman's Portuguese maritime history.",
+    "state": "Dadra & Nagar Haveli and Daman & Diu",
+    "veg_or_non_veg": "Non-Veg"
+}

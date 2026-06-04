@@ -1,0 +1,30 @@
+{
+    "name": "Banana Fritters",
+    "url": "https://indianfoodmap.example.com/banana-fritters",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "4 ripe Palayamkodan or robusta bananas",
+        "1 cup all-purpose flour (maida)",
+        "2 tablespoons rice flour",
+        "1/2 cup jaggery syrup",
+        "1/2 teaspoon cardamom powder",
+        "1 pinch salt",
+        "Coconut oil for deep frying",
+        "Water as needed"
+    ],
+    "instructions": [
+        "1. In a bowl, mix all-purpose flour, rice flour, cardamom powder, and a pinch of salt.",
+        "2. Add the jaggery syrup gradually to the dry ingredients, whisking until you reach a thick, smooth, pouring consistency.",
+        "3. Peel the bananas and slice them vertically into thick pieces.",
+        "4. Heat coconut oil in a deep frying pan or kadai until hot.",
+        "5. Dip each banana slice into the batter, ensuring it is well-coated.",
+        "6. Carefully slide the coated slices into the hot oil.",
+        "7. Fry on medium heat, turning occasionally, until the fritters turn golden brown and crispy.",
+        "8. Remove and drain on paper towels before serving warm."
+    ],
+    "description": "Banana Fritters, locally known as 'Pazham Pori', are a staple snack in the Andaman and Nicobar Islands, heavily influenced by the culinary traditions of South India. They represent the islanders' reliance on local produce like coconuts and bananas, and are commonly enjoyed as a comforting evening snack paired with tea.",
+    "state": "Andaman and Nicobar Islands",
+    "veg_or_non_veg": "Veg"
+}

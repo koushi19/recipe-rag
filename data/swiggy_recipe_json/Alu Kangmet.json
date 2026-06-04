@@ -1,0 +1,25 @@
+{
+    "name": "Alu Kangmet",
+    "url": "https://indianfoodmap.example.com/alu-kangmet",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Boiled potatoes",
+        "Dry red chilies",
+        "Mustard oil",
+        "Salt to taste",
+        "Spring onion or coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. Boil the potatoes until soft, peel them, and set them aside to cool.",
+        "2. Dry roast the dry red chilies on a pan or over an open flame until they are dark and fragrant.",
+        "3. In a bowl, crush the roasted chilies with salt until they form a coarse powder.",
+        "4. Add the boiled potatoes to the chili mixture and mash them together using your hands or a potato masher.",
+        "5. Drizzle raw mustard oil over the mixture and incorporate well.",
+        "6. Garnish with chopped spring onions or coriander leaves and serve as a side dish with steamed rice."
+    ],
+    "description": "Alu Kangmet is a quintessential Manipuri side dish that highlights the simplicity of North Eastern cuisine. It is a staple comfort food, often served alongside rice and lentil soup (dal), known for the pungent, authentic kick of mustard oil and roasted chilies.",
+    "state": "Manipur",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Coconut Ladoo",
+    "url": "https://indianfoodmap.example.com/coconut-ladoo",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups freshly grated coconut",
+        "1 cup condensed milk",
+        "1/2 teaspoon green cardamom powder",
+        "1 tablespoon ghee",
+        "2 tablespoons desiccated coconut (for rolling)"
+    ],
+    "instructions": [
+        "1. Heat ghee in a heavy-bottomed pan over medium-low heat.",
+        "2. Add the freshly grated coconut and sauté for 2-3 minutes until fragrant.",
+        "3. Pour in the condensed milk and stir continuously to prevent sticking.",
+        "4. Cook the mixture until it thickens and starts to leave the sides of the pan.",
+        "5. Add the green cardamom powder and mix well, then remove from heat.",
+        "6. Allow the mixture to cool until it is comfortable to handle.",
+        "7. Grease your palms with a little ghee and shape the mixture into small, firm spheres.",
+        "8. Roll each ladoo in desiccated coconut to coat the exterior and let them set before serving."
+    ],
+    "description": "Coconut Ladoo is a beloved dessert in the Andaman and Nicobar Islands, reflecting the region's abundance of tropical coconut trees. These sweets are often prepared during local festivals and family gatherings, symbolizing hospitality and the islanders' close connection to their lush, palm-fringed landscape.",
+    "state": "Andaman and Nicobar Islands",
+    "veg_or_non_veg": "Veg"
+}

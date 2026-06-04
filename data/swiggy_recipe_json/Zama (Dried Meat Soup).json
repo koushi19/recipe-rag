@@ -1,0 +1,29 @@
+{
+    "name": "Zama (Dried Meat Soup)",
+    "url": "https://indianfoodmap.example.com/zama-(dried-meat-soup)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Smoked or sun-dried beef or pork",
+        "Water",
+        "Salt to taste",
+        "Small green Naga chillies (Raja Mircha)",
+        "Ginger (crushed)",
+        "Garlic cloves",
+        "Local leafy greens (like mustard greens or seasonal Naga herbs)",
+        "Rice flour or pounded sticky rice (for thickening, optional)"
+    ],
+    "instructions": [
+        "1. Soak the dried or smoked meat in warm water for 30 minutes to soften it and remove excess salt or smoke particles.",
+        "2. Cut the softened meat into bite-sized chunks.",
+        "3. In a pot, boil the meat with sufficient water, crushed ginger, and garlic.",
+        "4. Once the meat is tender, add the chopped Naga chillies and local leafy greens.",
+        "5. If desired, stir in a small amount of rice flour mixed with water to thicken the broth slightly.",
+        "6. Season with salt to taste and simmer until the vegetables are cooked and flavors are well combined.",
+        "7. Serve hot as a standalone soup or with steamed rice."
+    ],
+    "description": "Zama is a quintessential dish of the Naga tribes, reflecting the traditional preservation method of smoking or sun-drying meat to store it for long periods. It is valued for its deep, earthy, and smoky profile, often consumed as a comforting and warming meal in the cooler highland climate.",
+    "state": "Nagaland",
+    "veg_or_non_veg": "Non-Veg"
+}

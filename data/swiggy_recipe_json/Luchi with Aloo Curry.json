@@ -1,0 +1,32 @@
+{
+    "name": "Luchi with Aloo Curry",
+    "url": "https://indianfoodmap.example.com/luchi-with-aloo-curry",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Refined flour (Maida)",
+        "Potatoes (peeled and cubed)",
+        "Nigella seeds (kalonji)",
+        "Refined oil for deep frying",
+        "Turmeric powder",
+        "Cumin seeds",
+        "Ginger paste",
+        "Green chilies",
+        "Panch phoron (five-spice mix)",
+        "Mustard oil",
+        "Salt to taste",
+        "Sugar (a pinch)"
+    ],
+    "instructions": [
+        "1. Prepare the dough by mixing maida, a pinch of salt, sugar, a spoonful of oil, and water, then knead until smooth and let it rest.",
+        "2. Boil potato cubes and keep aside.",
+        "3. Heat mustard oil in a pan, add panch phoron, ginger paste, and green chilies.",
+        "4. Add turmeric, salt, and the boiled potatoes, sautéing for a few minutes; add water to reach desired consistency and simmer until thickened.",
+        "5. Roll out small circles from the dough and deep-fry in hot oil until they puff up and turn light golden.",
+        "6. Serve hot Luchi with the potato curry."
+    ],
+    "description": "Luchi with Aloo Curry is a quintessential breakfast dish in Assam. It is commonly served during festivities, religious gatherings, and lazy Sunday mornings, representing the cultural influence of the region's love for comfort food.",
+    "state": "Assam",
+    "veg_or_non_veg": "Veg"
+}

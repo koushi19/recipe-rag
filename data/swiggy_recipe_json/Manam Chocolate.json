@@ -1,0 +1,19 @@
+{
+    "name": "Manam Chocolate",
+    "url": "https://indianfoodmap.example.com/manam-chocolate",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Single-origin Indian Cacao",
+        "Organic Cane Sugar",
+        "Cacao Butter",
+        "Local inclusions like Gondhoraj lime or filter coffee"
+    ],
+    "instructions": [
+        "1. Sourcing high-quality beans from the West Godavari region. 2. Fermenting and drying with precision. 3. Small-batch roasting and stone-grinding for 72 hours. 4. Tempering and molding into signature artisanal tablets."
+    ],
+    "description": "Craft chocolate from the heart of Hyderabad, where Indian cacao meets world-class artistry.",
+    "state": "Telangana",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Dubki Kadhi",
+    "url": "https://indianfoodmap.example.com/dubki-kadhi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Besan (Gram flour)",
+        "Sour Curd (Dahi)",
+        "Mustard seeds",
+        "Cumin seeds",
+        "Fenugreek seeds (Methi dana)",
+        "Dry red chillies",
+        "Curry leaves",
+        "Asafoetida (Hing)",
+        "Turmeric powder",
+        "Red chilli powder",
+        "Ginger-garlic paste",
+        "Salt to taste",
+        "Oil"
+    ],
+    "instructions": [
+        "1. Prepare a thick batter using besan, salt, turmeric, ginger-garlic paste, and water.",
+        "2. Heat oil in a pan, add mustard, cumin, methi, hing, curry leaves, and dry chillies to temper.",
+        "3. Whisk curd with water and besan to create a thin kadhi mixture, pour into the pan, and bring to a boil while stirring.",
+        "4. When the kadhi is boiling, drop small spoonfuls of the prepared batter into the liquid; these will 'dip' or 'dubki' and then float to the top as they cook.",
+        "5. Simmer until the dumplings are soft and the kadhi has thickened to the desired consistency.",
+        "6. Serve hot with steamed rice."
+    ],
+    "description": "Dubki Kadhi is a quintessential comfort food from the rural heartlands of Chhattisgarh. Unlike standard kadhis where pakoras are fried separately, here the gram flour batter is dropped directly into the simmering yogurt gravy, making the dumplings incredibly soft and infused with the tangy flavor of the kadhi.",
+    "state": "Chhattisgarh",
+    "veg_or_non_veg": "Veg"
+}

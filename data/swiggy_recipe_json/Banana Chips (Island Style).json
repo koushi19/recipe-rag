@@ -1,0 +1,19 @@
+{
+    "name": "Banana Chips (Island Style)",
+    "url": "https://indianfoodmap.example.com/banana-chips-(island-style)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Raw Bananas",
+        "Coconut oil",
+        "Salt",
+        "Turmeric"
+    ],
+    "instructions": [
+        "1. Slice bananas paper-thin into cold turmeric water. 2. Drain and deep fry in hot coconut oil until crisp. 3. Toss with salt."
+    ],
+    "description": "Crispy, thin slices of raw banana, fried in the purest coconut oil.",
+    "state": "Lakshadweep",
+    "veg_or_non_veg": "Veg"
+}

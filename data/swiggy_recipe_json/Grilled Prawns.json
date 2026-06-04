@@ -1,0 +1,30 @@
+{
+    "name": "Grilled Prawns",
+    "url": "https://indianfoodmap.example.com/grilled-prawns",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g fresh tiger prawns",
+        "2 tablespoons coconut oil",
+        "1 tablespoon ginger-garlic paste",
+        "1 teaspoon turmeric powder",
+        "1 tablespoon Kashmiri red chili powder",
+        "1 teaspoon black pepper powder",
+        "1/2 teaspoon crushed fennel seeds",
+        "1 tablespoon fresh lemon juice",
+        "Salt to taste",
+        "Fresh curry leaves for garnish"
+    ],
+    "instructions": [
+        "1. Clean and devein the prawns, patting them completely dry.",
+        "2. In a bowl, whisk together coconut oil, ginger-garlic paste, turmeric, chili powder, pepper, fennel seeds, lemon juice, and salt to create a thick marinade.",
+        "3. Coat the prawns thoroughly with the marinade and let them rest for at least 30 minutes.",
+        "4. Heat a heavy-bottomed pan or grill plate over medium-high heat with a drizzle of coconut oil.",
+        "5. Place the prawns on the grill, cooking for 2-3 minutes per side until they turn opaque and acquire a light char.",
+        "6. Garnish with fresh curry leaves and serve hot."
+    ],
+    "description": "Grilled Prawns are a quintessential seafood delicacy in the Lakshadweep archipelago. Reflecting the island's deep connection to the Arabian Sea, this dish highlights the simplicity of coastal cooking where fresh catch is enhanced by the rich, distinct flavor of locally sourced coconut oil and aromatic island spices.",
+    "state": "Lakshadweep",
+    "veg_or_non_veg": "Non-Veg"
+}

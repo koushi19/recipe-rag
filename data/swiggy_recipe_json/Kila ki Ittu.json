@@ -1,0 +1,27 @@
+{
+    "name": "Kila ki Ittu",
+    "url": "https://indianfoodmap.example.com/kila-ki-ittu",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Ripe bananas (Nendran variety)",
+        "Rice flour",
+        "Jaggery",
+        "Grated coconut",
+        "Cardamom powder",
+        "Ghee",
+        "Pinch of salt"
+    ],
+    "instructions": [
+        "1. Mash the ripe bananas in a bowl and mix with grated coconut, jaggery, and cardamom powder.",
+        "2. Gradually fold in the rice flour to form a thick, dough-like consistency.",
+        "3. Take a clean piece of banana leaf and place a spoonful of the mixture in the center.",
+        "4. Fold the leaf into a parcel or cylinder shape.",
+        "5. Steam the parcels in an idli steamer or a traditional vessel for about 15-20 minutes.",
+        "6. Remove from heat, let cool slightly, and serve warm."
+    ],
+    "description": "Kila ki Ittu is a quintessential island dessert often served during festivals and family gatherings. It reflects the local availability of coconuts and bananas, showcasing the simple yet flavorful culinary traditions of the Lakshadweep archipelago.",
+    "state": "Lakshadweep",
+    "veg_or_non_veg": "Veg"
+}

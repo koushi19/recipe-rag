@@ -1,0 +1,21 @@
+{
+    "name": "Coq au Vin (Pondicherry Style)",
+    "url": "https://indianfoodmap.example.com/coq-au-vin-(pondicherry-style)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Chicken",
+        "Red Wine",
+        "Mushrooms",
+        "Garlic",
+        "Shallots",
+        "Regional spices"
+    ],
+    "instructions": [
+        "1. Marinate chicken in wine. 2. Sauté with onions and mushrooms. 3. Braise slowly in the marinade until tender."
+    ],
+    "description": "Chicken braised with wine and local spices, reflecting the city's unique cultural lineage.",
+    "state": "Puducherry",
+    "veg_or_non_veg": "Non-Veg"
+}

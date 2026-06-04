@@ -1,0 +1,21 @@
+{
+    "name": "Kooni Curry (Shrimp Curry)",
+    "url": "https://indianfoodmap.example.com/kooni-curry-(shrimp-curry)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Tiny shrimp",
+        "Coconut milk",
+        "Cinnamon",
+        "Cloves",
+        "Green chilies",
+        "Curry leaves"
+    ],
+    "instructions": [
+        "1. Sauté whole spices and chilies. 2. Add shrimp and cook briefly. 3. Pour in thick coconut milk and simmer gently. 4. Do not boil vigorously to prevent curdling."
+    ],
+    "description": "Tiny shrimp simmered in a velvet coconut sea, flavored with island aromatics.",
+    "state": "Lakshadweep",
+    "veg_or_non_veg": "Non-Veg"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Nihari",
+    "url": "https://indianfoodmap.example.com/nihari",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 kg lamb shank (Nalli)",
+        "2 onions, finely sliced",
+        "1/2 cup ginger-garlic paste",
+        "1/2 cup yogurt",
+        "2 tbsp Nihari masala (fennel powder, dried ginger, cardamom, cloves, cinnamon, mace, nutmeg, black cumin)",
+        "1 tsp Kashmiri red chili powder",
+        "1/2 cup mustard oil or ghee",
+        "4 tbsp whole wheat flour (atta)",
+        "Fresh coriander and julienned ginger for garnish",
+        "Green chilies and lemon wedges for serving"
+    ],
+    "instructions": [
+        "1. Heat oil or ghee in a heavy-bottomed pot and fry onions until golden brown; remove half for garnish.",
+        "2. Add ginger-garlic paste to the pot, followed by the lamb shanks, and sear until brown.",
+        "3. Add yogurt, red chili powder, and the Nihari masala blend; sauté for 5 minutes.",
+        "4. Pour in sufficient water to cover the meat, cover tightly, and simmer on extremely low heat for 4 to 6 hours until the meat separates from the bone.",
+        "5. Dry roast the wheat flour, mix with water to form a smooth paste, and whisk into the simmering stew.",
+        "6. Continue cooking for another 20 minutes until the gravy thickens and the oil (rogan) floats to the top.",
+        "7. Garnish with fried onions, fresh ginger, green chilies, and coriander before serving with khameeri roti."
+    ],
+    "description": "Nihari, originating from the royal kitchens of the Mughal era and perfected in the lanes of Lucknow and Delhi, is a traditional breakfast dish. Its name is derived from the Arabic word 'Nahar', meaning 'day' or 'morning', as it was historically served to laborers and royals alike to provide sustenance for the day.",
+    "state": "Uttar Pradesh",
+    "veg_or_non_veg": "Non-Veg"
+}

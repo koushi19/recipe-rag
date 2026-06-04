@@ -1,0 +1,33 @@
+{
+    "name": "Nadan Kozhi Varuthathu (Kerala Fried Chicken)",
+    "url": "https://indianfoodmap.example.com/nadan-kozhi-varuthathu-(kerala-fried-chicken)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g chicken (curry cut)",
+        "1 tbsp ginger-garlic paste",
+        "2 tbsp Kashmiri red chili powder",
+        "1/2 tsp turmeric powder",
+        "1 tsp black pepper powder",
+        "1 tsp garam masala",
+        "1 sprig fresh curry leaves",
+        "1 tbsp rice flour",
+        "1 tbsp cornstarch",
+        "1 tbsp coconut oil",
+        "Salt to taste",
+        "Coconut oil for deep frying"
+    ],
+    "instructions": [
+        "1. Clean and wash the chicken pieces thoroughly.",
+        "2. In a bowl, mix ginger-garlic paste, red chili powder, turmeric, pepper powder, garam masala, salt, rice flour, cornstarch, and a splash of coconut oil to form a thick paste.",
+        "3. Coat the chicken pieces thoroughly with the masala and let them marinate for at least 30-45 minutes.",
+        "4. Heat coconut oil in a deep pan or heavy-bottomed kadai.",
+        "5. Once the oil is hot, add fresh curry leaves and gently place the marinated chicken pieces.",
+        "6. Fry on medium heat until the chicken is cooked through and turns deep red and crispy on the outside.",
+        "7. Drain on paper towels and serve hot."
+    ],
+    "description": "Nadan Kozhi Varuthathu is a staple of Kerala cuisine, often served as an appetizer or a side dish for meals. It is distinguished by the heavy use of coconut oil, which provides a unique aroma, and fresh curry leaves that add an earthy fragrance, making it a popular dish in toddy shops and households across the state.",
+    "state": "Kerala",
+    "veg_or_non_veg": "Non-Veg"
+}

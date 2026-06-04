@@ -1,0 +1,30 @@
+{
+    "name": "Idiyappam with Egg Roast",
+    "url": "https://indianfoodmap.example.com/idiyappam-with-egg-roast",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Roasted rice flour",
+        "Warm water",
+        "Grated coconut",
+        "Salt",
+        "Hard-boiled eggs",
+        "Red onion",
+        "Tomato",
+        "Ginger-garlic paste",
+        "Curry leaves",
+        "Kashmiri chili powder",
+        "Turmeric powder",
+        "Garam masala",
+        "Fennel powder",
+        "Coconut oil",
+        "Mustard seeds"
+    ],
+    "instructions": [
+        "1. Mix rice flour with salt and warm water to form a soft, non-sticky dough. 2. Press the dough through an idiyappam maker (sevanazhi) onto greased idli plates, topped with grated coconut, and steam for 10 minutes. 3. For the roast, heat coconut oil, temper mustard seeds and curry leaves, then sauté onions, ginger, and garlic until golden. 4. Add chopped tomatoes and powdered spices (chili, turmeric, fennel, garam masala) and cook until oil separates. 5. Add boiled, halved eggs to the masala, coat thoroughly, and garnish with fresh coriander."
+    ],
+    "description": "A staple of the Malabar coast, this dish pairs delicate, cloud-like string hoppers with a robust, aromatic egg curry. It is a favored breakfast or dinner meal, showcasing the traditional use of coconut oil and fresh spices synonymous with Keralan cuisine.",
+    "state": "Kerala",
+    "veg_or_non_veg": "Non-Veg"
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Mawa Kachori",
+    "url": "https://indianfoodmap.example.com/mawa-kachori",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "All-purpose flour (maida)",
+        "Ghee",
+        "Khoya (mawa)",
+        "Powdered sugar",
+        "Chopped cashews",
+        "Chopped almonds",
+        "Chopped pistachios",
+        "Cardamom powder",
+        "Saffron strands",
+        "Oil for deep frying",
+        "Sugar syrup (chashni)"
+    ],
+    "instructions": [
+        "1. Prepare a firm dough using flour, ghee, and water, then let it rest.",
+        "2. Sauté the khoya in a pan until lightly browned, then mix in sugar, nuts, cardamom, and saffron; let the mixture cool.",
+        "3. Roll out small portions of the dough, place the mawa filling in the center, and seal the edges tightly to form a ball.",
+        "4. Gently press the balls and deep-fry them in oil on low heat until they turn golden brown and crispy.",
+        "5. Briefly dip the fried kachoris in a warm sugar syrup to coat them lightly, or serve them dry as per preference."
+    ],
+    "description": "Originating from the royal city of Jodhpur, Mawa Kachori is an iconic Rajasthani dessert. Unlike savory kachoris, this sweet variation is considered a royal delicacy often prepared during festivals and special occasions, showcasing Rajasthan's rich culinary heritage of incorporating dairy and nuts into intricate pastry forms.",
+    "state": "Rajasthan",
+    "veg_or_non_veg": "Veg"
+}

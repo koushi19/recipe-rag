@@ -1,0 +1,29 @@
+{
+    "name": "Saga Bhaja",
+    "url": "https://indianfoodmap.example.com/saga-bhaja",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 bunch of leafy greens (Kalara saga, Kosala saga, or Poi saga)",
+        "2 tablespoons mustard oil",
+        "3-4 cloves of garlic, crushed",
+        "2-3 dry red chillies",
+        "1/2 teaspoon panch phutana (mustard, cumin, fennel, fenugreek, and nigella seeds)",
+        "Salt to taste",
+        "1/4 cup chopped onions (optional)"
+    ],
+    "instructions": [
+        "1. Wash the greens thoroughly and chop them finely.",
+        "2. Heat mustard oil in a heavy-bottomed pan until it smokes slightly.",
+        "3. Add the panch phutana seeds and wait for them to splutter.",
+        "4. Add the dry red chillies and crushed garlic, sautéing until the garlic turns golden brown.",
+        "5. Add the chopped onions (if using) and cook until translucent.",
+        "6. Add the chopped greens and salt to the pan.",
+        "7. Sauté on medium-high heat without covering the pan to retain the vibrant green color and texture.",
+        "8. Cook until the water evaporates and the greens are wilted and tender. Serve hot with steamed rice and dal."
+    ],
+    "description": "Saga Bhaja is a staple side dish in every Odia household, valued for its nutritional density and simplicity. It reflects the agricultural heritage of the region, where seasonal leafy greens are celebrated as an essential component of a balanced 'pakhala' or rice-based meal.",
+    "state": "Odisha",
+    "veg_or_non_veg": "Veg"
+}

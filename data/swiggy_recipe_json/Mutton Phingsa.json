@@ -1,0 +1,20 @@
+{
+    "name": "Mutton Phingsa",
+    "url": "https://indianfoodmap.example.com/mutton-phingsa",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Mutton",
+        "Glass noodles (Phing)",
+        "Wood ear mushrooms",
+        "Potatoes",
+        "Spices"
+    ],
+    "instructions": [
+        "1. Soak glass noodles. 2. Cook mutton with potatoes and mushrooms. 3. Add noodles and simmer until they absorb the broth."
+    ],
+    "description": "Glass noodles and mutton simmered into a comforting, translucent stew.",
+    "state": "Ladakh",
+    "veg_or_non_veg": "Non-Veg"
+}

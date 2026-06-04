@@ -1,0 +1,33 @@
+{
+    "name": "Sha Phaley",
+    "url": "https://indianfoodmap.example.com/sha-phaley",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "All-purpose flour",
+        "Minced buffalo or chicken meat",
+        "Cabbage (finely chopped)",
+        "Onion (finely chopped)",
+        "Ginger (minced)",
+        "Garlic (minced)",
+        "Green chilies",
+        "Soy sauce",
+        "Salt",
+        "Black pepper",
+        "Vegetable oil for deep frying",
+        "Water"
+    ],
+    "instructions": [
+        "1. Prepare the dough by mixing flour and water, kneading until smooth, then let it rest.",
+        "2. In a bowl, combine minced meat, chopped cabbage, onions, ginger, garlic, green chilies, soy sauce, salt, and pepper to make the filling.",
+        "3. Roll the dough into small circles, similar to puri or small pancakes.",
+        "4. Place a portion of the meat mixture in the center of the dough circle.",
+        "5. Fold the dough over the filling to create a semi-circle and seal the edges tightly by crimping or pressing with a fork.",
+        "6. Heat oil in a deep pan and fry the stuffed bread on medium heat until golden brown and crispy on both sides.",
+        "7. Drain excess oil and serve hot with spicy tomato chutney."
+    ],
+    "description": "Sha Phaley is a popular Tibetan-origin snack widely embraced in Sikkim. It consists of bread stuffed with a seasoned meat and vegetable filling, deep-fried to perfection. It is a staple comfort food, often enjoyed as a hearty evening snack or a quick meal across the state.",
+    "state": "Sikkim",
+    "veg_or_non_veg": "Non-Veg"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Gyapa Khazi",
+    "url": "https://indianfoodmap.example.com/gyapa-khazi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Steamed rice",
+        "Small dried fish",
+        "Fermented bamboo shoot (churpi or lungter)",
+        "Green chilies",
+        "Ginger",
+        "Garlic",
+        "Salt to taste",
+        "Water"
+    ],
+    "instructions": [
+        "1. Clean and soak the dried fish in warm water to soften.",
+        "2. In a pot, combine cooked rice with a small amount of water to create a slightly moist consistency.",
+        "3. Add the softened dried fish, minced ginger, garlic, and chopped green chilies to the rice.",
+        "4. Stir in the fermented bamboo shoot for the signature earthy flavor.",
+        "5. Simmer the mixture on low heat, stirring occasionally until all flavors meld together.",
+        "6. Adjust salt as needed and serve warm."
+    ],
+    "description": "Gyapa Khazi is a staple dish among the Monpa tribe of Arunachal Pradesh. It represents the indigenous culinary tradition of high-altitude regions, highlighting the use of preservation techniques like drying fish and fermenting bamboo shoots to create a hearty, flavorful meal.",
+    "state": "Arunachal Pradesh",
+    "veg_or_non_veg": "Non-Veg"
+}

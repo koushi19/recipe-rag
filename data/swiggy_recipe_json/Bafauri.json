@@ -1,0 +1,30 @@
+{
+    "name": "Bafauri",
+    "url": "https://indianfoodmap.example.com/bafauri",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Chana dal (split Bengal gram)",
+        "Ginger",
+        "Green chilies",
+        "Onion (finely chopped)",
+        "Coriander leaves",
+        "Turmeric powder",
+        "Asafoetida (hing)",
+        "Cumin seeds",
+        "Salt to taste",
+        "Mustard oil"
+    ],
+    "instructions": [
+        "1. Soak the chana dal for 4-5 hours and grind it into a coarse paste with ginger, green chilies, and minimal water.",
+        "2. Add finely chopped onions, chopped coriander, turmeric powder, salt, a pinch of asafoetida, and cumin seeds to the batter and mix well.",
+        "3. Grease small bowls or a steamer plate with a little oil.",
+        "4. Pour small portions of the batter into the containers.",
+        "5. Steam the batter for 10-15 minutes until a toothpick inserted comes out clean.",
+        "6. Remove, let it cool slightly, and serve warm with green chutney or tomato sauce."
+    ],
+    "description": "Bafauri is a quintessential Chhattisgarhi snack that is highly valued for being oil-free or low-fat, as it is primarily steamed. It is a nutritious alternative to deep-fried fritters (pakoras) and is commonly prepared in households as an evening tea-time snack.",
+    "state": "Chhattisgarh",
+    "veg_or_non_veg": "Veg"
+}

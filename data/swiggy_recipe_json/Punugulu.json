@@ -1,0 +1,30 @@
+{
+    "name": "Punugulu",
+    "url": "https://indianfoodmap.example.com/punugulu",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups dosa batter (fermented rice and urad dal batter)",
+        "1/2 cup finely chopped onions",
+        "2 tablespoons finely chopped green chilies",
+        "1 tablespoon finely chopped ginger",
+        "1/4 cup finely chopped fresh coriander leaves",
+        "1/2 teaspoon cumin seeds",
+        "Salt to taste",
+        "Oil for deep frying",
+        "1 tablespoon rice flour (optional, for crispiness)"
+    ],
+    "instructions": [
+        "1. In a large mixing bowl, take the fermented dosa batter and add chopped onions, green chilies, ginger, coriander leaves, cumin seeds, and salt.",
+        "2. Mix well to combine. If the batter is too thin, add a tablespoon of rice flour to achieve a thick dropping consistency.",
+        "3. Heat oil in a deep frying pan or kadhai over medium-high heat.",
+        "4. Carefully drop small portions of the batter into the hot oil using your fingers or a small spoon.",
+        "5. Fry the Punugulu in batches, turning them occasionally, until they turn golden brown and crisp on all sides.",
+        "6. Remove using a slotted spoon and drain excess oil on paper towels.",
+        "7. Serve hot with spicy peanut chutney or ginger chutney."
+    ],
+    "description": "Punugulu is a quintessential Andhra street food, beloved for its crispy exterior and soft, airy interior. It is traditionally made using leftover fermented dosa batter, making it a popular household snack. It represents the resourceful and flavorful nature of Andhra cuisine and is a staple at local tiffin centers.",
+    "state": "Andhra Pradesh",
+    "veg_or_non_veg": "Veg"
+}

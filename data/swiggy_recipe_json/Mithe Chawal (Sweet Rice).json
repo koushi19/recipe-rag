@@ -1,0 +1,31 @@
+{
+    "name": "Mithe Chawal (Sweet Rice)",
+    "url": "https://indianfoodmap.example.com/mithe-chawal-(sweet-rice)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Basmati rice",
+        "Sugar or Jaggery (Gur)",
+        "Ghee",
+        "Green cardamom pods",
+        "Cloves",
+        "Cinnamon stick",
+        "Saffron strands soaked in milk",
+        "Dry fruits (cashews, almonds, raisins)",
+        "Water"
+    ],
+    "instructions": [
+        "1. Soak the basmati rice in water for 30 minutes, then drain.",
+        "2. Heat ghee in a heavy-bottomed pan and add cardamom, cloves, and cinnamon to temper.",
+        "3. Add the dry fruits and sauté until golden brown.",
+        "4. Add the soaked rice and gently stir to coat with ghee.",
+        "5. Pour in water (usually double the quantity of rice) and bring to a boil.",
+        "6. Once the water reduces, add the sugar (or jaggery) and saffron milk.",
+        "7. Cover and cook on low heat until the rice is tender and the water is completely absorbed.",
+        "8. Let it sit for 5-10 minutes before fluffing with a fork."
+    ],
+    "description": "Mithe Chawal, also known as Zarda or Meethe Chawal, is a quintessential Haryanvi celebratory dish. It is traditionally prepared during festivals like Basant Panchami or to celebrate auspicious family events, symbolizing prosperity and sweetness.",
+    "state": "Haryana",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Aloo Tikki",
+    "url": "https://indianfoodmap.example.com/aloo-tikki",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Potatoes",
+        "Cornflour",
+        "Peas",
+        "Tamarind chutney",
+        "Yogurt"
+    ],
+    "instructions": [
+        "1. Shape potato mash into patties. 2. Shallow fry until golden. 3. Top with yogurt, chutneys, and sev."
+    ],
+    "description": "Crispy-on-the-outside, melt-in-the-mouth potato patties with a medley of chutneys.",
+    "state": "Chandigarh",
+    "veg_or_non_veg": "Veg"
+}

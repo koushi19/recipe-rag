@@ -1,0 +1,29 @@
+{
+    "name": "Doh-Snam",
+    "url": "https://indianfoodmap.example.com/doh-snam",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Pork blood",
+        "Pork meat",
+        "Pork fat",
+        "Onions",
+        "Ginger",
+        "Garlic",
+        "Green chilies",
+        "Black pepper",
+        "Salt"
+    ],
+    "instructions": [
+        "1. Finely chop the pork meat and fat into small pieces.",
+        "2. Heat a pan and sauté chopped onions, ginger, garlic, and green chilies until fragrant.",
+        "3. Add the pork pieces and cook until browned and the fat is rendered.",
+        "4. Season with salt and black pepper.",
+        "5. Gradually pour in the fresh pork blood while stirring continuously to prevent clumping.",
+        "6. Simmer on low heat until the blood thickens and coats the meat, ensuring it is thoroughly cooked."
+    ],
+    "description": "Doh-Snam is a traditional delicacy of the Khasi community in Meghalaya. It is a blood-based pork dish often prepared during festivals or special occasions, reflecting the indigenous culinary practice of utilizing the entire animal. It is known for its intense, iron-rich flavor and deep, dark color.",
+    "state": "Meghalaya",
+    "veg_or_non_veg": "Non-Veg"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Dabeli",
+    "url": "https://indianfoodmap.example.com/dabeli",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Ladi pav (soft bread rolls)",
+        "Boiled and mashed potatoes",
+        "Dabeli masala",
+        "Sweet tamarind chutney",
+        "Spicy garlic chutney",
+        "Roasted peanuts",
+        "Fresh pomegranate seeds",
+        "Fine sev",
+        "Finely chopped onions",
+        "Fresh coriander leaves",
+        "Butter",
+        "Masala peanuts"
+    ],
+    "instructions": [
+        "1. Prepare the potato filling by sautéing the mashed potatoes with Dabeli masala and a splash of water, then garnish with pomegranate, sev, and peanuts.",
+        "2. Slice the ladi pav in half and toast them on a pan with a generous amount of butter.",
+        "3. Spread spicy garlic chutney on one side and sweet tamarind chutney on the other side of the bread.",
+        "4. Stuff a generous portion of the potato mixture into the pav.",
+        "5. Press the stuffed pav into fine sev so that it sticks to the sides of the potato filling.",
+        "6. Serve hot, garnished with extra peanuts, pomegranate seeds, and onions."
+    ],
+    "description": "Originating from the Kutch region of Gujarat, Dabeli is a beloved street food icon. Often called the 'Kutchi Burger,' it represents a perfect balance of sweet, spicy, and tangy flavors with diverse textures provided by the crunchy sev, peanuts, and soft bread.",
+    "state": "Gujarat",
+    "veg_or_non_veg": "Veg"
+}

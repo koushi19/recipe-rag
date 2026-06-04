@@ -1,0 +1,32 @@
+{
+    "name": "Bihari Mutton Kebab",
+    "url": "https://indianfoodmap.example.com/bihari-mutton-kebab",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g mutton, cut into small cubes",
+        "100g roasted gram flour (sattu)",
+        "2 tbsp ginger-garlic paste",
+        "1 tsp raw papaya paste (tenderizer)",
+        "1 tsp red chili powder",
+        "1 tsp black pepper powder",
+        "1 tsp roasted cumin powder",
+        "1 tsp garam masala",
+        "2 tbsp mustard oil",
+        "1/2 cup finely chopped onions",
+        "2 tbsp chopped green chilies",
+        "Fresh coriander leaves, chopped",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Marinate the mutton cubes with raw papaya paste, ginger-garlic paste, and salt, and let it rest for 2 hours.",
+        "2. Add the sattu, mustard oil, and all dry spices to the mutton and coat thoroughly.",
+        "3. Add finely chopped onions, green chilies, and coriander leaves.",
+        "4. Thread the meat onto skewers or spread on a greased pan.",
+        "5. Grill or cook on low heat, basting with oil, until the meat is tender and charred on the outside."
+    ],
+    "description": "Bihari Mutton Kebab is a signature delicacy of Bihar, famous for its rustic and robust flavors. The use of 'sattu' (roasted gram flour) as a binding and thickening agent provides a unique nutty aroma and crust, reflecting the agrarian traditions of the region.",
+    "state": "Bihar",
+    "veg_or_non_veg": "Non-Veg"
+}

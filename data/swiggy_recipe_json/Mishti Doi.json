@@ -1,0 +1,24 @@
+{
+    "name": "Mishti Doi",
+    "url": "https://indianfoodmap.example.com/mishti-doi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Full-fat milk",
+        "Sugar (preferably Nolen Gur or Jaggery for authentic taste)",
+        "Thick curd starter (Doi beej)",
+        "Clay pot (Bhar)"
+    ],
+    "instructions": [
+        "1. Boil the milk over low heat until it reduces to about two-thirds of its original volume, stirring constantly.",
+        "2. In a separate pan, heat sugar until it turns into a deep golden brown caramel.",
+        "3. Slowly pour the thickened milk into the caramel, stirring well until fully dissolved and cooled to lukewarm temperature.",
+        "4. Whisk in the curd starter until smooth.",
+        "5. Pour the mixture into a clean earthen clay pot.",
+        "6. Cover and keep in a warm, undisturbed place for 8-10 hours until set, then refrigerate before serving."
+    ],
+    "description": "Mishti Doi is the hallmark of Bengali hospitality and dessert culture. Traditionally set in porous clay pots which absorb excess moisture and provide an earthy aroma, it is a celebratory staple often served after elaborate meals during festivals like Durga Puja and weddings.",
+    "state": "West Bengal",
+    "veg_or_non_veg": "Veg"
+}

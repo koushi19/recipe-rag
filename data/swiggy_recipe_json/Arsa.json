@@ -1,0 +1,25 @@
+{
+    "name": "Arsa",
+    "url": "https://indianfoodmap.example.com/arsa",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Rice (preferably raw rice like Pusa or local varieties)",
+        "Jaggery (Gud)",
+        "Mustard oil (for deep frying)",
+        "Water"
+    ],
+    "instructions": [
+        "1. Soak the rice in water for at least 8-10 hours, then drain and spread it on a cloth to dry until it is slightly moist.",
+        "2. Grind the semi-dried rice into a slightly coarse powder.",
+        "3. Prepare a thick syrup by boiling jaggery with a very small amount of water until it reaches a 'one-string' consistency.",
+        "4. Mix the rice flour into the jaggery syrup gradually to form a stiff dough.",
+        "5. Allow the dough to rest for a few hours (traditionally overnight) to allow the flavors to meld.",
+        "6. Heat mustard oil in a heavy-bottomed kadhai.",
+        "7. Take small portions of the dough, flatten them into small circular discs, and deep-fry on medium-low heat until they turn deep brown and crispy."
+    ],
+    "description": "Arsa is an iconic sweet dish from Uttarakhand, often prepared during festivals, weddings, and special ceremonies like 'Namkaran' or 'Janeu'. It is prized for its long shelf life and deep, earthy sweetness derived from the combination of jaggery and mustard oil.",
+    "state": "Uttarakhand",
+    "veg_or_non_veg": "Veg"
+}

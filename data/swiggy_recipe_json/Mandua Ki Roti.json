@@ -1,0 +1,24 @@
+{
+    "name": "Mandua Ki Roti",
+    "url": "https://indianfoodmap.example.com/mandua-ki-roti",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Mandua flour (Finger millet/Ragi flour)",
+        "Whole wheat flour (optional, for binding)",
+        "Warm water",
+        "Pinch of salt"
+    ],
+    "instructions": [
+        "1. Mix the Mandua flour with a little whole wheat flour if desired for better binding, adding a pinch of salt.",
+        "2. Gradually add warm water to the flour and knead it into a soft, smooth dough.",
+        "3. Take a small portion of the dough and flatten it using your palms to form a round roti, as it is difficult to roll with a pin due to the lack of gluten.",
+        "4. Place the roti on a preheated tawa (griddle) and cook on both sides until brown spots appear.",
+        "5. Finish cooking over an open flame until it puffs up slightly.",
+        "6. Serve hot with a dollop of ghee, jaggery, or traditional pahadi dal."
+    ],
+    "description": "Mandua ki Roti is a staple food of Uttarakhand. Finger millet (Mandua) is a hardy crop grown in the high-altitude regions of the Himalayas. It is highly valued for its health benefits, including high calcium and fiber content. Culturally, it represents the resilient spirit of the pahadi people and is often paired with 'Bhat ki Churkani' or simple seasonal vegetables.",
+    "state": "Uttarakhand",
+    "veg_or_non_veg": "Veg"
+}

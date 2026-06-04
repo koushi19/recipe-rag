@@ -1,0 +1,27 @@
+{
+    "name": "Kadi Bari",
+    "url": "https://indianfoodmap.example.com/kadi-bari",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Gram flour (besan)",
+        "Sour curd (dahi)",
+        "Turmeric powder",
+        "Mustard seeds",
+        "Fenugreek seeds (methi)",
+        "Dry red chilies",
+        "Asafoetida (hing)",
+        "Ginger-garlic paste",
+        "Green chilies",
+        "Mustard oil",
+        "Salt to taste",
+        "Fresh coriander leaves"
+    ],
+    "instructions": [
+        "1. Prepare the batter for the bari by mixing besan, salt, turmeric, and water, then deep-fry small portions in mustard oil until golden brown. 2. For the kadi, whisk curd with besan, turmeric, and water until smooth. 3. Heat mustard oil in a pan, add mustard seeds, methi seeds, hing, and dry red chilies to temper. 4. Add ginger-garlic paste and green chilies, then pour in the curd-besan mixture. 5. Cook on low heat, stirring constantly until thickened. 6. Drop the prepared bari into the boiling kadi and simmer for 5 minutes. 7. Garnish with fresh coriander before serving."
+    ],
+    "description": "Kadi Bari is a comfort food staple in Jharkhand, often prepared during family gatherings and festivals. Its unique tangy flavor profile, derived from fermented curd and traditional mustard-based tempering, reflects the rustic and wholesome culinary traditions of the region.",
+    "state": "Jharkhand",
+    "veg_or_non_veg": "Veg"
+}

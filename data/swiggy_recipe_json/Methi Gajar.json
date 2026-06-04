@@ -1,0 +1,31 @@
+{
+    "name": "Methi Gajar",
+    "url": "https://indianfoodmap.example.com/methi-gajar",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g fresh carrots (peeled and diced)",
+        "2 cups fresh fenugreek leaves (methi, finely chopped)",
+        "1 large onion (finely chopped)",
+        "2 tomatoes (finely chopped)",
+        "2 green chilies (slit)",
+        "1 tsp cumin seeds",
+        "1/2 tsp turmeric powder",
+        "1 tsp coriander powder",
+        "1/2 tsp red chili powder",
+        "2 tbsp mustard oil",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Heat mustard oil in a heavy-bottomed pan until it smokes slightly, then add cumin seeds.",
+        "2. Add the chopped onions and green chilies, sautéing until the onions turn golden brown.",
+        "3. Add the diced carrots, turmeric, coriander, and red chili powder, stirring well to coat the vegetables.",
+        "4. Cover and cook on low heat for about 5-7 minutes until the carrots start to soften.",
+        "5. Stir in the chopped fenugreek leaves and salt; cook uncovered for another 5-8 minutes until the greens are wilted and moisture has evaporated.",
+        "6. Add tomatoes and cook for a few more minutes until soft, then serve hot with bajra roti."
+    ],
+    "description": "Methi Gajar is a classic seasonal dish from the heart of Haryana, typically prepared during the winter when fresh, tender carrots and lush fenugreek are abundant. It reflects the agrarian lifestyle of the state, focusing on simple, nutritious ingredients that provide warmth and energy during the colder months.",
+    "state": "Haryana",
+    "veg_or_non_veg": "Veg"
+}

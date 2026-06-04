@@ -1,0 +1,36 @@
+{
+    "name": "Lucknowi Biryani",
+    "url": "https://indianfoodmap.example.com/lucknowi-biryani",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Basmati rice",
+        "Mutton or Chicken",
+        "Yogurt",
+        "Saffron",
+        "Ghee",
+        "Ginger-garlic paste",
+        "Brown onions (Birista)",
+        "Shahi Jeera",
+        "Green cardamom",
+        "Cloves",
+        "Cinnamon stick",
+        "Mace (Javitri)",
+        "Nutmeg (Jaiphal)",
+        "Kewra water",
+        "Rose water",
+        "Red chili powder"
+    ],
+    "instructions": [
+        "1. Marinate the meat with yogurt, ginger-garlic paste, red chili, and a blend of aromatic spices for several hours.",
+        "2. In a heavy-bottomed pot (degh), sear the marinated meat with ghee until tender.",
+        "3. Boil water with whole spices and salt; cook the basmati rice until it is 70% done.",
+        "4. Layer the rice over the meat, adding saffron-infused milk, kewra water, rose water, and brown onions.",
+        "5. Seal the pot with dough (dum) to trap steam and slow-cook on low heat for 30-40 minutes.",
+        "6. Mix gently before serving to ensure the flavors and aromas are perfectly distributed."
+    ],
+    "description": "Lucknowi Biryani, also known as Awadhi Biryani, is a hallmark of royal Mughal cuisine. It is celebrated for its subtle use of spices, delicate aromas, and the 'dum' cooking technique that creates tender, succulent meat and perfectly distinct, fragrant rice grains.",
+    "state": "Uttar Pradesh",
+    "veg_or_non_veg": "Non-Veg"
+}

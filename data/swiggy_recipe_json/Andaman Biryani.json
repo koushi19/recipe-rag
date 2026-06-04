@@ -1,0 +1,34 @@
+{
+    "name": "Andaman Biryani",
+    "url": "https://indianfoodmap.example.com/andaman-biryani",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Basmati rice",
+        "Fresh fish (local catch)",
+        "Onions",
+        "Tomatoes",
+        "Ginger-garlic paste",
+        "Green chilies",
+        "Turmeric powder",
+        "Red chili powder",
+        "Garam masala",
+        "Curd",
+        "Fresh coriander leaves",
+        "Mint leaves",
+        "Whole spices (bay leaf, cloves, cardamom, cinnamon)",
+        "Mustard oil or Coconut oil"
+    ],
+    "instructions": [
+        "1. Clean and marinate the fish with turmeric, chili powder, and ginger-garlic paste for 30 minutes.",
+        "2. Par-boil the basmati rice with whole spices and salt until 70% cooked.",
+        "3. Heat oil in a heavy-bottomed pan and sauté sliced onions, green chilies, and tomatoes until soft.",
+        "4. Add the marinated fish and cook until half-done.",
+        "5. Layer the par-boiled rice over the fish mixture and sprinkle with mint, coriander, and garam masala.",
+        "6. Cover tightly and cook on low heat (dum) for 15-20 minutes until the flavors infuse and the rice is tender."
+    ],
+    "description": "Andaman Biryani is a unique culinary representation of the islands, substituting traditional meats with the abundant, fresh local catch of the sea. It reflects the region's diverse coastal culture and the influence of migrant populations who brought mainland biryani techniques to the tropical archipelago.",
+    "state": "Andaman and Nicobar Islands",
+    "veg_or_non_veg": "Non-Veg"
+}

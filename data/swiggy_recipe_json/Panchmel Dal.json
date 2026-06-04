@@ -1,0 +1,37 @@
+{
+    "name": "Panchmel Dal",
+    "url": "https://indianfoodmap.example.com/panchmel-dal",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1/4 cup Chana dal",
+        "1/4 cup Moong dal (split yellow)",
+        "1/4 cup Tur dal (pigeon pea)",
+        "1/4 cup Moth dal",
+        "1/4 cup Urad dal (split black gram)",
+        "2 tablespoons Ghee",
+        "1 teaspoon Cumin seeds",
+        "1/4 teaspoon Asafoetida (hing)",
+        "2 Dry red chilies",
+        "1 teaspoon Turmeric powder",
+        "1 teaspoon Red chili powder",
+        "1 teaspoon Coriander powder",
+        "1 inch Ginger, finely chopped",
+        "2 Green chilies, slit",
+        "Fresh coriander leaves for garnish",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Wash and soak all five dals together for 30 minutes.",
+        "2. Pressure cook the soaked dals with 3 cups of water, turmeric powder, and salt until soft (approx. 3-4 whistles).",
+        "3. Whisk the cooked dal gently to reach a uniform consistency.",
+        "4. Heat ghee in a small pan, add cumin seeds, asafoetida, and dry red chilies until they crackle.",
+        "5. Add the ginger and green chilies, sautéing for a minute.",
+        "6. Add red chili powder and coriander powder to the tempering, then immediately pour this mixture over the cooked dal.",
+        "7. Garnish with fresh coriander leaves and serve hot with Baati or steamed rice."
+    ],
+    "description": "Panchmel Dal, also known as Dal Panchratna, is a royal delicacy from Rajasthan. It is traditionally served as a primary accompaniment to 'Dal Baati Churma'. Its blend of five different lentils provides a distinct texture and earthy flavor, reflecting the nutritional needs and culinary traditions of the desert state.",
+    "state": "Rajasthan",
+    "veg_or_non_veg": "Veg"
+}

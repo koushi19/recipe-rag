@@ -1,0 +1,35 @@
+{
+    "name": "Guchhi Matar",
+    "url": "https://indianfoodmap.example.com/guchhi-matar",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "200g dried Guchhi (Morel mushrooms)",
+        "1 cup fresh green peas",
+        "2 large onions, finely chopped",
+        "1 cup tomato puree",
+        "2 tbsp mustard oil or ghee",
+        "1 tsp cumin seeds",
+        "1/2 tsp asafoetida (hing)",
+        "1 tsp ginger-garlic paste",
+        "1/2 tsp turmeric powder",
+        "1 tsp Kashmiri red chili powder",
+        "1 tsp coriander powder",
+        "1/2 tsp garam masala",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. Thoroughly clean the dried Guchhi by soaking them in warm water for 30 minutes to remove grit, then rinse and slice them.",
+        "2. Heat oil or ghee in a pan and add cumin seeds and asafoetida.",
+        "3. Sauté onions until golden brown, then add ginger-garlic paste and cook for another minute.",
+        "4. Add tomato puree along with turmeric, red chili, and coriander powder; cook until the oil separates from the masala.",
+        "5. Add the cleaned Guchhi and green peas, stirring well to coat them in the spice mixture.",
+        "6. Pour in a little water, cover, and simmer on low heat for 15-20 minutes until the mushrooms are tender.",
+        "7. Sprinkle with garam masala and garnish with fresh coriander before serving."
+    ],
+    "description": "Guchhi Matar is considered a gourmet delicacy in Himachal Pradesh. The Guchhi, or morel mushrooms, are wild-harvested from the foothills of the Himalayas, making them highly prized and expensive. It is traditionally prepared during special occasions and weddings, representing the rich forest heritage and unique culinary bounty of the region.",
+    "state": "Himachal Pradesh",
+    "veg_or_non_veg": "Veg"
+}

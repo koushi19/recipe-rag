@@ -1,0 +1,34 @@
+{
+    "name": "Dubuk",
+    "url": "https://indianfoodmap.example.com/dubuk",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Soaked Gahat (Horse Gram) dal",
+        "Mustard oil",
+        "Asafoetida (Hing)",
+        "Cumin seeds",
+        "Ginger-garlic paste",
+        "Turmeric powder",
+        "Red chili powder",
+        "Coriander powder",
+        "Salt",
+        "Water",
+        "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. Soak Gahat dal overnight and grind it into a coarse, thick paste using minimal water.",
+        "2. Heat mustard oil in an iron kadhai until it reaches a smoking point.",
+        "3. Add cumin seeds and a pinch of asafoetida to the oil.",
+        "4. Sauté ginger-garlic paste until fragrant.",
+        "5. Add the ground dal paste to the kadhai and roast it well on low heat until it turns golden brown and aromatic.",
+        "6. Add turmeric, red chili powder, coriander powder, and salt, mixing thoroughly.",
+        "7. Gradually add warm water while stirring continuously to prevent lumps, adjusting to a thick soup-like consistency.",
+        "8. Cover and simmer on low heat for 15-20 minutes, allowing the flavors to meld.",
+        "9. Garnish with fresh coriander and serve hot with steamed rice or mandua (finger millet) roti."
+    ],
+    "description": "Dubuk is a protein-rich, winter specialty from the Kumaon region of Uttarakhand. Traditionally prepared in cast-iron vessels, it is a staple comfort food known for its earthy, nutty flavor and medicinal properties, often served as a nutritious meal for mountain dwellers.",
+    "state": "Uttarakhand",
+    "veg_or_non_veg": "Veg"
+}

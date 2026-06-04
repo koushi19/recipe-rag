@@ -1,0 +1,20 @@
+{
+    "name": "Anarsa",
+    "url": "https://indianfoodmap.example.com/anarsa",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup raw rice (soaked for 3 days)",
+        "3/4 cup jaggery (powdered)",
+        "1 tablespoon poppy seeds (khus-khus)",
+        "2 tablespoons ghee",
+        "Oil for deep frying"
+    ],
+    "instructions": [
+        "1. Soak the raw rice in water for 3 days, changing the water daily. 2. Drain the water and spread the rice on a cloth to dry until it is slightly moist but not bone-dry. 3. Grind the rice into a fine powder and sieve it. 4. Mix the rice flour with powdered jaggery and a teaspoon of ghee to form a firm dough; let it rest for 1-2 days to allow fermentation. 5. Pinch small balls from the dough, flatten them, and coat one side with poppy seeds. 6. Deep fry in medium-hot oil on low heat until golden brown, ensuring the poppy-seed side is cooked carefully."
+    ],
+    "description": "Anarsa is a traditional festive sweet often prepared during Diwali and Chhath Puja. It is considered an auspicious dish in Bihari culture, representing patience and devotion due to its long preparation process involving soaking and fermentation.",
+    "state": "Bihar",
+    "veg_or_non_veg": "Veg"
+}

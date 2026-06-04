@@ -1,0 +1,22 @@
+{
+    "name": "Tilkut",
+    "url": "https://indianfoodmap.example.com/tilkut",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Sesame seeds (Til)",
+        "Jaggery (Gud)",
+        "Ghee"
+    ],
+    "instructions": [
+        "1. Clean and dry roast the sesame seeds in a heavy-bottomed pan until they turn aromatic and light golden.",
+        "2. In a separate pan, melt the jaggery over low heat until it reaches a thick syrup consistency (one-string or soft ball stage).",
+        "3. Add the roasted sesame seeds to the molten jaggery and mix thoroughly.",
+        "4. While the mixture is still warm, take small portions and place them into a mold or shape them manually into flat round discs.",
+        "5. Allow the Tilkuts to cool completely until they harden and become crunchy."
+    ],
+    "description": "Tilkut is a signature delicacy from Gaya, Bihar, traditionally prepared during the winter festival of Makar Sankranti. It is highly valued for its nutritional properties and its characteristic crunch, symbolizing the warmth and communal spirit of the harvest season.",
+    "state": "Bihar",
+    "veg_or_non_veg": "Veg"
+}

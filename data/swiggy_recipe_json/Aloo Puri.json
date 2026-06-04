@@ -1,0 +1,34 @@
+{
+    "name": "Aloo Puri",
+    "url": "https://indianfoodmap.example.com/aloo-puri",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups whole wheat flour (atta)",
+        "4 large boiled potatoes",
+        "1 tsp cumin seeds",
+        "1/2 tsp mustard seeds",
+        "1 tsp ginger paste",
+        "2 green chilies, slit",
+        "1 tsp turmeric powder",
+        "1 tsp red chili powder",
+        "1 tsp coriander powder",
+        "1/2 tsp dry mango powder (amchur)",
+        "1/2 tsp garam masala",
+        "Salt to taste",
+        "Fresh coriander leaves",
+        "Vegetable oil for frying"
+    ],
+    "instructions": [
+        "1. Prepare the dough by mixing flour, a pinch of salt, and a tablespoon of oil with water, then let it rest for 20 minutes.",
+        "2. For the curry, heat oil in a pan, add cumin, mustard seeds, ginger, and green chilies.",
+        "3. Add chopped potatoes and spices (turmeric, chili powder, coriander powder) and sauté for 2 minutes.",
+        "4. Pour in 2 cups of water, add amchur and salt, and simmer until the gravy thickens; finish with garam masala and coriander.",
+        "5. Divide the dough into small balls, roll them into thin discs, and deep-fry in hot oil until they puff up and turn golden brown.",
+        "6. Serve hot with the prepared potato curry."
+    ],
+    "description": "Aloo Puri is the quintessential Delhi street food breakfast. It represents the bustling morning culture of North India, where roadside stalls serve this soul-satisfying, spicy meal to everyone from office workers to students.",
+    "state": "Delhi",
+    "veg_or_non_veg": "Veg"
+}

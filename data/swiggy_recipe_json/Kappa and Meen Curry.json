@@ -1,0 +1,33 @@
+{
+    "name": "Kappa and Meen Curry",
+    "url": "https://indianfoodmap.example.com/kappa-and-meen-curry",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 kg tapioca (kappa), cubed",
+        "500g firm white fish (king fish or sardine)",
+        "1 cup grated coconut",
+        "1 tsp mustard seeds",
+        "2 sprigs curry leaves",
+        "6-8 dried red chilies",
+        "1 tbsp chili powder",
+        "1/2 tsp turmeric powder",
+        "1 tbsp coriander powder",
+        "1 tbsp ginger-garlic paste",
+        "1/2 cup tamarind extract (kudampuli)",
+        "Coconut oil",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Boil cubed tapioca in water with salt until tender, drain, and set aside.",
+        "2. In a pan, sauté mustard seeds, dried red chilies, and curry leaves in coconut oil. Add grated coconut and sauté until light golden; mix this into the cooked tapioca.",
+        "3. For the fish curry, heat oil and sauté ginger, garlic, and curry leaves. Add chili, turmeric, and coriander powders.",
+        "4. Add tamarind extract and water, bringing it to a simmer.",
+        "5. Carefully place fish pieces into the gravy and cook until the fish is tender and the oil floats to the top.",
+        "6. Serve hot with the prepared tapioca."
+    ],
+    "description": "Kappa and Meen Curry is the quintessential soul food of Kerala. Originally a staple for laborers and farmers due to the abundance of tapioca, it has evolved into a beloved culinary tradition, symbolizing the coastal state's deep connection to seafood and tropical produce.",
+    "state": "Kerala",
+    "veg_or_non_veg": "Non-Veg"
+}

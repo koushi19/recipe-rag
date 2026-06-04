@@ -1,0 +1,27 @@
+{
+    "name": "Petha (Agra Style)",
+    "url": "https://indianfoodmap.example.com/petha-(agra-style)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 kg Ash gourd (winter melon/white pumpkin)",
+        "750g Sugar",
+        "2 tbsp Slaked lime (calcium hydroxide/chuna)",
+        "1 tsp Rose water",
+        "1/2 tsp Cardamom powder",
+        "Water for soaking and boiling"
+    ],
+    "instructions": [
+        "1. Peel and deseed the ash gourd, cutting it into uniform cubes.",
+        "2. Prick the cubes thoroughly with a fork to allow syrup absorption.",
+        "3. Soak the cubes in a solution of water and slaked lime for 2-3 hours to firm the texture, then rinse thoroughly under running water.",
+        "4. Boil the cubes in plain water until they become translucent and tender.",
+        "5. Prepare a thick sugar syrup (one-string consistency) in a large pan.",
+        "6. Add the boiled cubes to the syrup and cook on low heat until the sugar crystallizes around the pieces.",
+        "7. Stir in rose water and cardamom powder, then set aside on a wire rack to cool and dry completely."
+    ],
+    "description": "Agra Petha is a world-famous translucent soft candy from the Mughal-era city of Agra. It is iconic for its unique chewy texture and pristine sweetness, deeply rooted in the local culinary history of Uttar Pradesh and often considered a signature souvenir of the Taj Mahal city.",
+    "state": "Uttar Pradesh",
+    "veg_or_non_veg": "Veg"
+}

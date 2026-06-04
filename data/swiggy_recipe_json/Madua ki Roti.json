@@ -1,0 +1,28 @@
+{
+    "name": "Madua ki Roti",
+    "url": "https://indianfoodmap.example.com/madua-ki-roti",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups Ragi (Finger Millet/Madua) flour",
+        "1 cup warm water",
+        "Salt to taste",
+        "Optional: 1 finely chopped green chili",
+        "Optional: 1 tbsp finely chopped onion or coriander leaves"
+    ],
+    "instructions": [
+        "1. In a large mixing bowl, combine the ragi flour and salt.",
+        "2. Gradually add warm water while kneading to form a soft, non-sticky dough.",
+        "3. Cover the dough and let it rest for 10 minutes.",
+        "4. Divide the dough into equal-sized lemon-sized balls.",
+        "5. Take one ball, flatten it slightly, and gently pat it with your palms into a round roti shape on a floured surface or between two plastic sheets.",
+        "6. Heat a tawa (griddle) over medium-high heat.",
+        "7. Place the roti on the tawa and cook for a minute until small bubbles appear.",
+        "8. Flip and cook the other side, pressing lightly with a cloth to ensure even cooking.",
+        "9. Serve hot with traditional accompaniments like spicy potato curry (aloo dum) or pickles."
+    ],
+    "description": "Madua ki Roti is a staple food in Jharkhand, highly valued for its health benefits, being rich in calcium and iron. It is deeply embedded in the tribal culture of the region, often consumed by farmers and rural communities for sustained energy throughout the day.",
+    "state": "Jharkhand",
+    "veg_or_non_veg": "Veg"
+}

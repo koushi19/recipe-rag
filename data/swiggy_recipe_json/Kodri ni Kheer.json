@@ -1,0 +1,29 @@
+{
+    "name": "Kodri ni Kheer",
+    "url": "https://indianfoodmap.example.com/kodri-ni-kheer",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1/2 cup Kodri (Kodo millet)",
+        "3 cups full-fat milk",
+        "1/2 cup jaggery or sugar",
+        "4-5 green cardamom pods (crushed)",
+        "1 tablespoon ghee",
+        "10-12 almonds (chopped)",
+        "10-12 cashews (chopped)",
+        "1 tablespoon charoli (chironji seeds)",
+        "A pinch of saffron strands"
+    ],
+    "instructions": [
+        "1. Rinse the Kodri thoroughly under running water and soak it for 15-20 minutes.",
+        "2. Heat ghee in a heavy-bottomed pan and lightly sauté the dry fruits, then remove and set aside.",
+        "3. Add the soaked Kodri to the same pan and roast slightly for 2 minutes.",
+        "4. Pour in the milk and bring to a gentle boil, then lower the heat and simmer until the millet is tender and the milk thickens.",
+        "5. Add the crushed cardamom, saffron, and jaggery. Stir until the jaggery is completely dissolved.",
+        "6. Add the fried nuts and charoli, stir well, and serve warm or chilled."
+    ],
+    "description": "Kodri ni Kheer is a traditional wholesome dish prepared by the indigenous tribal communities of the region. Kodri, a nutritious millet, is highly valued for its health benefits. This kheer is frequently prepared during festivals and special occasions as a healthy, gluten-free alternative to traditional rice-based desserts, reflecting the region's connection to indigenous grains.",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "veg_or_non_veg": "Veg"
+}

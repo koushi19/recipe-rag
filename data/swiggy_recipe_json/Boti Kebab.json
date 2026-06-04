@@ -1,0 +1,33 @@
+{
+    "name": "Boti Kebab",
+    "url": "https://indianfoodmap.example.com/boti-kebab",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g Goat intestines (Boti), cleaned thoroughly",
+        "1 tablespoon Ginger-garlic paste",
+        "1 teaspoon Red chili powder",
+        "1/2 teaspoon Turmeric powder",
+        "1 teaspoon Garam masala",
+        "2 tablespoons Roasted gram flour (Besan)",
+        "2 tablespoons Curd (Yogurt)",
+        "1 tablespoon Lemon juice",
+        "2 Green chilies, finely chopped",
+        "Handful of fresh coriander leaves",
+        "Salt to taste",
+        "Oil or ghee for frying"
+    ],
+    "instructions": [
+        "1. Thoroughly clean the goat intestines with water, turmeric, and flour to remove any odor.",
+        "2. Pressure cook the Boti with salt, turmeric, and enough water for 5-6 whistles until tender.",
+        "3. Drain excess water and transfer the cooked Boti to a mixing bowl.",
+        "4. Add ginger-garlic paste, red chili powder, garam masala, curd, lemon juice, green chilies, and roasted gram flour to the bowl.",
+        "5. Mix well to ensure the Boti is evenly coated with the marinade and let it rest for 30 minutes.",
+        "6. Heat oil or ghee in a pan and shallow fry the marinated Boti until it turns dark brown and crispy.",
+        "7. Garnish with fresh coriander leaves and serve hot with onion rings and lemon wedges."
+    ],
+    "description": "Boti Kebab is an iconic dish from the culinary heritage of Hyderabad, Telangana. It reflects the intricate use of offal in traditional Mughlai and Deccani cuisine, celebrated for its unique texture and bold, spicy profile often enjoyed as a popular street food or a savory starter.",
+    "state": "Telangana",
+    "veg_or_non_veg": "Non-Veg"
+}

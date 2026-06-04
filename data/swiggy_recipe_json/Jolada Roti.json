@@ -1,0 +1,26 @@
+{
+    "name": "Jolada Roti",
+    "url": "https://indianfoodmap.example.com/jolada-roti",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Sorghum flour (Jolada hittu)",
+        "Water",
+        "Salt (optional)",
+        "Small amount of wheat flour (optional, for binding)"
+    ],
+    "instructions": [
+        "1. Boil water in a heavy-bottomed vessel and add a pinch of salt.",
+        "2. Gradually add sorghum flour to the boiling water, stirring continuously to form a soft dough.",
+        "3. While the dough is still warm, knead it thoroughly until smooth and pliable.",
+        "4. Take a lime-sized ball of dough and flatten it into a disc using your palms, gradually expanding it by patting.",
+        "5. Carefully transfer the roti onto a hot griddle (tava), cooked side facing up.",
+        "6. Wipe the top surface with a wet cloth to remove excess flour.",
+        "7. Flip the roti once the bottom is firm and cook until golden brown spots appear.",
+        "8. Finally, place the roti directly on an open flame to puff it up."
+    ],
+    "description": "Jolada Roti is a staple unleavened flatbread from North Karnataka, synonymous with the region's rural diet. It is made from sorghum (jowar), a hardy grain well-suited to the semi-arid climate. It is culturally significant as a nutritious, fiber-rich meal typically served with spicy curries like Enne Gai (stuffed eggplant) and chutneys, forming an integral part of the local hospitality and daily sustenance.",
+    "state": "Karnataka",
+    "veg_or_non_veg": "Veg"
+}

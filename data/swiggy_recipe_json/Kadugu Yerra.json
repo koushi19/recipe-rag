@@ -1,0 +1,22 @@
+{
+    "name": "Kadugu Yerra",
+    "url": "https://indianfoodmap.example.com/kadugu-yerra",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Prawns",
+        "Mustard paste",
+        "Coconut milk",
+        "Fenugreek seeds",
+        "Vinegar",
+        "Onions",
+        "Tomatoes"
+    ],
+    "instructions": [
+        "1. Heat oil and temper with fenugreek. 2. Sauté onions and tomatoes. 3. Add mustard paste and vinegar. 4. Stir in prawns and coconut milk. 5. Cook until prawns are tender and gravy is thick."
+    ],
+    "description": "The sharp bite of mustard balanced by the coastal sweetness of prawns.",
+    "state": "Puducherry",
+    "veg_or_non_veg": "Non-Veg"
+}

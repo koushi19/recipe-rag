@@ -1,0 +1,28 @@
+{
+    "name": "Sannas",
+    "url": "https://indianfoodmap.example.com/sannas",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups parboiled rice (ukde tandul)",
+        "1/2 cup raw rice",
+        "1 cup fresh grated coconut",
+        "1/2 cup fermented toddy (or 1 tsp instant dry yeast mixed in warm water)",
+        "2 tbsp sugar",
+        "1 tsp salt",
+        "Warm water as required"
+    ],
+    "instructions": [
+        "1. Soak both types of rice in water for 4 to 6 hours.",
+        "2. Grind the soaked rice with fresh grated coconut into a smooth, thick batter using minimal water.",
+        "3. Add the toddy (or yeast mixture), sugar, and salt to the batter and whisk well.",
+        "4. Cover and keep the batter in a warm place for 6 to 8 hours to ferment until it doubles in volume.",
+        "5. Grease small bowls or traditional Sanna molds with oil.",
+        "6. Pour the batter into the molds, filling them three-quarters full.",
+        "7. Steam the Sannas in a steamer for 15 to 20 minutes until a toothpick inserted comes out clean."
+    ],
+    "description": "Sannas are iconic spongy, savory Goan rice cakes. They are culturally significant as a staple accompaniment to spicy meat curries like Pork Vindaloo or Sorpotel, particularly during feasts, weddings, and Christmas celebrations.",
+    "state": "Goa",
+    "veg_or_non_veg": "Veg"
+}

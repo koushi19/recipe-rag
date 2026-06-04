@@ -1,0 +1,29 @@
+{
+    "name": "Ros Omelette",
+    "url": "https://indianfoodmap.example.com/ros-omelette",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 Eggs",
+        "1 small Onion, finely chopped",
+        "2 Green chilies, finely chopped",
+        "1 tbsp Fresh coriander, chopped",
+        "2 cups Chicken Xacuti gravy (or spicy coconut-based gravy)",
+        "1 tbsp Oil",
+        "Salt to taste",
+        "Lime wedges for garnish",
+        "Pau (Goan bread) for serving"
+    ],
+    "instructions": [
+        "1. Whisk eggs with chopped onion, green chilies, coriander, and salt.",
+        "2. Heat oil in a pan and pour in the egg mixture to make a fluffy omelette; cook until golden brown on both sides.",
+        "3. Place the cooked omelette in a deep plate or bowl.",
+        "4. Ladle the hot, spicy gravy (ros) generously over the omelette until partially submerged.",
+        "5. Garnish with additional chopped onions and coriander.",
+        "6. Serve immediately with warm Goan pau to soak up the gravy."
+    ],
+    "description": "Ros Omelette is a quintessential Goan street food delicacy. 'Ros' refers to gravy in Konkani. It is a humble yet soul-satisfying dish, frequently found at local night stalls, representing the fusion of Portuguese-influenced bread culture and traditional spicy Goan gravies.",
+    "state": "Goa",
+    "veg_or_non_veg": "Non-Veg"
+}

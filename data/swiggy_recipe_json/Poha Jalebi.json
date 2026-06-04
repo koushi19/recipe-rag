@@ -1,0 +1,32 @@
+{
+    "name": "Poha Jalebi",
+    "url": "https://indianfoodmap.example.com/poha-jalebi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups flattened rice (thick poha)",
+        "1 medium onion, finely chopped",
+        "1/2 cup peanuts",
+        "2-3 green chilies, slit",
+        "1/2 teaspoon mustard seeds",
+        "1/4 teaspoon turmeric powder",
+        "1 teaspoon sugar",
+        "Fresh coriander leaves",
+        "Juice of half a lemon",
+        "Salt to taste",
+        "2 tablespoons oil",
+        "For Jalebi: 1 cup all-purpose flour, 1/4 cup yogurt, 1 cup sugar, saffron, oil for deep frying"
+    ],
+    "instructions": [
+        "1. Rinse poha in a colander and let it drain completely for 10 minutes.",
+        "2. Heat oil in a pan, add mustard seeds and peanuts; sauté until golden.",
+        "3. Add onions and green chilies, cooking until onions are translucent.",
+        "4. Stir in turmeric and salt, then add the soaked poha and sugar.",
+        "5. Toss gently, cover for 2 minutes on low heat, then garnish with lemon juice and coriander.",
+        "6. For the Jalebi, whisk flour and yogurt with water to form a fermented batter, pipe into hot oil in swirls, and soak in saffron-infused warm sugar syrup."
+    ],
+    "description": "Poha Jalebi is the quintessential breakfast of Indore and the wider Madhya Pradesh region. The combination of salty, tangy poha and the sweet, crispy jalebi offers a balanced flavor profile that reflects the state's vibrant street food culture.",
+    "state": "Madhya Pradesh",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Khandvi",
+    "url": "https://indianfoodmap.example.com/khandvi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup gram flour (besan)",
+        "1.5 cups buttermilk (sour/yogurt diluted)",
+        "0.5 teaspoon turmeric powder",
+        "1 teaspoon ginger-green chili paste",
+        "Salt to taste",
+        "2 tablespoons oil",
+        "1 teaspoon mustard seeds",
+        "1 teaspoon sesame seeds",
+        "1 pinch asafoetida (hing)",
+        "Fresh coriander leaves for garnish",
+        "Fresh grated coconut for garnish",
+        "Curry leaves"
+    ],
+    "instructions": [
+        "1. Whisk gram flour, buttermilk, salt, turmeric, and ginger-green chili paste into a smooth, lump-free batter.",
+        "2. Cook the batter in a non-stick pan on medium heat, stirring continuously until it thickens and turns glossy (about 8-10 minutes).",
+        "3. Quickly spread a small portion of the hot mixture onto an inverted flat surface (like a large plate or countertop) as thinly as possible using a spatula.",
+        "4. Let it cool for a few minutes, then cut into long strips and roll each strip tightly.",
+        "5. Heat oil in a small pan, add mustard seeds, sesame seeds, asafoetida, and curry leaves.",
+        "6. Pour the tempering over the rolls and garnish with grated coconut and fresh coriander."
+    ],
+    "description": "Khandvi is a quintessential Gujarati delicacy known for its melt-in-the-mouth texture and delicate balance of savory and tangy flavors. It is a popular snack or breakfast item, celebrated for its aesthetic spiral appearance and the skillful technique required to spread the batter perfectly.",
+    "state": "Gujarat",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Muitru",
+    "url": "https://indianfoodmap.example.com/muitru",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Raw rice",
+        "Water",
+        "Traditional medicinal herbs (optional)",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Soak the raw rice in water for a specific period to allow natural fermentation to initiate.",
+        "2. Boil the rice with the water until it reaches a soft, porridge-like consistency.",
+        "3. Add salt according to taste.",
+        "4. Optionally, incorporate traditional medicinal herbs or roots depending on the specific tribal variation.",
+        "5. Serve warm or at room temperature as a nutritious daily meal."
+    ],
+    "description": "Muitru is a quintessential dish of the Tripuri people, reflecting their close connection to nature and indigenous culinary wisdom. It is highly valued for its digestive properties and is frequently prepared in rural households as a simple, energy-boosting meal.",
+    "state": "Tripura",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Jalebi with Rabri",
+    "url": "https://indianfoodmap.example.com/jalebi-with-rabri",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Maida",
+        "Sugar syrup",
+        "Full fat milk",
+        "Saffron"
+    ],
+    "instructions": [
+        "1. Prepare rabri by reducing milk. 2. Pipe jalebi batter into hot oil and fry until crisp. 3. Soak in syrup and serve with hot rabri."
+    ],
+    "description": "Hot, crispy spirals of syrup-soaked bliss, paired with chilled, thickened milk.",
+    "state": "Chandigarh",
+    "veg_or_non_veg": "Veg"
+}

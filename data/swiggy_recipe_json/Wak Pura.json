@@ -1,0 +1,27 @@
+{
+    "name": "Wak Pura",
+    "url": "https://indianfoodmap.example.com/wak-pura",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Pork (specifically smoked or fatty cuts)",
+        "Bamboo shoot (fermented or fresh)",
+        "Green chilies",
+        "Onion",
+        "Ginger",
+        "Salt to taste",
+        "Water"
+    ],
+    "instructions": [
+        "1. Char the pork over an open flame until the skin is crispy and the meat is slightly smoked.",
+        "2. Finely chop the charred pork into small, uniform pieces.",
+        "3. Finely mince the ginger, onion, and green chilies.",
+        "4. Combine the pork, bamboo shoots, and minced aromatics in a bowl.",
+        "5. Add salt and mash the ingredients together thoroughly by hand or with a mortar and pestle to release the flavors.",
+        "6. Serve as a side dish or dry curry with steamed red rice."
+    ],
+    "description": "Wak Pura is a quintessential dish of the Garo tribe in Meghalaya. It highlights the Garo affinity for smoked meat and fermented bamboo shoots, showcasing a rustic, bold flavor profile achieved through minimal but impactful ingredients.",
+    "state": "Meghalaya",
+    "veg_or_non_veg": "Non-Veg"
+}

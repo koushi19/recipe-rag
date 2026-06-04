@@ -1,0 +1,30 @@
+{
+    "name": "Bamboo Shoot Curry",
+    "url": "https://indianfoodmap.example.com/bamboo-shoot-curry",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Fresh tender bamboo shoots",
+        "Pork or smoked meat (optional, but traditional)",
+        "Dried red chilies",
+        "Ginger",
+        "Garlic",
+        "Green chilies",
+        "Local herbs (like wild coriander or cilantro)",
+        "Salt to taste",
+        "Water"
+    ],
+    "instructions": [
+        "1. If using fresh bamboo, peel the outer layers, slice thinly, and soak in water for a few hours to remove bitterness.",
+        "2. In a pot, boil the bamboo shoots with water and a pinch of salt until tender.",
+        "3. Prepare a paste by crushing ginger, garlic, and fresh green chilies.",
+        "4. If using meat, sauté it in a separate pan until browned, then add the boiled bamboo shoots.",
+        "5. Add the ginger-garlic-chili paste and dried red chilies to the pot.",
+        "6. Pour in enough water to cover the ingredients and simmer over medium heat until the flavors meld.",
+        "7. Garnish with fresh herbs and serve hot with steamed rice."
+    ],
+    "description": "Bamboo shoot curry is a staple in the tribal cuisine of Arunachal Pradesh. Reflecting the region's deep connection to forest produce, the dish highlights the unique, earthy flavor of bamboo shoots. It is deeply ingrained in the food culture of tribes like the Adi and Nyishi, often prepared during communal feasts and daily meals alike.",
+    "state": "Arunachal Pradesh",
+    "veg_or_non_veg": "Non-Veg"
+}

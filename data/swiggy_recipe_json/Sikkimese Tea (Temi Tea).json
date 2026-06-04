@@ -1,0 +1,25 @@
+{
+    "name": "Sikkimese Tea (Temi Tea)",
+    "url": "https://indianfoodmap.example.com/sikkimese-tea-(temi-tea)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Temi Tea leaves (Sikkim organic black tea)",
+        "Fresh filtered water",
+        "Optional: Fresh yak milk or cow milk",
+        "Optional: Organic honey or jaggery",
+        "Optional: A pinch of crushed cardamom or ginger for flavoring"
+    ],
+    "instructions": [
+        "1. Bring fresh, cold filtered water to a gentle boil in a kettle.",
+        "2. Place one teaspoon of premium Temi tea leaves into a teapot or infuser per cup.",
+        "3. Pour the hot water (just off the boil) over the tea leaves to avoid scorching them.",
+        "4. Steep for 3 to 4 minutes to allow the distinct muscatel flavor to develop.",
+        "5. Strain the tea into a cup immediately.",
+        "6. Add a dash of milk or a sweetener like honey if desired, though it is traditionally enjoyed plain to appreciate its floral notes."
+    ],
+    "description": "Temi Tea is the pride of Sikkim, grown in the state's only tea garden located in Ravangla. It is world-renowned for its exquisite flavor, golden color, and superior quality. Culturally, serving a cup of Temi tea is a symbol of Sikkimese hospitality, reflecting the pristine, misty, and high-altitude landscape of the Himalayan region.",
+    "state": "Sikkim",
+    "veg_or_non_veg": "Veg"
+}

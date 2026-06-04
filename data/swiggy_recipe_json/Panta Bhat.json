@@ -1,0 +1,29 @@
+{
+    "name": "Panta Bhat",
+    "url": "https://indianfoodmap.example.com/panta-bhat",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Leftover cooked white rice",
+        "Water",
+        "Salt",
+        "Green chilies",
+        "Mustard oil",
+        "Onion slices",
+        "Roasted dried red chilies",
+        "Lemon wedges"
+    ],
+    "instructions": [
+        "1. Take the leftover boiled rice in a clay or ceramic bowl.",
+        "2. Submerge the rice completely in clean water.",
+        "3. Cover the bowl and let it sit at room temperature overnight to allow mild fermentation.",
+        "4. In the morning, drain some of the excess water if preferred or keep it as is.",
+        "5. Mash a green chili and roasted red chili into the rice.",
+        "6. Add salt, a drizzle of pungent mustard oil, and onion slices.",
+        "7. Mix thoroughly and serve with sides like fried fish, mashed potatoes (aloo bhorta), or fritters."
+    ],
+    "description": "Panta Bhat is a quintessential Bengali comfort food, especially popular among farmers as a cooling breakfast during the hot summer months. It is revered for its probiotic properties, light nature, and its cultural identity as a symbol of simple, rural Bengali heritage.",
+    "state": "West Bengal",
+    "veg_or_non_veg": "Veg"
+}

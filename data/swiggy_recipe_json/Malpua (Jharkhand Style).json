@@ -1,0 +1,29 @@
+{
+    "name": "Malpua (Jharkhand Style)",
+    "url": "https://indianfoodmap.example.com/malpua-(jharkhand-style)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup wheat flour (atta)",
+        "1/2 cup mashed ripe bananas",
+        "1/2 cup jaggery or sugar",
+        "1/2 cup milk",
+        "1/4 teaspoon fennel seeds (saunf)",
+        "1/4 teaspoon green cardamom powder",
+        "A pinch of salt",
+        "Ghee for deep frying"
+    ],
+    "instructions": [
+        "1. In a large bowl, whisk together mashed bananas, jaggery/sugar, and milk until smooth.",
+        "2. Gradually add wheat flour, fennel seeds, cardamom powder, and salt, mixing to form a thick, lump-free batter.",
+        "3. Cover and let the batter rest for at least 30 minutes to ensure the right texture.",
+        "4. Heat ghee in a shallow pan on medium heat.",
+        "5. Pour a ladleful of batter into the hot ghee, letting it spread into a small circular shape.",
+        "6. Fry on both sides until deep golden brown and crispy.",
+        "7. Remove and drain excess ghee before serving warm."
+    ],
+    "description": "Malpua is a beloved traditional dessert in Jharkhand, often prepared during festivals like Holi, Diwali, and weddings. Unlike the syrup-soaked versions found in other parts of India, the Jharkhandi style is characterized by the use of mashed bananas in the batter, which gives it a unique moist texture and distinct flavor, often enjoyed alongside savory vegetable curries.",
+    "state": "Jharkhand",
+    "veg_or_non_veg": "Veg"
+}

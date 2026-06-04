@@ -1,0 +1,27 @@
+{
+    "name": "Smoked Pork with Bamboo Shoot",
+    "url": "https://indianfoodmap.example.com/smoked-pork-with-bamboo-shoot",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Smoked pork (Axone/fermented soybean optional)",
+        "Fermented bamboo shoot",
+        "Bhut Jolokia (King Chili)",
+        "Ginger",
+        "Garlic",
+        "Salt",
+        "Water"
+    ],
+    "instructions": [
+        "1. Cut the smoked pork into bite-sized pieces and wash thoroughly.",
+        "2. In a heavy-bottomed pot, add the pork, chopped ginger, crushed garlic, and salt with enough water to cover.",
+        "3. Simmer over low heat until the meat is tender and the smoky flavor is infused into the broth.",
+        "4. Add the fermented bamboo shoot and the slit Bhut Jolokia chili.",
+        "5. Continue cooking for another 15-20 minutes until the flavors meld together into a thick, aromatic stew.",
+        "6. Serve hot with steamed red rice."
+    ],
+    "description": "Smoked Pork with Bamboo Shoot is a quintessential Naga dish reflecting the community's preservation techniques. The fermentation of bamboo provides a distinctive acidic tang that balances the rich, intense smokiness of the pork, serving as a comfort food staple in Naga households.",
+    "state": "Nagaland",
+    "veg_or_non_veg": "Non-Veg"
+}

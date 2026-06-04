@@ -1,0 +1,33 @@
+{
+    "name": "Sabudana Khichdi",
+    "url": "https://indianfoodmap.example.com/sabudana-khichdi",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup Sabudana (sago pearls)",
+        "1/2 cup roasted peanuts (coarsely crushed)",
+        "2 medium potatoes (boiled and cubed)",
+        "1 tablespoon ghee",
+        "1 teaspoon cumin seeds",
+        "2-3 green chilies (finely chopped)",
+        "1/2 teaspoon black pepper powder",
+        "Sendha Namak (rock salt) to taste",
+        "Fresh curry leaves",
+        "Lemon juice",
+        "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. Rinse sabudana thoroughly and soak in water just enough to cover them for 4-6 hours until soft.",
+        "2. Drain excess water and fluff the sabudana with a fork.",
+        "3. Heat ghee in a pan and add cumin seeds and curry leaves until they splutter.",
+        "4. Add cubed potatoes and sauté until golden brown.",
+        "5. Add green chilies and the soaked sabudana pearls to the pan.",
+        "6. Mix in the crushed peanuts, rock salt, and black pepper powder.",
+        "7. Cook on low heat while stirring gently until the pearls become translucent.",
+        "8. Finish with a squeeze of fresh lemon juice and garnish with chopped coriander."
+    ],
+    "description": "Sabudana Khichdi is a staple dish in Chhattisgarh, particularly enjoyed during religious festivals and 'vrat' (fasting) periods. Its light, energy-boosting properties make it a favored cultural comfort food that balances starch with the crunch of roasted peanuts.",
+    "state": "Chhattisgarh",
+    "veg_or_non_veg": "Veg"
+}

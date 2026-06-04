@@ -1,0 +1,29 @@
+{
+    "name": "Mahua Ladoo",
+    "url": "https://indianfoodmap.example.com/mahua-ladoo",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Dried Mahua flowers (Mahua ka phool)",
+        "Wheat flour (Gehu ka atta)",
+        "Jaggery (Gud)",
+        "Ghee",
+        "Cardamom powder",
+        "Dry ginger powder (Saunth)",
+        "Chopped nuts (optional)"
+    ],
+    "instructions": [
+        "1. Clean and wash the dried Mahua flowers thoroughly and dry them if necessary.",
+        "2. In a heavy-bottomed pan, roast the Mahua flowers until fragrant and slightly crispy, then set aside.",
+        "3. Roast the wheat flour in ghee until it turns golden brown and aromatic.",
+        "4. Prepare a thick syrup by melting jaggery with a little water, then strain it to remove impurities.",
+        "5. Combine the roasted Mahua, roasted flour, cardamom powder, and ginger powder in a large bowl.",
+        "6. Pour the warm jaggery syrup over the mixture and mix well.",
+        "7. While the mixture is still warm, take small portions and roll them into firm round balls (ladoos).",
+        "8. Allow them to cool completely before storing in an airtight container."
+    ],
+    "description": "Mahua Ladoo is a traditional tribal delicacy from Chhattisgarh, deeply rooted in the forest-based culture of the region. The Mahua flower, often referred to as the 'Tree of Life' for the tribal communities, is rich in vitamins and minerals, making these ladoos a healthy, energy-boosting snack that is often consumed during winter or festive occasions.",
+    "state": "Chhattisgarh",
+    "veg_or_non_veg": "Veg"
+}

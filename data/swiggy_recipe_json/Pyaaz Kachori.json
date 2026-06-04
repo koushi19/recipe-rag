@@ -1,0 +1,36 @@
+{
+    "name": "Pyaaz Kachori",
+    "url": "https://indianfoodmap.example.com/pyaaz-kachori",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Refined flour (maida)",
+        "Ghee",
+        "Onions (finely chopped)",
+        "Gram flour (besan)",
+        "Ginger-green chili paste",
+        "Cumin seeds",
+        "Fennel seeds",
+        "Coriander seeds (crushed)",
+        "Asafoetida (hing)",
+        "Red chili powder",
+        "Turmeric powder",
+        "Amchur (dry mango powder)",
+        "Garam masala",
+        "Salt",
+        "Oil for deep frying"
+    ],
+    "instructions": [
+        "1. Prepare a stiff dough using flour, salt, and melted ghee, then let it rest for 30 minutes.",
+        "2. For the filling, sauté cumin, fennel, and coriander seeds in oil, then add ginger-green chili paste and asafoetida.",
+        "3. Add finely chopped onions and cook until translucent; stir in besan and cook until fragrant.",
+        "4. Add spice powders (turmeric, chili, garam masala, amchur) and salt; cook until the mixture dries out, then let it cool.",
+        "5. Divide dough into balls, flatten, and stuff with the onion mixture, sealing the edges properly.",
+        "6. Gently press the filled kachoris to flatten slightly.",
+        "7. Deep fry on low to medium heat until they turn golden brown and crispy on both sides."
+    ],
+    "description": "Pyaaz Kachori is an iconic breakfast snack originating from Jodhpur, Rajasthan. It is celebrated for its perfect balance of spicy, sweet, and tangy flavors, often enjoyed as a street food staple during morning hours with a cup of hot masala chai.",
+    "state": "Rajasthan",
+    "veg_or_non_veg": "Veg"
+}

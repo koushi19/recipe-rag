@@ -1,0 +1,35 @@
+{
+    "name": "Baingan Bharta",
+    "url": "https://indianfoodmap.example.com/baingan-bharta",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 large (500g) purple eggplant (brinjal), preferably long and firm",
+        "2 medium red onions, finely chopped",
+        "2 large ripe tomatoes, finely diced",
+        "1 tablespoon fresh ginger, grated",
+        "4 cloves garlic, minced",
+        "2 green bird's eye chilies, slit (adjust to heat preference)",
+        "1 teaspoon cumin seeds",
+        "1 teaspoon Kashmiri red chili powder (or mild paprika for color)",
+        "½ teaspoon turmeric powder",
+        "1 tablespoon homemade garam masala (clove, cinnamon, cardamom, black pepper)",
+        "3 tablespoons mustard oil (or ghee for a nuttier flavor)",
+        "Salt to taste",
+        "A handful of fresh coriander leaves, chopped",
+        "Optional: 1 teaspoon amchur (dry mango powder) for tang"
+    ],
+    "instructions": [
+        "1. Roast the eggplant directly over a gas flame or charcoal grill, turning frequently until the skin is completely charred and the flesh feels soft. (Alternatively, broil in oven at 200°C for 20-25 minutes, turning once.)",
+        "2. Let the eggplant cool, then peel off the charred skin. Gently mash the flesh with a fork; keep some coarse bits for texture. Set aside.",
+        "3. Heat mustard oil in a heavy kadhai or pan until it smokes lightly. Add cumin seeds; they should sizzle immediately.",
+        "4. Add chopped onions and cook on medium-high heat until deep golden brown, about 8-10 minutes, scraping the pan to incorporate caramelized bits.",
+        "5. Stir in ginger, garlic, and green chilies; cook for 1 minute until fragrant. Add diced tomatoes, turmeric, and red chili powder. Cook until tomatoes break down and oil separates, about 5-7 minutes.",
+        "6. Lower heat; add the mashed eggplant, garam masala, and salt. Mix well and cook for 5 minutes, stirring occasionally, allowing flavors to meld.",
+        "7. (Optional) Add amchur for extra tang. Taste and adjust salt. Garnish with fresh coriander. Serve hot with warm tandoori roti or paratha."
+    ],
+    "description": "A smoky, soulful symphony of fire-roasted eggplant, caramelized onions, and fragrant spices, embodying the rustic heart of Punjab.",
+    "state": "Punjab",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Ouu Khatta",
+    "url": "https://indianfoodmap.example.com/ouu-khatta",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 Elephant Apple (Ouu)",
+        "1/2 cup jaggery",
+        "1 tsp mustard seeds",
+        "1/2 tsp panch phutana (cumin, mustard, fennel, fenugreek, and nigella seeds)",
+        "2 dried red chilies",
+        "1/2 tsp turmeric powder",
+        "1/2 tsp chili powder",
+        "1 tbsp mustard oil",
+        "Salt to taste",
+        "Water as needed"
+    ],
+    "instructions": [
+        "1. Peel the outer skin of the elephant apple, chop it into small pieces, and pressure cook with water, salt, and turmeric until soft.",
+        "2. Once cooked, lightly mash the pieces.",
+        "3. Heat mustard oil in a pan, add panch phutana and dried red chilies to temper.",
+        "4. Add the mashed elephant apple to the pan and stir for a few minutes.",
+        "5. Add jaggery and chili powder, stirring until the jaggery melts and the mixture thickens to a jam-like consistency.",
+        "6. Adjust salt to taste and serve warm or cold as a side dish."
+    ],
+    "description": "Ouu Khatta is a quintessential Odia sweet and sour side dish often served during festivals and weddings. It highlights the unique flavor of the elephant apple, a seasonal fruit, balancing its tartness with the sweetness of jaggery and the earthiness of traditional spices.",
+    "state": "Odisha",
+    "veg_or_non_veg": "Veg"
+}

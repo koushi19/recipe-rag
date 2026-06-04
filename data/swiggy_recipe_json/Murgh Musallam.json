@@ -1,0 +1,35 @@
+{
+    "name": "Murgh Musallam",
+    "url": "https://indianfoodmap.example.com/murgh-musallam",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Whole chicken with skin removed",
+        "Yogurt",
+        "Ginger-garlic paste",
+        "Red chili powder",
+        "Turmeric powder",
+        "Garam masala",
+        "Coriander powder",
+        "Saffron strands soaked in warm milk",
+        "Hard-boiled eggs",
+        "Almonds and cashews paste",
+        "Fried onions (birista)",
+        "Clarified butter (ghee)",
+        "Whole spices (cardamom, cloves, cinnamon, bay leaves)",
+        "Fresh coriander leaves"
+    ],
+    "instructions": [
+        "1. Marinate the whole chicken with ginger-garlic paste, yogurt, and powdered spices, allowing it to rest for at least 4 hours.",
+        "2. Prepare a stuffing of boiled eggs and nuts mixed with some masala.",
+        "3. Stuff the chicken cavity and truss it securely with kitchen twine.",
+        "4. Heat ghee in a heavy-bottomed pot and sear the chicken on all sides until golden brown.",
+        "5. Remove the chicken, then prepare the gravy using fried onions, nut paste, whole spices, and the remaining marinade.",
+        "6. Place the chicken back in the pot, cover, and cook on low heat (dum style) until tender, basting occasionally.",
+        "7. Garnish with saffron milk and fresh coriander before serving."
+    ],
+    "description": "Originating from the royal kitchens of the Mughals and perfected in the Awadh region of Uttar Pradesh, Murgh Musallam is a festive, celebratory dish representing the opulence of Indian culinary history. 'Musallam' means 'whole' or 'intact', signifying the grand presentation of the dish as a centerpiece for royal banquets.",
+    "state": "Uttar Pradesh",
+    "veg_or_non_veg": "Non-Veg"
+}

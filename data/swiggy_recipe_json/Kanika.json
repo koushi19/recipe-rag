@@ -1,0 +1,27 @@
+{
+    "name": "Kanika",
+    "url": "https://indianfoodmap.example.com/kanika",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Gobindobhog or Basmati rice",
+        "Ghee",
+        "Sugar",
+        "Cashews",
+        "Raisins",
+        "Bay leaves",
+        "Cinnamon sticks",
+        "Green cardamom",
+        "Cloves",
+        "Edible camphor (optional)",
+        "Turmeric powder",
+        "Salt"
+    ],
+    "instructions": [
+        "1. Wash and soak the rice for 20 minutes, then drain. 2. Heat ghee in a heavy-bottomed pan and fry cashews and raisins until golden; remove and set aside. 3. In the same ghee, add bay leaves, cinnamon, cardamom, and cloves. 4. Add the drained rice and sauté for a few minutes until fragrant. 5. Add turmeric, salt, and water (usually double the volume of rice) and cook on low heat until the rice is tender. 6. Add sugar and the fried dry fruits, mixing gently to avoid breaking grains. 7. Cover and cook on very low heat until the sugar dissolves and the liquid is absorbed. 8. Add a pinch of edible camphor for fragrance and let it rest before serving."
+    ],
+    "description": "Kanika is a signature sweet rice dish from Odisha, famously part of the 'Chhappan Bhog' (56 offerings) served to Lord Jagannath at the Puri Temple. It is traditionally prepared during festivals and special occasions as an auspicious offering.",
+    "state": "Odisha",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Chha Gosht",
+    "url": "https://indianfoodmap.example.com/chha-gosht",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g mutton (goat meat)",
+        "2 cups buttermilk (chha)",
+        "2 tbsp mustard oil",
+        "1 tsp cumin seeds",
+        "1 tsp coriander powder",
+        "1/2 tsp turmeric powder",
+        "1 tsp red chili powder",
+        "1 tbsp ginger-garlic paste",
+        "1/2 cup onion paste",
+        "2 bay leaves",
+        "2-3 black cardamoms",
+        "Salt to taste",
+        "1 tsp garam masala",
+        "Fresh coriander for garnish"
+    ],
+    "instructions": [
+        "1. Marinate the mutton pieces with salt, turmeric, and ginger-garlic paste for 30 minutes.",
+        "2. Heat mustard oil in a heavy-bottomed pot and add cumin seeds, bay leaves, and black cardamom.",
+        "3. Add the onion paste and sauté until golden brown.",
+        "4. Add the marinated mutton and cook on high heat until browned.",
+        "5. Lower the heat, add coriander powder and red chili powder, then slowly pour in the buttermilk while stirring continuously to prevent curdling.",
+        "6. Cover and simmer on low heat for 45-60 minutes until the meat is tender and the gravy thickens.",
+        "7. Finish with a sprinkle of garam masala and fresh coriander before serving with steamed rice."
+    ],
+    "description": "Chha Gosht is a signature dish of the Pahari cuisine of Himachal Pradesh. It is prepared during special occasions and festivals, reflecting the state's reliance on dairy and slow-cooking traditions to tenderize meat in the cold mountainous climate.",
+    "state": "Himachal Pradesh",
+    "veg_or_non_veg": "Non-Veg"
+}

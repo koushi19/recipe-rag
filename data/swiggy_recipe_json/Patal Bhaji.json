@@ -1,0 +1,31 @@
+{
+    "name": "Patal Bhaji",
+    "url": "https://indianfoodmap.example.com/patal-bhaji",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups dried white peas (vatana), soaked overnight",
+        "2 medium potatoes, peeled and cubed",
+        "1 large onion, finely chopped",
+        "1 teaspoon mustard seeds",
+        "1/2 teaspoon turmeric powder",
+        "1 tablespoon Malvani or Goda masala",
+        "1/2 teaspoon red chili powder",
+        "1 sprig curry leaves",
+        "2 tablespoons coconut oil",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. Pressure cook the soaked white peas and cubed potatoes with enough water, salt, and turmeric until soft.",
+        "2. Heat coconut oil in a pan and add mustard seeds; once they splutter, add curry leaves and chopped onions.",
+        "3. Sauté onions until translucent, then add the red chili powder and Malvani masala, stirring for a minute.",
+        "4. Add the cooked pea and potato mixture (with the cooking liquid) to the pan.",
+        "5. Simmer on low heat for 10 minutes to allow the flavors to meld, mashing a few potatoes to thicken the gravy.",
+        "6. Adjust salt, garnish with fresh coriander, and serve hot with buttered pav."
+    ],
+    "description": "Patal Bhaji is a quintessential Goan vegetarian staple, deeply rooted in the local breakfast culture. Often referred to as 'Bhaji-Pav,' it is a comforting, mildly spiced, and nutritious dish found in almost every home and local canteen across the state.",
+    "state": "Goa",
+    "veg_or_non_veg": "Veg"
+}

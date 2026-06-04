@@ -1,0 +1,29 @@
+{
+    "name": "Mawa Bati",
+    "url": "https://indianfoodmap.example.com/mawa-bati",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Khoya (Mawa)",
+        "Maida (All-purpose flour)",
+        "Chopped dry fruits (almonds, pistachios, cashews)",
+        "Green cardamom powder",
+        "Sugar",
+        "Water",
+        "Saffron strands",
+        "Ghee for deep frying",
+        "Rose water"
+    ],
+    "instructions": [
+        "1. Mix khoya and maida to form a smooth dough, ensuring no lumps remain.",
+        "2. Create a stuffing by mixing finely chopped dry fruits, a pinch of cardamom, and a little khoya.",
+        "3. Divide the dough into equal portions, flatten them, place the stuffing in the center, and roll into smooth balls.",
+        "4. Heat ghee in a deep pan and fry the balls on low-medium heat until they turn deep golden brown.",
+        "5. Prepare a sugar syrup (one-string consistency) infused with saffron and rose water.",
+        "6. Drop the fried bati into the warm syrup and let them soak for at least 2 hours before serving."
+    ],
+    "description": "Mawa Bati is a larger, more opulent version of the classic Gulab Jamun, famously hailing from the state of Madhya Pradesh. It is a quintessential festive treat, often served at weddings and celebrations, cherished for its dense, melt-in-the-mouth texture and the royal crunch of dry fruits hidden inside.",
+    "state": "Madhya Pradesh",
+    "veg_or_non_veg": "Veg"
+}

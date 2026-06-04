@@ -1,0 +1,40 @@
+{
+    "name": "Mixed Dal",
+    "url": "https://indianfoodmap.example.com/mixed-dal",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1/4 cup yellow moong dal",
+        "1/4 cup masoor dal",
+        "1/4 cup chana dal",
+        "1/4 cup urad dal",
+        "2 tablespoons pure desi ghee",
+        "1 teaspoon cumin seeds",
+        "1 pinch asafoetida (hing)",
+        "1 large onion, finely chopped",
+        "2 tomatoes, finely chopped",
+        "1-inch piece of ginger, grated",
+        "2 cloves garlic, minced",
+        "2 green chilies, slit",
+        "1/2 teaspoon turmeric powder",
+        "1 teaspoon red chili powder",
+        "1 teaspoon coriander powder",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. Wash and soak the mixed dals in water for 30 minutes.",
+        "2. Pressure cook the soaked dals with turmeric, salt, and 3 cups of water for 3-4 whistles until soft.",
+        "3. Heat desi ghee in a heavy-bottomed pan or kadhai.",
+        "4. Add cumin seeds and a pinch of hing; let them splutter.",
+        "5. Add ginger, garlic, and onions, sautéing until golden brown.",
+        "6. Add tomatoes and green chilies, cooking until the tomatoes soften.",
+        "7. Stir in red chili powder and coriander powder, mixing well.",
+        "8. Pour the cooked dal into the tempering and simmer for 5-7 minutes.",
+        "9. Garnish with fresh coriander leaves and serve hot with roti or steamed rice."
+    ],
+    "description": "Mixed Dal is a staple in Haryanvi households, reflecting the region's agricultural roots. It is a wholesome, protein-rich dish often prepared in the quintessential style of North Indian home cooking, where the quality of locally sourced desi ghee defines the depth of flavor.",
+    "state": "Haryana",
+    "veg_or_non_veg": "Veg"
+}

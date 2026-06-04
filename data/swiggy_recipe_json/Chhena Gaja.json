@@ -1,0 +1,28 @@
+{
+    "name": "Chhena Gaja",
+    "url": "https://indianfoodmap.example.com/chhena-gaja",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g fresh Chhena (pressed cottage cheese)",
+        "2 tablespoons semolina (rava/sooji)",
+        "1 tablespoon powdered sugar",
+        "2 cups sugar (for syrup)",
+        "1.5 cups water",
+        "Ghee or refined oil (for deep frying)",
+        "Cardamom powder (optional)",
+        "Rose water (optional)"
+    ],
+    "instructions": [
+        "1. Knead the fresh chhena with semolina and powdered sugar until smooth and non-greasy.",
+        "2. Shape the mixture into small rectangular blocks or thick cubes.",
+        "3. Heat ghee or oil in a deep pan and fry the chhena blocks on medium-low heat until they turn deep golden brown and crispy on the outside.",
+        "4. Prepare a thick sugar syrup by boiling sugar and water until it reaches a one-string consistency.",
+        "5. Immerse the fried chhena blocks into the warm syrup and let them soak for at least 2-3 hours so they absorb the sweetness thoroughly.",
+        "6. Remove from the syrup and serve warm or at room temperature."
+    ],
+    "description": "Chhena Gaja is a quintessential Odia sweet, deeply linked to the Jagannath Temple in Puri, where it is offered as part of the 'bhog' to the deity. It is prized for its unique texture—a firm, fried outer layer that gives way to a soft, syrupy center.",
+    "state": "Odisha",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Mamidikaya Pappu",
+    "url": "https://indianfoodmap.example.com/mamidikaya-pappu",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup toor dal (split pigeon peas)",
+        "1 medium raw green mango (peeled and chopped into cubes)",
+        "2 green chilies (slit)",
+        "1/2 tsp turmeric powder",
+        "1 tsp red chili powder",
+        "1/2 tsp mustard seeds",
+        "1/2 tsp cumin seeds",
+        "1 pinch asafoetida (hing)",
+        "2 sprigs fresh curry leaves",
+        "2 dried red chilies",
+        "2 cloves garlic (crushed)",
+        "2 tbsp cooking oil",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. Rinse the toor dal thoroughly and pressure cook it with 3 cups of water, turmeric, and a drop of oil until soft.",
+        "2. In a separate pot, cook the cubed mangoes with a little water, green chilies, and chili powder until tender but not mushy.",
+        "3. Add the cooked dal to the mango mixture, season with salt, and simmer for 5-7 minutes to allow flavors to meld.",
+        "4. Prepare the tempering by heating oil in a small pan, adding mustard seeds, cumin seeds, garlic, dried red chilies, hing, and curry leaves.",
+        "5. Pour the hot tempering over the dal, garnish with fresh coriander, and serve hot with steamed rice and a dollop of ghee."
+    ],
+    "description": "Mamidikaya Pappu is a quintessential summer dish in Telangana, celebrated for its unique balance of earthy lentils and the tartness of raw green mangoes. It is a staple comfort food, typically enjoyed during the peak mango season, reflecting the region's love for tang and spice.",
+    "state": "Telangana",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Soibum Thongba",
+    "url": "https://indianfoodmap.example.com/soibum-thongba",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Soibum (fermented bamboo shoot)",
+        "Chana dal (soaked)",
+        "Ginger-garlic paste",
+        "Green chilies",
+        "Onion (finely chopped)",
+        "Turmeric powder",
+        "Mustard oil",
+        "Fresh coriander leaves",
+        "Salt",
+        "Water"
+    ],
+    "instructions": [
+        "1. Heat mustard oil in a heavy-bottomed pan and sauté onions until translucent.",
+        "2. Add ginger-garlic paste and green chilies, cooking until the raw smell disappears.",
+        "3. Add the fermented soibum and turmeric powder, stir-frying for 5 minutes.",
+        "4. Add the soaked chana dal and enough water to submerge the ingredients.",
+        "5. Cover and simmer on low heat until the dal is soft and the bamboo shoot has absorbed the flavors.",
+        "6. Adjust salt to taste and garnish with fresh coriander leaves before serving hot with steamed rice."
+    ],
+    "description": "Soibum Thongba is a signature vegetarian delicacy of Manipur. It highlights the region's unique reliance on fermented foods, particularly fermented bamboo shoot, which imparts a distinct tangy and earthy flavor profile. It is a staple comfort food served during community feasts and daily meals.",
+    "state": "Manipur",
+    "veg_or_non_veg": "Veg"
+}

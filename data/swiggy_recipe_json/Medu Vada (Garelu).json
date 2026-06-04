@@ -1,0 +1,32 @@
+{
+    "name": "Medu Vada (Garelu)",
+    "url": "https://indianfoodmap.example.com/medu-vada-(garelu)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups Urad Dal (split black gram)",
+        "2-3 green chilies",
+        "1 inch ginger piece",
+        "1 tsp cumin seeds",
+        "1 sprig fresh curry leaves",
+        "1 tbsp chopped fresh cilantro",
+        "1 medium onion (finely chopped, optional)",
+        "Salt to taste",
+        "Oil for deep frying",
+        "Water as needed for grinding"
+    ],
+    "instructions": [
+        "1. Soak urad dal in water for 4-6 hours, then drain.",
+        "2. Grind the dal into a thick, smooth batter using minimal ice-cold water; the texture should be light and fluffy.",
+        "3. Add finely chopped green chilies, ginger, cumin seeds, curry leaves, cilantro, salt, and onions (if using) to the batter and mix well.",
+        "4. Heat oil in a deep kadhai.",
+        "5. Wet your palms, take a small portion of the batter, shape it into a ball, flatten it, and poke a hole in the center to form a donut shape.",
+        "6. Carefully slide the vada into the hot oil.",
+        "7. Deep fry on medium heat, turning occasionally, until both sides are golden brown and crispy.",
+        "8. Serve hot with coconut chutney and sambar."
+    ],
+    "description": "Garelu is a staple breakfast and festive delicacy in Andhra Pradesh. Often prepared during Vinayaka Chavithi and other traditional functions, these vadas are culturally significant as a popular offering to deities and a beloved comfort food served in most households and tiffin centers across the state.",
+    "state": "Andhra Pradesh",
+    "veg_or_non_veg": "Veg"
+}

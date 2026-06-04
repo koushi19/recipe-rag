@@ -1,0 +1,33 @@
+{
+    "name": "Galouti Kebab",
+    "url": "https://indianfoodmap.example.com/galouti-kebab",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g finely minced mutton (lamb)",
+        "100g raw papaya paste (with skin, for tenderizing)",
+        "2 tbsp roasted gram flour (besan)",
+        "1 tsp ginger-garlic paste",
+        "1 tsp red chili powder",
+        "1/2 tsp shahi jeera",
+        "1 tsp garam masala (cloves, cardamom, cinnamon, mace, nutmeg)",
+        "1 tbsp brown onion paste",
+        "1 tbsp ghee",
+        "1 tsp rose water",
+        "Salt to taste",
+        "Fresh coriander and mint for garnish"
+    ],
+    "instructions": [
+        "1. Finely mince the mutton twice to achieve a smooth, paste-like consistency.",
+        "2. Mix the minced meat with raw papaya paste, ginger-garlic paste, and salt, allowing it to marinate for at least 2-4 hours.",
+        "3. Add roasted gram flour, brown onion paste, and the spice blend (garam masala, red chili, shahi jeera) to the meat mixture.",
+        "4. Incorporate rose water and knead the mixture well until it becomes soft and pliable.",
+        "5. Shape the mixture into small, flat, round patties.",
+        "6. Heat ghee on a wide, heavy-bottomed 'mahi tawa' or skillet.",
+        "7. Shallow fry the kebabs on medium-low heat until they develop a light brown crust and are cooked through, turning carefully."
+    ],
+    "description": "Originating from the royal kitchens of the Nawabs of Lucknow, 'Galouti' literally means 'melt-in-the-mouth'. Legend says it was created for the toothless Nawab Wajid Ali Shah, resulting in a dish that is exceptionally soft, rich in aromatics, and a hallmark of Awadhi cuisine.",
+    "state": "Uttar Pradesh",
+    "veg_or_non_veg": "Non-Veg"
+}

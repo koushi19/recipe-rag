@@ -1,0 +1,28 @@
+{
+    "name": "Chhena Poda",
+    "url": "https://indianfoodmap.example.com/chhena-poda",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Fresh homemade Chhena (cottage cheese)",
+        "Sugar or Jaggery",
+        "Semolina (Sooji)",
+        "Cardamom powder",
+        "Cashews",
+        "Raisins",
+        "Ghee",
+        "Pinch of salt"
+    ],
+    "instructions": [
+        "1. Knead fresh chhena with sugar, semolina, cardamom powder, and a pinch of salt until smooth.",
+        "2. Mix in chopped cashews and raisins.",
+        "3. Grease a baking tin or leaf-lined mold with ghee.",
+        "4. Transfer the mixture into the tin and spread it evenly.",
+        "5. Bake in a preheated oven or over a traditional wood-fired stove at a low temperature for about 45-60 minutes until the top turns deep brown and caramelized.",
+        "6. Allow it to cool completely before slicing to ensure it sets properly."
+    ],
+    "description": "Chhena Poda is often referred to as the 'cheesecake of Odisha'. It is considered the signature dessert of the state and holds significant cultural importance, traditionally offered to Lord Jagannath at the Puri temple. Its distinct flavor profile comes from the slow caramelization process.",
+    "state": "Odisha",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Ram Laddu",
+    "url": "https://indianfoodmap.example.com/ram-laddu",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup yellow moong dal",
+        "1/4 cup split Bengal gram (chana dal)",
+        "1 inch ginger piece",
+        "2 green chilies",
+        "1/2 teaspoon cumin seeds",
+        "1/4 teaspoon asafoetida (hing)",
+        "Salt to taste",
+        "Vegetable oil for deep frying",
+        "1 cup grated radish (mooli)",
+        "Green chutney (coriander and mint)",
+        "Tamarind chutney"
+    ],
+    "instructions": [
+        "1. Soak the moong dal and chana dal in water for 4-5 hours. 2. Drain the water and grind the lentils with ginger, chilies, and a little water into a coarse, fluffy batter. 3. Whisk the batter vigorously for a few minutes to incorporate air, making the laddus light. 4. Mix in cumin seeds, asafoetida, and salt. 5. Heat oil in a deep pan and drop small portions of the batter into the oil. 6. Fry until golden brown and crispy. 7. Serve hot, garnished with a generous amount of grated radish, green chutney, and tamarind chutney."
+    ],
+    "description": "Ram Laddu is one of Delhi's most iconic street food snacks, particularly popular in markets like Lajpat Nagar and Chandni Chowk. Despite the name 'laddu', these are actually savory lentil fritters known for their light, airy texture, perfectly balanced by the sharp, pungent crunch of fresh grated radish and spicy chutneys.",
+    "state": "Delhi",
+    "veg_or_non_veg": "Veg"
+}

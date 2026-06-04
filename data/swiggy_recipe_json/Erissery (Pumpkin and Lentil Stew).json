@@ -1,0 +1,33 @@
+{
+    "name": "Erissery (Pumpkin and Lentil Stew)",
+    "url": "https://indianfoodmap.example.com/erissery-(pumpkin-and-lentil-stew)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups yellow pumpkin (mathanga), cubed",
+        "1/2 cup cowpeas (vanpayar), soaked and boiled",
+        "1/2 cup grated coconut",
+        "1/2 tsp cumin seeds",
+        "2-3 green chilies",
+        "1/2 tsp turmeric powder",
+        "1/2 tsp chili powder",
+        "1/2 cup fresh grated coconut (for roasting)",
+        "1 tsp mustard seeds",
+        "2 sprigs curry leaves",
+        "2 dried red chilies",
+        "1 tbsp coconut oil",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Pressure cook the soaked cowpeas until soft and set aside.",
+        "2. In a pot, cook the pumpkin cubes with turmeric, chili powder, salt, and enough water until tender.",
+        "3. Grind the grated coconut, cumin seeds, and green chilies into a smooth paste. Add this paste to the cooked pumpkin and simmer for 3 minutes.",
+        "4. Add the cooked cowpeas to the mixture and stir well until combined.",
+        "5. In a small pan, heat coconut oil and splutter mustard seeds. Add dried red chilies, curry leaves, and the remaining grated coconut. Sauté until the coconut turns golden brown.",
+        "6. Pour this tempering over the Erissery, mix gently, and serve hot with steamed rice."
+    ],
+    "description": "Erissery is a quintessential Keralite dish, often served as a part of the traditional 'Sadya' feast. It represents the balanced use of vegetables and legumes, highlighting the state's love for coconut-based preparations.",
+    "state": "Kerala",
+    "veg_or_non_veg": "Veg"
+}

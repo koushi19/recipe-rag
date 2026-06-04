@@ -1,0 +1,30 @@
+{
+    "name": "Doh-Jamyrdoh",
+    "url": "https://indianfoodmap.example.com/doh-jamyrdoh",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g pork belly or shoulder, cut into cubes",
+        "1 cup fresh Jamyrdoh leaves (Houttuynia cordata), finely chopped",
+        "2 tablespoons perilla seeds (shynrai), toasted and ground",
+        "3-4 green chilies, slit",
+        "1 medium onion, finely chopped",
+        "1 teaspoon ginger paste",
+        "1 teaspoon garlic paste",
+        "Salt to taste",
+        "Water as needed"
+    ],
+    "instructions": [
+        "1. Heat a heavy-bottomed pot and add the pork pieces, cooking until they release their fat and turn light brown.",
+        "2. Add the chopped onions, ginger paste, and garlic paste; sauté until the onions turn translucent.",
+        "3. Add the green chilies and salt, stirring well to coat the meat.",
+        "4. Pour in enough water to cover the meat, bring to a boil, then cover and simmer until the pork is tender.",
+        "5. Stir in the ground perilla seeds (shynrai) to thicken the gravy and add a nutty aroma.",
+        "6. Finally, fold in the fresh chopped Jamyrdoh leaves and simmer for 2-3 minutes until wilted.",
+        "7. Serve hot with steamed red rice (Jhur)."
+    ],
+    "description": "Doh-Jamyrdoh is a quintessential dish of the Khasi community in Meghalaya. It highlights the local reliance on foraged greens like Jamyrdoh, which offers a distinct fishy, cilantro-like aroma that balances the richness of the pork and the earthiness of perilla seeds.",
+    "state": "Meghalaya",
+    "veg_or_non_veg": "Non-Veg"
+}

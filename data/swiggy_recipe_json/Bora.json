@@ -1,0 +1,28 @@
+{
+    "name": "Bora",
+    "url": "https://indianfoodmap.example.com/bora",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Gram flour (besan)",
+        "Finely chopped onions",
+        "Green chilies",
+        "Fresh coriander leaves",
+        "Turmeric powder",
+        "Salt",
+        "Mustard oil for frying",
+        "Water"
+    ],
+    "instructions": [
+        "1. In a mixing bowl, combine gram flour, chopped onions, green chilies, coriander leaves, turmeric powder, and salt.",
+        "2. Gradually add small amounts of water to create a thick, binding batter.",
+        "3. Heat mustard oil in a deep pan or kadhai until it reaches a smoking point.",
+        "4. Carefully drop spoonfuls of the batter into the hot oil.",
+        "5. Fry on medium heat until the fritters are golden brown and crispy on all sides.",
+        "6. Remove and drain on paper towels; serve hot with tea."
+    ],
+    "description": "Bora is a quintessential Manipuri snack, often enjoyed during the rainy season or as an evening accompaniment with tea. It represents the simple yet flavorful culinary traditions of the state, frequently prepared in households across Manipur.",
+    "state": "Manipur",
+    "veg_or_non_veg": "Veg"
+}

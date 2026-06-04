@@ -1,0 +1,35 @@
+{
+    "name": "Aamat",
+    "url": "https://indianfoodmap.example.com/aamat",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Mixed seasonal vegetables (such as yam, pumpkin, okra, beans, and cluster beans)",
+        "Bamboo shoots",
+        "Mustard oil",
+        "Ginger-garlic paste",
+        "Green chilies",
+        "Mustard seeds",
+        "Curry leaves",
+        "Dry red chilies",
+        "Turmeric powder",
+        "Coriander powder",
+        "Salt to taste",
+        "Water"
+    ],
+    "instructions": [
+        "1. Wash and cut all seasonal vegetables into uniform medium-sized pieces.",
+        "2. Heat mustard oil in a heavy-bottomed pan or traditional vessel.",
+        "3. Add mustard seeds, dry red chilies, and curry leaves to temper the oil.",
+        "4. Add ginger-garlic paste and green chilies, sautéing until fragrant.",
+        "5. Add the cut vegetables and bamboo shoots, stir-frying for a few minutes.",
+        "6. Add turmeric powder, coriander powder, and salt; mix well to coat the vegetables.",
+        "7. Pour in enough water to cover the vegetables and bring the mixture to a boil.",
+        "8. Cover and simmer on low heat until the vegetables are tender and the gravy thickens slightly.",
+        "9. Serve hot with steamed rice or millet porridge (pej)."
+    ],
+    "description": "Aamat is a quintessential tribal dish from the Bastar region of Chhattisgarh. Often referred to as the 'Sambar of Bastar', it is traditionally prepared by the tribes during festivals and community gatherings. Its defining characteristic is the use of bamboo shoots, which imparts an earthy, distinctive flavor, reflecting the deep forest connection of the local culinary culture.",
+    "state": "Chhattisgarh",
+    "veg_or_non_veg": "Veg"
+}

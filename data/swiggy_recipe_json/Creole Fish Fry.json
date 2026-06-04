@@ -1,0 +1,21 @@
+{
+    "name": "Creole Fish Fry",
+    "url": "https://indianfoodmap.example.com/creole-fish-fry",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Fish steaks",
+        "Fennel seeds",
+        "Cumin seeds",
+        "Dry red chilies",
+        "Vinegar",
+        "Garlic"
+    ],
+    "instructions": [
+        "1. Grind spices with vinegar into a paste. 2. Marinate fish for 1 hour. 3. Shallow fry in hot oil until crispy on both sides."
+    ],
+    "description": "A crispy, golden exterior revealing the succulent secrets of the Bay of Bengal.",
+    "state": "Puducherry",
+    "veg_or_non_veg": "Non-Veg"
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Meghalayan Masala Tea",
+    "url": "https://indianfoodmap.example.com/meghalayan-masala-tea",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups water",
+        "2 teaspoons high-quality black tea leaves (Assam variety)",
+        "1 inch fresh ginger, crushed",
+        "2 green cardamom pods, bruised",
+        "1 stick cinnamon",
+        "2 cloves",
+        "1/2 teaspoon black peppercorns, crushed",
+        "1/2 cup fresh milk",
+        "Jaggery or honey to taste"
+    ],
+    "instructions": [
+        "1. Bring the water to a boil in a saucepan over medium heat.",
+        "2. Add the crushed ginger, cardamom, cinnamon, cloves, and peppercorns to the boiling water.",
+        "3. Let the spices simmer for 3-4 minutes to extract their oils and flavors.",
+        "4. Add the black tea leaves and continue to boil for another minute.",
+        "5. Pour in the milk and bring the mixture to a gentle boil until it reaches a desired color.",
+        "6. Stir in jaggery or honey according to your preference.",
+        "7. Strain the tea into cups and serve hot."
+    ],
+    "description": "Meghalayan Masala Tea is a comforting beverage reflecting the cool, misty climate of the Khasi and Jaintia Hills. It emphasizes the use of fresh, locally grown spices, providing a soothing balance against the region's frequent rainfall and chilly mountain air.",
+    "state": "Meghalaya",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Pathiri with Chicken Curry",
+    "url": "https://indianfoodmap.example.com/pathiri-with-chicken-curry",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Rice flour (Pathiri podi)",
+        "Boiling water",
+        "Salt",
+        "Chicken pieces",
+        "Coconut oil",
+        "Curry leaves",
+        "Mustard seeds",
+        "Fennel seeds",
+        "Onions",
+        "Ginger-garlic paste",
+        "Green chilies",
+        "Turmeric powder",
+        "Kashmiri chili powder",
+        "Coriander powder",
+        "Garam masala",
+        "Coconut milk"
+    ],
+    "instructions": [
+        "1. Prepare the dough by adding boiling water and salt to the rice flour, kneading until soft, then rolling into thin, round discs and cooking on a flat pan without oil.",
+        "2. For the curry, heat coconut oil, temper mustard and fennel seeds, then sauté onions, ginger-garlic paste, and green chilies.",
+        "3. Add turmeric, chili, and coriander powders, then add the chicken pieces and cook until browned.",
+        "4. Pour in coconut milk and a little water, simmer until the chicken is tender and the gravy thickens.",
+        "5. Finish with a sprinkle of garam masala and fresh curry leaves before serving hot with the prepared pathiri."
+    ],
+    "description": "Pathiri is a signature dish of the Mappila (Malabar Muslim) community in Northern Kerala. It is culturally significant, often prepared during Ramadan, weddings, and festivals, symbolizing the deep-rooted culinary heritage of the Malabar coast.",
+    "state": "Kerala",
+    "veg_or_non_veg": "Non-Veg"
+}

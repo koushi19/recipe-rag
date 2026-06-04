@@ -1,0 +1,33 @@
+{
+    "name": "Bisi Bele Bath",
+    "url": "https://indianfoodmap.example.com/bisi-bele-bath",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup raw rice",
+        "1/2 cup toor dal",
+        "1/2 cup mixed vegetables (carrots, beans, peas, potatoes)",
+        "1/4 cup tamarind extract",
+        "2 tbsp Bisi Bele Bath powder (roasted coriander, chana dal, urad dal, dried red chilies, cinnamon, cloves, poppy seeds, grated coconut)",
+        "1/4 cup ghee",
+        "1/2 tsp turmeric powder",
+        "1 tsp mustard seeds",
+        "1 tsp cumin seeds",
+        "A pinch of asafoetida (hing)",
+        "10-12 curry leaves",
+        "2 tbsp roasted peanuts or cashews",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Wash and pressure cook rice, dal, and vegetables together with 4 cups of water and turmeric until soft.",
+        "2. Mash the cooked mixture lightly.",
+        "3. In a pan, mix the tamarind extract, cooked rice-dal mixture, salt, and Bisi Bele Bath powder; boil for 5-7 minutes.",
+        "4. Adjust consistency by adding warm water if it becomes too thick.",
+        "5. Prepare a tempering by heating ghee in a small pan, adding mustard seeds, cumin, curry leaves, hing, and cashews.",
+        "6. Pour the tempering over the rice mixture, mix well, and serve hot with a dollop of ghee and boondi or papad."
+    ],
+    "description": "Bisi Bele Bath translates to 'hot lentil rice' in Kannada. It is a quintessential comfort food from Karnataka, known for its complex blend of spices and textures. It is traditionally served during special occasions, festivals, and as a staple breakfast or lunch in households across the state.",
+    "state": "Karnataka",
+    "veg_or_non_veg": "Veg"
+}

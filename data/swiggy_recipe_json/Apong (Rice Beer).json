@@ -1,0 +1,24 @@
+{
+    "name": "Apong (Rice Beer)",
+    "url": "https://indianfoodmap.example.com/apong-(rice-beer)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Sticky rice or local red rice",
+        "Starter culture (Opo/Epe - a mix of local wild herbs and rice flour)",
+        "Water",
+        "Banana leaves (for fermentation and wrapping)"
+    ],
+    "instructions": [
+        "1. Steam the rice until it is cooked but slightly firm.",
+        "2. Spread the rice on a mat to cool completely.",
+        "3. Grind the traditional 'Opo' starter cake into a fine powder and mix it thoroughly with the cooled rice.",
+        "4. Transfer the mixture into a clean bamboo vessel or earthen pot lined with banana leaves.",
+        "5. Seal the container tightly to prevent air entry and store it in a cool, dark place for 3 to 7 days depending on the desired strength and sweetness.",
+        "6. Once fermentation is complete, dilute the concentrate with water, strain the liquid, and serve it fresh."
+    ],
+    "description": "Apong is an integral part of the socio-cultural fabric of tribes in Arunachal Pradesh, such as the Adi, Nyishi, and Apatani. It is considered a sacred drink served during festivals, marriages, and community gatherings, symbolizing hospitality and friendship.",
+    "state": "Arunachal Pradesh",
+    "veg_or_non_veg": "Veg"
+}

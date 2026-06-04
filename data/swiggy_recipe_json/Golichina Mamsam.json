@@ -1,0 +1,34 @@
+{
+    "name": "Golichina Mamsam",
+    "url": "https://indianfoodmap.example.com/golichina-mamsam",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "500g Mutton (goat meat with bone)",
+        "2 large onions (finely chopped)",
+        "2 tbsp Ginger-Garlic paste",
+        "1/2 tsp Turmeric powder",
+        "2 tbsp Red chili powder",
+        "1 tsp Coriander powder",
+        "1/2 tsp Garam masala",
+        "4 tbsp Oil",
+        "1 sprig Curry leaves",
+        "2 Green chilies (slit)",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. Marinate the mutton with turmeric, salt, and ginger-garlic paste for at least 30 minutes.",
+        "2. Pressure cook the mutton with a little water for 4-5 whistles until tender.",
+        "3. Heat oil in a wide pan (kadhai), add curry leaves and green chilies.",
+        "4. Add onions and sauté until they turn golden brown.",
+        "5. Add the cooked mutton to the pan and fry on medium-high heat.",
+        "6. Add red chili powder, coriander powder, and garam masala.",
+        "7. Keep roasting the meat, stirring continuously until the masala coats the meat and turns dark brown.",
+        "8. Garnish with fresh coriander and serve hot."
+    ],
+    "description": "Golichina Mamsam is a hallmark of Telangana's rustic and robust culinary tradition. Known for its intense spice profile and dry texture, it is a celebratory dish often prepared in households, reflecting the region's preference for bold, fiery, and deeply flavorful meat preparations.",
+    "state": "Telangana",
+    "veg_or_non_veg": "Non-Veg"
+}

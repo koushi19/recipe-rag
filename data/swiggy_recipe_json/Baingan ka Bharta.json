@@ -1,0 +1,35 @@
+{
+    "name": "Baingan ka Bharta",
+    "url": "https://indianfoodmap.example.com/baingan-ka-bharta",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 large purple eggplant (baingan)",
+        "2 tablespoons mustard oil",
+        "1 teaspoon cumin seeds",
+        "2 medium onions, finely chopped",
+        "3 cloves garlic, minced",
+        "1-inch ginger, finely grated",
+        "2 green chilies, slit",
+        "2 medium tomatoes, chopped",
+        "1/2 teaspoon turmeric powder",
+        "1 teaspoon red chili powder",
+        "1 teaspoon coriander powder",
+        "1/2 teaspoon garam masala",
+        "Fresh coriander leaves for garnish",
+        "Salt to taste"
+    ],
+    "instructions": [
+        "1. Roast the eggplant directly over an open flame until the skin is charred and the inside is soft. Remove skin and mash the pulp.",
+        "2. Heat mustard oil in a heavy-bottomed pan until it smokes slightly.",
+        "3. Add cumin seeds, followed by ginger, garlic, and green chilies. Sauté until golden.",
+        "4. Add chopped onions and cook until translucent.",
+        "5. Add tomatoes and dry spices (turmeric, red chili, coriander, salt), cooking until the oil separates.",
+        "6. Mix in the mashed eggplant and cook for 5-7 minutes to allow flavors to meld.",
+        "7. Finish with garam masala and a generous garnish of fresh coriander."
+    ],
+    "description": "Baingan ka Bharta is a rustic, soul-satisfying dish deeply ingrained in the culinary culture of Madhya Pradesh. The use of mustard oil and direct-flame roasting gives it a distinct earthy, smoky profile, making it a staple accompaniment to bajra or jowar rotis in rural and urban households alike.",
+    "state": "Madhya Pradesh",
+    "veg_or_non_veg": "Veg"
+}

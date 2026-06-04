@@ -1,0 +1,26 @@
+{
+    "name": "Koat Pitha",
+    "url": "https://indianfoodmap.example.com/koat-pitha",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Rice flour",
+        "Jaggery",
+        "Ripe bananas",
+        "Refined oil or mustard oil for deep frying",
+        "A pinch of salt"
+    ],
+    "instructions": [
+        "1. Mash the ripe bananas thoroughly in a large mixing bowl.",
+        "2. Add the jaggery to the mashed bananas and mix until completely dissolved.",
+        "3. Gradually add rice flour and a pinch of salt to the mixture, kneading it into a firm but smooth dough.",
+        "4. Take small portions of the dough and shape them into round or slightly flattened discs.",
+        "5. Heat oil in a deep pan or kadai over medium heat.",
+        "6. Carefully drop the shaped discs into the hot oil and deep-fry them until they turn a deep golden brown and become crispy on the outside.",
+        "7. Remove and drain excess oil on paper towels before serving."
+    ],
+    "description": "Koat Pitha is a popular traditional sweet snack from Arunachal Pradesh, frequently enjoyed during festivals and community gatherings. It represents the simple, earthy flavors of the region, utilizing locally available ingredients like rice, bananas, and jaggery.",
+    "state": "Arunachal Pradesh",
+    "veg_or_non_veg": "Veg"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Pika Pila",
+    "url": "https://indianfoodmap.example.com/pika-pila",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Bamboo shoot (fermented)",
+        "Pork fat or meat",
+        "Raja Mirchi (King Chilli)",
+        "Salt to taste",
+        "Water"
+    ],
+    "instructions": [
+        "1. Finely slice the fermented bamboo shoots into thin strips.",
+        "2. Cut the pork into small, bite-sized pieces or use fatty trimmings.",
+        "3. Heat a pan and add the pork, allowing the fat to render out.",
+        "4. Add the fermented bamboo shoots to the pan and sauté until they soften and integrate with the fat.",
+        "5. Finely chop the Raja Mirchi (King Chilli) and add it to the mixture, ensuring it is well incorporated to release the heat.",
+        "6. Add a small amount of water if necessary to adjust the consistency, season with salt, and cook until the flavors are thoroughly combined."
+    ],
+    "description": "Pika Pila is a signature pickle-like side dish from the Apatani tribe of Arunachal Pradesh. It is highly valued for its intense heat from the local Raja Mirchi and the unique tangy, umami flavor profile provided by fermented bamboo shoots, often served as an accompaniment to rice meals.",
+    "state": "Arunachal Pradesh",
+    "veg_or_non_veg": "Non-Veg"
+}

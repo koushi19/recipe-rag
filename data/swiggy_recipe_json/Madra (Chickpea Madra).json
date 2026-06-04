@@ -1,0 +1,33 @@
+{
+    "name": "Madra (Chickpea Madra)",
+    "url": "https://indianfoodmap.example.com/madra-(chickpea-madra)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups boiled chickpeas (kabuli chana)",
+        "1 cup thick yogurt (whisked)",
+        "2 tablespoons ghee",
+        "1 teaspoon cumin seeds",
+        "2 bay leaves",
+        "2-3 green cardamoms",
+        "1 inch cinnamon stick",
+        "2-3 cloves",
+        "1/2 teaspoon turmeric powder",
+        "1 teaspoon coriander powder",
+        "1/2 teaspoon ginger paste",
+        "Salt to taste",
+        "A pinch of asafoetida (hing)"
+    ],
+    "instructions": [
+        "1. Heat ghee in a heavy-bottomed pan and add cumin seeds, bay leaves, cardamom, cinnamon, cloves, and asafoetida.",
+        "2. Add the ginger paste and sauté until raw aroma disappears.",
+        "3. Add the boiled chickpeas, turmeric, and coriander powder, sautéing for a few minutes.",
+        "4. Lower the heat and gradually add the whisked yogurt, stirring continuously to prevent curdling.",
+        "5. Simmer the mixture on low heat for 15-20 minutes until the gravy thickens and the oil/ghee separates from the sides.",
+        "6. Add salt, adjust consistency if needed, and serve hot with steamed rice or siddu."
+    ],
+    "description": "Madra is a signature dish of Himachali cuisine, specifically originating from the Chamba district. It is a quintessential part of 'Dham' (a traditional community feast) and holds significant cultural value as a comfort food served during weddings, festivals, and religious gatherings.",
+    "state": "Himachal Pradesh",
+    "veg_or_non_veg": "Veg"
+}

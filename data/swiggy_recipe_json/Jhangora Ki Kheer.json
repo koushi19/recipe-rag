@@ -1,0 +1,30 @@
+{
+    "name": "Jhangora Ki Kheer",
+    "url": "https://indianfoodmap.example.com/jhangora-ki-kheer",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1/2 cup Jhangora (Barnyard millet)",
+        "1 liter full-fat milk",
+        "1/2 cup sugar (or jaggery for a traditional twist)",
+        "1/2 tsp green cardamom powder",
+        "10-12 almonds, slivered",
+        "10-12 cashews, chopped",
+        "1 tbsp raisins",
+        "1 tbsp ghee",
+        "A pinch of saffron strands (optional)"
+    ],
+    "instructions": [
+        "1. Rinse the Jhangora thoroughly under running water and drain well.",
+        "2. Heat ghee in a heavy-bottomed pan and lightly toast the Jhangora for 1-2 minutes until aromatic.",
+        "3. Add milk to the pan and bring to a boil, then reduce the heat to low.",
+        "4. Simmer the mixture, stirring occasionally, until the Jhangora is tender and the milk has thickened to a creamy consistency.",
+        "5. Add sugar, cardamom powder, and saffron, stirring until the sugar dissolves completely.",
+        "6. Mix in the nuts and raisins, cook for another 2 minutes, then remove from heat.",
+        "7. Serve warm or chilled according to preference."
+    ],
+    "description": "Jhangora Ki Kheer is a cherished dessert from the Garhwal and Kumaon regions of Uttarakhand. Jhangora (Barnyard millet) is a locally grown, gluten-free grain rich in fiber and minerals. This dish is often prepared during festivals, religious ceremonies, and community feasts, reflecting the hill state's reliance on hardy, traditional crops and simple, wholesome cooking.",
+    "state": "Uttarakhand",
+    "veg_or_non_veg": "Veg"
+}

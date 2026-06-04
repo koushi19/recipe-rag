@@ -1,0 +1,24 @@
+{
+    "name": "Po Cha (Butter Tea)",
+    "url": "https://indianfoodmap.example.com/po-cha-(butter-tea)",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Strong black tea leaves or brick tea",
+        "Water",
+        "Yak butter or unsalted churned butter",
+        "Rock salt or common salt",
+        "Optional: Milk or cream"
+    ],
+    "instructions": [
+        "1. Boil a handful of tea leaves in water to create a strong, dark concentrate.",
+        "2. Strain the tea liquid into a traditional cylindrical churn (chandong) or a blender.",
+        "3. Add a generous knob of yak butter and a pinch of salt to the hot tea.",
+        "4. Churn or blend the mixture vigorously until the butter is completely emulsified and the tea becomes thick and frothy.",
+        "5. Pour into cups and serve hot, often enjoyed with tsampa (roasted barley flour)."
+    ],
+    "description": "Po Cha is a staple beverage in the high-altitude regions of Arunachal Pradesh, particularly among the Monpa and Sherdukpen communities. It is deeply ingrained in the culture, serving as a source of warmth and energy in cold climates, and is traditionally offered to guests as a sign of hospitality.",
+    "state": "Arunachal Pradesh",
+    "veg_or_non_veg": "Veg"
+}

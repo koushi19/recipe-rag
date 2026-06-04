@@ -1,0 +1,33 @@
+{
+    "name": "Rista",
+    "url": "https://indianfoodmap.example.com/rista",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Minced lamb meat (must be pounded with a wooden mallet)",
+        "Lamb fat (for texture)",
+        "Kashmiri red chili powder",
+        "Fennel seed powder (Saunf)",
+        "Dry ginger powder (Sonth)",
+        "Asafoetida (Hing)",
+        "Green cardamom",
+        "Black cardamom",
+        "Cloves",
+        "Cinnamon sticks",
+        "Mustard oil",
+        "Salt to taste",
+        "Saffron (optional)"
+    ],
+    "instructions": [
+        "1. Pound the lamb meat and fat using a heavy wooden mallet until it turns into a fine, smooth paste.",
+        "2. Shape the meat paste into firm, round, smooth balls.",
+        "3. Heat mustard oil in a heavy-bottomed pan and lightly sear the meatballs, then set them aside.",
+        "4. In the same oil, add asafoetida and the whole spices, then pour in a mixture of Kashmiri chili powder dissolved in water to create a bright red base.",
+        "5. Add fennel powder, dry ginger powder, and salt, then bring the gravy to a boil.",
+        "6. Gently slide the meatballs into the gravy and simmer on low heat until the meat is cooked through and the oil separates on the surface."
+    ],
+    "description": "Rista is a classic dish from the traditional Kashmiri Wazwan feast. It is highly prized for the labor-intensive technique of hand-pounding the meat, which gives the meatballs a unique, springy texture that is considered a hallmark of culinary excellence in the region.",
+    "state": "Jammu and Kashmir",
+    "veg_or_non_veg": "Non-Veg"
+}

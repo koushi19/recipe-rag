@@ -1,0 +1,32 @@
+{
+    "name": "Khatta Meetha Bhaat",
+    "url": "https://indianfoodmap.example.com/khatta-meetha-bhaat",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "1 cup Basmati rice",
+        "1/2 cup jaggery",
+        "1/4 cup tamarind pulp",
+        "1 tablespoon ghee",
+        "1/2 teaspoon mustard seeds",
+        "1/2 teaspoon cumin seeds",
+        "2-3 dry red chilies",
+        "A pinch of asafoetida (hing)",
+        "6-8 curry leaves",
+        "1/4 teaspoon turmeric powder",
+        "Salt to taste",
+        "Water as required"
+    ],
+    "instructions": [
+        "1. Rinse and soak the rice for 20 minutes, then cook until fluffy and set aside.",
+        "2. In a pan, heat ghee and add mustard seeds, cumin seeds, dry red chilies, curry leaves, and asafoetida.",
+        "3. Add the tamarind pulp, jaggery, turmeric, and a pinch of salt to the pan.",
+        "4. Cook the mixture until the jaggery dissolves and the sauce thickens slightly into a syrup consistency.",
+        "5. Gently fold in the cooked rice, ensuring every grain is coated with the sweet and sour glaze.",
+        "6. Cover and let it simmer on low heat for 2 minutes to allow the flavors to infuse before serving."
+    ],
+    "description": "Khatta Meetha Bhaat is a traditional sweet and sour rice delicacy popular in the union territory. Reflecting the local preference for balancing opposing flavor profiles, this dish is often prepared during festivals and special community gatherings, showcasing the region's unique culinary blend of Gujarati and Maharashtrian influences.",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "veg_or_non_veg": "Veg"
+}

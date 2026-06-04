@@ -1,0 +1,30 @@
+{
+    "name": "Kusli",
+    "url": "https://indianfoodmap.example.com/kusli",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "2 cups All-purpose flour (Maida)",
+        "2 tbsp Ghee",
+        "1 cup Khoya (Mawa)",
+        "1/2 cup Powdered sugar",
+        "1/4 cup Finely chopped dry fruits (cashews, almonds, pistachios)",
+        "1 tbsp Raisins",
+        "1/2 tsp Green cardamom powder",
+        "Water for kneading",
+        "Oil or Ghee for deep frying"
+    ],
+    "instructions": [
+        "1. Prepare a firm dough using flour, ghee, and water; let it rest for 30 minutes.",
+        "2. Roast the khoya in a pan until lightly golden and let it cool completely.",
+        "3. Mix the cooled khoya with powdered sugar, chopped dry fruits, raisins, and cardamom powder.",
+        "4. Roll out small portions of the dough into thin circles.",
+        "5. Place a spoonful of the filling in the center, fold the edges to form a semi-circle, and seal the sides using a bit of water or a crimper.",
+        "6. Heat oil or ghee in a deep pan and fry the kusli on medium-low heat until crisp and light brown.",
+        "7. Drain on absorbent paper and serve once cooled."
+    ],
+    "description": "Kusli, often synonymous with Gujiya in other parts of India, holds a special place in the festivals of Madhya Pradesh, particularly during Diwali and Holi. It represents the rich culinary heritage of the region, blending sweet traditions with the festive spirit of the local communities.",
+    "state": "Madhya Pradesh",
+    "veg_or_non_veg": "Veg"
+}

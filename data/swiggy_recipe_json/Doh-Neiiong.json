@@ -1,0 +1,29 @@
+{
+    "name": "Doh-Neiiong",
+    "url": "https://indianfoodmap.example.com/doh-neiiong",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Pork (cut into cubes)",
+        "Black sesame seeds (neiiong)",
+        "Ginger paste",
+        "Garlic paste",
+        "Onions (finely chopped)",
+        "Green chilies",
+        "Turmeric powder",
+        "Water",
+        "Salt to taste",
+        "Refined oil or mustard oil"
+    ],
+    "instructions": [
+        "1. Dry roast the black sesame seeds in a pan until fragrant, then grind them into a fine powder or paste with a little water.",
+        "2. Heat oil in a heavy-bottomed pot and sauté the chopped onions, ginger paste, and garlic paste until golden brown.",
+        "3. Add the pork cubes, turmeric powder, and salt, and sear the meat until it turns light brown.",
+        "4. Stir in the ground black sesame mixture and green chilies, coating the meat thoroughly.",
+        "5. Pour in enough water to cover the meat, bring to a boil, then cover and simmer on low heat until the pork is tender and the gravy thickens to a rich, dark consistency."
+    ],
+    "description": "Doh-Neiiong is a quintessential dish of the Khasi community in Meghalaya. It highlights the indigenous use of black sesame seeds, which provides a distinct earthy flavor and dark texture. It is a staple served during festivals and traditional family gatherings.",
+    "state": "Meghalaya",
+    "veg_or_non_veg": "Non-Veg"
+}

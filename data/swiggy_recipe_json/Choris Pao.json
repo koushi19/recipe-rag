@@ -1,0 +1,28 @@
+{
+    "name": "Choris Pao",
+    "url": "https://indianfoodmap.example.com/choris-pao",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Goan pork chorizo sausages",
+        "Pao (Goan-style bread rolls)",
+        "Finely chopped onions",
+        "Finely chopped tomatoes",
+        "Ginger-garlic paste",
+        "Green chilies",
+        "Vegetable oil or lard",
+        "Fresh coriander leaves for garnish"
+    ],
+    "instructions": [
+        "1. Remove the casing from the chorizo sausages and crumble the meat.",
+        "2. Heat oil in a pan and sauté the onions until translucent, then add ginger-garlic paste and green chilies.",
+        "3. Add the chopped tomatoes and cook until soft.",
+        "4. Add the crumbled chorizo meat to the pan and fry on medium heat until the fat renders and the meat is cooked through.",
+        "5. Slice the pao open and lightly toast them on a pan with a little butter or oil.",
+        "6. Stuff the generous amount of cooked chorizo mixture into the pao and garnish with fresh coriander."
+    ],
+    "description": "Choris Pao is a popular snack in the coastal regions of Daman and Diu, heavily influenced by Portuguese culinary traditions. It reflects the region's unique heritage, blending spicy, vinegary pork sausages with the locally baked soft bread rolls known as Pao, making it a beloved comfort food.",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "veg_or_non_veg": "Non-Veg"
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Shukto",
+    "url": "https://indianfoodmap.example.com/shukto",
+    "serving_size": "2",
+    "prep_time": "30 mins",
+    "kcal": "N/A",
+    "ingredients": [
+        "Bitter gourd (ucche)",
+        "Raw banana",
+        "Drumsticks",
+        "Eggplant",
+        "Sweet potato",
+        "Radish",
+        "Broad beans",
+        "Bori (sun-dried lentil dumplings)",
+        "Ginger paste",
+        "Mustard paste",
+        "Radhuni (wild celery seeds)",
+        "Panch phoron (Bengali five-spice blend)",
+        "Milk",
+        "Ghee",
+        "Mustard oil",
+        "Salt",
+        "Sugar"
+    ],
+    "instructions": [
+        "1. Fry the bori until golden and set aside; then lightly fry all the vegetables separately and set aside.",
+        "2. In the same mustard oil, temper with panch phoron and radhuni.",
+        "3. Add ginger paste and sauté briefly, then add the fried vegetables and stir.",
+        "4. Add water to cover the vegetables, season with salt and a touch of sugar, and simmer until tender.",
+        "5. Stir in the mustard paste mixed with a little water and milk to thicken the gravy.",
+        "6. Add the fried bori back in, finish with a dollop of ghee, and remove from heat."
+    ],
+    "description": "Shukto is a sophisticated, traditional Bengali vegetable dish known for its complex flavor profile. It acts as a palate cleanser, traditionally eaten at the start of a multi-course lunch to stimulate the appetite and provide health benefits through its unique combination of bitter vegetables and digestive spices.",
+    "state": "West Bengal",
+    "veg_or_non_veg": "Veg"
+}
