@@ -21,6 +21,9 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir --upgrade pip && \
     pip install --no-cache-dir -r requirements.txt
 
+# Pre-download the CLIP model weights to cache them in the Docker image
+RUN python -c "from langchain_experimental.open_clip import OpenCLIPEmbeddings; OpenCLIPEmbeddings(model_name='ViT-B-32', checkpoint='openai')"
+
 # Copy the entire project code
 COPY . .
 
